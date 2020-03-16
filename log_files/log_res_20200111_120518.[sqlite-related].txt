@@ -1,0 +1,103 @@
+2020年1月11日10:16:19
+	
+	download ==> sqlite db file
+		remote : /cake_apps/Cake_IFM11/app/Lib/data
+		to : desktop
+		
+	rename ==> current db file in : Cake_IFM11/app/Lib/data
+	move file (downloaded one)
+		from : desktop
+		to		: data dir
+	TEST : open with sqlite brow.
+		==> can't open (password required) ::]10:22:40
+	
+	TRY : move db file back to ==> desktop
+		open ==> can open ::]10:23:51
+	
+	TRY : copy db file to cake dir, try opening
+		==> can't ::]10:25:40
+	
+	TRY : seach doc online
+	
+	TRY : search --> prev version ::[10:30:10
+		latest : https://sqlitebrowser.org/dl/ DB Browser for SQLite - .zip (no installer) for 64-bit Windows
+	
+	TRY : orig db file ==> copy to desktop; open ?
+		==> CAN open ::]12:03:47
+	
+	TRY : open db file in data dir : ifm11_backup_20160110_080900.(deprecated~20200111_102108).bk
+		==> CAN open ::]12:08:12
+	
+	TRY : dup --> ifm11_backup_20160110_080900.(deprecated~20200111_102108).bk
+		open with browser
+		
+		==> CANNOT open ::]12:09:26
+	
+	TRY : open ==> "deprecated"
+		==> CAN open
+	TRY : where is "sqlite" executable ? ::[12:11:30
+		==> ???
+	
+	TRY : install --> new browser exec ::[12:15:13
+		==> OK; CANNOT open
+	
+	TRY : DUP db file, add a string to the file name; ==> can open ? ::[12:20:06
+		==> CAN open
+	
+	TRY : git check out --> prev db file, say, 1 month before
+		--> 510fe6cf3138b82b5793babc563253d69cc47cf8
+		--> open
+		==> OPENED!!!
+	
+	TRY : use the sqlite browser, not the newly-intalled one
+		==> OPENED!!! ::]12:27:19
+	
+12:50:30
+	TRY
+		g a . && g c -a
+		"(Cake_IFM11) fixting db file..."
+		
+		g co 510fe6cf3138b82b5793babc563253d69cc47cf8
+		open db file with browser ==> OPEN
+		
+		copy : ifm11_backup_20160110_080900.bk ==> to desktop
+		open ? ==> OPEN
+		
+		g a . && g c -a
+		"(Cake_IFM11) fixting db file..."
+		
+		g co master
+		copy : ifm11_backup_20160110_080900.bk ==> from desktop to data
+		open ? ==> CANNOT open ::]12:56:55
+	
+	TRY : NOT copy from desktop to "data"; first delete the "bk" file from "data" dir
+		g a . && g c -a
+		"(Cake_IFM11) fixting db file..."
+		
+		g co 510fe6cf3138b82b5793babc563253d69cc47cf8
+			==> "* (HEAD detached at 510fe6c)"
+		open db file with browser ==> OPEN
+		
+		copy : ifm11_backup_20160110_080900.bk ==> to desktop
+		open ? ==> OPEN
+		
+		g a . && g c -a
+		"(Cake_IFM11) fixting db file..."
+		
+		#g co master
+		#delete the "bk" file from "data" dir
+		copy : ifm11_backup_20160110_080900.bk ==> from desktop to data
+		open ? ==> CANNOT
+	
+	TRY : when checked out, copy the entire folder to desktop
+		
+		#copy the entire folder to desktop
+		#g a . && g c -a
+		#"(Cake_IFM11) fixting db file..."
+		g co master
+		
+		delete "data" dir
+		copy "data" from desktop
+		open ? ==> OPEN!!! ::]13:07:47
+		
+		

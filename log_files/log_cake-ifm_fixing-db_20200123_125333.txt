@@ -1,0 +1,14 @@
+2020年1月23日12:49:44
+
+	TRY : open db file with --> browser
+		==> can open
+	
+	TRY : php.ini ==> use original
+		change --> file name
+		restart : apache
+		browse page
+		
+		==> WORKING
+
+	::]12:53:51
+

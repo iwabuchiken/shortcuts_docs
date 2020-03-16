@@ -1,0 +1,21 @@
+2020年1月14日8:51:05
+	
+	0. prep : open
+		1. dir-1
+		2. dir-2
+		3. browser http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=gt+video&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+	
+	1. dir-1 (source dir)
+		choose file > F2 > C - c
+		S - Tab x X (to browser)
+	2. browser
+		C - p > Ret
+		see : id code
+		S - Tab x X (to dir-2)
+	3. dir-2 (dest dir)
+		S - Tab x X (to dir-1)
+		Drag & Drop
+			from : dir-1
+			to : dir-2
+	4. back to 1.
+		

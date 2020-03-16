@@ -1,0 +1,408 @@
+2020年2月28日10:13:11	bk
+
+	金属錯体
+	https://ja.wikipedia.org/wiki/錯体
+		配位結合
+		水素結合
+
+	光還元
+	https://dictionary.goo.ne.jp/word/光還元/
+	
+	還元
+	https://ja.wikipedia.org/wiki/還元	d-1
+	
+	酸化
+	https://ja.wikipedia.org/wiki/酸化	d-2
+		
+		https://ja.wikipedia.org/wiki/アルデヒド#合成法
+		
+			https://ja.wikipedia.org/wiki/アルコール
+
+	next
+	book ==> continue
+	
+	]11:06:25
+
+2020年2月28日16:45:30
+
+	NHE
+	https://duckduckgo.com/?q=co2+NHE&ia=web
+	
+	還元 励起
+	https://ja.wikipedia.org/wiki/光化学的二酸化炭素還元
+		https://en.wikipedia.org/wiki/Photoelectrochemical_reduction_of_CO2
+		
+	
+	https://ja.wikipedia.org/wiki/光電子
+	
+	光触媒
+	https://ja.wikipedia.org/wiki/光触媒#性質	:d-1
+
+2020年3月1日12:56:39
+
+	ビピリジン
+	
+	ルテニウム錯体
+	https://photosyn.jp/pwiki/index.php?ルテニウム錯体
+	
+	]14:26:45
+
+2020年3月2日11:02:53
+	
+	ジメチルホルムアミド
+	https://zh.wikipedia.org/wiki/二甲基甲醯胺
+		高沸點
+		極性(親水性)
+		非質子性溶劑
+		能促進SN2反應機構的進行
+		製造
+			甲酸
+			二甲基胺
+
+	next : continue, book
+	
+	]11:17:40
+
+2020年3月2日12:38:58
+
+	ギ酸
+	https://ko.wikipedia.org/wiki/폼산
+	
+	トリエタノールアミン
+	
+	レニウム	[13:25:11
+	
+2020年3月3日10:54:20
+
+	OER
+	https://duckduckgo.com/?q=OER+rhenium&ia=web
+	https://www.sciencedirect.com/science/article/abs/pii/S0010854509002501 
+	https://en.wikipedia.org/wiki/Supermolecule
+	https://zh.wikipedia.org/wiki/超分子	:d-1
+		https://zh.wikipedia.org/wiki/乙酸	:d-2
+		https://zh.wikipedia.org/wiki/二聚體	:d-3
+	
+	next
+	continue, book
+	]11:38:39
+
+2020年3月4日9:25:43
+
+	OEt
+	https://duckduckgo.com/?q=化合物+OEt&ia=web
+		https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14131911964
+		https://www.nedo.go.jp/content/100094503.pdf	:d-1
+		http://www.ach.nitech.ac.jp/~organic/nakamura/yuuki/OS23-1.pdf
+	
+	エチルエステル
+	https://netdekagaku.com/methyl-ethyl-ester-cooh-protection/
+	
+
+
+2020年3月4日12:40:40
+	
+	ルテニウムトリスジイミン錯体
+		イミン
+			https://zh.wikipedia.org/wiki/亚胺
+		ジイミン
+			https://en.wikipedia.org/wiki/Diimine	:d-1
+		トリスジイミン
+		https://www.sciencedirect.com/science/article/abs/pii/S0277538718307824
+		https://pubs.acs.org/doi/10.1021/ic048779r "Ruthenium−Rhenium Bi- and Tetranuclear Complexes"
+		
+
+	]14:00:18
+
+2020年3月5日10:31:12
+
+	LUMO
+	https://www.bas.co.jp/xdata/mnews/seminar_watanabe1.pdf
+	
+	BNAH
+	https://www.sciencedirect.com/science/article/pii/S004040390001217X
+	https://pubchem.ncbi.nlm.nih.gov/compound/1-Benzyl-1_4-dihydronicotinamide <== this	:d-1
+	https://de.wikipedia.org/wiki/Benzylgruppe	:d-2
+
+
+	next : cont.
+	
+	]11:22:14
+
+2020年3月5日15:12:08
+
+	紅色光合成細菌
+	https://zh.wikipedia.org/wiki/紫細菌
+	https://photosyn.jp/journal/sections/kaiho49-2.pdf
+	
+	search 光捕集系複合体
+	https://photosyn.jp/journal/sections/kaiho58-9.pdf	:d-1
+	https://de.wikipedia.org/wiki/Phycobiline	:d-2
+	
+	LH2
+	https://www.jstage.jst.go.jp/article/biophys/57/5/57_249/_pdf ==> graphic	:d-3
+	https://photosyn.jp/pwiki/index.php?LH2 ==> definitions	:d-5
+	
+	https://zh.wikipedia.org/wiki/菌綠素	:d-4
+	
+	
+	next
+	https://photosyn.jp/journal/sections/kaiho58-9.pdf <== want to read
+	https://www.jstage.jst.go.jp/article/biophys/57/5/57_249/_pdf LH2とAlexa647との結合
+	
+	]16:57:23
+
+2020年3月6日19:05:51
+
+	カロテノイド
+	https://zh.wikipedia.org/wiki/Β-胡萝卜素
+	https://ja.wikipedia.org/wiki/Β-カロテン
+	http://www.photosynthesis.jp/shikiso.html
+	https://photosyn.jp/pwiki/index.php?カロテノイド
+	
+	]19:07:15
+
+2020年3月7日10:32:34
+
+	Rhodopseudomonas acidophila
+	https://de.wikipedia.org/wiki/Acidophilie_(Ökologie)
+	https://microbewiki.kenyon.edu/index.php/Rhodopseudomonas
+		phototrophic 
+		nonsulfur 
+		
+	https://ja.wikipedia.org/wiki/紅色細菌	:d-1
+	https://zh.wikipedia.org/wiki/芳基醇脱氢酶
+		https://www.jstage.jst.go.jp/article/bbb1961/48/5/48_5_1161/_pdf/-char/en
+	
+	]11:28:59
+
+2020年3月7日12:49:26
+
+2020年3月7日17:20:16
+
+	rhodopseudomonas
+	
+	https://www.jstage.jst.go.jp/article/biophys/57/5/57_249/_pdf ==> graphic	:d-1
+		A）紅色光合成細菌	:#1
+	
+	ポルフィリン
+	https://zh.wikipedia.org/wiki/卟啉	:d-2
+	
+	イミダゾール基
+	https://zh.wikipedia.org/wiki/咪唑	:d-3
+	
+	]18:35:04
+
+2020年3月8日10:01:06
+
+	クロロフィル
+	https://ja.wikipedia.org/wiki/クロロフィル	:d-1
+	https://de.wikipedia.org/wiki/Chlorophylle#Chemische_Struktur_bei_anoxygenen_Phototrophen:_Bakteriochlorophylle_(Bchl)	d:d-2
+	https://zh.wikipedia.org/wiki/菌綠素	:d-3
+	https://ja.wikipedia.org/wiki/テトラピロール	:d-4
+	https://de.wikipedia.org/wiki/Tetrapyrrole	:d-5
+	https://ja.wikipedia.org/wiki/ピロリン	:d-6
+	https://ja.wikipedia.org/wiki/ピロール	:d-7
+	https://de.wikipedia.org/wiki/Porphyrine	:d-8
+		==> numbering
+	
+	]11:33:58
+
+2020年3月8日17:27:56
+
+	クロロフィル
+	https://ja.wikipedia.org/wiki/クロロフィル	:d-1
+	https://ja.wikipedia.org/wiki/バクテリオクロロフィル	:d-2
+	https://photosyn.jp/journal/sections/kaiho58-9.pdf	"光捕集タンパク質の多様性" :d-3
+	
+	https://ja.wikipedia.org/wiki/イミダゾール	:d-4
+	https://zh.wikipedia.org/wiki/咪唑	:d-5
+	https://ko.wikipedia.org/wiki/이미다졸
+
+	]18:12:18
+
+2020年3月9日10:11:58
+
+	フェニレン
+	https://de.wikipedia.org/wiki/Phenylengruppe	:d-1
+	
+	https://ja.wikipedia.org/wiki/グラブス触媒
+		https://zh.wikipedia.org/wiki/烯烃复分解反应
+	
+	phenylene grubbs porphyrin
+	
+	アンテナ系類似構造
+		https://photosyn.jp/pwiki/index.php?フィコビリタンパク質
+			アンテナタンパク質
+			フィコビリタンパク質
+		http://www.moleng.kyoto-u.ac.jp/~moleng_05/imahori_research.html <== this
+		http://www.sc.fukuoka-u.ac.jp/~bc1/Biochem/photosyn.htm <== good
+	
+	メソ位 配位子
+		https://ja.wikipedia.org/wiki/ポルフィリン
+			ピロール間の炭素上（メソ位）へ
+	
+	デンドリマー
+		https://ja.wikipedia.org/wiki/デンドリマー
+
+	炭素固定 石灰
+		https://science.srad.jp/story/08/07/23/0341201/ 海に石灰を加えることで、大気中の二酸化炭素を吸収させる試み
+
+	]11:19:52
+
+海に石灰を加えることで、大気中の二酸化炭素を吸収させる試み
+
+	]11:23:39
+
+2020年3月9日18:00:04
+
+	シアノバクテリア
+	https://ja.wikipedia.org/wiki/藍藻	:d-1
+		酸素発生型光合成を行う細菌は藍藻のみ
+	https://zh.wikipedia.org/wiki/藍菌門	:d-2
+		https://zh.wikipedia.org/wiki/異營生物	:d-3
+		
+	遷移双極子モーメント
+	https://ja.wikipedia.org/wiki/遷移双極子モーメント
+		https://ja.wikipedia.org/wiki/電気双極子
+	
+	会合体
+	https://kotobank.jp/word/会合-42332
+		二量体，三量体など
+	
+	スルホン酸
+	https://ja.wikipedia.org/wiki/スルホン酸	:d-4
+	https://zh.wikipedia.org/wiki/磺酸
+
+	]18:31:54
+
+2020年3月10日10:21:24
+
+	J会合体
+		https://www.jstage.jst.go.jp/article/photogrst1964/70/5/70_5_260/_pdf
+			スルホン化メソテトラフェニルポルフィリン
+		https://staff.aist.go.jp/k.ikegami/J_Merocyanine/J_Merocyanine.html <== this
+	
+	クロロソーム
+		https://en.wikipedia.org/wiki/Chlorosome
+		https://photosyn.jp/pwiki/index.php?クロロソーム
+			周辺集光装置 --> 色素タンパク質(https://photosyn.jp/pwiki/index.php?周辺集光装置)
+			生体構造物
+			脂質一重層膜に覆われた楕円体状構造
+
+	]10:45:36
+
+2020年3月10日14:50:34
+
+	ラジカルカチオン
+	radical
+		https://en.wikipedia.org/wiki/Radical_(chemistry)
+		https://ja.wikipedia.org/wiki/ラジカル_(化学)
+		
+		イオン、ラジカル
+		https://www.quora.com/What-is-the-difference-between-an-ion-and-a-radical?share=1	:d-1
+		https://in.answers.yahoo.com/question/index?qid=20080131094937AArk169&guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAANmEO_73nq_kww4YvC6_bJZpELWw8DiVbZM4XbhP6ZB-iBchT06zm8NZKKqEwrzK6CWXGKrBvrsS0mBepB86ixsHI9hVB3wYR2Y4sT2XZI_gocmRZJ6JkIw5yaL3xXGBrual8yF6ocpF_N5fiwtv7g7NaRZeQKO5dhEt6nG_Oq9g "first, the number of protons dictates " <== good
+	
+	サイトプラズム cytoplasm
+	https://lookformedical.com/img/5/52/Gram-Cell-wall.svg	==> pictures
+	
+	再配列エネルギー
+	https://kenkou888.com/denkikagaku/再配向エネルギーと活性化エネルギー.html
+	
+
+	]15:51:09
+
+2020年3月11日10:23:32
+
+	再配列エネルギー
+	http://w1.hatenablog.com/entry/20090604/1244080967	:d-1
+		電子移動反応速度
+		反応障壁
+		再配向エネルギー
+	
+	光電荷分離 (광유도 전하 분리)
+	https://www.iis.u-tokyo.ac.jp/Labs/wata_lab/photosynthesis.html <== this
+	https://www.jsps.go.jp/j-grantsinaid/12_kiban/ichiran_25/j-data/h25_j3301_imahori.pdf
+	https://www.photosyn.jp/pwiki/index.php?初期電荷分離反応 ==> terminologies
+	https://en.wikipedia.org/wiki/Photoinduced_charge_separation
+	https://www.cheric.org/files/research/ip/p200001/p200001-701.pdf "Fullerene 광전소자"
+	
+	
+	want-to-read
+	http://www.moleng.kyoto-u.ac.jp/~moleng_05/imahori_research.html
+	https://www.cheric.org/PDF/HHKH/HK49/HK49-3-0381.pdf "광촉매의 특성에 관한 연구"
+	https://www.cheric.org/files/research/ip/p200001/p200001-701.pdf "Fullerene 광전소자"
+	https://tb.kibo.or.kr/ktms/supplyTe/view.do?rbsIdx=110&TECH_NO=KST2014046670 " 광유도 전하전달 물질을 이용한 나노 구조 광센서 "
+
+	]11:01:14
+
+2020年3月12日9:42:16
+
+	マーカス曲線
+	正常領域 マーカス曲線
+		https://photosyn.jp/column-mypub_7.html <== good	:d-1
+			（電子トンネル効果）で起こっている
+			
+		http://www.chem.aoyama.ac.jp/Chem/ChemHP/phys3/top/Lecture_Print/QC2_13.pdf <== graphs
+	
+	ナフタレンジイミド
+		ジイミド
+			https://ja.wikipedia.org/wiki/ジアゼン
+			https://www.chem-station.com/odos/2009/07/-diimide-reduction-of-alkyne.html
+				アルキンをZ-アルケンに還元できる
+			https://netdekagaku.com/diimde-reduction/ ジイミド還元
+	
+	want-to-read
+	https://photosyn.jp/column-mypub_7.html "マーカスのエネルギーギャップ則"
+
+
+	]11:06:18
+
+2020年3月14日16:40:47
+
+	トリメチルフェニル基
+	アクリルジニウムイオン
+		https://ja.wikipedia.org/wiki/アクリジニウム
+		https://www.jst.go.jp/pr/announce/20120301/index.html "光合成機能を持つ有機分子が働く瞬間を直接観察"
+		
+	フェロセン
+		https://ja.wikipedia.org/wiki/フェロセン
+		chemistry enyl
+	
+	alchenyl
+		https://de.wikipedia.org/wiki/Alkenylgruppe
+		https://de.wikipedia.org/wiki/Alkene
+
+	]17:22:07
+
+2020年3月15日16:53:05
+
+	キノン
+	https://ja.wikipedia.org/wiki/キノン
+		ケトン
+		https://ja.wikipedia.org/wiki/ケトン
+		
+	
+	]17:36:59
+
+
+2020年3月16日8:48:00
+
+	逆電子移動
+	https://photosyn.jp/pwiki/index.php?逆電子移動
+	
+	電荷再結合
+	https://www.photosyn.jp/pwiki/index.php?電荷再結合
+	
+	フランクーコンドン原理
+	https://ja.wikipedia.org/wiki/フランク＝コンドンの原理
+
+
+	]9:41:30
+
+
+
+
+
+
+
+======================== EOF ========================

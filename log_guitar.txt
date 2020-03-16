@@ -1,0 +1,60 @@
+2020年1月24日18:25:21
+
+	f-102
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/39022
+	
+	et-12 18:53:06
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/38239
+	
+	next : ANY ::]19:25:38
+
+2020年1月25日18:30:50
+
+	et-6 patt-29(1)-1
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=gt+et-6+patt-29%281%29-1&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+	
+	next : ==> memo
+
+2020年1月28日16:05:59
+	
+	#compi : et-6 patt-30
+		download
+		open with paint
+		compi
+		image file ==> change size
+		delete : orig file
+		
+		::]16:17:08
+	
+	#mov file ==> to dir : et-6 patt-29
+	
+		==> OK ::]16:07:57
+
+	::]16:17:30
+
+2020年1月30日15:38:01
+
+	compi : et-6 patt-30 / p.2
+	
+	::]15:47:29
+
+2020年2月3日18:07:47
+
+	task-1
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=gt+log+task-1&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND&RBs_AND_OR_File_Name=AND
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/37173
+		
+	::]18:30:01
+
+2020年2月17日9:15:40
+	
+	next/
+	
+	2020-02-16_19-05-35_000.mov 3:20
+		==> trill --> テンポを 30 ぐらいまで落として、テンポを正確に踏もう
+
+2020年2月17日18:08:04
+
+	
+
+========================= EOF =========================

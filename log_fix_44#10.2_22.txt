@@ -1,0 +1,20 @@
+2020年1月28日17:06:23
+	
+	// checkout files
+	git co XXX
+	
+	// chechout
+	g co 210764500f7149e75132b00bbeca37ee1820134f
+	
+	// copy controller file
+	#copy C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Controller\FxTestController.php ==> to desktop
+	#g co master
+	
+	#// copy back controller file
+	
+	TEST ==> browse ::[17:10:46
+		==> OK
+	
+	::]]17:12:04
+
+

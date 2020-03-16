@@ -1,0 +1,199 @@
+2020/01/04 16:43:03
+
+	1. https://www.youtube.com/watch?v=XPndWrTXVKg
+	2. https://ja.wikipedia.org/wiki/セグロセキレイ#ハクセキレイとの関係
+	3. https://ja.wikipedia.org/wiki/ハクセキレイ
+
+		属 : セキレイ Motacilla
+		種 : タイリクハクセキレイ M. alba Linnaeus, 1758
+		亜種 : ハクセキレイ M. a. lugens
+		"波を描くように飛翔する"
+	
+	他に、
+	ホオジロハクセキレイ Motacilla alba leucopsis
+	
+	1. 属 : セキレイ属 Motacilla
+	2. 種 : セグロセキレイ M. grandis
+	3. 日本鶺鸰 ji2ling2
+	
+		"主に水辺に棲む。"
+
+2020年1月5日23:38:39
+	https://zh.wikipedia.org/wiki/二氧化碳
+		
+		空氣中 ==> 約佔0.04％
+		w.共价键
+		碳酸
+		w.sp混成軌域
+		w.σ键
+		
+		next : https://zh.wikipedia.org/wiki/二氧化碳 ==> write memo
+	
+	]2020年1月5日23:43:57
+
+2020年1月7日14:24:51
+	https://ja.wikipedia.org/wiki/チョウセンカマキリ
+	https://ko.wikipedia.org/wiki/사마귀
+	https://namu.wiki/w/사마귀
+	
+		사마귀과 カマキリ科 Mantidae
+		속:	사마귀속	
+		종:	사마귀
+		
+		目	:	カマキリ目 Mantodea 바퀴목
+		亜科	:	カマキリ亜科 Mantinae 사마귀아목
+		科	:	カマキリ科 Mantidae
+
+	]2020年1月7日14:41:15
+
+2020年2月24日8:08:40
+
+	ライチョウ
+	https://www.youtube.com/results?search_query=雷鳥+鳴き声
+	
+	next
+	ANY
+	
+	]8:39:25
+
+2020年2月24日9:03:36
+
+	セルロース
+	https://zh.wikipedia.org/wiki/纤维素
+		https://zh.wikipedia.org/wiki/糖苷
+		https://zh.wikipedia.org/wiki/卵菌綱
+		https://zh.wikipedia.org/wiki/葡萄糖
+			https://zh.wikipedia.org/wiki/己糖
+		https://zh.wikipedia.org/wiki/羟基
+	
+	[9:33:54
+	https://zh.wikipedia.org/wiki/淀粉
+		https://zh.wikipedia.org/wiki/直鏈澱粉
+		https://zh.wikipedia.org/wiki/支链淀粉
+	
+	https://zh.wikipedia.org/wiki/麥芽糖
+	
+		]9:59:16
+	
+	アミラーゼ
+	https://zh.wikipedia.org/wiki/淀粉酶
+		底物溶液
+		碘反应
+		麦芽三糖
+		α-极限糊精
+		分解限度
+		https://zh.wikipedia.org/wiki/糖原
+		https://zh.wikipedia.org/wiki/葡聚糖
+		https://zh.wikipedia.org/wiki/Α-淀粉酶 [10:09:06
+
+	next
+	continue
+
+	]10:26:40
+
+2020年2月27日8:45:07
+
+	乳酸菌
+
+2020年2月27日10:25:45
+	SMXB JVE37#17
+	
+	根粒菌
+	https://ja.wikipedia.org/wiki/根粒菌#根粒の種類	d-1
+		ニトロゲナーゼ
+		アンモニア態窒素
+		窒素固定
+		土壌微生物
+		*植物
+			ウマゴヤシ
+			ミヤコグサ
+			クローバー
+			アルファルファ
+			ダイズ
+		https://ja.wikipedia.org/wiki/根粒菌#根粒形成	#1
+		
+		next : "感染糸は、根毛細胞の基部に向かって"
+
+	https://ja.wikipedia.org/wiki/窒素固定
+		窒素化合物
+		真正細菌
+		古細菌
+		窒素酸化物
+		窒素循環
+		生物学的窒素固定
+		化学的窒素固定
+		
+		https://ja.wikipedia.org/wiki/窒素固定#生物学的窒素固定
+			ニトロゲナーゼ
+			ジアゾ栄養生物(diazotroph)
+			https://pl.wikipedia.org/wiki/Nitrogenaza
+			グルタミンシンセターゼ／グルタミン酸シンターゼ経路
+			グルタミン酸塩
+			亜硝酸菌
+			硝酸菌
+			硝化細菌
+			アンモニウム塩
+			硝酸塩
+			真正細菌
+			リゾビウム属
+			パエニバシラス・ポリミキサ(P. polymyxa)
+
+	further
+		https://pl.wikipedia.org/wiki/Asymilacja_azotu
+		https://ja.wikipedia.org/wiki/窒素固定#マメ科植物との共生的窒素固定
+
+	next
+	https://ja.wikipedia.org/wiki/窒素固定#マメ科植物との共生的窒素固定
+	https://pl.wikipedia.org/wiki/Asymilacja_azotu
+
+	]10:56:34
+
+2020年3月3日7:11:32
+
+	ウイルス　構成成分　何からできている？
+	https://ja.wikipedia.org/wiki/ウイルス
+	https://zh.wikipedia.org/wiki/病毒#遗传物质
+	
+	SARSウイルス 分類
+	https://ja.wikipedia.org/wiki/コロナウイルス
+		RNAウイルス
+		一本鎖プラス鎖
+		エンベロープ　=>　花弁状の長い突起
+		多形性
+		直径80-220ナノメートル
+		ゲノムサイズ　=>　約26から32キロベース
+
+	next
+	https://ja.wikipedia.org/wiki/コロナウイルス#構造と増殖
+		==> 図を描いてみよう
+
+2020年3月11日12:40:39
+	
+	res : UCHY
+	目薬　成分
+	シアノコバラミン
+		https://ja.wikipedia.org/wiki/シアノコバラミン
+			水溶性ビタミン
+			コバルトを含む
+	
+	コバルト　色
+		https://www.jstage.jst.go.jp/article/kakyoshi/65/4/65_198/_pdf "金属錯体の形と色"
+			乾燥した状態（無水 CoCl 2）では青色
+			湿気を吸収する（水が配位して［Co（H 2O ） 6］ 2＋を生成する）とピンク色
+	
+	ネオスチグミンメチル硫酸塩
+	
+	next : COMP
+	
+	]13:49:15
+
+
+
+
+
+
+
+
+
+
+========================= EOF =========================
