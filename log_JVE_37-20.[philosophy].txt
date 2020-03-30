@@ -155,4 +155,20 @@ res free# JVEMV6 37#20_10 / 37. miscs / 20. philosophy / 20191219_134225
 	徳目
 	
 
+--------------------------------------
+
+-------------------------------------- TOPICS
+メタ倫理学	20200330_102117
+	https://ja.wikipedia.org/wiki/メタ倫理学
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
 ========================= EOF =========================

@@ -188,6 +188,26 @@
 	]13:49:15
 
 
+--------------------------------------
+
+-------------------------------------- TOPICS
+行列力学	37#17.1	20200330_110019
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+
+-------------------------------------- resources
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
+
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:5) periodical updates" && e && git push origin master
 
 
 

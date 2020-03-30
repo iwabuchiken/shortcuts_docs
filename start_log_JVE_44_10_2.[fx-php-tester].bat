@@ -32,9 +32,15 @@ pushd C:\WORKS_2\Programs\opera
 
 set url_1="http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1"
 set url_2="http://localhost/Eclipse_Luna/Cake_IFM11/fx_test"
+
+REM : stopwatch
 set url_3="https://www.stopwatch-app.com"
+
+REM : time
+set url_4=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
+
 REM launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1 %url_3%
-launcher.exe %url_1% %url_2% %url_3%
+launcher.exe %url_1% %url_2% %url_3% %url_4%
 
 REM =================================
 REM 	log dir
@@ -57,27 +63,3 @@ REM  && r c && s
 :end_of_end
 
 pause
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
