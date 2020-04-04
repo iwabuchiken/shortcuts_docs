@@ -21,12 +21,49 @@
 	ANY
 	
 	]23:35:42
+	
+------------------------------------------
+2020年3月31日15:11:57
+
+	ベイトソン	20200331_151054
+	
+	]15:34:07
+
+------------------------------------------
+2020年4月2日23:41:39
+
+	インターフェロン
+	
 
 
 
 
 
+------------------------------------------
 
+
+
+------------------------------------------ DOCS (Materials)
+
+
+-------------------------------------- TOPICS
+ベイトソン	20200331_151054
+
+
+-------------------------------------- SYMBOLS	20200327_163426
+#	complete	
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+------------------------------------------ SEARCHES
+
+
+------------------------------------------ CLOSING
 
 C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && git add . && git commit -m "(shortcuts : res : medical) periodical updates" && e && git push origin master
 

@@ -3,6 +3,7 @@ REM 	log file
 REM 	git
 REM 	browser
 REM 	log dir
+REM 	terminal
 REM =================================
 @echo off
 
@@ -48,6 +49,14 @@ REM 	2020/01/22 17:44:47
 REM =================================
 start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\44_currency\10_prog-php\2_tester
+
+REM =================================
+REM 	terminal
+REM 	2020/04/03 15:18:58
+REM =================================
+pushd "C:\Program Files (x86)\MT4 Gaitame Finest Company Limited"
+start terminal
+
 
 REM =================================
 REM 	git

@@ -1,0 +1,91 @@
+program file path = C:/Users/iwabuchiken/Desktop/shortcuts_docs/get_folder_list.[v.2].20190210_091405.rb
+version = 1.0
+list file created at = 20200403_164856
+dir path = C:/Users/iwabuchiken/Desktop/shortcuts_docs
+dirs = 1
+files = 79
+
+<directories> 1 =========================
+1	log_files
+
+
+<files> 79 =========================
+1	08_mandel.lnk
+2	6_visual-arts.lnk
+3	JVE_41-7_topics.lnk
+4	README.md
+5	articles_reading.txt
+6	bk_ethics,modern_20200319_151003.txt.lnk
+7	bk_mandel.txt
+8	bk_photosynth-artificial.txt
+9	bk_photosynth.txt
+10	bk_takahasi.txt
+11	botany.odt
+12	e.bat
+13	end_diary.bat.lnk
+14	get_folder_list.[v.2].20190210_091405.rb
+15	iphone_to_upload.lnk
+16	lang_polish.txt
+17	lang_portgues.txt
+18	lang_russian.txt
+19	list_of_memos.ods.lnk
+20	log_11_identify.[identify].odt.lnk
+21	log_20200114_090317.[move-mov-files-to-each-dir].txt
+22	log_46#6.(pdf).odt
+23	log_46#6.odt
+24	log_46#6.odt.lnk
+25	log_JVEMV6#58_co2-capture.odt.lnk
+26	log_JVE_37-13.[religions].odt.lnk
+27	log_JVE_37-17.[natural-history].odt.lnk
+28	log_JVE_37-17.[natural-history].txt
+29	log_JVE_37-17.[natural-history][polish].txt
+30	log_JVE_37-17.[natural-history][russian].txt
+31	log_JVE_37-20.[philosophy].odt.lnk
+32	log_JVE_37-20.[philosophy].txt.lnk
+33	log_JVE_37-21.[math&physics].odt.lnk
+34	log_JVE_37-22.[classical-literateture].txt
+35	log_JVE_37_12_2.[prog-articles].odt.lnk
+36	log_JVE_37_12_3.[fx-log-file].odt.lnk
+37	log_JVE_41.[economics].txt.lnk
+38	log_JVE_44_10_2.[fx-php-tester].odt.lnk
+39	log_bk_korea.txt
+40	log_bk_yamamoto_revolution.txt
+41	log_bookmemos.txt
+42	log_bookmemos_photosynth.txt
+43	log_fix_44#10.2_22.txt
+44	log_fx.[fx-44#7].odt.lnk
+45	log_fx.odt.lnk
+46	log_guitar.txt
+47	log_ops.odt
+48	log_res_20200103_004803.[buddhism].txt
+49	log_res_20200103_095216.[logic].txt
+50	log_res_20200104_113907.[birds].txt
+51	log_res_ecnomics.odt.lnk
+52	log_research.[medical].txt
+53	memo_H3D2.odt
+54	memo_guitar.[admin].txt.lnk
+55	misc_files.lnk
+56	p.73.odt.lnk
+57	pegasus_botany.odt.lnk
+58	push_fm.bat.lnk
+59	push_shortcuts_docs.bat.lnk
+60	reading_assist.odt
+61	res_christianity-korea.txt
+62	res_jve#37.19.2_carbon fixation.txt.lnk
+63	res_jve#37.21.2_[cosmological-constant (cc)].txt.lnk
+64	res_jve#37.21.txt.lnk
+65	res_liquor.odt
+66	start.[arabic].bat
+67	start.bat - ショートカット.lnk
+68	start_37_12_5.image.(image).[image-processing].bat.lnk
+69	start_before-sleep-actions.bat
+70	start_before-sleep-actions.bat - ショートカット.lnk
+71	start_diary.bat.lnk
+72	start_diary_towa.(sjis).bat.lnk
+73	start_diary_towa.bat.lnk
+74	start_log_JVE_37_12_4.[cake_ifm11-with-php].bat.lnk
+75	start_log_JVE_44_10_2.[fx-php-tester].bat
+76	start_log_JVE_44_10_2.[fx-php-tester].bat.lnk
+77	start_visual-arts.[jve-46#6].bat.lnk
+78	tmp_37_miscs.lnk
+79	towa-related.lnk
