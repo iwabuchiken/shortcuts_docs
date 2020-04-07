@@ -1,0 +1,33 @@
+2020年4月4日14:50:28
+	vcf viewer
+	
+	https://duckduckgo.com/?q=freeware+vcard+viewer&t=opera&ia=web
+	https://www.downloadfreeware.org/free-vcard-viewer/		#DL
+		#install : vcardexportimport.exe
+		open
+		==> DROP : "PST" file required
+		]14:57:47
+		
+	https://listoffreeware.com/free-vcf-viewer-software-windows/
+		https://www.systoolsgroup.com/vcf/viewer/
+			#DL
+			inst.: vcard-viewer.exe
+				C:\WORKS_2\Programs\freeware\viewer_vcf\SysTools_vCard_Viewer
+			open
+			result : 
+		https://www.bitrecover.com/vcard/viewer/
+			DL
+			inst.
+			==> DROP : enough
+
+	<steps>
+	mobile
+		"EasyBackup"
+			back up
+			send via email : "contacts.vcard"
+	desktop
+		"vcard" file ==> rename extension
+			==> to : "XXX.vcf"
+		open : vcard-viewer.exe // C:\WORKS_2\Programs\freeware\viewer_vcf\SysTools_vCard_Viewer
+			open : "vcf" file
+
