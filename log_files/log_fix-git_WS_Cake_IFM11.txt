@@ -1,0 +1,23 @@
+2020年4月7日11:06:23
+
+	#copy ==> backup to desktop
+	#roll back
+		g co b37639247de8e24bd8772e0a579629e2a1fbea58
+	#copy back
+	commit
+		g s
+		g a .
+		g c -a
+		g co master
+	roll back
+		#ref https://stackoverflow.com/questions/1338728/delete-commits-from-a-branch-in-git#1338744
+		git reset --hard HEAD~1
+		git reset --hard HEAD~1
+			to : b37639247de8e24bd8772e0a579629e2a1fbea58
+		g s
+ 		g a . && g c -a
+ 			(fix : Cake_IFM11/WS) removing mp4 entries
+		g s
+		g p
+		
+]2020年4月7日11:22:02

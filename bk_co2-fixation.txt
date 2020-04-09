@@ -1,0 +1,52 @@
+------------------------------------------
+2020年4月9日16:50:52
+
+	.153
+	オキシラン
+	
+	next
+	continue
+	
+	]17:13:59
+
+
+@@@
+
+------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------
+
+------------------------------------------ DOCS (Materials)
+
+
+-------------------------------------- TOPICS
+
+
+-------------------------------------- SYMBOLS	20200327_163426
+#	complete	
+*	started reading
+%	omit
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+------------------------------------------ SEARCHES
+
+------------------------------------------ CLOSING
+### 
+###echo.>> "C:\Users\iwabuchiken\Desktop\shortcuts_docs\res_jve_37.19.2_carbon fixation.txt.bat"
+
+
+C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(bk : CO2 fixation) periodical updates^" && e && git push origin master
+
+
+======================== EOF ========================
