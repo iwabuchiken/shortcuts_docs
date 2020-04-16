@@ -41,6 +41,34 @@
 	]15:44:49
 
 ------------------------------------------
+2020年4月16日8:36:37
+
+	#LUMO, HOMO
+		https://zh.wikipedia.org/wiki/HOMO/LUMO	:d-1
+		https://ja.wikipedia.org/wiki/Π結合
+		https://ja.wikipedia.org/wiki/P軌道
+		https://zh.wikipedia.org/wiki/P軌域
+	
+	求電子性
+		https://meddic.jp/求電子性
+		http://www1.jiu.ac.jp/~chem/saito/o_shou_zhi/entori/2013/5/20_qiu_he_fan_yingto_qiu_dian_zi_fan_ying.html	求核反応と求電子反応（１）	:d-2
+			電気陰性度	:w
+	
+	ルイス酸
+		https://kotobank.jp/word/ルイス酸-150611	:d-3
+		https://en.wikipedia.org/wiki/Lewis_acids_and_bases
+			https://en.wikipedia.org/wiki/Coordinate_covalent_bond
+			https://zh.wikipedia.org/wiki/配位键
+		https://netdekagaku.com/luisacid/	ルイス酸とは？ルイス酸の強さと種類の一覧
+	
+	next
+		カルボニル化合物
+	
+	]10:45:42
+		
+
+------------------------------------------
+
 
 
 
@@ -75,6 +103,7 @@
 
 
 ------------------------------------------ SEARCHES
+1	https://duckduckgo.com/?ia=web	二酸化炭素 固定化	2020年4月16日7:13:13
 
 ------------------------------------------ CLOSING
 ### 
