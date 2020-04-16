@@ -167,7 +167,9 @@
 	https://ja.wikipedia.org/wiki/コロナウイルス#構造と増殖
 		==> 図を描いてみよう
 
+--------------------------------------
 2020年3月11日12:40:39
+	id=Y06F
 	
 	res : UCHY
 	目薬　成分
@@ -197,9 +199,38 @@
 		オギ
 
 --------------------------------------
+2020年4月16日13:40:36
+	
+	id=Y06F
+	
+	ネオスチグミンメチル硫酸塩
+	
+	next
+	cont.
+	
+	]14:01:32
+
+--------------------------------------
+2020年4月16日14:27:20
+
+	id=EQYI
+	ヒルベルト空間
+	https://eman-physics.net/quantum/hilbert.html	:d-1
+	https://ja.wikipedia.org/wiki/ヒルベルト空間
+	
+	next
+	lets start --> eman
+
+@@@
+
+--------------------------------------
+
 
 -------------------------------------- TOPICS
 行列力学	37#17.1	20200330_110019
+ヒルベルト空間	2020年4月16日14:38:07
+ピーナツの成分	2020年4月16日14:38:14
+"コマはなぜ立っていられる？" 2020年4月16日14:38:38 (https://eman-physics.net/dynamics/topspin.html)
 
 -------------------------------------- SYMBOLS
 #	complete
@@ -217,7 +248,7 @@ C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_r
 
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:5) periodical updates" && e && git push origin master
 
-
+C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:id=EQYI) periodical updates" && e && git push origin master
 
 
 

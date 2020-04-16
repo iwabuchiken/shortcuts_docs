@@ -68,10 +68,39 @@
 		
 
 ------------------------------------------
+2020年4月16日12:31:48
 
+	#カルボニル化合物
+	http://sekatsu-kagaku.sub.jp/carbonyl-compound1.htm
+	https://ja.wikipedia.org/wiki/カルボニル基	:d-1
+	https://ja.wikipedia.org/wiki/基
+	
+	アセトニトリル
+	https://ja.wikipedia.org/wiki/アセトニトリル	:d-2
+	
+	.154
+	有機ハロゲン化物
+	https://ja.wikipedia.org/wiki/有機ハロゲン化合物
+		ハロゲン
+			https://ja.wikipedia.org/wiki/第17族元素
 
-
-
+	#遷移金属
+	#遷移金属触媒
+	https://ja.wikipedia.org/wiki/遷移元素	:d-3
+		https://ja.wikipedia.org/wiki/D軌道	:d-3.1
+			https://www.youtube.com/watch?v=B1vONC7s_rM	<== this
+	
+	~高反応性金属
+	
+	#有機分子触媒
+	https://ja.wikipedia.org/wiki/有機分子触媒
+	https://zh.wikipedia.org/wiki/有机催化
+	
+	マグネシウム反応剤
+	https://www.jstage.jst.go.jp/article/yukigoseikyokaishi1943/61/4/61_4_331/_pdf/-char/ja	有機マグネシウム反応剤を用いた新規合成反応の開拓
+	
+	
+	
 @@@
 
 ------------------------------------------
@@ -86,6 +115,9 @@
 
 ------------------------------------------ DOCS (Materials)
 1	https://www.chem.sci.osaka-u.ac.jp/graduate/mms/institute/documents/research_report/H26_keikahoukoku.pdf	チオン重合による交互共重合体の精密合成および新しい分子設計	2020年4月13日17:56:04	2020年4月13日17:28:36
+2	https://www.jstage.jst.go.jp/article/yukigoseikyokaishi1943/61/4/61_4_331/_pdf/-char/ja	2020年4月16日15:30:07	==> want to read	"有機マグネシウム反応剤を用いた新規合成反応の開拓"
+
+
 
 
 -------------------------------------- TOPICS
