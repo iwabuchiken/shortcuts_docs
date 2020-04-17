@@ -99,8 +99,29 @@
 	マグネシウム反応剤
 	https://www.jstage.jst.go.jp/article/yukigoseikyokaishi1943/61/4/61_4_331/_pdf/-char/ja	有機マグネシウム反応剤を用いた新規合成反応の開拓
 	
+------------------------------------------
+2020年4月17日9:35:37
+
+	ボロン酸エステル誘導体
+		ボロン酸エステル
+			https://www.tcichemicals.com/eshop/ja/jp/category_index/12533
+			https://www.jst.go.jp/kisoken/crest/research/s-houkoku/JST_1111056_09154478_EE.pdf	<== want-to-read	:d-2
+				#1 ボロン酸とアルコールとを混合すると
+			https://ja.wikipedia.org/wiki/ボロン酸#ボロン酸エステル	:d-1
+		エステル
+			https://ja.wikipedia.org/wiki/エステル
+		ホウ酸
+			https://zh.wikipedia.org/wiki/硼酸
 	
-	
+	next
+		book --> cont.
+		
+	]10:40:41
+
+------------------------------------------
+
+
+
 @@@
 
 ------------------------------------------
