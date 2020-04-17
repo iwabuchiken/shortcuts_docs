@@ -119,6 +119,31 @@
 	]10:40:41
 
 ------------------------------------------
+2020年4月17日12:18:53
+
+	.154
+	#鈴木 宮浦　カップリング
+	https://ja.wikipedia.org/wiki/鈴木・宮浦カップリング
+		https://ja.wikipedia.org/wiki/アリール基	:d-1
+			https://de.wikipedia.org/wiki/Seitenkette	:d-2
+			https://de.wikipedia.org/wiki/Arylgruppe	:d-3
+			https://zh.wikipedia.org/wiki/萘	:d-4
+		
+		https://netdekagaku.com/zerokarasuzukicoupling/ <== good	:d-5
+		#ボラート
+		https://en.wikipedia.org/wiki/Borate
+		
+		#トランスメタル化
+		https://ja.wikipedia.org/wiki/トランスメタル化	:d-6
+		
+	next
+		book, cont.
+	
+	]14:16:16
+
+------------------------------------------
+
+
 
 
 
