@@ -142,7 +142,32 @@
 	]14:16:16
 
 ------------------------------------------
+2020年4月18日11:55:03
 
+	アリールボロン酸ネオペンチルグリコラートエステル
+	
+	ラセミ体
+	ネオペンチル
+		https://ja.wikipedia.org/wiki/ネオペンタン
+		https://www.cosmetic-info.jp/jcln/detail.php?id=5460	:d-1
+		https://labchem-wako.fujifilm.com/jp/product/detail/W01W0232-6333.html	:d-2
+	
+	アルケニル
+		https://miii.me/1134.html	:d-3
+	
+	不飽和カルボン酸
+		https://www.irohabook.com/carboxylic-acid	:d-4
+		α,β
+			https://www.chemiestudent.de/forum/organische-chemie-f7/alpha-beta-ungesattigt-hilfe-t3635.html	図でわかるカルボン酸の種類と例（ギ酸、オレイン酸、マレイン酸…）
+		https://ja.wikipedia.org/wiki/不飽和脂肪酸
+		
+	
+	next
+		book : cont.
+	
+	]16:48:07
+
+------------------------------------------
 
 
 
