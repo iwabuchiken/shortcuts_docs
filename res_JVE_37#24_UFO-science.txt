@@ -51,7 +51,8 @@
 
 
 ------------------------------------------ CLOSING
-C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(res : JVE_37#24 : UFO-science) periodical updates^" && e && git push origin master
+C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(res : JVE_37#24 : UFO-science) periodical updates^" && e && git push origin master && r oj && git add -A && git commit -m ^"(res : JVE_37#24 : UFO-science) periodical updates^" && e && git push origin master
+
 
 
 ======================== EOF ========================
