@@ -1,0 +1,57 @@
+------------------------------------------
+2020年4月19日23:43:15
+
+	https://eman-physics.net/relativity/ext_geo.html	測地線の方程式の展開
+
+
+	next
+		eman : https://eman-physics.net/relativity/variant.html	反変ベクトル・共変ベクトル
+		
+		]23:44:46
+
+
+------------------------------------------
+
+
+
+@@@
+
+------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------
+
+------------------------------------------ DOCS (Materials)
+
+
+
+
+-------------------------------------- TOPICS
+
+
+-------------------------------------- SYMBOLS	20200327_163426
+#	complete	
+*	started reading
+%	omit
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+------------------------------------------ SEARCHES
+1	https://duckduckgo.com/?ia=web	二酸化炭素 固定化	2020年4月16日7:13:13
+2	https://duckduckgo.com/?ia=web	split CO2	2020年4月19日14:24:57
+
+
+------------------------------------------ CLOSING
+C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(res : JVE_37#24 : UFO-science) periodical updates^" && e && git push origin master
+
+
+======================== EOF ========================
