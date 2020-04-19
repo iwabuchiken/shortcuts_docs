@@ -10,6 +10,30 @@
 		read : 20200419_143113 (bookmark, Tor : "JVE_37#23_co2 / 20200419_143236")
 
 
+------------------------------------------
+2020年4月19日16:04:33
+
+	1]
+	read : 20200419_143113 (bookmark, Tor : "JVE_37#23_co2 / 20200419_143236")
+		https://www.quora.com/How-can-carbon-dioxide-be-split-into-carbon-and-oxygen?share=1	How can carbon dioxide be split into carbon and oxygen? - Quora
+			https://mars.nasa.gov/mars2020/spacecraft/instruments/moxie/
+			Answered Oct 22, 2018	<== lets follow
+			Leah Sweeney, Curious person.	<== lets follow
+			
+		<docs>
+		https://www.solarpaces.org/how-desert-solar-can-fuel-centuries-of-air-travel/
+		
+	next
+		continue : bookmarks
+		]16:44:20
+
+------------------------------------------
+
+
+
+
+
+
 @@@
 
 ------------------------------------------
