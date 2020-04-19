@@ -1,0 +1,53 @@
+------------------------------------------
+2020年4月19日14:25:13
+
+	search
+		https://www.scientificamerican.com/article/splitting-carbon-dioxide/
+		https://www.quora.com/How-can-carbon-dioxide-be-split-into-carbon-and-oxygen?share=1
+		
+	
+	next
+		read : 20200419_143113 (bookmark, Tor : "JVE_37#23_co2 / 20200419_143236")
+
+
+@@@
+
+------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------
+
+------------------------------------------ DOCS (Materials)
+
+
+
+
+-------------------------------------- TOPICS
+
+
+-------------------------------------- SYMBOLS	20200327_163426
+#	complete	
+*	started reading
+%	omit
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+------------------------------------------ SEARCHES
+1	https://duckduckgo.com/?ia=web	二酸化炭素 固定化	2020年4月16日7:13:13
+2	https://duckduckgo.com/?ia=web	split CO2	2020年4月19日14:24:57
+
+
+------------------------------------------ CLOSING
+C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(res : JVE_37#23 : CO2) periodical updates^" && e && git push origin master
+
+
+======================== EOF ========================

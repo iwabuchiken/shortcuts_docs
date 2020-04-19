@@ -168,8 +168,25 @@
 	]16:48:07
 
 ------------------------------------------
-
-
+2020年4月19日11:49:35
+	
+	1]
+	ヒドロキソロジウム
+		https://www.msd-life-science-foundation.or.jp/banyu/wp-content/uploads/2014/05/2014_sapporo_6.pdf
+			ボロン酸エステルとのトランスメタル化により	:m
+		http://www.chem.nara-wu.ac.jp/~tanase/ClassesInfo/Coordination Chemistry Part1.pdf	錯体化学の基礎	:d-3
+	
+	ビスホスフィン
+	
+	カルボキシラート
+		https://www.weblio.jp/content/カルボキシラート	:d-1
+		https://www.weblio.jp/content/3-ピリジルカルボキシラート	:d-2
+	
+	アリルフルオロボラート
+	
+	2]
+	search docs
+	
 
 
 @@@
@@ -187,6 +204,7 @@
 ------------------------------------------ DOCS (Materials)
 1	https://www.chem.sci.osaka-u.ac.jp/graduate/mms/institute/documents/research_report/H26_keikahoukoku.pdf	チオン重合による交互共重合体の精密合成および新しい分子設計	2020年4月13日17:56:04	2020年4月13日17:28:36
 2	https://www.jstage.jst.go.jp/article/yukigoseikyokaishi1943/61/4/61_4_331/_pdf/-char/ja	2020年4月16日15:30:07	==> want to read	"有機マグネシウム反応剤を用いた新規合成反応の開拓"
+3	http://www.chem.nara-wu.ac.jp/~tanase/ClassesInfo/Coordination Chemistry Part1.pdf	錯体化学の基礎	2020年4月19日12:05:51
 
 
 
