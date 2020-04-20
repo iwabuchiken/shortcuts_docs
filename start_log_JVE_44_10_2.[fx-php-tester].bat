@@ -50,6 +50,9 @@ REM =================================
 start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\44_currency\10_prog-php\2_tester
 
+REM 
+start C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Logs
+
 REM =================================
 REM 	terminal
 REM 	2020/04/03 15:18:58
@@ -57,6 +60,7 @@ REM =================================
 pushd "C:\Program Files (x86)\MT4 Gaitame Finest Company Limited"
 start terminal
 
+start metaeditor.exe
 
 REM =================================
 REM 	git
@@ -72,6 +76,7 @@ REM  && r c && s
 :end_of_end
 
 pause
+
 
 
 
