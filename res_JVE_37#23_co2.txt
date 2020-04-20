@@ -28,9 +28,23 @@
 		]16:44:20
 
 ------------------------------------------
+2020年4月20日11:46:30
 
+	https://www.solarpaces.org/how-desert-solar-can-fuel-centuries-of-air-travel/	:d-1
+		thermal solar reactor	:w
+		https://zh.wikipedia.org/wiki/费托合成#反应机制	:d-2
+		purge gas
+			https://en.wikipedia.org/wiki/Purging_(gas)
+		addendum	:w
+		ceria 	:w
+			https://zh.wikipedia.org/wiki/二氧化铈
+		#1	splitting water and CO2
+		
+		next] "Efficiency improvements"
+		
+		]12:45:14
 
-
+------------------------------------------
 
 
 
