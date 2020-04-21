@@ -16,6 +16,7 @@ REM 	2020/01/04 15:21:38
 REM =================================
 pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\44_currency\10_prog-php\2_tester
 start log_JVE_44_10_2.[fx-php-tester].odt
+start log_JVE_44.[admin].ods
 
 REM =================================
 REM 	eclipse
@@ -76,6 +77,8 @@ REM  && r c && s
 :end_of_end
 
 pause
+
+
 
 
 

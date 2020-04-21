@@ -45,6 +45,26 @@
 		]12:45:14
 
 ------------------------------------------
+2020年4月21日12:18:57
+	https://www.solarpaces.org/how-desert-solar-can-fuel-centuries-of-air-travel/	:d-1
+		#1	"Efficiency improvements"
+		#2	According to the SOLAR-JET
+		
+		doc	https://randy.newairplane.com/2011/09/01/all-in-a-days-work/	:d-2
+		https://en.wikipedia.org/wiki/Environmental_impact_of_aviation#CO₂_emissions_per_passenger_kilometre	:d-3
+		https://duckduckgo.com/?q=boeing+777+co2+emission&t=opera&ia=web
+		https://www.carbonindependent.org/22.html	:d-4
+		https://www.icao.int/environmental-protection/CarbonOffset/Pages/default.aspx
+
+
+	next
+		https://duckduckgo.com/?q=mit+split+co2&t=opera&ia=web
+	
+	]13:35:16
+
+------------------------------------------
+
+
 
 
 
@@ -82,7 +102,8 @@
 ------------------------------------------ SEARCHES
 1	https://duckduckgo.com/?ia=web	二酸化炭素 固定化	2020年4月16日7:13:13
 2	https://duckduckgo.com/?ia=web	split CO2	2020年4月19日14:24:57
-
+3	https://duckduckgo.com/?ia=web	光合成　暗反応	2020年4月20日23:28:17
+	3.1	https://aburano-hanashi.kuni-naka.com/1306
 
 ------------------------------------------ CLOSING
 C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(res : JVE_37#23 : CO2) periodical updates^" && e && git push origin master
