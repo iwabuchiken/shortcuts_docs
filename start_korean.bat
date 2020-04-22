@@ -29,3 +29,5 @@ echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_korean.bat
 
 pause
 
+
+

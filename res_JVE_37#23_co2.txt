@@ -63,8 +63,26 @@
 	]13:35:16
 
 ------------------------------------------
+2020年4月22日8:39:16
+JVEMV6 37#23_4 / 37. miscs of miscs / 23. CO2
+	
+	https://aburano-hanashi.kuni-naka.com/1306	:d-1
+		#1	光合成の明反応によって
+		#2	カルビン回路は、二酸化炭素
+		#3	リン酸イオンはこんな構造式
+		#4	（3PG）になります。
+		
+	https://ja.wikipedia.org/wiki/リブロース1,5-ビスリン酸カルボキシラーゼ/オキシゲナーゼ	:d-2
+		#1	が正しい呼称である
+	
+	https://de.wikipedia.org/wiki/3-Phosphoglycerinsäure	:d-3
+	
+	next
+		https://ja.wikipedia.org/wiki/カルビン回路#カルビン回路の反応
+	
+	]10:20:09
 
-
+------------------------------------------
 
 
 
@@ -104,6 +122,7 @@
 2	https://duckduckgo.com/?ia=web	split CO2	2020年4月19日14:24:57
 3	https://duckduckgo.com/?ia=web	光合成　暗反応	2020年4月20日23:28:17
 	3.1	https://aburano-hanashi.kuni-naka.com/1306
+4	https://duckduckgo.com/?q=mit+split+co2&t=opera&ia=web	2020年4月22日8:39:41
 
 ------------------------------------------ CLOSING
 C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git add -A && git commit -m ^"(res : JVE_37#23 : CO2) periodical updates^" && e && git push origin master
