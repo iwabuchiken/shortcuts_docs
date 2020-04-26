@@ -27,7 +27,8 @@ launcher.exe %url_1% %url_2% %url_3%
 
 echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_korean.bat
 
-pause
+REM pause
+
 
 
 
