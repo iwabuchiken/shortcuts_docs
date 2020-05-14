@@ -1,0 +1,19 @@
+===========================[2020年5月14日17:05:49
+.75
+
+	https://ja.wikipedia.org/wiki/ドーパミン
+
+]17:36:51
+
+===========================
+
+
+echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\bk_naganuma.txt
+
+
+C:\WORKS_2\a.bat && pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a -A && g c -m ^"(res : shortcuts_docs : bk : naganuma) periodical updates^" && e && p
+
+
+
+echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\bk_naganuma.txt
+
