@@ -1,0 +1,22 @@
+2020年5月1日14:05:11
+	install sf2 file
+	
+	https://duckduckgo.com/?q=vlc+player+sf2+file&t=opera&ia=web
+	https://wiki.videolan.org/Midi/
+		#1	You can download them
+		
+		http://www.schristiancollins.com/generaluser.php
+		GeneralUser_GS_1.471.zip
+		
+		*#2	open VLC's preferences
+		*#3	two display modes called Simple and All
+		*#4	Choose the display mode called All
+		*#5	go to Input/Codecs > Audio codecs > FluidSynth
+		>> move folder "GeneralUser GS 1.471" to : C:\Users\iwabuchiken\VLC
+		
+		*#6	select the .sf2 file with Browse button
+		*#7	save the preferences with Save button
+		
+	TEST ==> OK
+	
+	]14:16:35

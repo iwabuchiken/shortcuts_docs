@@ -1,0 +1,19 @@
+2020年4月30日8:06:13
+
+r c
+s
+
+sheet ==> new book
+
+git commit ==>
+	(Cake_IFM11) fixting ==> entries.ods : column F,G
+
+g co 2ec98d9b39788324198dede4beda46b20f8ae204
+
+open ==> entries.ods
+
+C/P	==> column F,G (entries.ods)
+
+g co master
+
+paster ==> formula
