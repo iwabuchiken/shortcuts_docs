@@ -1,0 +1,65 @@
+2020年5月14日12:35:40
+
+	#clone https://github.com/iwabuchiken/MQL4_Indicators-EAs
+		to : C:\Users\user\AppData\Roaming\MetaQuotes
+	
+	gaitame ==> register
+		https://www.gaitamefinest.com/services/mt4_demo.php
+		
+			iwabuchi ken
+			48
+			09084352844
+			iwabuchi.k.2010@gmail.com
+			
+			20113247
+			28886159B
+	
+	mt4
+		login
+		
+		ea files ==> C/P	[12:56:21
+		
+			mt4 > F4
+			editor
+				"Experts" --> right click
+					to C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Experts\labs
+					from : C:\Users\user\AppData\Roaming\MetaQuotes\MQL4_Indicators-EAs\Experts\labs				"Include"
+			
+		editor
+			compile : ea-4.mq4
+				PROBLEM : 'write_Log__No_File_Line_Strings' - function not defined	ea-4.mq4	1099	4
+					TRY-1:
+						metaeditor : utils.mqh ==> "No_File" --> no ]13:20:30
+							(C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Include\utils.mqh)
+							"Include" ==> open
+								C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Include
+								"utils.mqh" ==> review (lines : 3118)
+									open
+									search "No_File"
+										==> not found
+						cloned file : C:\Users\user\AppData\Roaming\MetaQuotes\MQL4_Indicators-EAs\Include
+							utils.mqh (lines : 3322)
+								open
+								search "No_File"
+									==> yes
+					WORKAROUND-1 : C/P again ==> "Include"
+						from : C:\Users\user\AppData\Roaming\MetaQuotes\MQL4_Indicators-EAs\Include
+						to : C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Include
+						重複 ==> 置き換え
+						
+						validate : search "No_File"
+							in : C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Include\utils.mqh
+							==> found
+						validate : compile ==> ea-4.mq4
+							==> 0 errors
+							
+		C/P files ==> other folders
+			from : C:\Users\user\AppData\Roaming\MetaQuotes\MQL4_Indicators-EAs
+			to : C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4
+			valid : compile : ea-4.mq4 [13:35:08
+				==> OK ]13:35:40
+					
+	mt4 : run ea-4 [13:36:19
+		==> OK ]13:49:38
+
+COMP 13:49:46
