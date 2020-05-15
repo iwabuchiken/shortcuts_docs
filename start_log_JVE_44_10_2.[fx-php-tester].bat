@@ -72,50 +72,15 @@ C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.
 REM  && r c && s
 
 
-
+REM resources
+REM pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m 
 
 :end_of_end
 
 pause
 
+exit
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+REM resources
+C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m "(shortcuts : fx) periodical updates" && e && p
 

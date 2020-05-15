@@ -1,0 +1,74 @@
+2020年2月25日13:52:41
+
+	平価切り下げ
+	https://kotobank.jp/word/平価切下げ-623851
+		
+		輸入を不利にして国際収支改善の効果
+		
+		https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14127021789
+		
+	]14:44:12
+
+
+2020年2月28日12:55:29
+
+	[14:15:18
+	日本銀行 貨幣供給
+	https://www.boj.or.jp/statistics/money/ms/ms2001.pdf
+	日本銀行 貸借対照表	:d-1
+	https://www.boj.or.jp/about/account/data/zai1905a.pdf
+	
+	為替レート　円ドル
+	https://ecodb.net/exchange/usd_jpy.html#index01	:d-2
+	日本 外貨準備 推移
+	https://www.mof.go.jp/international_policy/reference/official_reserve_assets/data.htm	:d-3
+	C:\WORKS_2\WS\WS_Others.bk\08_mandel\20200303_140619.ods
+	next
+	book, cont.
+	]15:15:41
+
+
+2020年3月5日17:31:42
+
+	日本銀行 貸借対照表
+	https://www.boj.or.jp/about/account/index.htm/ <== list
+		https://www.boj.or.jp/about/account/data/zai1411a.pdf 第１３０回事業年度上半期末 (平成２６年９月３０日現在)	:d-1
+	
+	為替レート 推移
+	https://info.finance.yahoo.co.jp/fx/detail/?code=USDJPY=FX	:d-2
+	
+	next : cont.
+	
+	]18:28:25
+	
+
+2020年3月10日16:57:58
+
+	日本銀行 貸借対照表
+	https://www.boj.or.jp/about/account/index.htm/ <== list
+		https://www.boj.or.jp/about/account/data/zai1411a.pdf 第１３０回事業年度上半期末 (平成２６年９月３０日現在)	:d-1
+		https://www.boj.or.jp/about/account/data/zai1505a.pdf "第１３０回事業年度財務諸表等"	:d-2
+	
+	為替レート 推移
+	https://info.finance.yahoo.co.jp/fx/detail/?code=USDJPY=FX	:d-2
+	
+	]17:45:24
+
+2020年3月11日17:59:53
+
+	20200311_175947.ods // C:\WORKS_2\WS\WS_Others.bk\08_mandel
+	2020-03-10_17-44-17_000.jpg
+
+2020年3月16日15:49:46
+
+	20200311_175947.ods // C:\WORKS_2\WS\WS_Others.bk\08_mandel
+
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/39983
+	
+	next
+	~2017.3.31 ==> gen data table
+	
+
+
+
+======================== EOF ========================
