@@ -63,3 +63,15 @@
 		==> OK ]13:49:38
 
 COMP 13:49:46
+
+RE-OPEN [13:55:48
+
+	ERROR : "[2020.05.14 13:49:58 / lib_ea_2.mqh:293]OrderSend failed with error #0"
+	
+		TRY-1 :
+			mt4
+				C - o (option)
+				==> tab "エキスパートアドバイザ" > "DLLの使用を許可" ==> make checked
+			==> YES. started ]14:10:36
+
+]14:10:42
