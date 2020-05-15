@@ -1,0 +1,60 @@
+2020年5月15日13:11:43
+
+	console
+		pushd C:\Users\user\AppData\Roaming\MetaQuotes\MQL4_Indicators-EAs
+		g2 pull https://github.com/iwabuchiken/MQL4_Indicators-EAs.git
+	
+	folders
+		C/P
+			from : C:\Users\user\AppData\Roaming\MetaQuotes\MQL4_Indicators-EAs\*
+			to : C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4
+			method : 上書き
+	
+	mt4 [13:16:06
+		start : start "C:\Program Files\MT4 Gaitame Finest Company Limited\metaeditor.exe" //=> not working
+		start : editor
+	
+	editor
+		open file : ea-5.1.mq4 // C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Experts\labs\44_11.3_ea\ea-5.X\
+		compile : OK
+		
+		execute ==> [13:22:49
+			==> got on the chart [13:24:03
+			==> see log
+				==> DUP
+				==> OK ]13:29:50
+	
+	#editor
+		update mq4 file
+		compile
+		exec
+			==> order --> set? ~~~~> YES
+			==> log file --> dp name shown? ~~~> YES : "PGName = file=ea-5.1:dp=dp_5.1"
+	
+	editor @@@
+		update : period ==> M5
+		compile
+		exec
+			==> order --> set?
+	
+	console
+		r oj
+		#e2
+		
+		git
+			pushd C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4
+			s2
+			
+		push
+			#p2	]13:55:32
+	
+	PROBLEM [14:05:57
+		ticket[ea-4_tester-1].(20200515_133904).(tickets-data).log
+			==> no header
+		"[ea-4_tester-1].(XXX).(stats-data).log"
+			==> not gen-ed
+		
+		TRY-1 : re-run ea
+			==> gen-ed --> SOLVED ]14:08:38
+
+]14:19:09
