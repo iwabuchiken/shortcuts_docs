@@ -17,3 +17,4 @@ C:\WORKS_2\a.bat && pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a -A 
 
 echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\bk_naganuma.txt
 
+
