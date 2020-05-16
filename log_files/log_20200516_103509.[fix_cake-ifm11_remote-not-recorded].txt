@@ -1,0 +1,23 @@
+2020年5月16日10:23:40
+
+	access remote page
+		https://mysqladmin.lolipop.jp/pma/index.php?server=136&token=bab9d9fba6eb510450b26f15bd9cbec9#PMAURL-1:sql.php?db=LAA0278957-cakeifm11&table=images&server=136&target=&token=bab9d9fba6eb510450b26f15bd9cbec9
+		table : images
+			==> col "id" --> descending
+		
+		sqlite browser
+			start
+			get file name --> today's first
+				_id	44435
+				file_name	2020-05-15_10-47-26_000.jpg
+		remote
+			DELETE FROM images WHERE id >= 41211;
+			==> "実行"
+			validate : access file
+				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-05-16_07-41-13_000.jpg&RBs_AND_OR_File_Name=AND
+				==> "( total = 0 / filtered images = 0 / page = 1 of 0 )" --> OK ]10:32:10
+		
+		http://127.0.0.1:8000/im/
+			"13	data ==> to remote" ==> exec
+				==> "'new_data_Success' => (int) 22," --> OK
+		
