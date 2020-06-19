@@ -1,0 +1,31 @@
+2020年5月20日16:10:45
+
+	<desktop>
+		(explorer)
+			remove ==> sdcard
+	<note>
+		sdcard ==> insert
+		
+		statement file ==> save
+			to : C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Files\Report_Trades
+			file name : DetailedStatement.(XXX).htm
+		
+		C/P
+			1. C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Files\Logs\XXX
+			2. C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\5D28BD404C024725A623256D5EEF0486\MQL4\Files\Report_Trades\DetailedStatement.(XXX).htm
+			
+			to : E:\fx
+		
+		sdcard ==> remove
+	
+	<desktop>
+		(explorer)
+			sdcard ==> insert
+		
+		C/P
+			#1. E:\fx\20200519_114942[eap-2.id-1].[AUDJPY-5].dir
+				to : C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Logs
+			#2.  E:\fx\DetailedStatement.(20200520_161545).*
+				to : C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Report_Trades
+
+]16:22:46

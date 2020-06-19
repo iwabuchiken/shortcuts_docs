@@ -1,0 +1,10 @@
+2020年6月9日18:12:50
+	other=album-piece-2
+		2020-06-07_23-52-11_000.mp4 
+		==> move to HDD
+		==> ENOUGH
+	
+	2020年6月9日18:15:10
+	other=album-piece-2 ==> to musescore
+	
+	 

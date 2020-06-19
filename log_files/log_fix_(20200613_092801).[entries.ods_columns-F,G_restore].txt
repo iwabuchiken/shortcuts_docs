@@ -1,0 +1,29 @@
+2020年6月13日9:29:02
+
+	current ods file
+		save
+		close
+	
+	git
+		"(Cake_IFM11) fixing ==> entries.ods : column F,G"
+	#Wed Jun 10 10:08:23 2020 +0900
+	g co efa09e4f830ae26822ed30e001302ad22e5a1797
+		==> NO
+	
+	g show 1e57a3548048b74d04d741d18a3d3e5a1c77c80d
+	
+	###Mon Jun 8 11:06:23 2020 +0900
+	g co 1e57a3548048b74d04d741d18a3d3e5a1c77c80d
+	
+		==> FOUND
+		"=IF(E2="";C2;CONCATENATE(C2;" / ";E2))"
+	
+	close ==> Ods
+	
+	g co master
+	
+	open ==> ods
+	
+	C/P ==> formula
+
+]9:37:46

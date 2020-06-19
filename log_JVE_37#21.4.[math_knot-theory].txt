@@ -1,0 +1,24 @@
+2020年6月19日14:23:40
+
+M-1
+	invariants :w
+	
+	next : #2 6) Close cousins 
+
+]15:36:17
+
+===============================
+
+
+
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(WS_Others.JVEMV6 : math : knot theory) periodical updates" && e && git push origin master
+
+
+[docs] ------------------------------------------------
+1	http://sites.oglethorpe.edu/knottheory/introduction/
+		#1 Knots have some properties 
+		#2 6) Close cousins 
+2	http://pi.math.cornell.edu/~mec/2008-2009/HoHonLeung/page1_knots.htm
+3	https://mathlyblog.wordpress.com/2015/11/21/매듭이론knot-theory/

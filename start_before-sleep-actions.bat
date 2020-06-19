@@ -3,6 +3,8 @@ REM 	mailer
 REM 	filezilla
 REM 	vlc
 REM 	folders
+REM 	text file : huawei paths
+REM 	mobile paths
 REM =================================
 @echo off
 
@@ -40,6 +42,15 @@ REM 	2020/02/19 22:47:11
 REM =================================
 start C:\Users\iwabuchiken\Desktop\shortcuts_docs
 start C:\WORKS_2\WS\WS_Cake_IFM11\tmp
+
+REM =================================
+REM 	mobile paths
+REM 	2020”N5ŒŽ30“ú22:35:58
+REM =================================
+rem start "C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-3)_copy-files-from-mobile.txt"
+
+rem 2020”N6ŒŽ15“ú22:58:08
+C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-3)_copy-files-from-mobile.txt"
 
 :end_of_end
 

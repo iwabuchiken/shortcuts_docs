@@ -4,6 +4,7 @@ REM 	git
 REM 	browser
 REM 	log dir
 REM 	terminal
+REM 	time label
 REM =================================
 @echo off
 
@@ -48,7 +49,9 @@ REM =================================
 REM 	log dir
 REM 	2020/01/22 17:44:47
 REM =================================
-start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+REM start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+start C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Tester
+
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\44_currency\10_prog-php\2_tester
 
 REM 
@@ -68,19 +71,46 @@ REM 	git
 REM 	2020/01/04 15:21:38
 REM =================================
 REM C:\WORKS_2\a.bat
-C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat q && C:\WORKS_2\batches\s.bat
+REM C:\WORKS_2\batches\r.bat oj && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat c && C:\WORKS_2\batches\s.bat && C:\WORKS_2\batches\r.bat q && C:\WORKS_2\batches\s.bat
 REM  && r c && s
 
 
 REM resources
 REM pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m 
 
+
+REM =================================
+REM 	time label
+REM 	2020”N5ŒŽ24“ú15:58:35
+REM =================================
+C:\WORKS_2\t.bat
+
+
 :end_of_end
 
 pause
 
-exit
+REM exit
 
 REM resources
-C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m "(shortcuts : fx) periodical updates" && e && p
+REM C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m "(shortcuts : fx) periodical updates" && e && p
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 
