@@ -1,0 +1,76 @@
+2020年6月20日16:09:12
+
+	
+===============================
+2020年6月21日15:37:48
+
+	.21
+	瓦器 陶器 違い
+	
+		https://touroji.com/manufacture/suyaki_mokuteki.html 素焼き
+		
+		磁器	1200<
+			https://kotobank.jp/word/%E7%A3%81%E5%99%A8-72544#E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E5.A4.A7.E8.BE.9E.E6.B3.89
+		陶器	800 ~ 1200
+			https://kotobank.jp/word/%E9%99%B6%E5%99%A8-103268
+		瓦器	釉薬　=>　なし
+			https://kotobank.jp/word/%E7%93%A6%E5%99%A8-43450
+	
+	焼き塩
+	https://kotobank.jp/word/焼き塩-1428877
+	
+	藻塩
+	
+	花塩
+	https://yonagunikaien.ti-da.net/e9266885.html
+	
+	漢字 火偏 操
+		燥 https://okjiten.jp/kanji1195.html
+	燥 漢方
+		https://www.kabaya-pharmacy.co.jp/kanpo/dictionary/index.html
+		https://www.kampo-rin.com/archives/531
+		https://duckduckgo.com/?t=ffab&q=燥+漢方&ia=web
+	
+	やまいだれ 邑 ふるとり
+	癰疔 ようちょう
+	https://kakijun.jp/page/youh23200.html
+	https://kakijun.jp/page/chow07200.html
+	
+	熱腫
+	
+	]16:42:08
+
+===============================
+2020年6月23日13:53:41
+
+	.21
+	薬性 六味	search
+		https://ja.wikipedia.org/wiki/薬膳	:d-1
+	
+	鹹い（からい）
+	鹹 訓読み	search
+	鹹味 読み方	　=>　「かんみ」
+		https://kaden.watch.impress.co.jp/docs/column/lifestyle/1161775.html
+	
+	艾灸　がいきゅう
+		https://baike.baidu.com/item/艾灸/6201856
+	血燥　けっそう
+		http://www.hal.msn.to/kankaisetu/kanpokai1395.html
+	熱塩湯
+	漢字 戈 皿
+		https://kanji.jitenon.jp/kanjil/5566.html
+		https://cinefil.tokyo/_ct/17317491
+	倶 読み方
+		ともに
+	ハコベ
+	
+	]15:27:39
+
+
+===============================
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : honchou) periodical updates" && e && git push origin master
+
