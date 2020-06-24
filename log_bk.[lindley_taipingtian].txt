@@ -1,0 +1,17 @@
+===============================
+2020年6月24日14:11:12
+
+	.4
+	https://archive.org/details/interventionnoni00stapuoft/page/n7/mode/2up
+	https://en.wikipedia.org/wiki/Augustus_Stapleton
+	
+	
+	
+
+===============================
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : lindley_taipingtian) periodical updates" && e && git push origin master
+
