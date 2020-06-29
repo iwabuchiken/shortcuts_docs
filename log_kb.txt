@@ -52,6 +52,13 @@
 	
 	]19:15:45
 
+###2020年6月29日19:01:03
+
+	2020-06-28_21-56-33_000.mp4		rev
+	
+	]19:29:25
+
+
 
 ================================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_kb) periodical updates" && e && git push origin master

@@ -48,3 +48,4 @@ start firefox.exe
 
 rem echo.>> "C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_log_JVE_37#23.[CO2].bat"
 echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_37#23.[CO2].bat"
+
