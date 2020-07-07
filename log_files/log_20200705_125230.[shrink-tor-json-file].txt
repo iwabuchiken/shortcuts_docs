@@ -1,0 +1,103 @@
+2020年7月5日12:51:26
+
+	delete
+	up to : (before) {"guid":"-MhBXZqOCnTw","title":"福島原発告訴団・関東: 参
+	
+	[13:01:06
+	"オペアンプの基礎" ==> children --> delete
+	]13:01:19
+	
+	"20131108_094331　Windows アイコン変更"
+	[13:01:38
+		delete
+	]13:03:50
+	
+	"20131111_082905 jquery change(), on()"
+	1524
+	[13:03:56
+		
+		delete : 2492
+	]13:08:41
+	
+	"20131111_204055 高電圧、コッククロフト"
+		2523
+		3035
+		delete
+		2492
+		
+	"20131114_042409　news"
+	[13:26:27
+		2524
+		4551
+		2492
+		51014 kb (json file size)
+	]13:28:21
+	
+	[13:29:31
+	20/11/2013 09:16:06 Ruby ftp
+		4215
+		51014 kb
+	]13:30:38
+	
+	physics engine bullet
+	[13:31:11
+		6762
+		51008
+	
+	16/12/2013 23:46:58　悲劇の共有
+	[13:32:39
+		==> DROP
+	
+	s: "16/12/2013 23:46:58　悲劇の共有" (re)
+	[13:35:27
+		2492 ~
+		~ 9615
+		delete
+		51001
+	
+	s: 国民年金 掛金 統計 時系列 - Google Search
+	[13:50:50
+		2492
+		~ 8194
+	
+	[13:57:14
+	reset ==> copy orig file
+		==> bookmarks-2020-07-04.[tor].[20200705_002403].(copy-2).json
+	
+	C - M - w > F4 > Win - ← (modify window)
+	
+	[14:01:44
+	s: "Google Chrome から"
+		1131
+	s: \[.+\]
+	s: children":\[.+\]
+	
+	[14:09:51
+	s: "\}\]" ==> 2 times
+		20015	オペアンプの原理と基礎
+	s: upward : children":\[
+		1471	Ubuntu 14.04 LTS : キーボードの割り当てを設定する ： Server World
+	select lines
+		==> DROP
+	
+	[14:18:14
+	s: "\}\]" ==> 1 time
+		6718
+	s: 
+		
+	
+	
+	
+		<steps>
+		window-1
+			find ==> "children"
+			copy ==> title string
+			memo ==> location number
+		win-2
+			find ==> title string
+			find ==> "\]"
+			select ==> lines
+			delete
+
+	<steps-2> multil "children"
+	

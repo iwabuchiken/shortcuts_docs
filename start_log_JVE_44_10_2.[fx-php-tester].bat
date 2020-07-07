@@ -124,3 +124,10 @@ REM C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g
 
 
 
+
+
+
+
+
+
+

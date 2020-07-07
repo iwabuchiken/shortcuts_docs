@@ -1,0 +1,9 @@
+2020年7月7日13:40:27
+
+	fx mt4 order volume	==> search
+	mt4 api ordersend
+	mt4 ordersend volume
+		https://duckduckgo.com/?q=mt4+ordersend+volume&ia=web
+		http://seemytrades.com/how-to-calculate-forex-volume-of-a-trade-to-determine-your-risk-reward/
+			"This will give you all the specs "
+	]14:03:50

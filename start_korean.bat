@@ -25,7 +25,8 @@ pushd C:\WORKS_2\Programs\opera
 set url_1="https://mail.google.com/mail/ca/u/0/#search/myself+korean?compose=new"
 set url_1_2="https://mail.google.com/mail/ca/u/0/#drafts?compose=CllgCJTLpcfBQZZPDWtqFswnnPBgTvGvllzDHTtfppNXxwZpZpBGxqQCgZwCVBBDRCsvHrFTqrL"
 
-set url_1_3="https://mail.google.com/mail/u/0/?shva=1#inbox"
+rem set url_1_3="https://mail.google.com/mail/u/0/?shva=1#inbox"
+set url_1_3="https://mail.google.com/mail/u/0/?shva=1#search/myself+diary"
 
 set url_2=https://stopwatch-app.com
 set url_3=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
@@ -34,8 +35,17 @@ set url_4="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ja&tl
 
 set url_4_2="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ko&tl=ja"
 
+rem arabic - english
+set url_4_3="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ar&tl=en"
+set url_4_4="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=ar"
+
+rem arabic - english
+set url_4_5_1="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ru&tl=en"
+set url_4_5_2="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=ru"
+
 REM launcher.exe %url_1% %url_1_2% %url_2% %url_3% %url_4% %url_4_2%
-launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3%
+rem launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3%
+launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3% %url_4_3% %url_4_4% %url_4_5_1% %url_4_5_2%
 
 REM =================================
 REM 	update batch file
@@ -55,6 +65,13 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
+
+
+
+
+
+
 
 
 
