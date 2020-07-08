@@ -44,8 +44,8 @@ set url_4_5_1="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=r
 set url_4_5_2="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=ru"
 
 REM launcher.exe %url_1% %url_1_2% %url_2% %url_3% %url_4% %url_4_2%
-rem launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3%
-launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3% %url_4_3% %url_4_4% %url_4_5_1% %url_4_5_2%
+launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3%
+rem launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3% %url_4_3% %url_4_4% %url_4_5_1% %url_4_5_2%
 
 REM =================================
 REM 	update batch file
@@ -65,6 +65,7 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
 
 
 
