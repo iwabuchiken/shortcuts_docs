@@ -17,6 +17,13 @@ REM =================================
 start C:\WORKS_2\WS\WS_Others.miscs\misc_files\diary_2020-01.odt
 
 REM =================================
+REM 	folders
+REM 	2020”N7ŒŽ9“ú12:53:12
+REM =================================
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang
+
+
+REM =================================
 REM 	browser
 REM 	2020/01/07 14:44:50
 REM =================================
@@ -65,6 +72,7 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
 
 
 
