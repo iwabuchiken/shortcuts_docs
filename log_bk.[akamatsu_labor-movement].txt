@@ -1,0 +1,10 @@
+###2020年7月9日23:29:38	
+
+	]0:19:29
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : akamatsu_labor-movement) periodical updates" && e && git push origin master
+
