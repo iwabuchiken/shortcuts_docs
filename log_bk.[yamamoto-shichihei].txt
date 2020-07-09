@@ -1,0 +1,10 @@
+2020年7月9日17:21:08
+
+	
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : yamamoto-shichihei) periodical updates" && e && git push origin master
+
