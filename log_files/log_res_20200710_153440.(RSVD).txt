@@ -1,0 +1,15 @@
+2020年7月10日15:31:48
+
+	https://zh.wikipedia.org/w/index.php?search=果仁&title=Special:搜索&fulltext=搜索&ns0=1
+	https://ko.wikipedia.org/wiki/바클라바
+	https://zh.wikipedia.org/wiki/食用果仁列表	:d-1
+
+
+	]15:50:22
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : nuts : RVSD) periodical updates" && e && git push origin master
+
+
