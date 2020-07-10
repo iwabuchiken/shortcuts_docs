@@ -88,6 +88,22 @@
 	
 	]19:19:08
 
+###2020年7月10日18:49:30
+
+	#prac		M7+10th
+	prac	m7+9th		[18:49:55
+		t.70
+		#C ~~> A
+		#C => A	(1 => L6)
+	~rev		2020-07-09_19-18-48_000.mp4
+	
+	next : ANY
+	
+	]19:06:25
+
+
+
+
 
 ================================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_kb) periodical updates" && e && git push origin master
