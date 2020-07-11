@@ -101,6 +101,46 @@
 	
 	]19:06:25
 
+###2020年7月11日12:25:10
+
+	REGISTER-FILES
+	
+	s: jazz code progression
+	https://duckduckgo.com/?q=jazz+code+progression+site%3Abeginnerguitarhq.com&ia=web
+	https://youllhearit.com/5-easy-jazz-piano-chords-that-sound-great/	:d-1
+	
+	REC	]12:34:54
+
+
+###2020年7月11日18:10:12
+
+	kb ==> rec on the machine
+	https://support.casio.com/manualfile.php?cid=008005146
+		"Use the following procedure to record "
+	]18:21:03
+	
+	[18:21:21
+	#prac	m7+9th
+		t.70
+		C ~~> A	(1 ~~> L6)
+	]18:26:48
+	
+	[18:27:15
+		prac		M7+10th
+			t.70
+			C ~~> E
+			method-1 ==> video	R=1#
+	]18:43:00
+	
+	[18:44:59
+		f-N
+		score+	sec-1
+		sec-1③		R=2
+	]19:00:18
+
+]19:00:26
+
+
 
 
 

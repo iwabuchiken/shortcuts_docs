@@ -1,0 +1,13 @@
+###2020年7月11日15:28:31
+
+	
+
+
+
+
+================================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_news-reading) periodical updates" && e && git push origin master
+
+
+
+========================= EOF =========================
