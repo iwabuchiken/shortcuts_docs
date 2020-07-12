@@ -155,6 +155,43 @@
 	]17:04:04
 
 
+===============================
+2020年7月12日17:25:20
+
+	search
+		#鹹水
+			https://ja.wikipedia.org/wiki/鹹水
+			https://ja.wikipedia.org/wiki/かん水
+		#藻塩
+		#万葉集 藻塩
+			http://www.e-moshio.com/myriad.html
+			たおやめ
+				https://dictionary.goo.ne.jp/word/手弱女_(たおやめ)/
+		~鹹水 拉麺	==> DROP
+		#蘭州拉麺
+	
+	s:
+		#酒漿
+			https://dictionary.goo.ne.jp/word/漿/
+		]17:57:00
+		
+		#漢字 食 撰
+		~上饌
+		#御饌	みけ
+		]18:08:46
+	
+	s:
+		稚苗
+			https://kotobank.jp/word/稚苗-566335
+			https://huyubawadekasegi.hatenablog.com/entry/2019/05/23/180708	:d-1
+		半夏生
+		]18:37:08
+
+]18:37:12
+			
+===============================
+
+@@@
 
 ===============================
 
