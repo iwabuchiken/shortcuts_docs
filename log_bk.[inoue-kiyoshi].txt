@@ -1,0 +1,17 @@
+###2020年7月14日17:02:34
+
+	井上清
+	
+	https://blog.goo.ne.jp/akebonobashi1937/e/a83703a6e203aa7e78fa04b2f184af52
+	https://ja.wikipedia.org/wiki/ラダ・ビノード・パール
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : inoue-kiyoshi) periodical updates" && e && git push origin master
+
