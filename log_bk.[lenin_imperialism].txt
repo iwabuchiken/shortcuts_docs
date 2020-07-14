@@ -1,0 +1,23 @@
+###2020年7月14日18:10:16
+
+	.11
+	J.A.ホブスン
+		https://pl.wikipedia.org/wiki/John_Atkinson_Hobson
+
+
+	]18:30:26
+
+===============================
+
+
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : lenin_imperialism) periodical updates" && e && git push origin master
+
