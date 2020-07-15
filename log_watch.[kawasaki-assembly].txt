@@ -1,0 +1,38 @@
+###2020年7月15日18:14:20
+
+	http://www.city.kawasaki.jp/shisei/category/40-0-0-0-0-0-0-0-0-0.html
+	
+	
+	http://www.city.kawasaki.jp/980/page/0000042416.html	議会運営委員会の開催予定
+		7月22日（水）　午前10時
+	
+	s:
+		川崎市
+		http://www.city.kawasaki.jp/shisei/category/62-12-14-0-0-0-0-0-0-0.html	令和2年市長提出議案
+		令和2年第4回川崎市市議会定例会　議案（令和2年6月1日提出）	http://www.city.kawasaki.jp/170/page/0000117771.html
+		
+			http://www.city.kawasaki.jp/980/page/0000117966.html	令和2年第4回川崎市議会定例会議案及び会議結果	:d-1
+	
+	next
+		==> see memo
+	
+	]18:34:47
+	
+
+
+================================
+
+
+
+@@@
+
+
+================================
+
+
+================================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : watch : kawasaki-assembly) periodical updates" && e && git push origin master
+
+
+
+========================= EOF =========================
