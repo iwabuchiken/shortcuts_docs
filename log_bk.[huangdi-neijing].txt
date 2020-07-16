@@ -1,0 +1,23 @@
+===============================
+###2020年7月16日16:58:30
+
+	http://park6.wakwak.com/~ycc/yellowcrabisland/medicalcollete/libraly/somon/01.html
+	
+	next
+	夫上古聖人之教下也
+
+	]17:03:54
+
+===============================
+
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : huangdi-neijing) periodical updates" && e && git push origin master
+
