@@ -1,0 +1,32 @@
+
+	
+===============================
+###2020年7月16日16:04:50
+
+	グアテマラ
+	https://ko.wikipedia.org/wiki/과테말라#역사		:d-1
+	https://zh.wikipedia.org/wiki/危地马拉#历史		:d-2
+
+
+	next
+	
+	https://zh.wikipedia.org/wiki/危地马拉内战
+	https://ko.wikipedia.org/wiki/과테말라_내전
+	
+	
+	]16:31:24
+
+
+===============================
+
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : history_latin-america) periodical updates" && e && git push origin master
+
