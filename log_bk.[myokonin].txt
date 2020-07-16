@@ -1,0 +1,17 @@
+===============================
+2020年7月16日18:55:01
+
+	
+	next ==> see memo
+	]19:11:18
+
+===============================
+
+@@@
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : myokonin) periodical updates" && e && git push origin master
+
