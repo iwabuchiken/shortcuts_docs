@@ -1,0 +1,17 @@
+===============================
+2020”N7ŒŽ18“ú19:15:43
+
+	https://zh.wikipedia.org/wiki/Ž¸ä—
+	https://ko.wikipedia.org/wiki/???
+	
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : sociology_anomy) periodical updates" && e && git push origin master
+
