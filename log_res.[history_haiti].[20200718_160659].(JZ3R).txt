@@ -1,0 +1,13 @@
+===============================
+
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : history_haiti) periodical updates" && e && git push origin master
+

@@ -277,7 +277,25 @@
 	]19:10:20
 
 ================================
+2020年7月18日18:40:18
 
+1	et-prev
+	file=2020-07-17_18-54-52_000.mp4
+	#R=1
+	for=new-pattern
+
+2	et-prev:log-file:sec-2
+	m7+9th ==> faster movement
+	t=90
+	#R=2
+
+	next
+		review
+	
+	]19:00:14
+
+
+================================
 
 
 
@@ -288,8 +306,8 @@
 
 
 ================================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_kb) periodical updates" && e && git push origin master
 
 
 
 ========================= EOF =========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_kb) periodical updates" && e && git push origin master
