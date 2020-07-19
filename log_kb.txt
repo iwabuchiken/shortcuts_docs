@@ -296,11 +296,46 @@
 
 
 ================================
+2020年7月19日18:16:41
 
+1	et-prev:2020-07-18_18-45-58_000.mp4
+	file=2020-07-17_18-54-52_000.mp4
+	deriv
+		==> #R=1
+	]18:29:43
+
+2	rev-prev:sec-2:R.2
+	m7+9th ==> faster movement
+	t=90
+	#C~F#	7 pairs
+	F~A		5
+	R=~
+	
+	]18:40:52
+
+3	f-N
+	i.f.=this:sec-2
+	#R=2
+	
+	]18:49:50
+
+4	mapping
+	3) music types <JVEMV6/46%20Art/8%20kb/3_music-types.mm>
+	
+	
+5	res-N
+	map=id=VAN0;LMPV
+	#R=3
+
+	next
+		review : sec-1~5 (all)
+	
+	]19:07:51
+
+================================
 
 
 @@@
-
 
 ================================
 
@@ -311,3 +346,4 @@
 
 ========================= EOF =========================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_kb) periodical updates" && e && git push origin master
+
