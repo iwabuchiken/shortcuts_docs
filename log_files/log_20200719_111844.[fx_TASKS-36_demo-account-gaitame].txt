@@ -1,0 +1,21 @@
+###2020年7月19日11:24:28
+
+	https://www.gaitamefinest.com/services/tol_dem_entry_mt4.php
+	==> tor --> not working
+		iwabuchi ken
+		48
+		09084352844
+		iwabuchi.k.2010@gmail.com
+		
+	note-pc
+		start
+		start
+			chrome browser
+			mt4
+		mt4
+			login
+			ea-4.mq4
+				"...penging_Orders" --> to 10
+				C - F7 (compile all)
+	]11:35:27
+
