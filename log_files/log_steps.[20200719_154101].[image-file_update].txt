@@ -1,0 +1,13 @@
+2020年7月19日15:33:22
+
+	filezilla ==> start
+	
+	browser
+		image file ==> DL
+	desktop
+		open ==> image file
+		paint
+		modify
+		upload
+
+]15:40:50
