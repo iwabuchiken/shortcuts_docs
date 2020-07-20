@@ -333,6 +333,18 @@
 	]19:07:51
 
 ================================
+2020年7月20日18:28:47
+
+1	et-N
+	id=MTB1
+	memo=sec-1
+	R=1#
+
+	next : review
+	
+	]19:09:02
+
+================================
 
 
 @@@
@@ -346,4 +358,3 @@
 
 ========================= EOF =========================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_kb) periodical updates" && e && git push origin master
-
