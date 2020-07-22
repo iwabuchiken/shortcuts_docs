@@ -17,4 +17,3 @@
 
 
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : history_arab-persia) periodical updates" && e && git push origin master
-

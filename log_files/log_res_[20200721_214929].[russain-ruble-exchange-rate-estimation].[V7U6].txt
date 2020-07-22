@@ -1,0 +1,46 @@
+2020”N7Œ22“ú21:16:47
+
+	https://russian.rt.com/russia/news/760927-rossiyane-dohod-semya
+	 „Q„€„ƒ„ƒ„y„‘„~„u „~„p„x„r„p„|„y „ƒ„‚„u„t„~„y„z „‚„p„x„}„u„‚ „w„u„|„p„u„}„€„s„€ „t„€„‡„€„t„p „~„p „ƒ„u„}„„ 
+	 1)
+		 85,7 „„„„ƒ. „‚„…„q„|„u„z. 
+		 	==> 8 –œ 5,700 rubles
+	 
+	 2)
+	 eq‚RlB“ú–{‚È‚çAŒ‚É‚T‚O–œ‰~‚Æ‰¼’èBi”NûA‚U‚O‚O–œ‰~j
+	 	==> i.e. 85.7 k rubles ‚ÆA 500 k JPY ‚Æ‚ªA“¯‚¶B
+	 3)
+	 500 k / 85.7 k = 5.834 JPY per 1 ruble
+	 
+	 4)
+	 R/JPY ‚ÌAÀ¨ƒŒ[ƒg
+	 	https://finance.yahoo.com/quote/RUBJPY=X?ltr=1&guccounter=1&guce_referrer=aHR0cHM6Ly95YW5kZXguY29tLw&guce_referrer_sig=AQAAACCOJ0DSstUDyd_KCyqTHoMgaeUCyP6v9BoS5MilzGcU43gZLlilsmymlwF0VjRXa5wRXVy1KmQdvIp3udVBW2cX_U9H_ecYpCMhfWC7L1mvEAS_qcwCEph17_RU7hp2qtiH2E1aG1v-wk1546R3QGberb9F4yVR-BKtsNEjXte7
+	 	
+	 	RUB/JPY (RUBJPY=X)
+		CCY - CCY Delayed Price. Currency in JPY
+		Add to watchlist
+		1.5088-0.002 (-0.1324%)
+	 
+	 5)
+	 	3) ‚Ìƒf[ƒ^‚©‚çŒ¾‚¦‚ÎA‚Pƒ‹[ƒuƒ‹‚ÅA‚¨‚¨‚æ‚»A‚TD‚W‰~A”ƒ‚¦‚éB
+	 	
+	 	‚µ‚©‚µAÀ¨‚ÍA‚Pƒ‹[ƒuƒ‹‚ÅA‚PD‚T‰~‚µ‚©A”ƒ‚¦‚È‚¢Bi 4) j
+	 	
+	 	1 - (1.5088 / 5.834) = 74.13 %
+	 
+	 6) CONCLUSION
+	 
+	 	==> ‚¢‚ÜAƒ‹[ƒuƒ‹‚ÍA–{—ˆ‚Ì‰¿’l‚É‘Î‚µ‚ÄA‚¨‚¨‚æ‚»A74 % AˆÀ‚¢B
+	 
+	 
+	 ]21:29:40
+	 
+	
+@@@
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : russain-ruble-exchange-rate-estimation : V7U6) periodical updates" && e && git push origin master
+
