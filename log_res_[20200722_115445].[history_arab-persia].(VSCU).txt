@@ -1,0 +1,20 @@
+===============================
+2020年7月22日11:56:04
+
+	https://es.wikipedia.org/wiki/Irak#Irak_independiente		:d-1
+		#1	Irak, una vez separado
+		
+
+	next : COMP
+	
+	]13:34:08
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : history_arab-persia) periodical updates" && e && git push origin master
+

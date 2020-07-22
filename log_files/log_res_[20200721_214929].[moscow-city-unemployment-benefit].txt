@@ -1,0 +1,58 @@
+2020年7月21日21:45:23
+
+https://russian.rt.com/russia/news/766023-rakova-vyplaty-bezrabotnym
+ В Москве около 5 млрд рублей выплатили безработным во время пандемии 
+
+https://budget.mos.ru/project_main
+Показатели бюджета города Москвы на 2019 год
+
+Налоговые доходы
+2 226,8 млрд руб.
+
+Неналоговые доходы
+236,8 млрд руб.
+
+Источники
+финансирования
+дефицита
+276,0 млрд руб.
+Итого бюджет 2 739,5 млрд руб.
+
+https://finance.yahoo.com/quote/USDRUB=X/
+USD/RUB (USDRUB=X)
+CCY - CCY Delayed Price. Currency in RUB
+Add to watchlist
+70.8427-0.4013 (-0.56%)
+
+https://finance.yahoo.com/quote/USDJPY=X/
+USD/JPY (USDJPY=X)
+CCY - CCY Delayed Price. Currency in JPY
+Add to watchlist
+107.1500-0.0670 (-0.06%)
+
+https://ru.wikipedia.org/wiki/Москва
+12 678 079[2] человек (2020)
+
+<thinking>
+1)
+moscow city budget, tax revenues : 2,226.8 (bill ruble)
+	==> 2,226.8 / 70.84 = 31.43 (bill USD)
+		31.43 * 107.15 = 3,367.72 (１０億円 JPY)
+					==> 3 兆 3,677 億円
+
+2)
+5 bill rubles
+	==>
+	5 bill rubles
+	5 / 70.84 = 0.07058 bill USD
+	0.07058 * 107.15 = 7.5626 bill JPY
+				==> 75 億円
+	75 億円 / 3 兆 3,677 億円 ==> 0.22 %
+
+3)
+1,267 万人　（モスクワ市　人口）
+
+	75 %10^8 円 / 1,267 %10^4 = 0.05919 * %10^4
+				==> 591.9 円
+
+	]22:14:24

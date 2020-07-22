@@ -1,0 +1,64 @@
+###2020年7月21日13:29:49
+
+1
+	start ==> app
+		avidemux
+		vlc
+		moviemaker
+	~open ==> file
+		mihran_part-9~11_with-music.avi
+		// C:\WORKS_2\Downloads\4k\mihran-dance
+	
+	open file ==> moviemaker
+		save ==> wmv : mihran_part-9_with-music.wmv
+	
+	wmv file ==> open : demux
+		crop
+		save : mihran_part-9_with-music.(2).avi
+	
+	saved avi file ==> open : vlc (validate)
+		ERROR
+		コーデックがサポートされていません。:
+VLCは形式 "WMAP" (Windows Media Audio Professional) をデコードできませんでした。
+
+2	[13:47:34
+	source file ==> lets start from the beginning
+	
+	3 Simple Dance Moves for Beginners - Part 9 (Hip Hop Dance Moves Tutorial)   Mihran Kirakosian.mp4
+	1
+		open file ==> demux
+		set A, B
+		save : mihran_part-9_with-music.(2).avi
+		open saved avi file ==> vlc
+			==> OK
+	
+	2	3 Simple Dance Moves for Beginners - Part 10 (Hip Hop Dance Moves Tutorial)   Mihran Kirakosian.mp4
+		
+		open ==> demux
+		set A, B
+			12.08:music
+		#save : mihran_part-10_with-music.(2).avi
+		#open saved avi file ==> vlc
+			==> OK
+	
+	3	3 Simple Dance Moves for Beginners - Part 11 (Hip Hop Dance Moves Tutorial)   Mihran Kirakosian.mp4
+
+		open ==> demux
+		set A, B
+			25,17:music
+		#save : mihran_part-11_with-music.(2).avi
+		#open saved avi file ==> vlc
+			==> OK
+
+	4	aggregate
+		open files ==> demux
+		append
+		#save : mihran_part-9~11_with-music.(2).avi
+		open saved avi file ==> vlc
+			==> OK
+		
+		]14:00:18
+	
+	next : COMP
+	
+	]14:00:52
