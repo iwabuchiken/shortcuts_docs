@@ -29,3 +29,7 @@
 				to : C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Report_Trades
 
 ]16:22:46
+
+
+=================== EOF ===================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts\\log_files : fx_TASKS-26_move-statement-files-from-note-pc-to-desktop) periodical updates" && e && git push origin master
