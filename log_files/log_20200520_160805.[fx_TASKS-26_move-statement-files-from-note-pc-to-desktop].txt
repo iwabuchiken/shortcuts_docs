@@ -31,5 +31,46 @@
 ]16:22:46
 
 
+###2020年7月23日13:49:50
+<gen combined list>
+
+	php : get_ListOf_Orders_From_Statement()
+	==> search log in : log_JVE_44_10_2.[fx-php-tester].[~20200613_151940].odt
+	
+	==> Libfx::get_ListOf_Orders_From_Statement($fpath_Statement_File)
+	
+		C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin
+		
+		CONS::$param_Dpath_Statement_File
+			param_Dpath_Statement_File
+		CONS::$param_Fname_Statement_File
+			param_Fname_Statement_File
+		
+http://localhost/Eclipse_Luna/Cake_IFM11/fx_utilities/get_ListOf_Orders_From_Statement?param_Dpath_Statement_File=C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Report_Trades&param_Fname_Statement_File=DetailedStatement.[a-j,M5].[20200723_134001].htm
+
+	==> access
+
+	order list ==> extracted to :
+	C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin\data.[fx-utils].XXXX.dir
+	
+	==>
+		C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\webroot\Log_Fx_Admin\data.[fx-utils].20200723_140206_894305.dir
+		Order_List.20200723_140206_894305.dat
+		
+	
+	combined list
+	==> log_JVE_44_10_2.[fx-php-tester].[~20200514_143913].odt // #V5SM
+	
+	http://localhost/Eclipse_Luna/Cake_IFM11/fx_utilities/util_3__Gen_Trading_Result_List?param_Dpath_File_Tickets_Data=C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Logs\20200506_133310[eap-2.id-1].[AUDJPY-5].dir&param_Fname_File_Tickets_Data=[ea-4_tester-1].(20200506_133310).(tickets-data).log&param_Fname_File_Statement=DetailedStatement.[20200509_123535].htm
+	
+	==>
+	http://localhost/Eclipse_Luna/Cake_IFM11/fx_utilities/util_3__Gen_Trading_Result_List?param_Dpath_File_Tickets_Data=C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Files\Logs\20200722_134532[eap-2.id-1].[AUDJPY-5].dir&param_Fname_File_Tickets_Data=[ea-4_tester-1].(20200722_134532).(tickets-data).log&param_Fname_File_Statement=DetailedStatement.[a-j,M5].[20200723_134001].htm
+
+		==> OK ]14:29:11
+
+
+
+
+
 =================== EOF ===================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts\\log_files : fx_TASKS-26_move-statement-files-from-note-pc-to-desktop) periodical updates" && e && git push origin master
