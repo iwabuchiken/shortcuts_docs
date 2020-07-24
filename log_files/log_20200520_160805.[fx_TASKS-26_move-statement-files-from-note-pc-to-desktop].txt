@@ -72,8 +72,12 @@ http://localhost/Eclipse_Luna/Cake_IFM11/fx_utilities/get_ListOf_Orders_From_Sta
 ###2020年7月24日13:32:10
 
 	<steps>
+	(Desktop)
+	take out ==> sdcard
 	
-
+	==> see : odt file
+		C:\WORKS_2\shortcuts_docs\log_files
+		log_20200520_160805.[fx_TASKS-26_move-statement-files-from-note-pc-to-desktop].odt
 
 
 
