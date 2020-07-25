@@ -1,0 +1,42 @@
+===============================
+2020年7月25日14:09:15
+
+	https://www.youtube.com/watch?v=IhEHsGrRfyY
+	
+		~ 0.54			flute	melody-A
+		0.55			piano	melody-A
+		1.04			flute	melody-A
+						piano	accomp
+		2.41	sec-N	flute
+	
+	
+	C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\8_kb
+		Olivier Messiaen - Le Merle noir (The Blackbird) [Kenneth Smith, Matthew Schellhorn].mp3
+		
+		interesting
+		2:8.9 ~ 2:28.4
+			==> lets : write out the notes(pitches)	:lets-1
+
+		interesting
+		1:57.8 ~ 2:2.9
+			==> write-out		:lets-2
+					- notes
+					- piano-part ==> which notes, which rythm locations, how long rythm notes?
+
+		1:46.5 ~ 1:57.5 ==> 非可逆リズム	:lets-3
+		
+		1:33.1 ~ 1:45.0 ==> 非可逆リズム	:lets-4
+			piano --> accomp, using this rythm (?)
+		
+	next
+		lets-1,-2,-3,-4
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : music-analysis_messiaen_le-merle-noir) periodical updates" && e && git push origin master
