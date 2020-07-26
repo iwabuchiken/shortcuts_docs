@@ -1,0 +1,21 @@
+===============================
+2020年7月26日10:45:57
+
+	https://www.christiancentury.org/blogs/archive/2016-08/white-supremacy-american-christianity
+	
+	https://ko.wikipedia.org/wiki/해석학_(철학)	:d-1
+	
+	
+	next
+		https://ko.wikipedia.org/wiki/해석학_(철학)#해석_어원
+	
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : Hermeneutics : 63WZ) periodical updates" && e && git push origin master

@@ -1,0 +1,25 @@
+===============================
+2020年7月26日9:55:02
+
+	s:
+	white supremacy christianity
+	https://www.christiancentury.org/blogs/archive/2016-08/white-supremacy-american-christianity
+	
+	https://en.wikipedia.org/wiki/Discrimination
+		https://en.wikipedia.org/wiki/Elitism
+		https://ko.wikipedia.org/wiki/엘리트주의
+		https://en.wikipedia.org/wiki/Elite
+	
+	s:
+	newspaper the world
+	
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : white-supremacy-christianity) periodical updates" && e && git push origin master
