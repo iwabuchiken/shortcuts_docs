@@ -2,6 +2,11 @@
 
 	access remote page
 		https://mysqladmin.lolipop.jp/pma/index.php?server=136&token=bab9d9fba6eb510450b26f15bd9cbec9#PMAURL-1:sql.php?db=LAA0278957-cakeifm11&table=images&server=136&target=&token=bab9d9fba6eb510450b26f15bd9cbec9
+		
+		username=LAA0278957						:20200726_141925
+		databasename=LAA0278957-cakeifm11
+		passwd=4edhdrj9gsgjj9q		
+		
 		table : images
 			==> col "id" --> descending
 		
@@ -11,13 +16,32 @@
 				_id	44435
 				file_name	2020-05-15_10-47-26_000.jpg
 		remote
-			DELETE FROM images WHERE id >= 41211;
+			DELETE FROM images WHERE id >= 42652;
 			==> "実行"
 			validate : access file
 				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-05-16_07-41-13_000.jpg&RBs_AND_OR_File_Name=AND
 				==> "( total = 0 / filtered images = 0 / page = 1 of 0 )" --> OK ]10:32:10
 		
 		http://127.0.0.1:8000/im/
+		
+			
+		
 			"13	data ==> to remote" ==> exec
 				==> "'new_data_Success' => (int) 22," --> OK
 		
+		validate		:2020年7月26日14:23:04
+			http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-07-26_09-17-28_000.jpg&RBs_AND_OR_File_Name=AND
+				==> OK	]2020年7月26日14:24:29
+
+
+
+
+============================= change log
+2020年7月26日14:19:11
+
+	:20200726_141925
+	:2020年7月26日14:23:04
+
+
+=================== EOF ===================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts\\log_files : fix_cake-ifm11_remote-not-recorded) periodical updates" && e && git push origin master
