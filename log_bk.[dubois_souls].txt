@@ -1,0 +1,22 @@
+https://www.gutenberg.org/files/408/408-h/408-h.htm#chap00
+===============================
+2020年7月27日11:20:36
+
+	next
+	Between me and the other world 
+	
+	]11:32:14
+
+===============================
+
+
+
+
+@@@
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : dubois_souls) periodical updates" && e && git push origin master

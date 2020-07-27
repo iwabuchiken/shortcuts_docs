@@ -1,0 +1,30 @@
+2020年7月26日18:38:11
+
+1
+	slide
+	practice
+	C4->E4
+
+2
+	slide
+	practice
+	C4->E4
+	R=1#
+
+3
+	prac-N
+	G3 - G#4 - G#+4 (# + quarter)
+	R=2
+
+
+@@@
+
+================================
+
+
+================================
+
+
+
+========================= EOF =========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : music_[recorder]) periodical updates" && e && git push origin master

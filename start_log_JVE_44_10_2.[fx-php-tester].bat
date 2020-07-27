@@ -4,6 +4,7 @@ REM 	git
 REM 	browser
 REM 	log dir
 REM 	terminal
+REM 	pushd
 REM 	time label
 REM =================================
 @echo off
@@ -80,6 +81,13 @@ REM pushd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m
 
 
 REM =================================
+REM 	pushd
+REM 	2020”N7ŒŽ26“ú15:43:39
+REM =================================
+echo bac to C:\WORKS_2 ...
+pushd C:\WORKS_2
+
+REM =================================
 REM 	time label
 REM 	2020”N5ŒŽ24“ú15:58:35
 REM =================================
@@ -94,56 +102,6 @@ REM exit
 
 REM resources
 REM C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && g a . && g c -m "(shortcuts : fx) periodical updates" && e && p
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
