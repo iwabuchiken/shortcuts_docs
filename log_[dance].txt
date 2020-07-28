@@ -1,0 +1,22 @@
+================================
+2020年7月28日8:49:03
+
+1	id=3	rev
+	t.100
+
+2	id=4	rev
+	
+
+
+
+@@@
+
+================================
+
+
+================================
+
+
+
+========================= EOF =========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : dance) periodical updates" && e && git push origin master
