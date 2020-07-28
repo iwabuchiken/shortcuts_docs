@@ -41,7 +41,7 @@ REM =================================
 REM 	update batch file
 REM 	2020年7月21日14:34:41
 REM =================================
-echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
+echo.>> C:\WORKS_2\shortcuts_docs\start_knot-theory.bat
 
 
 ======================== EOF ========================
