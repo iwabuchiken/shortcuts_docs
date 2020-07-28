@@ -1,0 +1,28 @@
+================================
+2020年7月28日17:22:32
+
+	しゃがむ
+	https://duckduckgo.com/?q=しゃがむ&iax=images&ia=images
+	https://99bako.com/2297.html	「かがむ」と「しゃがむ」意味の違いと使い分け方
+	https://ananweb.jp/news/141687/ できない人が増えてる? “しゃがむ”動きで楽に動けるカラダに
+	
+	https://duckduckgo.com/?q=campfire+standing+human&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fperson-sitting-campfire-night-relaxing-glass-wine-woman-sitting-campfire-night-glass-wine-129603801.jpg
+	https://thumbs.dreamstime.com/b/person-sitting-campfire-night-relaxing-glass-wine-woman-sitting-campfire-night-glass-wine-129603801.jpg	:d-1
+	
+	https://thumbs.dreamstime.com/b/woman-warm-near-campfire-forest-woman-warm-near-campfire-forest-147802581.jpg		:d-2
+	
+	]17:55:46
+	
+
+
+@@@
+
+================================
+
+
+================================
+
+
+
+========================= EOF ========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : anima-dessin) periodical updates" && e && git push origin master
