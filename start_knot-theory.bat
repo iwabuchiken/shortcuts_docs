@@ -43,6 +43,10 @@ REM 	2020年7月21日14:34:41
 REM =================================
 echo.>> C:\WORKS_2\shortcuts_docs\start_knot-theory.bat
 
+======================== DOCS ========================
+https://yandex.ru/images/search?from=tabbar&text=もやい結び&pos=0&img_url=https://blogimg.goo.ne.jp/user_image/58/74/f6d2b4f2c0ad9d6815395f8c5d7546fe.jpg&rpt=simage	2020年7月30日23:28:55
+
+
 
 ======================== EOF ========================
 
