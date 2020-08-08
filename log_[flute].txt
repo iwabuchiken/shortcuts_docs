@@ -1,0 +1,11 @@
+###2020年8月8日17:35:06
+
+1	==> see memo
+	
+	
+================================
+
+
+
+========================= EOF =========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
