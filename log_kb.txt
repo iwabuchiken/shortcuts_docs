@@ -409,8 +409,23 @@
 
 
 ================================
+2020年8月4日17:57:23
 
+0)	prep
+	1. start
+		musescore
+		vlc
 
+1)	
+	musescore
+	
+	C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\8_kb\musescore
+	VID_20200724_172440.mp4.mscz
+	search ==> this video
+		==> 2020-07-24_17-24-39_000.mp4
+	
+	
+	
 ================================
 
 

@@ -5,7 +5,7 @@
 		
 		username=LAA0278957						:20200726_141925
 		databasename=LAA0278957-cakeifm11
-		passwd=4edhdrj9gsgjj9q		
+		passwd=4edhdrj9gsgjj9q
 		
 		table : images
 			==> col "id" --> descending
@@ -13,19 +13,24 @@
 		sqlite browser
 			start
 			get file name --> today's first
-				_id	44435
-				file_name	2020-05-15_10-47-26_000.jpg
+				_id	42868		]2020年8月8日17:08:47
+				file_name	2020-08-07_12-19-30_000.jpg
 		remote
-			DELETE FROM images WHERE id >= 42652;
+			DELETE FROM images WHERE id >= 42868;
 			==> "実行"
 			validate : access file
+				SELECT * FROM images WHERE file_name LIKE "2020-08-0%";
 				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-05-16_07-41-13_000.jpg&RBs_AND_OR_File_Name=AND
 				==> "( total = 0 / filtered images = 0 / page = 1 of 0 )" --> OK ]10:32:10
 		
 		http://127.0.0.1:8000/im/
 		
+		console
+			REM #insert data
+C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
 			
-		
+			"commands : list no.12~17,18~21" ==> continue
+
 			"13	data ==> to remote" ==> exec
 				==> "'new_data_Success' => (int) 22," --> OK
 		
@@ -42,6 +47,9 @@
 	:20200726_141925
 	:2020年7月26日14:23:04
 
+2020年8月8日17:08:55
+
+	]2020年8月8日17:08:47
 
 =================== EOF ===================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts\\log_files : fix_cake-ifm11_remote-not-recorded) periodical updates" && e && git push origin master
