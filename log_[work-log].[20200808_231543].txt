@@ -1,0 +1,28 @@
+2020年8月8日23:14:30
+
+	"c gg" ==> source file, where?
+		s: choice_x10s_or_2
+		exec_guitar_start
+pushd C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\8_kb
+sakura start_keyboard.bat
+
+-------------
+	23:18:51
+	new keyword : "co" --> for composition
+		choice_x13s_or_1
+	
+	------------
+	23:27:47
+	
+	batch file --> at : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art
+		start_music-composition.bat
+		==> write the path in the batch file.
+	
+---------------
+23:47:46
+	
+	musescore ==> starts
+
+	]0:12:20
+
+
