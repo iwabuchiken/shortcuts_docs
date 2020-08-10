@@ -10,8 +10,8 @@ REM =================================
 REM 	txt file
 REM 	2020年7月21日14:34:54
 REM =================================
-sakura "C:\WORKS_2\shortcuts_docs\log_JVE_37#21.4.[math_knot-theory].txt"
-
+rem sakura "C:\WORKS_2\shortcuts_docs\log_JVE_37#21.4.[math_knot-theory].txt"
+C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\21_math&physics\4_knot-theory\log_JVE_37#21.4.[math_knot-theory].txt"
 
 REM =================================
 REM 	map
@@ -49,6 +49,7 @@ https://yandex.ru/images/search?from=tabbar&text=もやい結び&pos=0&img_url=h
 
 
 ======================== EOF ========================
+
 
 
 

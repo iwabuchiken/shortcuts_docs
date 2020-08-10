@@ -81,4 +81,4 @@
 
 
 ========================= EOF =========================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : dance) periodical updates" && e && git push origin master
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : dance) periodical updates" && e && git push origin master
