@@ -1,0 +1,18 @@
+2020年8月13日18:04:32
+	
+	.8
+	田中首相答弁 侵略 中国
+	
+	https://ja.wikipedia.org/wiki/江華島事件
+
+	next
+		M-1 : "こうして交渉支援を終えた2隻は"
+
+
+=============================== DOCS(MATE)
+1	https://ja.wikipedia.org/wiki/江華島事件
+
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : log_bk.[pak-gyongsik].txt) periodical updates" && e && git push origin master
+
