@@ -1,0 +1,20 @@
+=============================
+2020年8月13日23:18:52
+
+	national endowment for democracy
+	
+	next
+		lets make memos
+]23:34:29
+
+=============================
+
+
+=============================
+
+
+=============================
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs\log_files && git add . && git commit -m "( shortcuts_docs : log_files : national-endowment-for-democracy : id=3CHM ) periodical updates" && e && git push origin master
