@@ -8,13 +8,18 @@
 ]23:34:29
 
 =============================
+2020年8月14日14:36:21
 
+	:d-1 / M-1
+	
+	next : M-1.1
 
 =============================
 
 
-=============================
-
+============================= MAT
+1	https://ko.wikipedia.org/wiki/국립민주주의기금
+	.1	https://ko.wikipedia.org/wiki/국립민주주의기금#활동
 
 ========================= EOF ========================
 C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs\log_files && git add . && git commit -m "( shortcuts_docs : log_files : national-endowment-for-democracy : id=3CHM ) periodical updates" && e && git push origin master
