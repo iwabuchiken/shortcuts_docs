@@ -15,11 +15,26 @@
 	next : M-1.1
 
 =============================
+2020年8月15日16:51:02
 
+	==> memo
+	
+	next : M-3
+
+]17:29:28
+
+=============================
+
+
+============================= RESOURCES
+1	
 
 ============================= MAT
 1	https://ko.wikipedia.org/wiki/국립민주주의기금
 	.1	https://ko.wikipedia.org/wiki/국립민주주의기금#활동
+2	https://unwatch.org/cuba-tries-to-block-un-speech-by-oswaldo-payas-daughter/
+3	https://ja.wikipedia.org/wiki/全米民主主義基金
+
 
 ========================= EOF ========================
 C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs\log_files && git add . && git commit -m "( shortcuts_docs : log_files : national-endowment-for-democracy : id=3CHM ) periodical updates" && e && git push origin master
