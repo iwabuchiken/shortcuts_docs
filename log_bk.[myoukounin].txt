@@ -1,0 +1,41 @@
+===============================
+2020年8月15日17:36:07
+
+	.148
+	車蓋
+	https://duckduckgo.com/?q=牛車+古代&iar=images&iax=images&ia=images
+	https://www.sohu.com/a/165847378_99972948
+		https://5b0988e595225.cdn.sohucs.com/images/20170819/42d9e504461e4422baad3f7efa1f1653.jpeg
+	
+	殊勝
+	https://dictionary.goo.ne.jp/word/微妙_(みみょう)/#jn-213449
+	
+	いふめる
+	https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10147355025
+	
+	蓮（はちす）
+	https://ja.wikipedia.org/wiki/ハス#/media/ファイル:Nelumno_nucifera_open_flower_-_botanic_garden_adelaide_edit3.jpg
+	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://www.pixpot.net/img/photos/3/1/m_16db7107d253ffe512f39e0d39a686e6.jpg
+	
+	
+
+===============================
+
+
+
+===============================
+
+
+
+===============================
+
+
+
+
+@@@
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : myoukounin) periodical updates" && e && git push origin master
+
