@@ -1,3 +1,10 @@
+REM =================================
+REM 	folders
+REM 	browser
+REM 	update batch file
+REM 	log file
+REM =================================
+
 
 REM =================================
 REM 	folders
@@ -22,3 +29,11 @@ REM 	update batch file
 REM 	2020年8月15日16:18:55
 REM =================================
 echo.>> C:\WORKS_2\shortcuts_docs\start_[anima-dessin].bat
+
+REM =================================
+REM 	log file
+REM 	2020年8月16日17:46:10
+REM =================================
+C:\WORKS_2\shortcuts_docs\log_[anima-dessin].txt
+
+
