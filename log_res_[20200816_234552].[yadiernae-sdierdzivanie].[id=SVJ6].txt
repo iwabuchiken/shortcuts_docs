@@ -1,0 +1,17 @@
+2020年8月16日23:27:11
+
+	核抑止論
+	https://duckduckgo.com/?ia=web 核抑止論
+
+
+
+===============================
+
+
+@@@
+
+
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : yadiernae-sdierdzivanie) periodical updates" && e && git push origin master
+
