@@ -121,6 +121,13 @@
 	
 
 ================================
+2020年8月17日17:51:03
+
+	https://www.pinterest.com/pin/327003622941389489/
+		Baidu IME_2020-8-17_17-57-43.jpg
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/Baidu IME_2020-8-17_17-57-43.jpg
+		http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=http://benfranklin.chips.jp/cake_apps/images/ifm11_2/Baidu%20IME_2020-8-17_17-57-43.jpg
+		
 
 
 ================================
@@ -134,6 +141,12 @@
 
 ================================ RESOURCES
 1	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php
+
+================================ STEPS : image upload / 2020年8月17日18:01:05
+1	screenshot
+2	upload
+3	validate
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/XXXX
 
 
 ========================= EOF ========================
