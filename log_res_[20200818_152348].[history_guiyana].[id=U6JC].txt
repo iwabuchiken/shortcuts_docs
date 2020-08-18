@@ -1,0 +1,22 @@
+===============================
+2020年8月18日15:24:59
+
+	M-1 / #1
+
+]15:39:33
+
+
+=============================== MATERIALS
+1	https://ko.wikipedia.org/wiki/가이아나
+		https://ko.wikipedia.org/wiki/가이아나#주민		#1
+
+
+===============================
+
+@@@
+
+
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [history_guiyana].[id=U6JC]) periodical updates" && e && git push origin master
+
