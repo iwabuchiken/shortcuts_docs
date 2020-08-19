@@ -1,0 +1,16 @@
+=============================== 
+
+
+=============================== MATERIALS
+1	
+
+
+===============================
+
+@@@
+
+
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [history_zimbabwe].[id=0CDX]) periodical updates" && e && git push origin master
+
