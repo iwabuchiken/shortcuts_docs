@@ -1,0 +1,29 @@
+===============================
+2020年8月19日18:31:40
+
+	https://duckduckgo.com/?q=タオル+作り方+花&ia=web
+
+
+	next : M-2
+
+]18:38:58
+
+
+===============================
+
+
+===============================
+
+
+===============================
+
+
+=============================== MATERIALS
+1	https://itsutoha.com/1646.html	2020年8月19日18:32:22
+2	https://towel-to.jp/blog/1603/	2020年8月19日18:38:45
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=towel-flower].[id=5YYH]) periodical updates" && e && git push origin master
