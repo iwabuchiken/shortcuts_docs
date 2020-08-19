@@ -1,0 +1,27 @@
+===============================
+2020年8月20日8:05:46
+
+	search docs
+
+]8:05:52
+
+===============================
+
+
+===============================
+
+
+===============================
+
+
+=============================== MATERIALS
+1	http://kenchikuyogo.com/100-a/000-aigaki.htm	2020年8月20日8:04:21
+	s: https://duckduckgo.com/?q=建築+用語&ia=web
+2	https://www.renoco.jp/glossary/interior/	2020年8月20日8:04:31
+	s: https://duckduckgo.com/?q=内装+用語&t=hk&ia=web
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=construction-terms].[id=MJEU]) periodical updates" && e && git push origin master
