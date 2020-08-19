@@ -1,0 +1,13 @@
+2020年8月19日18:05:30
+
+	夏至
+	https://ja.wikipedia.org/wiki/夏至#日付
+	https://ja.wikipedia.org/wiki/定気法
+	https://ja.wikipedia.org/wiki/黄道
+
+	next : COMP
+
+]18:24:33
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [xiazhi].[id=P14X]) periodical updates" && e && git push origin master
