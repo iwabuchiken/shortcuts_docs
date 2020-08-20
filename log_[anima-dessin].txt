@@ -131,13 +131,42 @@
 
 
 ================================
+2020年8月20日16:35:45
 
+	ほおずえ
+	https://news.dwango.jp/idol/21655-1704
+	https://duckduckgo.com/?q=しゃがむ&iax=images&ia=images&iai=https://news-img.dwango.jp/wp-content/uploads/2017/04/N8A1867-683x1024.jpg
+	https://news-img.dwango.jp/wp-content/uploads/2017/04/N8A1867-683x1024.jpg	:d-0
+	
+	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://news-img.dwango.jp/wp-content/uploads/2017/04/N8A1867-683x1024.jpg	
+	https://ameblo.jp/aroma-be/entry-12057912259.html	:d-1
+	https://trivia-japan.net/1819.html	:d-2
 
+	next
+		手 ==> continue
+
+]17:03:52
 
 @@@
 
+================================
+
+
+
+================================
+
+
+
+================================
+
+
+
+
 ================================ IMAGES
 1	https://duckduckgo.com/?q=しゃがむ&iax=images&ia=images
+2	ほおずえ
+	.1	https://news-img.dwango.jp/wp-content/uploads/2017/04/N8A1867-683x1024.jpg
+	
 
 ================================ RESOURCES
 1	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php
@@ -150,4 +179,4 @@
 
 
 ========================= EOF ========================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : anima-dessin) periodical updates" && e && git push origin master
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : anima-dessin) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
