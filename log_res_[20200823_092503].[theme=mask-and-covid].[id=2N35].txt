@@ -1,0 +1,56 @@
+===============================
+2020年8月23日9:26:04
+
+	https://www.medicalnewstoday.com/articles/covid-19-and-face-masks-to-wear-or-not-to-wear#2.-Evidence-is-lacking	 July 3, 2020
+	
+		1. Masks offer no protection to the wearer	#1
+			"Mathematical modeling suggests"	#1.1
+		2. Evidence is lacking				#2
+			"One recent study [...] in 124 families"	#2.1
+		3. Masks may increase risk of infection	#3
+			"Masks can become contaminated"		#3.1
+			"Claim: Masks can lead to pneumonia"	#3.2
+		4. Masks might harm the wearer		#4
+			"CO2 poisoning"			#4.1
+			"Claim: Masks are dangerous for people with certain health conditions"	#4.2
+	
+	https://www.foxnews.com/media/surgeon-general-explains-masks-public-coronavirus	"Published March 31"
+		"the data doesn't show” [...] will help people"	#1
+			>==> which data?	]9:57:34
+		“a major way [...] by touching a surface [...] touching your face [...] increase your risk” 	#2
+			==> "major" --> any percentage number?
+			==> "touching" risk, "wearing" benefit --> how is the weighing?
+		"can also give you a false sense of security"	#3
+		"PPE [Personal protective equipment] shortages"	#4
+			==> why not order to manufacture more?
+		"the masks are ineffective for those without symptoms"	#5
+			==> "ineffective" --> how known?
+		"NOT effective in preventing general public from catching"	#6
+			==> "ineffective" --> how known?
+		"if healthcare providers can’t get them to care for sick patients"	#7
+			==> "not effective [...] from catching", but effective for healthcare people?
+		"people who are sick should wear a mask"	#8
+		"data isn't quite there [..] net benefit to the individual "	#8
+			==> which data?
+		"N95 respirator masks aren’t as effective for the general public "	#9
+			==> how known?
+		" I have to make sure it's properly fitted"		#10
+			==> "properly" --> if not properly, how much reduced the effectiveness?
+		
+	
+	next : COMP
+
+]10:04:54
+
+===============================
+
+
+=============================== MATERIALS
+1	
+2	
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=mask-and-covid].[id=2N35]) periodical updates" && e && git push origin master
