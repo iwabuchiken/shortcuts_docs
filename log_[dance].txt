@@ -157,8 +157,24 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\id=4
 ]12:09:32
 
 ================================
+2020年8月26日8:01:28
 
+C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\id=4	square step
+#	\id=4b\2020-07-31_12-29-59_000.mp4
+#	\id=4\id=4b\2020-08-08_13-01-25_000.mp4
+#	\id=4\4c\2020-08-09_10-10-37_000.mp4
+#	\id=4\4c\2020-08-13_08-47-09_000.mp4
+#	\id=4\2020-07-26_08-53-16_000.mp4
+	
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\id=8	ふくらはぎ gastrocnemius
+#%	\id=8a\2020-08-18_11-05-28_000.mp4
+#	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\id=8\2020-08-13_08-53-20_000.mp4
 
+C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\id=9	pushup
+#	\2020-08-19_11-05-55_000.mp4
+#	\9-1\2020-08-24_08-26-16_000.mp4
+
+]8:52:47
 
 ================================
 
