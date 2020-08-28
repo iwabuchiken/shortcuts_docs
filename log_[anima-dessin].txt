@@ -177,16 +177,23 @@
 		
 ]17:31:36
 
+
+
+================================
+2020年8月28日17:13:32
+	
+	ほおづえ
+	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://scontent-frt3-2.cdninstagram.com/v/t51.2885-15/e35/41644969_261690984484429_7783090896644015833_n.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&_nc_cat=101&_nc_ohc=MdkEqyq6OmoAX9e97cf&oh=6d6696ec24151ad38c35df2e385da5e4&oe=5F737240
+	
+	https://instagrammernews.com/detail/1873698624896336563
+	
+	
+]17:48:31
+
+================================
+
+
 @@@
-
-================================
-
-
-
-================================
-
-
-
 ================================
 
 
@@ -211,6 +218,13 @@
 	.5	
 
 3	顔:目
+3.1	顔：目鼻口（めはなくち）
+	.1	http://hooozue.blog.fc2.com/blog-entry-20.html	2020年8月28日17:25:01
+	.2	
+	.3	
+	.4	
+	.5	
+	.
 4	しわ：服：長袖
 	.1	https://media.voista.jp/wp-content/uploads/sites/2/2020/01/recording-conversations-in-hospital_TP_V-1200x675.jpg	.2	
 	.3	
@@ -219,6 +233,20 @@
 
 5	筋肉：脚
 	.1	s: https://duckduckgo.com/?q=%E8%84%9A+%E7%AD%8B%E8%82%89&iar=images&iax=images&ia=images
+	.2	
+	.3	
+	.4	
+	.5	
+
+6	ポーズ：ほおづえ
+	.1	http://hooozue.blog.fc2.com/blog-entry-16.html	2020年8月28日17:25:36
+	.2	
+	.3	
+	.4	
+	.5	
+
+7	資料
+	.1	http://kanpouseitai.blog87.fc2.com/blog-entry-258.html?sp	手関節の仕組み	2020年8月28日17:26:57
 	.2	
 	.3	
 	.4	
