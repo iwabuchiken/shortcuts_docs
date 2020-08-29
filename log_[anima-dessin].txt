@@ -219,10 +219,14 @@
 ================================ RESOURCES
 1	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php
 2	手
-	.1	https://media.voista.jp/wp-content/uploads/sites/2/2020/01/recording-conversations-in-hospital_TP_V-1200x675.jpg	.2	
-	.3	
-	.4	
-	.5	
+	.1	https://media.voista.jp/wp-content/uploads/sites/2/2020/01/recording-conversations-in-hospital_TP_V-1200x675.jpg	.2	https://www.moezine.com/73687/田中れいな-唇の美容液って使った事あるー女の/	2020年8月29日16:37:07	つまむ：棒
+	.3	https://instagrammernews.com/detail/1960939287316664256	2020年8月29日16:38:46
+	.4	https://instagrammernews.com/detail/1960939287316664256	2020年8月29日16:38:52	つまむ：串
+	.5	https://instagrammernews.com/detail/2126657130525111928	2020年8月29日16:39:29	つまむ：チューブ
+	.6	
+	.7	
+	.8	
+	.9	
 
 3	顔:目
 3.1	顔：目鼻口（めはなくち）
