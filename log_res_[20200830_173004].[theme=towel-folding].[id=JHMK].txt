@@ -1,0 +1,29 @@
+===============================
+2020年8月30日17:31:04
+
+	:M-2
+
+	n:
+		ANY
+
+]17:42:13
+
+===============================
+
+
+
+@@@
+===============================
+
+
+
+
+=============================== MATERIALS
+1	https://duckduckgo.com/?q=タオル+たたみ方&iar=images&iax=images&ia=images&iai=https://i.pinimg.com/originals/68/a9/9f/68a99ffb828df48906927c9ef6f2e4e9.jpg	2020年8月30日17:31:51
+2	https://blog.oruzo-amuzo.jp/post-450/
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=towel-folding].[id=JHMK]) periodical updates" && e && git push origin master
