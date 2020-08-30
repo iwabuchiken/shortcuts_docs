@@ -1,0 +1,41 @@
+================================
+2020年8月30日18:28:58
+
+	basic practice
+	adjacents : 2 notes
+		Ef - Df
+			count --> 4
+			count --> 8
+		Df - Bf
+			count --> 4
+			count --> 8
+		Ef - Gf
+		Gf - Af
+	adjacents : 3 notes
+		Ef Gf Af
+		Df Ef Gf
+	
+	jump : discrete
+		Ef3 - Bf3
+		Gf3 - Bf3
+	
+	oct-2
+		Bf3 - Bf4
+	
+	:i
+		８ビートの最後に、「突先（とっさき」を入れる
+		　=>　「８ビートが終わったよ」と、自分への信号発信
+		w:「ロンドA」　=>　1-2-3-4/1-2-3-4'/1-2-3-4/1-2-3-4(4") (1~4 ==> different note)
+		
+]19:02:26
+
+================================
+
+
+
+================================
+
+
+
+========================= EOF =========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_jap-flute.txt) periodical updates" && e && git push origin master
