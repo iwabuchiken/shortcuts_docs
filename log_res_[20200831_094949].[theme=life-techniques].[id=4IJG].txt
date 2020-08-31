@@ -1,0 +1,22 @@
+===============================
+2020年8月31日9:52:04
+
+	M-1
+
+	n: ANY
+
+@@@
+===============================
+
+
+
+
+=============================== MATERIALS
+1	https://www.hankookilbo.com/News/Read/201501280979690528	2020年8月31日9:51:56
+2	
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=life-techniques].[id=4IJG]) periodical updates" && e && git push origin master
