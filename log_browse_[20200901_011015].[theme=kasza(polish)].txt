@@ -1,0 +1,14 @@
+2020年9月1日0:28:51
+
+	kasza
+	groats
+		https://dictionary.goo.ne.jp/word/en/groats/#ej-37515
+	ひき割り
+	https://ja.wikipedia.org/wiki/セモリナ
+
+
+	n: COMP
+
+
+========================= EOF ========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_browse : [theme=kasza(polish)]) periodical updates"
