@@ -1,0 +1,31 @@
+===============================
+2020年8月31日15:43:19
+	
+	id=1 / session=1
+	
+	日本酒　=>　沸騰
+		50 ml --> (50 - x) ml になった。
+
+	n:
+		日本酒　=>　焼酎に混ぜる
+		술 --> 소주에 섞는다.
+	
+	further:
+		> 焼酎を、アルコール分、半分、飛ばす　=>　どんな味になるか？
+	
+	
+@@@
+===============================
+
+
+
+
+=============================== MATERIALS
+1	
+2	
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=studio-lab].[id=0K28]) periodical updates" && e && git push origin master
