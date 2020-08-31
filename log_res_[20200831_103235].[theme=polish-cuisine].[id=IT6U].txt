@@ -1,0 +1,21 @@
+===============================
+2020年8月31日10:33:41
+
+	M-1
+
+
+@@@
+===============================
+
+
+
+
+=============================== MATERIALS
+1	https://kuchnia-domowa-ani.blogspot.com/2012/08/ogorki-konserwowe.html	2020年8月31日10:33:48
+2	
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=polish-cuisine].[id=IT6U]) periodical updates" && e && git push origin master
