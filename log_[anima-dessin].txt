@@ -213,20 +213,28 @@
 ================================
 2020年8月31日16:53:10
 
+	足首
 	
+	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://stat.ameba.jp/user_images/20100209/09/rinkeiko/f0/f2/j/t02200204_0709065710407003678.jpg?caw=800
+	
+	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://img.toplog.jp/eyJidWNrZXQiOiJ0b3Bsb2ctcHJvZCIsImtleSI6ImZpbGVzXC9hcnRpY2xlXC8zNTIyNzhcLzM1MjI3OF8wLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo2OTAsImZpdCI6ImNvdmVyIn19fQ==?1567184391
+	
+
+
+================================
+2020年9月1日17:45:30
+
+	m.
+
+]18:25:35
+
+
+================================
+
+
+
+
 @@@
-
-================================
-
-
-
-
-================================
-
-
-
-
-
 ================================
 
 
@@ -249,6 +257,12 @@
 	.7	
 	.8	
 	.9	
+2.1	手：指
+	.1	https://toplog.jp/352278	2020年9月1日17:56:42
+	.2	
+	.3	
+	.4	
+	.5	
 
 3	顔:目
 3.1	顔：目鼻口（めはなくち）
@@ -283,6 +297,13 @@
 	.2	
 	.3	
 	.4	
+	.5	
+
+8	脚：足首
+	.1	https://duckduckgo.com/?q=マッサージ+足首&iar=images&iax=images&ia=images&iai=https://beauty-men.jp/wp-content/uploads/2019/02/7eedcb639c21aaf53c9d2996f9656774-650x465.jpg	2020年9月1日17:55:33
+	#.2	https://kariginuui.blogspot.com/2020/06/50_15.html	2020年9月1日17:55:35
+	#.3	https://toplog.jp/352278	2020年9月1日17:56:13
+	.4	https://dime.jp/genre/672639/	2020年9月1日17:57:48
 	.5	
 
 
