@@ -1,0 +1,25 @@
+===============================
+2020年9月2日0:33:02	
+
+	https://duckduckgo.com/?q=한의+의원&ia=web
+	
+	https://cleanpond.modoo.at/?link=7adqipzz
+		==> read
+	
+
+	
+@@@
+===============================
+
+
+
+
+=============================== MATERIALS
+1	
+2	
+3	
+4	
+5	
+
+===============================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=han-medicine].[id=634Y]) periodical updates" && e && git push origin master
