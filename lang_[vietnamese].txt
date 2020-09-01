@@ -1,0 +1,42 @@
+================================
+2020年9月1日14:51:35
+
+hello.				xin chào.
+thank you.			ca?m o7n ba_n.
+pleas say again.	làm o7n hãy nói la_i.
+please help me.		làm o7n giúp tôi.
+good bye.			Ta_m bie^_t.
+yes.				Đúng.
+no.					Không.
+good.				to^'t.
+bad.				xa^'u.
+i am sorry.			tôi xin lo^~i.
+
+	n: ANY
+
+]15:04:51
+
+================================
+
+
+
+================================
+
+
+
+================================
+
+
+
+@@@
+
+================================ MATERIALS
+
+1	https://ja.wikipedia.org/wiki/ベトナム語#音韻	2020年9月1日14:48:31
+2	
+3	
+4	
+
+
+========================= EOF =========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : lang_[vietnamese]) periodical updates" && e && git push origin master
