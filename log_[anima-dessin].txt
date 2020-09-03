@@ -306,6 +306,14 @@
 	.4	https://dime.jp/genre/672639/	2020年9月1日17:57:48
 	.5	
 
+9	花：ツユクサ
+	.1	http://ww1.fukuoka-edu.ac.jp/~fukuhara/keitai/tsuyukusa.html	2020年9月3日8:08:37
+	.2	https://agri.mynavi.jp/2019_06_27_76831/	2020年9月3日8:43:24	"ツユクサ予防のポイント"
+	.3	
+	.4	
+	.5	
+
+
 
 ================================ SEARCH / 2020年8月31日17:11:01
 1	https://duckduckgo.com/?q=マッサージ+手&iar=images&iax=images&ia=images	2020年8月31日17:17:56
