@@ -42,5 +42,20 @@
 
 
 
+
+================================
+
+
+
+
+================================ closing : 2020年9月3日19:13:49
+1	git
+2	close
+	1. browser pages
+	2. folders
+	3. vlc
+	4. this
+
+
 ========================= EOF =========================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
