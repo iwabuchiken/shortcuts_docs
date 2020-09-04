@@ -1,5 +1,7 @@
 2020/01/04 16:43:03
-
+	
+	ハクセキレイ	id=2	2020年9月4日15:48:57
+	
 	1. https://www.youtube.com/watch?v=XPndWrTXVKg
 	2. https://ja.wikipedia.org/wiki/セグロセキレイ#ハクセキレイとの関係
 	3. https://ja.wikipedia.org/wiki/ハクセキレイ
@@ -19,6 +21,9 @@
 		"主に水辺に棲む。"
 
 2020年1月5日23:38:39
+
+	id=3	二酸化炭素
+
 	https://zh.wikipedia.org/wiki/二氧化碳
 		
 		空氣中 ==> 約佔0.04％
@@ -32,6 +37,9 @@
 	]2020年1月5日23:43:57
 
 2020年1月7日14:24:51
+
+	id=4	カマキリ
+
 	https://ja.wikipedia.org/wiki/チョウセンカマキリ
 	https://ko.wikipedia.org/wiki/사마귀
 	https://namu.wiki/w/사마귀
@@ -48,6 +56,8 @@
 
 2020年2月24日8:08:40
 
+	id=5	ライチョウ
+
 	ライチョウ
 	https://www.youtube.com/results?search_query=雷鳥+鳴き声
 	
@@ -57,7 +67,9 @@
 	]8:39:25
 
 2020年2月24日9:03:36
-
+	
+	id=6	セルロース
+	
 	セルロース
 	https://zh.wikipedia.org/wiki/纤维素
 		https://zh.wikipedia.org/wiki/糖苷
@@ -74,6 +86,8 @@
 	https://zh.wikipedia.org/wiki/麥芽糖
 	
 		]9:59:16
+	
+	id=7	アミラーゼ
 	
 	アミラーゼ
 	https://zh.wikipedia.org/wiki/淀粉酶
@@ -92,12 +106,15 @@
 	]10:26:40
 
 2020年2月27日8:45:07
-
+	
+	id=8	乳酸菌
+	
 	乳酸菌
 
 2020年2月27日10:25:45
 	SMXB JVE37#17
 	
+	id=9	根粒菌
 	根粒菌
 	https://ja.wikipedia.org/wiki/根粒菌#根粒の種類	d-1
 		ニトロゲナーゼ
@@ -113,7 +130,9 @@
 		https://ja.wikipedia.org/wiki/根粒菌#根粒形成	#1
 		
 		next : "感染糸は、根毛細胞の基部に向かって"
-
+	
+	id=10	窒素固定
+	
 	https://ja.wikipedia.org/wiki/窒素固定
 		窒素化合物
 		真正細菌
@@ -149,7 +168,9 @@
 	]10:56:34
 
 2020年3月3日7:11:32
-
+	
+	id=11	ウイルス
+	
 	ウイルス　構成成分　何からできている？
 	https://ja.wikipedia.org/wiki/ウイルス
 	https://zh.wikipedia.org/wiki/病毒#遗传物质
@@ -169,7 +190,8 @@
 
 --------------------------------------
 2020年3月11日12:40:39
-	id=Y06F
+
+	id=Y06F(id=12)	シアノコバラミン
 	
 	res : UCHY
 	目薬　成分
@@ -192,7 +214,9 @@
 
 --------------------------------------
 2020年4月8日13:49:25
-
+	
+	id=13	芒（のぎ）
+	
 	芒（のぎ）
 	https://ja.wikipedia.org/wiki/芒
 		ススキ
@@ -201,7 +225,7 @@
 --------------------------------------
 2020年4月16日13:40:36
 	
-	id=Y06F
+	id=Y06F(id=12)
 	
 	ネオスチグミンメチル硫酸塩
 	
@@ -213,13 +237,37 @@
 --------------------------------------
 2020年4月16日14:27:20
 
-	id=EQYI
+	id=EQYI(id=14)
+	
 	ヒルベルト空間
 	https://eman-physics.net/quantum/hilbert.html	:d-1
 	https://ja.wikipedia.org/wiki/ヒルベルト空間
 	
 	next
 	lets start --> eman
+
+================================
+2020年9月4日15:45:24
+
+	id=15
+
+	クモ	
+	https://ko.wikipedia.org/wiki/거미
+	
+	n: ==> m.
+
+]16:29:37
+
+================================
+
+
+
+
+================================
+
+
+
+
 
 @@@
 
@@ -256,3 +304,4 @@ C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:id=
 
 
 ========================= EOF =========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history] : id=15) periodical updates" && e && git push origin master
