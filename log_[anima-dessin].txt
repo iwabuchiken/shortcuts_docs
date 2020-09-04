@@ -238,7 +238,13 @@
 
 @@@
 ================================
-
+2020年9月4日16:48:37
+	
+	ツユクサ
+	
+	http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=http://ww1.fukuoka-edu.ac.jp/~fukuhara/keitai/pict/tsuyukusa_ryouseika2.jpg
+	
+	
 
 
 
@@ -280,6 +286,7 @@
 	.3	
 	.4	
 	.5	
+2.2	手：物を持つ:ハサミ
 
 3	顔:目
 3.1	顔：目鼻口（めはなくち）
