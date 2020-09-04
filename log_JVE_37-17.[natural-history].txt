@@ -325,4 +325,4 @@ C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:id=
 
 
 ========================= EOF =========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history] : id=15) periodical updates" && e && git push origin master
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history] : id=15) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
