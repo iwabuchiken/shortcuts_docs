@@ -1,0 +1,41 @@
+================================
+2020年9月6日17:17:03
+
+	M-1
+
+	n: #2
+
+@@@
+
+================================
+
+
+
+
+================================
+
+
+
+
+================================ RESOURCES
+1.	http://historyisaweapon.com/defcon1/soledadbro.html	2020年9月6日17:17:32	"Soledad Brother: The Prison Letters of George Jackson"
+	#1
+	#2	Soledad Brother, which is dedicated
+2.	
+3.	
+4.	
+5.	
+
+================================ STEPS : closing / 2020年8月31日17:48:08
+1	close
+	1	browser
+	2	image file
+	3	folders
+2	git
+3	close
+	1	this
+
+
+
+========================= EOF =========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-21.[reading-articles]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
