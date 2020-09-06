@@ -33,7 +33,7 @@ set url_1="https://mail.google.com/mail/ca/u/0/#search/myself+korean?compose=new
 set url_1_2="https://mail.google.com/mail/ca/u/0/#drafts?compose=CllgCJTLpcfBQZZPDWtqFswnnPBgTvGvllzDHTtfppNXxwZpZpBGxqQCgZwCVBBDRCsvHrFTqrL"
 
 rem set url_1_3="https://mail.google.com/mail/u/0/?shva=1#inbox"
-set url_1_3="https://mail.google.com/mail/u/0/?shva=1#search/myself+diary"
+set url_1_3="https://mail.google.com/mail/u/0/?shva=1#search/myself+diary+-daylog?compose=new"
 
 set url_2=https://stopwatch-app.com
 set url_3=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
@@ -73,6 +73,7 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
 
 
 
