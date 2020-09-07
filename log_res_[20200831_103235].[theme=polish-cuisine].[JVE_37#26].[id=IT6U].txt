@@ -53,4 +53,4 @@
 5	
 
 ===============================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=polish-cuisine].[id=IT6U]) periodical updates" && e && git push origin master
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [theme=polish-cuisine].[JVE_37#26].[id=IT6U]) periodical updates" && e && git push origin master
