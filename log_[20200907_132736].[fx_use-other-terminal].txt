@@ -1,0 +1,137 @@
+2020年9月7日13:21:18
+
+	get ==> new account
+	
+	use other mt4 panel
+		1. ==> C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal
+		or,
+		#C:\Program Files (x86)\MT4 Gaitame Finest Company Limited.20180913
+		==> run : terminal.exe
+			==> DROP
+	
+		#close the current terminal
+		#close ==> metaeditor
+		
+		#rename
+		
+		#2. download ==> new terminal : https://www.gaitamefinest.com/download/mt4client.exe
+			
+			#ownload/mt4client.exe ==> to : C:\WORKS_2\Downloads
+			
+			#open : executable	::]13:32:18
+			
+				==> account : 20116358 (7月25日(土) 23:11)
+		
+		3. open terminal : MT4 Gaitame Finest Company Limited_(20200907_132932)
+			#account ==> login required
+		
+			
+		#SEG-1. re-open the both terminal ==> first, 20200907_132932, then, the new one
+			
+			#close : both
+			#open ==> 20200907_132932
+				==> login required
+			
+			#TRY : login with the latest
+				20117143
+				78874560J (https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1poggt2y43xpm&q=gaitame%20デモ口座%20完了&qs=true&search=query&th=%23thread-f%3A1674983650978899330&qt=demo.1.gaitame.1.gaitames.1.デモ..口座..外為..完了.&cvid=2)
+				
+			::]13:51:32
+		
+		#4. get ==> new account, login
+			.1 get
+			20117975
+			64974950K
+			https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1poggt2y43xpm&search=inbox&th=%23thread-f%3A1677149444999608460&cvid=3
+			
+			.2 login
+				MT4 Gaitame Finest Company Limited_(20200907_132932)
+				
+				==> OK
+		#5. with new terminal ==> login with : the prev : 20117143(8月14日(金) 16:08)
+		
+			.1 open terminal
+				C:\Program Files (x86)\MT4 Gaitame Finest Company Limited
+			
+			.2 login
+				20117143
+				78874560J
+				
+				
+				aaa
+		
+		#6. new terminal ==> start trade --> AUDJPY, M5, sell(ea-6), 20117143
+			
+			1. run ==> ea
+			2. validate ==> editor
+				==> OK
+		
+		7. prev terminal ==> start trade --> USDJPY, M5, sell(ea-6)
+		
+			1. setup ==> panels
+				#BB	: term-20, variance-1, price-close,color-orange
+				#BB	: term-20, variance-2, price-close,color-yellow
+				#RSI	: term-20,price-close,DodgerBlue
+				#MFI : 20,orange
+				#CCI ==> remove
+				
+				#RSI,MFI panels ==> height --> lower
+			
+			2. setup : libraries
+				1. open ==> data folders (F4)
+					C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\1384E9BE673C8D4D242CE7E72E7BA7C1\MQL4
+				
+				#2. C/P : files
+					from : C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4
+					folders :
+						Experts
+						utils
+						Include
+				
+				#3. terminal ==> refresh navigator
+			
+			
+			
+			2. trade
+				1. auto-trade ==> check
+				2. "ea-6" ==> run @@@
+					USDJPY,M5,sell
+				3. validate ==> editor
+					1. ERROR ==> "file can't open"
+						2. TRY : new dir ==> "Files"
+						==> OK
+				4. re-start EA
+					1. remove the current
+					2. remove ==> folder
+					3. run ==> EA
+		
+		#SEG-2 : PROBLEM : 20117143 ==> order --> "-1"
+			1. TRY : new account
+				#1. get : account
+					20117981
+					94808265B
+					https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1poggt2y43xpm&q=デモ口座%20完了&qs=true&search=query&th=%23thread-f%3A1677149444999608460&qt=demo.1.デモ..口座..完了.&cvid=7
+				
+				#2. current EA ==> remove
+				3. login ==>+ new account
+				4. auto-trade ==> check
+				
+				5. run ==> ea
+					AUDJPY,M5,sell
+				#6. validate
+					#1. [ea-6_tester-1].(20200907_143149).(tickets-data).log
+						==> OK
+					#2. order ==> effective
+					#3. log ==> written
+				
+	==> COMP
+	
+	]14:48:34
+
+
+
+=============================== RESOURCES
+1.	note-pc	==> 20117921	2020年9月7日13:57:02
+
+========================= EOF ========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log : [fx_use-other-terminal]) periodical updates" && e && git push origin master
