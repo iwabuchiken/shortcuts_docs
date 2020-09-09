@@ -1,3 +1,5 @@
+file : 
+
 2020年5月15日13:11:43
 
 	console
@@ -74,7 +76,97 @@
 			(pull)
 			
 	
+========================================
+2020年9月9日13:51:22
+
+	<desktop>
+	1. open ==> folder
+		C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Experts
+	#2. to sdcard ==> C/P : folder
+		C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4
+		
+			Experts
+			utils
+			Include
+		
+		to : E:\fx\library-files
+		
+		]14:09:40
+		
+	#3. sdcard ==> out
+
+	<note-pc>
 	
+	#1. card ==> in
+	
+	1.1 open ==> terminal
+			account : 20118083
+			folder : ...FB2A
+	
+	2. copy files
+		1. what : E:\fx\library-files
+
+				Experts
+				utils
+				Include
+		
+			to : ...FB2A/MQL4
+		
+		2. dialog
+			"フォルダーの上書きの確認"	==> M - a > M - y
+			"ファイルのコピー" ==> "コピーして置き換える"
+	#3. terminal ==> refresh navigator (right click --> "更新")
+	
+	#3.1 オプション ==> 自動売買 --> 許可
+		C - o > エキスパートアドバイザ > 「許可する」
+	
+	#4. TEST
+		#1. run ea ==> ea-6:AUDJPY,M5
+		#2. log file => created?
+			==> YES
+	
+	#5. setup ==> panels
+		#BB	: term-20, variance-1, price-close,color-orange
+			挿入 > インディケータ > トレンド > 
+		#BB	: term-20, variance-2, price-close,color-yellow
+		#RSI	: term-20,price-close,DodgerBlue
+			挿入 > インディケータ > オシレーター
+		#MFI : 20,orange
+			挿入 > インディケータ > ボリューム
+		#CCI ==> remove
+		
+		RSI,MFI panels ==> height --> lower	
+
+	#6. card ==> out+
+
+	n: 未定
+
+]14:32:48
+
+========================================
 
 
 
+
+========================================
+
+
+
+
+=============================== RESOURCES
+1.
+
+================================ STEPS : closing / 2020年9月9日14:33:52
+
+	1	close
+		1	browser
+		2	image file
+		3	folders
+	2	git
+	3	close
+		1	this
+
+
+
+========================= EOF ========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log : [fx_TASKS-22_introduce-mq4-file-from-desktop]) periodical updates" && e && git push origin master

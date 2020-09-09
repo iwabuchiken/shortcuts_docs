@@ -183,7 +183,68 @@
 	COMP ::]10:55:20
 	
 ]10:55:33
+
+===============================
+2020年9月9日11:44:19
+
+	1. get ==> new account
+		1. gaitame site
+			https://www.gaitamefinest.com/services/tol_dem_entry_mt4.php
+		2. email
+			https://mail.google.com/mail/u/0/?shva=1#inbox/FMfcgxwJXpNZkDjxRtqpBVrgwBcxhwXq
+		account : 20118083
+		password : 50514945B
 	
+	<note-pc>
+	#2. current terminal folder ==> add time label
+		20200909_114829
+		
+	#3. setup new terminal
+		1. open ==> browser, mail
+		2. download ==> terminal installer
+		3. installer ==> run
+		4. icon tray ==> remove the current mt4 icon
+	
+	#4. prev terminal : XXX
+		1. start
+			==> dialog "デモ口座の申請"
+		2. start ==> new terminal
+			==> account : XXX
+	
+	#5. new terminal ==> start ea (ea-4:AUDJPY,M5)
+			account : 20117921
+	
+	6. prev terminal : 20200909_114829
+		#1. login with ==> new account : 20118083
+		2. setup : libraries
+			1. open ==> data folders (F4)
+				...FB2A/MQL4
+			
+			#2. C/P : files
+				from : C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\...0486\MQL4
+				folders :
+					Experts
+					utils
+					Include
+			#3. gen new folder ==> .../MQL4/Files/Logs
+			
+			#4. terminal ==> refresh navigator (right click --> "更新")
+			
+		3. start ea ==> ea-4:USDJPY,M5
+			1. run
+			2. validate
+				1. log folder ==> created
+		
+		4. setup ==> panels
+			BB	: term-20, variance-1, price-close,color-orange
+			BB	: term-20, variance-2, price-close,color-yellow
+			RSI	: term-20,price-close,DodgerBlue
+			MFI : 20,orange
+			CCI ==> remove
+			
+			RSI,MFI panels ==> height --> lower	
+
+
 =============================== RESOURCES
 1.	note-pc	==> 20117921	2020年9月7日13:57:02
 
