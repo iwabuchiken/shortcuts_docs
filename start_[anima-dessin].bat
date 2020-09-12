@@ -2,6 +2,7 @@ REM =================================
 REM 	folders
 REM 	browser
 REM 	update batch file
+rem 	freemind
 REM 	log file
 REM =================================
 
@@ -33,10 +34,17 @@ REM =================================
 echo.>> C:\WORKS_2\shortcuts_docs\start_[anima-dessin].bat
 
 REM =================================
+rem 	freemind
+REM 	2020年9月12日15:16:15
+REM =================================
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\28_dessin-anim\28_dessin-anim.mm
+
+REM =================================
 REM 	log file
 REM 	2020年8月16日17:46:10
 REM =================================
 C:\WORKS_2\shortcuts_docs\log_[anima-dessin].txt
+
 
 
 
