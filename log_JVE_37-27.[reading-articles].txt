@@ -26,6 +26,12 @@
 4.	
 5.	
 
+================================ CHANGE LOG / 2020年9月13日15:35:48
+
+2020年9月13日15:35:58	label changed to
+	from :	log_JVE_37-21.[reading-articles].txt
+	to : 	log_JVE_37-27.[reading-articles].txt
+
 ================================ STEPS : closing / 2020年8月31日17:48:08
 1	close
 	1	browser
@@ -38,4 +44,4 @@
 
 
 ========================= EOF =========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-21.[reading-articles]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-27.[reading-articles]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat

@@ -1,0 +1,50 @@
+================================
+2020年9月13日15:40:27
+
+	https://ja.wikipedia.org/wiki/フーリエ変換
+	
+	
+	n: M-1 / #2
+
+]16:06:03
+
+@@@
+
+================================
+
+
+
+
+
+================================
+
+
+
+
+
+================================ RESOURCES
+1.https://ja.wikipedia.org/wiki/フーリエ変換
+	#1	
+	#2	ここでギリシャ文字小文字の	2020年9月13日16:05:49
+2.
+3.	
+4.	
+5.	
+
+================================ CHANGE LOG / 2020年9月13日15:35:48
+
+
+
+================================ STEPS : closing / 2020年8月31日17:48:08
+1	close
+	1	browser
+	2	image file
+	3	folders
+2	git
+3	close
+	1	this
+
+
+
+========================= EOF =========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-21.6.[mp_fourier]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
