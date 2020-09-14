@@ -358,15 +358,35 @@
 
 	1. 猫 内蔵
 	:mm-3.1.2	
+		http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php?url=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fcc1f133-31b7-455b-864f-fcba7325b15e/d1stnsw-8b0f5968-8ee4-4c3e-960d-ad3363b052e6.jpg/v1/fill/w_900,h_643,q_75,strp/gray_cat_composite_anatomy_by_jacquelinerae.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9mY2MxZjEzMy0zMWI3LTQ1NWItODY0Zi1mY2JhNzMyNWIxNWUvZDFzdG5zdy04YjBmNTk2OC04ZWU0LTRjM2UtOTYwZC1hZDMzNjNiMDUyZTYuanBnIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9NjQzIn1dXX0.6gUmJXHABRSO3RqkO_UWngfa-5vC0PDwgj34KVLvWto
 
 	2. 猫 腎臓 病気
 	猫 しこり 病気
 	https://3g2upl4pq6kufc4m.onion/?q=猫+しこり+病気&ia=web
 		https://nekochan.jp/disease/article/2285
 		https://pshoken.co.jp/note_cat/cat_symptom/case013.html
-		
+	
+		==> see log file : C:\WORKS_2\shortcuts_docs\log_JVE_37-29.1.[cat_medical].txt
+
+	n:
+		血管：ヒト
+
+]17:19:34
+
 
 @@@
+================================
+
+
+
+
+
+================================
+
+
+
+
+
 ================================
 
 
