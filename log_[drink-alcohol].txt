@@ -1,0 +1,40 @@
+================================
+2020年9月16日23:09:44
+
+	#1. 日本酒＋紅茶		2:1
+	#2. 日本酒＋紅茶		2:1	::[23:22:40
+	#3. 日本酒＋(麦焼酎＋大葉）1:1
+		]23:50:19
+	#4. (麦焼酎＋大葉）＋(麦焼酎＋生姜）	3:1
+		]0:07:07
+
+	#5. (麦焼酎）＋(日本酒）	1:1
+		]0:37:52
+
+
+================================
+
+
+
+
+================================
+
+
+
+
+
+================================ STEPS : closing / 2020年9月16日23:09:41
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+
+========================= EOF ========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[drink-alcohol]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
