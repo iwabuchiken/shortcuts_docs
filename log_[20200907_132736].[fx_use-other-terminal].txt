@@ -91,7 +91,7 @@
 			
 			2. trade
 				1. auto-trade ==> check
-				2. "ea-6" ==> run @@@
+				2. "ea-6" ==> run 
 					USDJPY,M5,sell
 				3. validate ==> editor
 					1. ERROR ==> "file can't open"
@@ -243,6 +243,91 @@
 			CCI ==> remove
 			
 			RSI,MFI panels ==> height --> lower	
+
+===============================
+2020年9月16日12:57:30
+
+	1. get ==> new account
+		#1. gaitame site
+			https://www.gaitamefinest.com/services/tol_dem_entry_mt4.php
+		2. email
+			https://mail.google.com/mail/u/0/?shva=1inbox/FMfcgxwJXpNZkDjxRtqpBVrgwBcxhwXq
+			https://mail.google.com/mail/u/0/?shva=1inbox/FMfcgxwJXpNZkDjxRtqpBVrgwBcxhwXq#inbox/FMfcgxwJXpWfnMPNSXHXWwNngwMbLhxF
+		account : 20118329
+		password : 00179062C
+	
+	<note-pc> @@@	::[13:50:14
+	2. current terminal folder ==> add time label
+		==> a/j,m5,buy
+		===> ...0916_
+		
+	3. setup new terminal
+		1. open ==> browser, mail
+		2. download ==> terminal installer
+		3. installer ==> run
+		4. icon tray ==> remove the current mt4 icon
+	
+	4. (delete)
+	
+	#5. new terminal ==> start ea (ea-4:a/j,m5,buy)
+			account : 20117921		::]14:36:31
+	
+	6. prev terminal : ...0916_
+		1. login with ==> new account : 20118329
+		2. setup : libraries
+			#1. open ==> data folders (F4)
+				...5535/MQL4
+			
+			2. C/P : files
+				from : C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\...FB2A\MQL4 (ea-6)
+					folders :
+						Experts
+						utils
+						Include
+				to : ...5535/MQL4
+					==> "統合", "コピーして置き換える"
+					
+			#3. gen new folder ==> .../MQL4/Files/Logs
+			
+			#4. terminal ==> refresh navigator (right click --> "更新")
+			
+		#3. start ea ==> ea-6:u/j,M5,sell
+			0. setup terminal ==> C - o > "エキスパートアドバイザ" > "許可する"
+			1. run
+			2. validate
+				1. log folder ==> created
+		
+		#4. setup ==> panels
+			M - i > インディケータ > トレンド
+				BB	: term-20, variance-1, price-close,color-orange
+				BB	: term-20, variance-2, price-close,color-yellow
+			
+			M - i > インディケータ > オシレーター
+				RSI	: term-20,price-close,DodgerBlue
+			
+			M - i > インディケータ > ボリューム
+				MFI : 20,orange
+			
+			CCI ==> remove
+			
+			RSI,MFI panels ==> height --> lower	
+			
+			]14:51:27
+
+===============================
+
+
+
+
+===============================
+
+
+
+
+===============================
+
+
+
 
 
 =============================== RESOURCES
