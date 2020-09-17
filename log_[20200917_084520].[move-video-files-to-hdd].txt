@@ -1,0 +1,32 @@
+2020年9月17日8:38:14
+	
+	move
+	#C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\a_15_flute\muse-started
+	
+	move
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\a_15_flute	::[8:39:30
+	::]8:42:39
+	
+	move
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\17_knoten	::[8:43:15
+	::]8:47:19
+	
+	move
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\16_recorder	::]8:47:48
+	::]8:48:49
+	
+	m.
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics	::[8:51:46
+	::]8:55:43
+	
+	m.
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\2_birds	::[8:56:28
+	::]~9:00:44
+	
+	m.
+	C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\X_others	::[9:01:22
+	::]~9:09:44
+
+	n: any
+
+]9:10:26

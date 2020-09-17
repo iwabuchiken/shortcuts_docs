@@ -14,7 +14,8 @@ REM =================================
 REM 	doc
 REM 	2020”N5ŒŽ23“ú14:17:29
 REM =================================
-start C:\WORKS_2\WS\WS_Others.miscs\misc_files\diary_2020-01.odt
+rem : comment out 2020”N9ŒŽ17“ú10:06:08
+rem start C:\WORKS_2\WS\WS_Others.miscs\misc_files\diary_2020-01.odt
 
 REM =================================
 REM 	folders
@@ -73,6 +74,7 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
 
 
 
