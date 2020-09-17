@@ -373,7 +373,7 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 	#4f\2020-09-04_08-20-29_000.mp4
 
 
-@@@
+
 ================================
 2020年9月10日8:30:41
 
@@ -390,6 +390,20 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 	#4g\2020-09-05_08-09-16_000.mp4
 	#4f\2020-09-04_08-20-29_000.mp4
 
+================================
+2020年9月18日8:16:52
+
+	2020-08-04_10-07-00_000.mp4
+		G:\videos\9_gymnastics\14_dance-gym\id=3\id=3c
+	2020-08-04_10-12-32_000
+	2020-08-09_10-04-13_000
+	2020-08-13_08-41-03_000
+	2020-08-31_06-42-28_000
+
+]8:52:47
+
+================================
+
 
 
 
@@ -398,5 +412,7 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 
 
 
+
+@@@
 ========================= EOF =========================
 C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : dance) periodical updates" && e && git push origin master
