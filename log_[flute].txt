@@ -194,11 +194,18 @@
 
 @@@
 ================================
+2020年9月18日18:04:09
 
+	musescore
+	
+	2020-09-17_21-52-29_000.mid
+		==> 2020-09-17_21-52-29_000.mid.mscz
+		1. first write-out
+	
+	n:
+		1. add rythm part
 
-
-
-
+]18:15:17
 
 ================================
 
@@ -219,3 +226,4 @@
 
 ========================= EOF =========================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
+
