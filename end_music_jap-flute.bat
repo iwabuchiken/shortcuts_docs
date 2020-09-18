@@ -16,7 +16,7 @@ REM ==============================
 REM 	git : shortcuts : log_[flute]
 REM 	2020年9月18日18:16:33
 REM ==============================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master && r oj && git add . && git commit -m "(JVE_46-15.[jap-flute]) periodical updates"
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master && r oj && git add . && git commit -m "(JVE_46-15.[jap-flute]) periodical updates" && e && p
 
 REM ==============================
 REM 	git : C:\WORKS_2\WS\WS_Others.JVEMV6
@@ -27,4 +27,5 @@ rem C:\WORKS_2\a.bat && r oj && git add . && git commit -m "(JVE_46-15.[jap-flut
 rem ========================= EOF ========================
 
 pause
+
 
