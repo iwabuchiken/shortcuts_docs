@@ -11,4 +11,4 @@
 
 ========================= EOF =========================set msg="2020-09-19_07-22-28_000"
 
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [music] : %msg%) periodical updates" && e && git push origin master && r oj && git add . && git commit -m "(JVE_46-XX.[music] : %msg%) periodical updates" && e && p
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [music] : %msg%) periodical updates" && e && git push origin master && r a && git add . && git commit -m "(JVE_46-XX.[music] : %msg%) periodical updates" && e && p
