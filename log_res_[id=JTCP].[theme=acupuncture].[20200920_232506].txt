@@ -1,0 +1,42 @@
+================================ 
+2020年9月20日23:27:34
+
+	ふくらはぎ ツボ
+	https://3g2upl4pq6kufc4m.onion/?q=ふくらはぎ+ツボ&t=h_&ia=web
+	https://leaders-action.com/body/10142/
+		#築賓（ちくひん）
+		#復溜(ふくりゅう)
+		#太谿（たいけい）
+		#足三里（あしさんり）
+
+	n:
+		https://leaders-action.com/body/10142/	==> cont.
+
+================================ 
+
+
+
+
+
+================================ DOCS / 2020年9月21日0:14:46
+1	https://leaders-action.com/body/10142/	2020年9月21日0:14:49
+2
+3
+4
+
+================================ STEPS : closing / 2020年9月20日23:27:23
+
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res_[id=JTCP].[theme=acupuncture]) periodical updates" && e && p
