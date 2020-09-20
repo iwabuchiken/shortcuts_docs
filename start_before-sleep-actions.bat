@@ -5,6 +5,7 @@ REM 	vlc
 REM 	folders
 REM 	text file : huawei paths
 REM 	mobile paths
+rem 	batch file ==> update
 REM =================================
 @echo off
 
@@ -50,16 +51,16 @@ REM =================================
 REM 	vlc
 REM 	2020/02/19 22:47:11
 REM =================================
-pushd C:\Users\iwabuchiken\VLC
-start vlc.exe
+rem pushd C:\Users\iwabuchiken\VLC
+rem start vlc.exe
 
 
 REM =================================
 REM 	folders
 REM 	2020/02/19 22:47:11
 REM =================================
-start C:\Users\iwabuchiken\Desktop\shortcuts_docs
-start C:\WORKS_2\WS\WS_Cake_IFM11\tmp
+rem start C:\Users\iwabuchiken\Desktop\shortcuts_docs
+rem start C:\WORKS_2\WS\WS_Cake_IFM11\tmp
 
 REM =================================
 REM 	mobile paths
@@ -69,11 +70,11 @@ rem start "C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-3)_copy-files-from-mobile.txt"
 
 rem 2020年6月15日22:58:08
 rem C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-3)_copy-files-from-mobile.txt"
-"C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-3)_copy-files-from-mobile.txt"
+rem "C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-3)_copy-files-from-mobile.txt"
 rem 2020年6月20日22:44:46 update dates
 rem C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\0-1) start xampp, filezilla, open folder, open files.bat"
 rem C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt"
-"C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt"
+rem "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt"
 
 rem test 2020年6月21日22:37:00
 goto end
@@ -100,3 +101,8 @@ C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_before-sleep-actions.bat
 
 :end
 
+REM =================================
+rem 	batch file ==> update
+REM 	2020年9月19日22:26:26
+REM =================================
+echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_before-sleep-actions.bat
