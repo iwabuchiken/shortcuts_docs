@@ -1,0 +1,13 @@
+2020年9月22日17:10:01
+
+	1. https://ja.wikipedia.org/wiki/白内障#治療	:d-1
+		#1	現在、切開法としては
+		#2	現在白内障の標準治療として
+		
+		#3	手術後の副作用として、
+		#4	下記に揚げる合併症
+		
+
+
+========================= EOF ========================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res : [id=6C8Q].[theme=cataract_eye]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
