@@ -282,6 +282,36 @@
 ]18:56:33
 
 ================================
+2020年9月26日18:19:23
+
+	#1. each note
+	2. each oct-1,2 pair
+	3. Bf : oct-1,2,2.5,3
+	
+	4. 1-note-skip
+		Ef - Gf - Bf4 - Gf - Ef - Bf3
+		1 - 3m - 5 - 3m - 1 - L5
+	5. Ef4 -> Bf3
+	
+	6. consecutive : 3
+		Ef : 1 - 3f - 4
+	
+	7. consec : 2
+		Ef4 - Bf4 - Ef4
+		1 - 5 - 1
+		*歌口　=>　固定
+
+]19:06:57
+
+================================
+
+
+
+
+
+
+================================
+
 
 
 
@@ -307,7 +337,3 @@
 
 ========================= EOF =========================
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
-
-
-
-
