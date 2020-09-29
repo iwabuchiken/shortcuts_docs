@@ -1,0 +1,41 @@
+================================ 
+2020年9月29日16:48:40
+
+	1. search
+		日中共同声明
+		
+		https://web.archive.org/web/20150926165030/http://news.xinhuanet.com/ziliao/2002-03/26/content_331579.htm		:d-1
+		https://zh.wikipedia.org/wiki/波茨坦公告		:d-2
+		https://www.ndl.go.jp/constitution/e/etc/c06.html		:d-3
+		https://zh.wikipedia.org/wiki/开罗宣言		:d-4
+		
+]17:06:57
+
+================================ 
+
+
+
+
+
+================================ DOCS / 2020年9月23日23:48:20
+1	
+2
+3
+4
+
+================================ STEPS : closing / 2020年9月20日23:27:23
+
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res_[id=SYMY].[theme=joint-communiuqe-japan-china]) periodical updates" && e && p
