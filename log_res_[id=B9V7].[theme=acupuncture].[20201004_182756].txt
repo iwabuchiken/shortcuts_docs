@@ -1,0 +1,58 @@
+================================ 
+2020年10月4日18:30:06
+
+	ジュネーブ条約
+	
+	https://ja.wikipedia.org/wiki/ジュネーヴ条約#日本との関係		:d-1
+	
+	https://ihl-databases.icrc.org/applic/ihl/ihl.nsf/7c4d08d9b287a42141256739003e636b/6756482d86146898c125641e004aa3c5	Convention (IV) relative to the Protection of Civilian Persons in Time of War. Geneva, 12 August 1949.	:d-2
+	
+	https://zh.wikisource.org/wiki/日内瓦公约/1949年/第四公约#第三编_占领地		:d-3
+	
+	
+	n:
+		ジュネーブ第４：４８条
+
+]18:53:08
+
+================================ 
+
+
+
+
+@@@
+================================ 
+
+
+
+
+
+================================ 
+
+
+
+
+
+================================ DOCS / 2020年10月4日18:53:25
+
+1	
+2
+3
+4
+
+================================ STEPS : closing / 2020年10月4日18:53:36
+
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=B9V7].[theme=acupuncture]) periodical updates" && e && p
