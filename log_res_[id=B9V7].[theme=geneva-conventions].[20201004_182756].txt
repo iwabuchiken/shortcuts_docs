@@ -55,4 +55,4 @@
 
 
 ========================= EOF ========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=B9V7].[theme=acupuncture]) periodical updates" && e && p
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=B9V7].[theme=geneva-conventions]) periodical updates" && e && p
