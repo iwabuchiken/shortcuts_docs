@@ -505,10 +505,21 @@
 @@@
 
 ================================ 
+2020年10月7日18:31:33
 
+	1. Bf3
+		1. Bf3.3 - Bf3.3
+		2. Bf3.3 - Bf3.4
 
+	2. oct-1,2
+		Ef4 - Ef5
+		F4 - F5
 
+	n:
+		1. basic blowings
+		2. any
 
+]19:09:17
 
 ================================ 
 
@@ -536,4 +547,5 @@
 
 
 ========================= EOF =========================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
+set closeapps=taskkill /f /im MuseScore3.exe javaw.exe
+echo %closeapps% && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
