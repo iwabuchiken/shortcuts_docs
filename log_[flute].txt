@@ -547,5 +547,7 @@
 
 
 ========================= EOF =========================
-set closeapps=taskkill /f /im MuseScore3.exe javaw.exe
-echo %closeapps% && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
+taskkill /f /im MuseScore3.exe javaw.exe
+taskkill /f /im javaw.exe
+taskkill /f /im vlc.exe
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master

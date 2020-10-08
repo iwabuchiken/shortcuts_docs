@@ -563,11 +563,16 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 ]9:20:08
 
 ================================
+2020年10月8日11:19:30
+	
+	same
+	
+	boxing ==> How to Throw a Left Hook | Boxing Lessons - YouTube
 
+	n:
+		any
 
-
-
-
+]11:22:06
 
 ================================
 
@@ -586,4 +591,4 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 
 @@@
 ========================= EOF =========================
-:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : dance) periodical updates" && e && git push origin master
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : dance) periodical updates" && e && git push origin master
