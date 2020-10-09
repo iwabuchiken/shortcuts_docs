@@ -36,9 +36,18 @@ session-1
 ]16:58:16
 
 ================================ 
+2020年10月9日15:49:15
 
+	1. 群_(数学) <https://ja.wikipedia.org/wiki/群_(数学)>
+		:d-3
+		#1	どんな元 g に対しても
+		#2	がさらに 
+		#3	実数係数の
 
+	n:
+		M-8 : 8. 一般線型群 <https://ja.wikipedia.org/wiki/一般線型群>
 
+]17:09:17
 
 @@@
 ================================ 
@@ -89,4 +98,4 @@ session-1
 
 
 ========================= EOF ========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=W920].[theme=mathematics]) periodical updates" && e && p
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=W920].[theme=mathematics]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
