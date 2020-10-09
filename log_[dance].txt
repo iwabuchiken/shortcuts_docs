@@ -523,9 +523,13 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 	6.1  id=14.n / theme=護身術：手で防ぐ 
 	
 	7. ふくらはぎ
+		腹筋：sway-back
+		スクワット：ロープ掴まり	2020年10月10日8:35:00
 	
 	8. 腕立て伏せ
-		片手　=>　上体を、肩を中心に、回転させる、上下に。
+		片手　=>　上体を、肩を中心に、回転させる、
+			上下に
+			左右に動きながら
 
 
 ]10:30:28
@@ -551,7 +555,17 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 			エルボ・キス
 			裏拳　=>　目
 			フック　=>　みぞおち、タテ拳
+			or, 突き放し	2020年10月10日8:39:27
 		4. ２人から圧迫される
+		5. 脚を蹴られる https://www.youtube.com/watch?v=rguoapUnW9A
+			後ろへ
+			横へ
+			前へ出る；脛で受ける
+			身体を捻る；大腿の背面で受ける
+		6. 両手を掴まれる	https://www.youtube.com/watch?v=T3_XaxG-8S4
+		7. boxing:snap-back	https://www.youtube.com/watch?v=-A3-lGTlO2Q
+		8. boxing:hook	https://www.youtube.com/watch?v=sPkF-Oj3FBU
+		
 		
 ]10:26:51
 
@@ -589,12 +603,11 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 ]12:06:10
 
 ================================
+2020年10月10日8:19:21
 
+	==> ok.
 
-
-
-
-
+]8:57:14
 
 ================================
 
