@@ -35,7 +35,9 @@ REM =================================
 REM 	update batch file
 REM 	2020年7月21日14:34:41
 REM =================================
-echo.>> start_log_res_[id=W920].[theme=mathematics].bat
+rem echo.>> start_log_res_[id=W920].[theme=mathematics].bat
+
+echo.>> C:\WORKS_2\shortcuts_docs\start_log_res_[id=W920].[theme=mathematics].bat
 
 REM =================================
 REM 	txt file
@@ -52,3 +54,4 @@ rem C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6
 
 
 ======================== EOF ========================
+
