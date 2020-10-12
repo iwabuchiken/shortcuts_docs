@@ -1,0 +1,49 @@
+================================ 
+2020年10月12日17:44:01
+
+	1. ==> memo
+
+]18:19:03
+
+@@@
+================================ 
+
+
+
+
+================================ 
+
+
+
+
+================================ MATERIALS / 2020年10月7日10:42:28
+1	
+2	
+3	
+4	
+5	
+
+
+================================ STEPS : closing / 2020年10月7日10:42:56
+
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+========================= MATERIALS / 2020年10月5日8:53:02
+
+1	
+2	
+3	
+
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=D7QD].[theme=math_symmetry-group]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
