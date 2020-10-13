@@ -600,10 +600,29 @@
 
 @@@
 ================================ 
+2020年10月13日18:18:03
 
+	1. Bf3
+		1. Bf3.3 - Bf3.3
+		2. Bf3.3 - Bf3.4
 
+	2. oct-1,2
+		Ef4 - Ef5
+		F4 - F5
 
+	#3. Bf : oct-1/2/2.5/3
 
+	4. vibrato
+		篠笛 ビブラート
+	
+	5. half-notes
+		https://pisuke-fue.life/2019/03/05/step5/
+		https://run-maru.com/shinobue/2020/04/14/篠笛でのビブラートのかけ方、練習方法について/
+		https://duckduckgo.com/?q=篠笛+ビブラート+site:pisuke-fue.life&ia=web
+
+	~4. Bf3 : Ef4 - Gf4 - Ef4 - Df4 / Bf3 - Bf3
+
+]18:51:24
 
 ================================ 
 
