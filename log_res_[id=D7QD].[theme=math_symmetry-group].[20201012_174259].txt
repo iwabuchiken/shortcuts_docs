@@ -22,9 +22,26 @@
 ]16:47:31
 
 ================================ 
+2020年10月15日14:41:27
 
+	1. programming
+	C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\37#26_D7QD\session-3.php
+	
+		1. main_operation__V2
+			==> small modifications ::[14:53:43
+			//code:20201015_145528
+		2. $aryOf_Op_Nums__CBA ==> into an array
+			//code:20201015_151422
+			==> OK
+		
+		3. get_AryOf_Op_Nums
+			==> use iteration		::[15:51:25
+	
+	n:
+		get_AryOf_Op_Nums__V2 ==> continue
+			//code:20201015_151422
 
-
+]16:39:39
 
 ================================ 
 
@@ -66,4 +83,7 @@
 
 
 ========================= EOF ========================
-C:\WORKS_2\a.bat && r oj && git add . && git commit -m "(shortcuts : [id=D7QD].[theme=math_symmetry-group]) periodical updates" && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=D7QD].[theme=math_symmetry-group]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && r oj && git add . && git commit -m "(shortcuts : [id=D7QD].[theme=math_symmetry-group]) periodical updates" && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : [id=D7QD].[theme=math_symmetry-group]) periodical updates" && e && p && r c && git add . && git commit -m "(shortcuts : [id=D7QD].[theme=math_symmetry-group]) periodical updates" && C:\WORKS_2\Utils\commands\push_fm.bat
+
+
+"C:\WORKS_2\shortcuts_docs\end_log_res_[id=D7QD].[theme=math_symmetry-group].bat"
