@@ -44,9 +44,30 @@
 ]16:39:39
 
 ================================ 
+2020年10月16日14:13:00
 
+	1. programming
+		1. get_AryOf_Op_Nums__V2 ==> continue
+			//code:20201015_151422
+			CODE
+			TEST ==> OK
+		2. v-4.1
+			CODE
+			TEST ==> OK
+		
+		3. v-5.0 --> use "while"
+			CODE : // 20201016_143012
+			==> DROP
+			
+		4. v-6.0
+			new func : conv_Hex_2_Three($num)
+			CODE : // 20201016_145540
+			TEST ==> OK
+	
+	n:
+		func : ==> introduce "while"
 
-
+]15:19:37
 
 ================================ 
 
