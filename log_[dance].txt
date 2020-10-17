@@ -638,6 +638,10 @@ C:\WORKS_2\WS\WS_Cake_IFM11\movies_WS_Cake_IFM11\2019\9_gymnastics\4	title=???
 	マッサージ
 	1.脛
 	2.ふくらはぎ
+	3.膝
+		1. 内側靭帯
+		2. 十字靭帯、前
+	4. 足、母シキュウ
 
 ]9:09:59
 
