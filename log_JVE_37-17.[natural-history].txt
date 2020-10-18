@@ -338,8 +338,16 @@
 
 
 ================================
+2020年10月18日16:33:37
 
+	id=23.n / タイム
+	
+	https://ja.wikipedia.org/wiki/タイム_(植物)		:d-1
+	#1 https://ja.wikipedia.org/wiki/タイム_(植物)#利用
+	https://www.flickr.com/photos/calcul/1048391801		:d2
+		イブキジャコウソウ：花
 
+]18:23:08
 
 @@@
 ================================
@@ -406,4 +414,4 @@ C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:id=
 
 
 ========================= EOF =========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history] : id=15) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history] : id=23) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
