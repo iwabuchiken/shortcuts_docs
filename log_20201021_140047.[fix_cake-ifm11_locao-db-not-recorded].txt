@@ -1,0 +1,19 @@
+2020年10月21日13:56:59
+
+	see ==> db file
+	
+	re-access : http://localhost/Eclipse_Luna/Cake_IFM11/images/manage_IPhone_ImageFiles?db_file=ifm11_backup_20160110_080900.bk
+	
+	REM #insert data
+C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
+
+	"12	upload db file"
+	
+	"13	data ==> to remote"
+
+	==> comp.
+
+============================= change log
+
+=================== EOF ===================
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts\\log_files : fix_cake-ifm11_locao-db-not-recorded) periodical updates" && e && git push origin master
