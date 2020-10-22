@@ -26,9 +26,20 @@
 
 @@@
 ================================ 
+2020年10月22日15:11:37
 
+	1. 2. ハウスドルフ次元 <https://ja.wikipedia.org/wiki/ハウスドルフ次元>
 
+	2. 1. フラクタル <https://ja.wikipedia.org/wiki/フラクタル>
 
+	3. 3. 位相次元 <https://ja.wikipedia.org/wiki/ルベーグ被覆次元>
+
+	#4. 3-1. 位相空間 <https://ja.wikipedia.org/wiki/位相空間>
+
+	n:
+		3-2. 位相不変量 <https://ja.wikipedia.org/wiki/位相的性質>
+
+]15:44:26
 
 ================================ 
 
