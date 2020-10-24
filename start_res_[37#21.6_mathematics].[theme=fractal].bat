@@ -2,11 +2,18 @@ REM =================================
 REM 	log file
 REM 	browser
 REM 	freemind
+REM 	update batch file
 REM =================================
 @echo off
 
 REM opening message
 echo res_[37#21.6_mathematics].[theme=fractal]...
+
+REM =================================
+REM 	update batch file
+REM 	2020”N10ŒŽ24“ú13:20:36
+REM =================================
+echo.>> "C:\WORKS_2\shortcuts_docs\start_res_[37#21.6_mathematics].[theme=fractal].bat"
 
 REM =================================
 REM 	log file
@@ -35,5 +42,6 @@ REM 	2020”N10ŒŽ22“ú10:07:04
 REM =================================
 start C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\21_math-physics\7_fractal.mm
 
-pause
+rem pause
+
 
