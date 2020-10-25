@@ -142,4 +142,4 @@
 
 
 ========================= EOF ========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res_[37#21.6].[theme=fractal]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res_[37#21.7].[theme=fractal]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
