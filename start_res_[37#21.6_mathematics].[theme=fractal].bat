@@ -1,5 +1,6 @@
 REM =================================
 REM 	log file
+REM 	folders
 REM 	browser
 REM 	freemind
 REM 	update batch file
@@ -22,6 +23,12 @@ REM =================================
 pushd C:\WORKS_2\shortcuts_docs
 start log_res_[37#21.6_mathematics].[theme=fractal].[20201020_152846].txt
 
+REM =================================
+REM 	folders
+REM 	2020”N10ŒŽ25“ú10:13:58
+REM =================================
+start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+
 
 REM =================================
 REM 	browser
@@ -43,6 +50,7 @@ REM =================================
 start C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\21_math-physics\7_fractal.mm
 
 rem pause
+
 
 
 
