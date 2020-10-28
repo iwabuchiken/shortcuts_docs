@@ -1,0 +1,39 @@
+================================ 
+2020年10月28日15:49:33
+
+	==> OK
+
+
+
+================================ 
+
+
+
+
+@@@
+================================ 
+
+
+
+================================ 
+
+
+
+================================ 
+
+
+
+================================ closing : 2020年9月3日19:13:49
+1	git
+2	close
+	1. browser pages
+	2. folders
+	3. vlc
+	4. this
+
+
+========================= EOF =========================
+taskkill /f /im MuseScore3.exe
+taskkill /f /im javaw.exe
+taskkill /f /im vlc.exe
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute-bamboo]) periodical updates" && e && git push origin master
