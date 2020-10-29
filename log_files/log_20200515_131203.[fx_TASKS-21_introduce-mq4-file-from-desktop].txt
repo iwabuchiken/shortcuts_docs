@@ -33,7 +33,7 @@ file :
 			==> order --> set? ~~~~> YES
 			==> log file --> dp name shown? ~~~> YES : "PGName = file=ea-5.1:dp=dp_5.1"
 	
-	editor @@@
+	editor 
 		update : period ==> M5
 		compile
 		exec
@@ -144,10 +144,78 @@ file :
 ]14:32:48
 
 ========================================
+2020年10月29日14:40:08
 
+	<desktop>
+	#1. open ==> folder
+		C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4\Experts
+	#2. to sdcard ==> C/P : folder
+		C:\Users\iwabuchiken\AppData\Roaming\MetaQuotes\Terminal\34B08C83A5AAE27A4079DE708E60511E\MQL4
+		
+			Experts
+			utils
+			Include
+		
+		#to : E:\fx\library-files\20201029_144338
+		
+	3. sdcard ==> out
 
+	<note-pc>
+	
+	1. card ==> in
+	
+	1.1 open ==> terminal
+			account : 20118083
+			folder : ...FB2A
+	
+	#2. copy files		::]15:03:28
+		1. what : E:\fx\library-files
 
+				Experts
+				utils
+				Include
+		
+			to : ...FB2A/MQL4
+		
+		2. dialog
+			"フォルダーの上書きの確認"	==> M - a > M - y
+			"ファイルのコピー" ==> "コピーして置き換える"
+	2-2. re-compile
+		1. open files
+			ea-XXX.mq4
+			utils.mqh
+			lib_ea_2.mqh
+		2. compile all : C - F7
+	
+	#3. terminal ==> refresh navigator (right click --> "更新")
+		[::15:03:38
+		::]15:04:36
+	
+	#3.1 オプション ==> 自動売買 --> 許可
+		C - o > エキスパートアドバイザ > 「許可する」
+	
+	4. TEST
+		1. run ea ==> ea-6:AUDJPY,M5
+		2. log file => created?
+			==> 
+	
+	5. setup ==> panels
+		BB	: term-20, variance-1, price-close,color-orange
+			挿入 > インディケータ > トレンド > 
+		BB	: term-20, variance-2, price-close,color-yellow
+		RSI	: term-20,price-close,DodgerBlue
+			挿入 > インディケータ > オシレーター
+		MFI : 20,orange
+			挿入 > インディケータ > ボリューム
+		CCI ==> remove
+		
+		RSI,MFI panels ==> height --> lower	
 
+	6. card ==> out+
+
+]15:16:51
+
+@@@
 ========================================
 
 
