@@ -36,11 +36,8 @@ REM 	2020”N10ŒŽ22“ú10:04:11
 REM =================================
 pushd C:\WORKS_2\Programs\opera
 
-rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37%%#21.7&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND&RBs_AND_OR_File_Name=AND"
-rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37^#21.7&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND&RBs_AND_OR_File_Name=AND"
-rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37^%21.7&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND&RBs_AND_OR_File_Name=AND"
-rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37^%%21.7&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND&RBs_AND_OR_File_Name=AND"
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+37+21.8+gauge&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+37+21.8+gauge&RBs_AND_OR_Memo=AND&sort=file_name&direction=desc"
+
 launcher.exe %url_1%
 
 REM =================================
