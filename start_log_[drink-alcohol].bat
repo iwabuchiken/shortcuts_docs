@@ -29,6 +29,6 @@ pushd C:\WORKS_2\shortcuts_docs
 
 
 :end
-pause
+rem pause
 
 
