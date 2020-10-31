@@ -1,0 +1,88 @@
+================================ 
+2020年10月31日15:47:36
+
+	1. search resources
+		https://www.tapirgames.com/blog/open-source-physics-engines	Full List Of Open Source Physics Engines
+		https://duckduckgo.com/?q=pybullet+使い方&t=opera&ia=web&iai=r1-0&page=1&adx=prdsdc&sexp={"prodexp":"b","prdsdexp":"c","biaexp":"b","direxp":"b"}
+		
+		https://duckduckgo.com/?q=pybullet+インストール&t=opera&ia=web
+			https://qiita.com/saketosakana/items/6fc4e9400034cea5b81d	<== this?
+	
+	2. install ==> pip	::[16:05:00
+		https://duckduckgo.com/?q=python+pip+インストール&t=opera&ia=web&iai=r1-0&page=1&adx=prdsdc&sexp={"prodexp":"b","prdsdexp":"c","biaexp":"b","direxp":"b","videxp":"b"}
+		
+		1. https://www.python-izm.com/tips/pip/
+			#python -m pip -V
+			#python -m pip freeze	::[16:08:53
+			#python -m pip list
+			python -m pip search pybullet	::[16:15:05
+		
+		2. windows-related
+			https://qiita.com/white0221/items/b48f1b64dbd810e21702
+				https://visualstudio.microsoft.com/ja/downloads/
+			
+			search : "Build Tools for Visual Studio "
+				https://duckduckgo.com/?q=build+tools+for+visual+studio+2017&t=opera&ia=web&iai=r1-7&page=1&adx=prdsdc&sexp=%7B"prodexp"%3A"b"%2C"prdsdexp"%3A"c"%2C"biaexp"%3A"b"%2C"direxp"%3A"b"%7D
+				https://devblogs.microsoft.com/cppblog/introducing-the-visual-studio-build-tools/
+					"Download the VS 2017 Build Tools (for C++ or managed code)"
+					1. download
+						Download the VS 2017 Build Tools
+						https://stackoverflow.com/questions/57795314/are-visual-studio-2017-build-tools-still-available-for-download
+						1. https://visualstudio.microsoft.com/ja/vs/older-downloads/
+							"Visual Studio 2017 およびその他の製品"
+						
+						2. "where the VS 2017 Build Tools Installer is still available."
+							1. C:\WORKS_2\Downloads\vs_buildtools.exe
+								1. execute
+								2. going...		::[16:39:49
+									maybe : useful ==> https://devblogs.microsoft.com/cppblog/introducing-the-visual-studio-build-tools/	"To install the MSBuild tools and required VC++ tools"
+									1. plans ==>  VC installed --> then, install pybullet
+									2. going...	::[16:48:17
+									3. going... ::[17:57:41
+							
+		
+
+@@@
+================================ 
+
+
+
+================================ 
+
+
+
+================================ 
+
+
+
+================================ MATERIALS / 2020年10月7日10:42:28
+1	
+2	
+3	
+4	
+5	
+
+
+================================ STEPS : closing / 2020年10月25日22:50:58
+
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+========================= MATERIALS / 2020年10月25日22:50:52
+
+1	
+2	
+3	
+
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : res_[37#21.10_physics].[theme=physics-engines]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat

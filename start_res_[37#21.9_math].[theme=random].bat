@@ -26,7 +26,7 @@ pushd C:\WORKS_2\Programs\opera
 
 
 REM : time
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+37+21.9+random&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+37+21.9+random&RBs_AND_OR_Memo=AND&sort=file_name&direction=desc"
 
 launcher.exe %url_1%
 
@@ -52,3 +52,4 @@ pushd "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\21_math_physics\9_randomne
 "log_res_[37#21.9_math].[theme=random].[20201026_150221].txt"
 
 pause
+
