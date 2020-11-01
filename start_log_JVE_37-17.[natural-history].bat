@@ -22,9 +22,15 @@ REM =================================
 REM 	browser
 REM 	2020年11月1日0:13:54
 REM =================================
+rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37%23+natura+ローズマリー&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+rem set url_1="http%3A%2F%2Fbenfranklin.chips.jp%2Fcake_apps%2FCake_IFM11%2Fimages%2Findex_2%3Ffilter_memo%3D373%2Bnatura%2B%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC%26sort%3Dfile_name%26direction%3Ddesc%26RBs_AND_OR_Memo%3DAND"
+
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37%23+natura+ローズマリー&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+
+rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37%23+natura+%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37%23+natura&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
