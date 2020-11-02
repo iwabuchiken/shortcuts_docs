@@ -24,7 +24,7 @@ REM 	2020年11月1日0:13:54
 REM =================================
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37%23+natura&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37+17+natura&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
@@ -51,6 +51,7 @@ echo opening the log file...complete
 
 :end
 rem pause
+
 
 
 
