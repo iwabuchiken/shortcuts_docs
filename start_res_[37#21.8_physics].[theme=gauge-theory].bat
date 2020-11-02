@@ -17,13 +17,6 @@ REM =================================
 echo.>> "C:\WORKS_2\shortcuts_docs\start_res_[37#21.8_physics].[theme=gauge-theory].bat"
 
 REM =================================
-REM 	log file
-REM 	2020”N10ŒŽ22“ú10:03:40
-REM =================================
-pushd C:\WORKS_2\shortcuts_docs
-start log_res_[37#21.8_physics].[theme=gauge-theory].[20201025_225007].txt
-
-REM =================================
 REM 	folders
 REM 	2020”N10ŒŽ25“ú10:13:58
 REM =================================
@@ -47,6 +40,14 @@ REM =================================
 start C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\21_math-physics\8_gauge-theory.mm
 
 rem pause
+
+REM =================================
+REM 	log file
+REM 	2020”N10ŒŽ22“ú10:03:40
+REM =================================
+pushd C:\WORKS_2\shortcuts_docs
+start log_res_[37#21.8_physics].[theme=gauge-theory].[20201025_225007].txt
+
 
 
 

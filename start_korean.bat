@@ -67,13 +67,15 @@ REM 	2020”N5ŒŽ27“ú8:16:57
 REM =================================
 rem C:\WORKS_2\t.bat
 rem C:\WORKS_2\t.bat && exit
-C:\WORKS_2\t.bat && C:\WORKS_2\shortcuts_docs\list-of-sentences-for-diary.txt && exit
+rem C:\WORKS_2\t.bat && C:\WORKS_2\shortcuts_docs\list-of-sentences-for-diary.txt && exit
+C:\WORKS_2\t.bat && exit
 
 rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 
 REM pause
 
 rem exit
+
 
 
 
