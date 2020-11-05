@@ -31,7 +31,7 @@ rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?f
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=37+23+natural&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=natural-history&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
