@@ -1,0 +1,39 @@
+===============================
+2020年11月7日17:11:35
+
+	.40
+	https://polaris-hs.jp/zisyo_syosai/shikidai.html	"式台とは"
+	
+	https://kotobank.jp/word/鏡板-43392
+	https://www.uchinobankin.jp/works_4_9.html
+	
+	框
+	http://hakudensyain.blog.fc2.com/blog-entry-31.html
+	蒔
+	https://kakijun.jp/page/1332200.html
+	https://kotobank.jp/word/金蒔絵-2030756
+	https://ja.wikipedia.org/wiki/蒔絵
+	
+
+]18:01:19
+
+
+
+===============================
+
+
+
+@@@
+===============================
+
+
+
+
+
+
+
+===============================
+
+
+pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : bk : [christianity-literature-8]) periodical updates" && e && git push origin master
+
