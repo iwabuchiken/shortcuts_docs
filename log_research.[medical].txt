@@ -70,6 +70,24 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 
 
 ================================
+2020年11月9日16:18:25
+
+	res free# JVEMV6 59#10_1 / 59. medical / 10. ツボ
+
+	1. res : "ツボ 後頭部"
+		
+		https://ameblo.jp/1205haruto22/entry-12459115532.html	"頭のツボ：後頭部"		:d-3
+		https://jiritsuguide.com/improvement/tsubo_fuchi.html	"肩こり、頭痛、目の疲れに効果を発揮するツボ～風池"		:d-1
+			#1
+			#2 風池を押した後、天柱を同じように押し、交互に
+		https://jiritsuguide.com/improvement/tsubo_tentyu.html	:d-2
+
+
+]16:53:22
+
+
+================================
+
 
 
 
@@ -77,9 +95,6 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 ================================
 
 
-
-
-================================
 
 
 
