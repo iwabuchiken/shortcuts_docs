@@ -1,0 +1,66 @@
+================================ 
+2020年11月11日17:51:25
+
+	1, setup : eclipse
+		1. mylyn : 37#21_math-and-physics(mp)/11_computer-aided-math/1_start/1~
+		
+		2. first test code ==> OK
+	
+	n:
+		https://qiita.com/okakatsuo/items/f2e79fc501ed9f799734
+		#next:20201111_175546 (C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\21_math_physics\11_computer-aided-math\1_start\1_1.py)
+
+]17:54:03
+
+
+================================ 
+
+
+
+@@@
+================================ 
+
+
+
+
+================================ 
+
+
+
+
+================================ 
+
+
+
+
+================================ MATERIALS / 2020年10月7日10:42:28
+1	
+2	
+3	
+4	
+5	
+
+
+================================ STEPS : closing / 2020年10月25日22:50:58
+
+1	close
+	1	browser
+	2	image file
+	3	folders
+	4. freemind
+	
+2	git
+
+3	close
+	1	this
+
+========================= MATERIALS / 2020年10月25日22:50:52
+
+1	
+2	
+3	
+
+
+
+========================= EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_res_[37#21.11].[theme=computer-aided-math]) periodical updates" && r oj && git add . && git commit -m "(shortcuts : log_res_[37#21.11].[theme=computer-aided-math]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
