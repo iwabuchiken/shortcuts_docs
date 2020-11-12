@@ -63,4 +63,4 @@
 
 
 ========================= EOF ========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_res_[37#21.11].[theme=computer-aided-math]) periodical updates" && r oj && git add . && git commit -m "(shortcuts : log_res_[37#21.11].[theme=computer-aided-math]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_res_[37#21.11].[theme=computer-aided-math]) periodical updates" && e && p && r oj && git add . && git commit -m "(shortcuts : log_res_[37#21.11].[theme=computer-aided-math]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
