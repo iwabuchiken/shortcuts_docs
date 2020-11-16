@@ -87,6 +87,16 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 
 
 ================================
+2020年11月16日15:03:50
+
+	1. search : ツボ 側頭部
+		1. 頭のツボ：側頭部 <https://ameblo.jp/1205haruto22/entry-12458585975.html>	:d-1
+
+
+]15:39:47
+
+================================
+
 
 
 
@@ -98,9 +108,12 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 
 
 
-
 ================================
 
+
+
+
+================================
 
 
 
@@ -133,4 +146,4 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 
 ------------------------------------------ CLOSING
 
-C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && git add . && git commit -m "(shortcuts : res : medical) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && git add . && git commit -m "(shortcuts : log_research.[medical].[jve_59#10]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
