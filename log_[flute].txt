@@ -1133,10 +1133,22 @@
 	f.
 
 ================================ 
+2020年11月18日16:24:47
+
+	OK
+
+
+
+================================ 
 
 
 
 @@@
+================================ 
+
+
+
+
 ================================ 
 
 
@@ -1161,3 +1173,5 @@ taskkill /f /im MuseScore3.exe
 taskkill /f /im javaw.exe
 taskkill /f /im vlc.exe
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
+
+taskkill /f /im javaw.exe && taskkill /f /im vlc.exe && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
