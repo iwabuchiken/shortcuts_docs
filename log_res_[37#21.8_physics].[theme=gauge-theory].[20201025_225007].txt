@@ -99,15 +99,21 @@
 
 
 ================================ 
+2020年11月20日15:46:54
+	
+	d-9. History_of_quantum_field_theory (wi) <https://en.wikipedia.org/wiki/History_of_quantum_field_theory>
+	#4 Early_developments <https://en.wikipedia.org/wiki/History_of_quantum_field_theory#Early_developments>	w.1-2. the canonical quantization procedure
+	d-11. Canonical_quantization <https://en.wikipedia.org/wiki/Canonical_quantization>
+	d-12. Quantization_(physics) <https://en.wikipedia.org/wiki/Quantization_(physics)>
+	d-13. Field_theory <https://en.wikipedia.org/wiki/Field_(physics)#Field_theory>
 
-
-
-@@@
+	
 ================================ 
 
 
 
 
+@@@
 ================================ 
 
 
