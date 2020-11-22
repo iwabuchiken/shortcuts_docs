@@ -456,12 +456,24 @@
 
 
 ================================
+2020年11月22日16:59:38
 
+	1. ==> OK.
+
+
+================================
 
 
 
 @@@
 ================================
+
+
+
+
+
+================================
+
 
 
 
@@ -526,4 +538,4 @@ C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:id=
 
 
 ========================= EOF =========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history] : id=23) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : JVE_37-17.[natural-history]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
