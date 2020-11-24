@@ -1,0 +1,43 @@
+================================
+2020年11月24日17:12:30
+
+	1. new file
+		random-combinations.php
+		
+	2. func : main_operation()
+	
+		==> comp
+	
+	3. git
+
+	n: ==> COMP
+
+@@@
+================================
+
+
+
+
+--------------------------------------
+
+================================ list of ids 2020年9月
+
+-------------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+
+-------------------------------------- resources
+
+
+
+========================= EOF =========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_prog.[random-combination]) periodical updates" && e && git push origin master && r c && g a . && g c -m "(shortcuts : log_prog.[random-combination]) periodical updates" && C:\WORKS_2\Utils\commands\push_fm.bat

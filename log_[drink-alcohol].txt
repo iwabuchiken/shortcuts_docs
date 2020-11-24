@@ -2335,6 +2335,12 @@ E	麦焼酎
 
 
 ========================= EOF ========================
+### 2020年11月24日17:49:35
+pushd C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\37_12.8_random-combinations
+php random-combinations.php
+
+
+
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[drink-alcohol]) delete 'LIST' items" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
 
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[drink-alcohol]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
