@@ -1,6 +1,7 @@
 REM =================================
 REM 	update batch file
 REM 	browser
+rem 	folders
 REM 	log file
 REM =================================
 @echo off
@@ -36,6 +37,13 @@ set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filte
 echo opening browser... : %url_1%
 
 launcher.exe %url_1%
+
+REM =================================
+rem 	folders
+REM 	2020年11月24日14:48:55
+REM =================================
+start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+
 
 REM =================================
 REM 	freemind
