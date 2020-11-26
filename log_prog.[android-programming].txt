@@ -1,0 +1,46 @@
+================================
+2020年11月26日17:16:06
+
+	1. search : tutorial
+	
+	2. install ==> studio
+		https://developer.android.com/studio/
+		download
+			==> save file
+			android-studio-ide-201.6953283-windows.exe
+	
+	3. tut
+		https://developer.android.com/training/basics/firstapp/creating-project
+		"Install the latest version "
+		
+
+
+@@@
+================================
+
+
+
+
+--------------------------------------
+
+================================ list of ids 2020年9月
+
+-------------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+
+
+-------------------------------------- resources
+
+
+
+========================= EOF =========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_prog.[android-programming]) periodical updates" && e && git push origin master && r c && g a . && g c -m "(shortcuts : log_prog.[android-programming]) periodical updates" && C:\WORKS_2\Utils\commands\push_fm.bat
