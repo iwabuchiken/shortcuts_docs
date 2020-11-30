@@ -37,15 +37,34 @@
 	]15:57:40
 
 ------------------------------------------
+2020年11月30日17:28:15
+
+	==> OK
+	
+	n:
+		d.8-1
+
+================================ 
+
 
 
 
 
 
 @@@
+================================ 
 
-------------------------------------------
 
+
+
+
+================================ 
+
+
+
+
+
+================================ 
 
 
 
@@ -85,3 +104,4 @@ C:\WORKS_2\a.bat && pushd "C:\Users\iwabuchiken\Desktop\shortcuts_docs" && git a
 
 
 ======================== EOF ========================
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a -A && g c -m ^"(shortcuts_docs : JVE_37#24 : UFO-science) periodical updates^" && e && p && r oj && g a -A && g c -m ^"(res : JVE_37#24 : UFO-science) periodical updates^" && e && p
