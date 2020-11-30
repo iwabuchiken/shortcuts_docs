@@ -15,13 +15,28 @@
 		
 
 
+
+================================
+2020年11月30日17:32:50
+
+	s-2
+	
+	1. start ==> studio
+		C:\WORKS_2\Programs\Android\Android_Studio\bin\studio.exe
+
+	n:
+		again, start studio
+
+================================
+
+
+
 @@@
 ================================
 
 
 
 
---------------------------------------
 
 ================================ list of ids 2020年9月
 
@@ -43,4 +58,4 @@
 
 
 ========================= EOF =========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_prog.[android-programming]) periodical updates" && e && git push origin master && r c && g a . && g c -m "(shortcuts : log_prog.[android-programming]) periodical updates" && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(shortcuts : log_prog.[android-programming]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
