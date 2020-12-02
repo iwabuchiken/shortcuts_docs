@@ -56,4 +56,4 @@
 
 
 ========================= EOF ========================
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_res_[44#].[theme=fx]) periodical updates" && e && p && cd C:\WORKS_2\WS\FM_2_20171104_225946 && g a . && g c -m "kb : 3) music types : periodical updates" && e && p
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_res_[44#].[theme=fx]) periodical updates" && e && p && cd C:\WORKS_2\WS\FM_2_20171104_225946 && g a . && g c -m "log_res_[44#].[theme=fx]" && e && p
