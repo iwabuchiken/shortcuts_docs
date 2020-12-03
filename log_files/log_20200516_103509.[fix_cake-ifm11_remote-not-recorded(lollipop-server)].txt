@@ -6,6 +6,7 @@
 		username=LAA0278957						:20200726_141925
 		databasename=LAA0278957-cakeifm11
 		passwd=4edhdrj9gsgjj9q
+		server=mysql017.phy.lolipop.lan
 		
 2)		table : images
 			==> col "id" --> descending
@@ -25,6 +26,9 @@
 				--> "44775" --> top entry
 				
 			==> "実行"
+
+			DELETE FROM images WHERE id >= 48595;	 0 行削除しました。 (クエリの実行時間 0.0003 秒)	2020年12月3日14:06:51
+			DELETE FROM images WHERE id >= 45419;	 19 行削除しました。 (クエリの実行時間 0.0008 秒)	2020年12月3日14:07:49
 			
 4)			validate : access file
 				SELECT * FROM images WHERE file_name LIKE "2020-08-0%";
@@ -67,4 +71,4 @@ C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
 	executed
 
 =================== EOF ===================
-pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts\\log_files : fix_cake-ifm11_remote-not-recorded) periodical updates" && e && git push origin master
+pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(shortcuts\\log_files : fix_cake-ifm11_remote-not-recorded) periodical updates" && e && p
