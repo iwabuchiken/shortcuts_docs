@@ -28,11 +28,56 @@
 		again, start studio
 
 ================================
+2020年12月3日14:53:02
+	
+	s-3
+	
+	1. start ==> studio
+		C:\WORKS_2\Programs\Android\Android_Studio\bin\studio64
+		
+	2. 
+		#4
+	
+	3. https://developer.android.com/training/basics/firstapp/running-app
+		#1
+		#2 Perform the following steps 
+		==> mobile : 
+			connect to PC
+			"ファイルの転送"
+			基本フォルダ > 設定 > 端末情報 > ビルド番号 --> tap seven times > BACK > システムと更新 > 開発者向けオプション > SCROLL:1-height > USBデバッグ --> tap > "ok"
+		3.2 PROBLEM
+			dropdown list ==> huawei --> not shown
+			
+			TRY-1
+				"Rescan devices"
+	
+	4. other tut
+		https://3g2upl4pq6kufc4m.onion/?q=android+studio+入門&df=y&ia=web
+		https://qiita.com/dosukoi_android/items/0d70194a97b625206f40	:d-1
+
+	n:
+		d-1
+
+
+================================
 
 
 
 @@@
 ================================
+
+
+
+
+
+================================
+
+
+
+
+
+================================
+
 
 
 

@@ -30,6 +30,10 @@
 			DELETE FROM images WHERE id >= 48595;	 0 行削除しました。 (クエリの実行時間 0.0003 秒)	2020年12月3日14:06:51
 			DELETE FROM images WHERE id >= 45419;	 19 行削除しました。 (クエリの実行時間 0.0008 秒)	2020年12月3日14:07:49
 			
+			DELETE FROM images WHERE id >= 45438;	 1 行削除しました。 (クエリの実行時間 0.0007 秒)	2020年12月3日14:11:44
+			
+			@@@
+			
 4)			validate : access file
 				SELECT * FROM images WHERE file_name LIKE "2020-08-0%";
 				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-05-16_07-41-13_000.jpg&RBs_AND_OR_File_Name=AND
