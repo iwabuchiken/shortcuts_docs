@@ -438,6 +438,10 @@
 
 	n:
 		relay-6 : 3 : q1	2020年12月2日17:13:13
+		2020-11-29_11-38-12_000.mp4 ==> メモ取り（マップ）	2020年12月4日15:54:23
+		2020-11-30_17-45-07_000.mp4 ==> 「ずらし」、with 3 notes. --> how will it be?		2020年12月4日16:13:37
+		実践：https://duckduckgo.com/?q=経過音+理論+site:bluarbo.com&ia=web
+			https://hatsukoiclub.com/passing-chord-usage
 
 
 ================================
