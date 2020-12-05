@@ -32,6 +32,9 @@
 			
 			DELETE FROM images WHERE id >= 45438;	 1 行削除しました。 (クエリの実行時間 0.0007 秒)	2020年12月3日14:11:44
 			
+			DELETE FROM images WHERE id >= 45488;
+			11 行削除しました。 (クエリの実行時間 0.0009 秒)	2020年12月5日16:20:45
+			
 			@@@
 			
 4)			validate : access file
