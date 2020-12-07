@@ -11,6 +11,25 @@
 		this:no.2
 
 ================================ 
+2020年12月7日17:31:40
+
+	1. obs : log_JVE_44_13_53.[session-1~].ods // C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\44_currency\10_prog-php\2_tester
+		1. tab : 1-5 --> #20201207_173224 (list of entries filtered)
+			1. MFI, RSI, a.o.
+				#20201119_153945
+
+	n:
+		1. #20201207_173224 ==> "経緯"を、もう一度、各 entry について、書き出してみよう。
+			==> その結果、１本目で、SL といった、一応、今のところは、「例外」と分類するもの以外を、　=>　再度、obs してみる。
+			 ==> MFI,RSI などに、どんな特徴？
+			 ==> entry した bar のときに、prev-X bars の、up/down ratio は？
+		2. get stats ==> prev-X bars の中で、price について、max(n1) と min(n2)。entry の bar を、n0.
+			==> n1 and n2 --> which is closer to n0?
+			==> let's say, n1 is closer, i.e., in the prev-X bars, there was a mountain. --> (n0 - n1) / (n1 - n2) --> (1) how is the ratio, number-of-bar-wise ? (2) the ratio, diff-of-price-wise ?
+
+]17:41:58
+
+================================ 
 
 
 
@@ -21,7 +40,15 @@
 
 
 
+
 ================================ 
+
+
+
+
+
+================================ 
+
 
 
 

@@ -17,7 +17,8 @@ REM 	log file
 REM 	2020/01/04 15:21:38
 REM =================================
 pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\44_currency\10_prog-php\2_tester
-start log_JVE_44_10_2.[fx-php-tester].odt
+rem : comment out : 2020”N12ŒŽ7“ú17:23:24
+rem start log_JVE_44_10_2.[fx-php-tester].odt
 start log_JVE_44.[admin].ods
 
 REM =================================
@@ -25,8 +26,8 @@ REM 	eclipse
 REM 	2020/01/04 15:21:38
 REM =================================
 REM pushd C:\WORKS_2\Programs\eclipse\eclipse_luna-php,python
-pushd C:\WORKS_2\Programs\eclipse\eclipse_luna_php
-start eclipse.exe
+rem pushd C:\WORKS_2\Programs\eclipse\eclipse_luna_php
+rem start eclipse.exe
 
 REM =================================
 REM 	browser
@@ -38,13 +39,14 @@ set url_1="http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1"
 set url_2="http://localhost/Eclipse_Luna/Cake_IFM11/fx_test"
 
 REM : stopwatch
-set url_3="https://www.stopwatch-app.com"
+rem set url_3="https://www.stopwatch-app.com"
 
 REM : time
-set url_4=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
+rem set url_4=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
 
 REM launcher.exe http://localhost/Eclipse_Luna/Cake_IFM11/fx_test http://localhost/Eclipse_Luna/Cake_IFM11/fx_test/fx_tester_T_1 %url_3%
-launcher.exe %url_1% %url_2% %url_3% %url_4%
+rem launcher.exe %url_1% %url_2% %url_3% %url_4%
+launcher.exe %url_1% %url_2%
 
 REM =================================
 REM 	log dir
@@ -65,7 +67,7 @@ REM =================================
 pushd "C:\Program Files (x86)\MT4 Gaitame Finest Company Limited"
 start terminal
 
-start metaeditor.exe
+rem start metaeditor.exe
 
 REM =================================
 REM 	git
@@ -91,7 +93,7 @@ REM =================================
 REM 	time label
 REM 	2020”N5ŒŽ24“ú15:58:35
 REM =================================
-C:\WORKS_2\t.bat
+rem C:\WORKS_2\t.bat
 
 
 :end_of_end
