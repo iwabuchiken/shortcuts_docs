@@ -5,9 +5,27 @@
 	
 	==> OK
 
+================================
+2020年12月10日16:36:52
+
+	s-5
+	
+	cake の画像ファイル　=>　"memo"欄 ==> 整備
+
+]16:37:24
+
+================================
+
+
+
+
 @@@
 ================================
 
+
+
+
+================================
 
 
 
@@ -23,4 +41,12 @@
 
 
 ========================= EOF =========================
+pushd C:\WORKS_2\Programs\opera
+
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=res-id+1LRH&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+
+launcher.exe %url_1%
+
+start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+
 C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(shortcuts : log_res_[id=1LRH].[theme=math_combinations]) periodical updates" && e && p
