@@ -1637,10 +1637,14 @@
 	4. this
 
 
-========================= EOF =========================
+========================= EOF =======================
 taskkill /f /im MuseScore3.exe
 taskkill /f /im javaw.exe
 taskkill /f /im vlc.exe
 pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master
+
+### fm
+pushd C:\WORKS_2\WS\FM_2_20171104_225946 && g a . && g c -m "(FM_2_20171104_225946 : kb : 2020-11-28_09-16-55_000.mp4) new entry" && e && p
+
 
 taskkill /f /im javaw.exe && taskkill /f /im vlc.exe && pushd C:\WORKS_2\shortcuts_docs && git add . && git commit -m "(shortcuts : log_[flute]) periodical updates" && e && git push origin master && pushd C:\WORKS_2\WS\FM_2_20171104_225946 && g a . && g c -m "(FM_2_20171104_225946 : log_[flute]) periodical updates" && e && p
