@@ -96,18 +96,18 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 ]15:39:47
 
 ================================
+2020年12月13日16:20:03
 
+	==> OK
 
+]16:45:21
 
-
-
-@@@
 ================================
 
 
 
 
-
+@@@
 ================================
 
 
@@ -146,4 +146,4 @@ res free# JVEMV6 59#9.1_X / 59. medical / 9. 解剖 / 1. 脛 / session-1
 
 ------------------------------------------ CLOSING
 
-C:\WORKS_2\a && cd C:\Users\iwabuchiken\Desktop\shortcuts_docs && git add . && git commit -m "(shortcuts : log_research.[medical].[jve_59#10]) periodical updates" && e && git push origin master && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a && cd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(shortcuts : log_research.[medical].[jve_59#10]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
