@@ -44,6 +44,8 @@ REM 	2020年11月24日14:48:55
 REM =================================
 start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
 
+rem : 2020年12月13日11:48:02
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\17_natural-history
 
 REM =================================
 REM 	freemind
@@ -68,6 +70,7 @@ echo opening the log file...complete
 
 :end
 rem pause
+
 
 
 
