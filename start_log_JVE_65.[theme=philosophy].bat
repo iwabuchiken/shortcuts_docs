@@ -15,7 +15,7 @@ REM =================================
 REM 	update batch file
 REM 	2020年10月24日13:20:36
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_37-20.[philosophy].bat"
+echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_65.[theme=philosophy].bat"
 
 echo batch file --^> updated
 
@@ -51,21 +51,14 @@ REM =================================
 REM 	log file
 REM 	2020年10月22日10:03:40
 REM =================================
-pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\20_philosophy
+pushd C:\WORKS_2\shortcuts_docs
 
 echo opening the log file...
 
-"log_JVE_37-20.[philosophy].txt"
+"log_JVE_65.[theme=philosophy].txt"
 
 echo opening the log file...complete
 
 :end
 rem pause
-
-
-
-
-
-
-
 
