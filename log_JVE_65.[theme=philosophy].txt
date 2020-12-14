@@ -1,0 +1,35 @@
+===============================
+
+
+===============================
+
+
+
+@@@
+===============================
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(log_JVE_65.[theme=philosophy]) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
