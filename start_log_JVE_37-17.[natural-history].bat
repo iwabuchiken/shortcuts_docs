@@ -2,6 +2,7 @@ REM =================================
 REM 	update batch file
 REM 	browser
 rem 	folders
+rem 	docs
 REM 	log file
 REM =================================
 @echo off
@@ -54,6 +55,12 @@ REM =================================
 echo starting... freemind
 
 "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\17_nh\17_natural_history_(nh).mm"
+
+REM =================================
+rem 	docs
+REM 	2020年12月16日14:54:38
+REM =================================
+C:\WORKS_2\shortcuts_docs\res_log_JVE_37-17.[natural-history].ods
 
 
 REM =================================

@@ -4,6 +4,7 @@ REM =================================
 REM 	update batch file
 REM 	browser
 REM 	folders
+rem 	musescore
 REM 	log file
 REM =================================
 @echo off
@@ -49,6 +50,13 @@ REM =================================
 start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
 
 REM =================================
+rem 	musescore
+REM 	2020年12月16日13:54:03
+REM =================================
+C:\WORKS_2\Programs\musescore\ms_3.2.3.7635\bin\MuseScore3.exe
+
+
+REM =================================
 REM 	log file
 REM 	2020年10月22日10:03:40
 REM =================================
@@ -62,3 +70,4 @@ echo opening the log file...complete
 
 :end
 rem pause
+
