@@ -1,6 +1,7 @@
 REM =================================
 REM 	update batch file
 REM 	browser
+REM 	freemind
 REM 	log file
 REM =================================
 @echo off
@@ -30,6 +31,16 @@ echo opening browser... : %url_1%
 
 launcher.exe %url_1%
 
+REM =================================
+REM 	freemind
+REM 	2020年12月19日23:44:09
+REM =================================
+echo opening freemind...
+
+"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\non-numbered\id=1MPF_theme=drink-alcohol.mm"
+
+echo opening freemind...complete
+
 
 REM =================================
 REM 	log file
@@ -48,17 +59,6 @@ echo opening the log file...
 "log_[drink-alcohol].txt"
 
 echo opening the log file...complete
-
-
-REM =================================
-REM 	freemind
-REM 	2020年12月19日23:44:09
-REM =================================
-echo opening freemind...
-
-C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\non-numbered\id=1MPF_theme=drink-alcohol.mm
-
-echo opening freemind...complete
 
 :end
 rem pause
