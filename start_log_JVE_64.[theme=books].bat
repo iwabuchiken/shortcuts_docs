@@ -7,7 +7,7 @@ REM =================================
 @echo off
 
 REM opening message
-echo start_log_JVE_67.[theme=theology].bat ==^> starting...
+echo start_log_JVE_64.[theme=books].bat ==^> starting...
 
 rem goto end
 
@@ -15,7 +15,7 @@ REM =================================
 REM 	update batch file
 REM 	2020”N12ŒŽ24“ú13:46:41
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_67.[theme=theology].bat"
+echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[theme=books].bat"
 
 echo batch file --^> updated
 
@@ -26,7 +26,7 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+67+theology&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+books&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
@@ -39,7 +39,7 @@ REM =================================
 echo starting... freemind
 
 rem "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\37_miscs\20_philosophy\20_philosophy.mm"
-"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\67_theology.mm\67_theology.mm"
+"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\64_books(245)\64_books(245).mm"
 
 REM =================================
 REM 	folders
