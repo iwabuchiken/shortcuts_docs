@@ -54,11 +54,11 @@ echo opening the ods file...
 
 echo opening the ods file...complete
 
-echo opening the log file...
+rem echo opening the log file...
 
-"log_[drink-alcohol].txt"
+rem "log_[drink-alcohol].txt"
 
-echo opening the log file...complete
+rem echo opening the log file...complete
 
 :end
 rem pause
