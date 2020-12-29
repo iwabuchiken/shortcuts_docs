@@ -69,3 +69,4 @@ REM =================================
 rem pushd C:\WORKS_2\shortcuts_docs
 rem start log_res_[37#21.8_physics].[theme=gauge-theory].[20201025_225007].txt
 
+
