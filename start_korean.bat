@@ -36,8 +36,9 @@ set url_1_2="https://mail.google.com/mail/ca/u/0/#drafts?compose=CllgCJTLpcfBQZZ
 rem set url_1_3="https://mail.google.com/mail/u/0/?shva=1#inbox"
 set url_1_3="https://mail.google.com/mail/u/0/?shva=1#search/myself+diary+-daylog?compose=new"
 
-set url_2=https://stopwatch-app.com
-set url_3=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
+rem : c.out : 2021”N1ŒŽ24“ú9:07:21
+rem set url_2=https://stopwatch-app.com
+rem set url_3=http://benfranklin.chips.jp/PHP_server/D-2/time_calc.php
 
 set url_4="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ja&tl=ko"
 
@@ -75,6 +76,26 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
