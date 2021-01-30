@@ -12,25 +12,24 @@ REM =================================
 REM 	variables
 REM 	2021îN1åé28ì˙0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\85_topika\1_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\86_êºómãIï∑\1_
 
-set fname=2021-01-29_16-57-40_000.jpg
+set fname=2021-01-28_09-42-11_000.jpg
 
 rem : "íç"
-set fname_2=2021-01-29_17-01-49_000.jpg
+rem set fname_2=2021-01-27_23-59-20_000.jpg
 
-rem set fpath="%folder_2%\2021-01-27_23-56-06_000.jpg"
 set fpath="%folder_2%\%fname%"
-set fpath_2="%folder_2%\%fname_2%"
+rem set fpath_2="%folder_2%\%fname_2%"
 
 REM opening message
-echo start_log_JVE_64.[85_topika].bat ==^> starting...
+echo start_log_JVE_64.[86_seiyou].bat ==^> starting...
 
 REM =================================
 REM 	update batch file
 REM 	2021îN1åé28ì˙0:29:12
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[85_topika].bat"
+echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[86_seiyou]"
 
 echo batch file --^> updated
 
@@ -51,7 +50,7 @@ REM =================================
 
 %fpath%
 
-%fpath_2%
+rem %fpath_2%
 
 start mspaint %fpath%
 
@@ -70,7 +69,7 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+topika&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+êºóm&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
