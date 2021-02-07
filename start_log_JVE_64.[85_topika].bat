@@ -12,12 +12,14 @@ REM =================================
 REM 	variables
 REM 	2021年1月28日0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\85_topika\1_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\85_topika\3_
 
-set fname=2021-01-29_16-57-40_000.jpg
+rem : target page
+set fname=2021-02-02_16-56-18_000.jpg
 
 rem : "注"
-set fname_2=2021-01-29_17-01-49_000.jpg
+set fname_2=2021-01-29_17-03-07_000.jpg
+rem set fname_2=2021-01-29_17-02-18_000.jpg
 
 rem set fpath="%folder_2%\2021-01-27_23-56-06_000.jpg"
 set fpath="%folder_2%\%fname%"
@@ -51,6 +53,10 @@ REM =================================
 
 %fpath%
 
+rem : for comment secions
+rem : c/o : 2021年2月5日17:03:55
+rem %fpath%
+
 %fpath_2%
 
 start mspaint %fpath%
@@ -70,7 +76,7 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+topika&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+トピカ&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
@@ -88,6 +94,12 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
+
+
+
+
 
 
 

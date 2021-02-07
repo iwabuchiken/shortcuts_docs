@@ -12,15 +12,13 @@ REM =================================
 REM 	variables
 REM 	2021”N1ŒŽ28“ú0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\86_¼—m‹I•·\1_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\86_¼—m‹I•·\2_
 
-set fname=2021-01-28_09-42-11_000.jpg
-
-rem : "’"
-rem set fname_2=2021-01-27_23-59-20_000.jpg
+set fname=2021-02-02_14-40-08_000.jpg
 
 set fpath="%folder_2%\%fname%"
-rem set fpath_2="%folder_2%\%fname_2%"
+
+set fpath_batch="C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[86_seiyou].bat"
 
 REM opening message
 echo start_log_JVE_64.[86_seiyou].bat ==^> starting...
@@ -29,7 +27,7 @@ REM =================================
 REM 	update batch file
 REM 	2021”N1ŒŽ28“ú0:29:12
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[86_seiyou]"
+echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[86_seiyou].bat"
 
 echo batch file --^> updated
 
@@ -48,6 +46,10 @@ rem 	image file & mspaint
 REM 	2021”N1ŒŽ28“ú0:29:29
 REM =================================
 
+%fpath%
+
+
+rem : h’h‚ðŒ©‚é‚½‚ß : 2021”N2ŒŽ4“ú13:55:14
 %fpath%
 
 rem %fpath_2%
@@ -80,13 +82,24 @@ REM 	batch file ==> open
 REM 	2021”N1ŒŽ28“ú0:29:51
 REM =================================
 rem : "start" command needed for the control to come back on the console window. : 2021”N1ŒŽ27“ú16:52:56
-start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[85_topika].bat"
+
+start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_batch%
+
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[85_topika].bat"
 
 REM =================================
 REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+
+
+
+
+
+
+
 
 
 

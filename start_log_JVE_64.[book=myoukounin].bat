@@ -12,10 +12,12 @@ REM =================================
 REM 	variables
 REM 	2021年1月28日0:15:47
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\84_妙好人\2_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\84_妙好人\3_
 
-rem set fname="%folder_2%\2021-01-27_23-44-20_000.jpg"
-set fname="%folder_2%\2021-01-27_23-46-25_000.jpg"
+set fname=2021-02-02_15-54-30_000.jpg
+
+rem set fpath="%folder_2%\2021-01-27_23-46-25_000.jpg"
+set fpath="%folder_2%\%fname%"
 
 rem set fname="C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\84_妙好人\IMG_20200716_185133.jpg"
 
@@ -65,10 +67,10 @@ REM 	2021年1月26日15:35:30
 REM =================================
 rem set fname="C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\84_妙好人\IMG_20200716_185133.jpg"
 
-%fname%
+%fpath%
 
 rem mspaint %fname%
-start mspaint %fname%
+start mspaint %fpath%
 
 rem "C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\84_妙好人\IMG_20200716_185133.jpg"
 
@@ -111,6 +113,10 @@ REM 	end
 REM 	2020年12月24日13:46:16
 REM =================================
 :end
+
+
+
+
 
 
 
