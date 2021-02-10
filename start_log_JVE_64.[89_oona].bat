@@ -4,6 +4,7 @@ REM 	browser
 rem 	image file & mspaint
 REM 	folders
 REM 	batch file ==> open
+REM 	session log file ==> open
 REM =================================
 @echo off
 
@@ -12,22 +13,40 @@ REM =================================
 REM 	variables
 REM 	2021”N1ŒŽ28“ú0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\86_¼—m‹I•·\2_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\89_oona\01_
 
-set fname=2021-02-02_14-41-09_000.jpg
+rem : target page
+set fname=2021-02-09_07-13-31_000.jpg
 
-set fpath="%folder_2%\%fname%"
+rem : batch file
+set fname_batch="start_log_JVE_64.[89_oona].bat"
+set dpath_batch="C:\WORKS_2\shortcuts_docs"
+set fpath_batch="%dpath_batch:"=%\%fname_batch:"=%"
 
-set fpath_batch="C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[86_seiyou].bat"
+rem : session log file : 2021”N2ŒŽ10“ú17:07:55
+set fname_session="log-session_JVE_64.[89_oona].log"
+set dpath_session="C:\WORKS_2\shortcuts_docs"
+set fpath_session="%dpath_session:"=%\%fname_session:"=%"
+
+
+rem : "’"
+rem set fname_2=2021-01-29_17-03-07_000.jpg
+
+rem set fpath="%folder_2%:"=\%fname:"=%"
+set fpath="%folder_2%\%fname:"=%"
+rem set fpath_2="%folder_2%\%fname_2%"
+
+echo set path ==^> comp.
 
 REM opening message
-echo start_log_JVE_64.[86_seiyou].bat ==^> starting...
+echo %fname_batch% ==^> starting...
 
 REM =================================
 REM 	update batch file
 REM 	2021”N1ŒŽ28“ú0:29:12
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[86_seiyou].bat"
+rem echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[90_oritaku].bat"
+echo.>> "%dpath_batch%\%fname_batch%"
 
 echo batch file --^> updated
 
@@ -48,8 +67,7 @@ REM =================================
 
 %fpath%
 
-
-rem : h’h‚ðŒ©‚é‚½‚ß : 2021”N2ŒŽ4“ú13:55:14
+rem : for comment secions : 2021”N2ŒŽ9“ú7:35:14
 %fpath%
 
 rem %fpath_2%
@@ -71,7 +89,7 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+¼—m&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+89+‰¥&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
@@ -82,10 +100,18 @@ REM 	batch file ==> open
 REM 	2021”N1ŒŽ28“ú0:29:51
 REM =================================
 rem : "start" command needed for the control to come back on the console window. : 2021”N1ŒŽ27“ú16:52:56
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\%fname_batch%"
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\%fname_batch:"=%"
+start C:\WORKS_2\Programs\sakura\sakura.exe "%dpath_batch:"=%\%fname_batch:"=%"
 
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_batch%
 
-rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[85_topika].bat"
+REM =================================
+REM 	session log file ==> open
+REM 	2021”N2ŒŽ10“ú17:07:32
+REM =================================
+echo opening file... %fpath_session%
+start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_session%
+
 
 goto end
 
@@ -95,7 +121,7 @@ REM 	2021”N2ŒŽ9“ú12:42:47
 REM =================================
 rem for /F %i in (%listof_apps%) do echo %i
 
-set listof_apps=mspaint.exe sakura.exe javaw.exe
+set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
 
 rem taskkill /f /im %listof_apps%

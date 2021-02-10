@@ -15,7 +15,7 @@ REM =================================
 set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\85_topika\3_
 
 rem : target page
-set fname=2021-02-02_16-56-18_000.jpg
+set fname=2021-02-02_16-56-35_000.jpg
 
 rem : "íç"
 set fname_2=2021-01-29_17-03-07_000.jpg
@@ -89,22 +89,23 @@ REM =================================
 rem : "start" command needed for the control to come back on the console window. : 2021îN1åé27ì˙16:52:56
 start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[85_topika].bat"
 
+goto end
+
+REM =================================
+REM 	resources
+REM 	2021îN2åé9ì˙12:42:47
+REM =================================
+rem for /F %i in (%listof_apps%) do echo %i
+
+set listof_apps=mspaint.exe sakura.exe javaw.exe
+for %i in (%listof_apps%) do taskkill /f /im %i
+
+rem taskkill /f /im %listof_apps%
+
+
 REM =================================
 REM 	end
 REM 	2021îN1åé28ì˙0:29:57
 REM =================================
 :end
-
-
-
-
-
-
-
-
-
-
-
-
-
 
