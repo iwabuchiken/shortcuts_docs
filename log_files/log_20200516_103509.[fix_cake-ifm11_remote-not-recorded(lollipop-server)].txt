@@ -39,11 +39,25 @@
 			DELETE FROM images WHERE id >= 45916;
 			::]13:26:14
 			
+			###2021年2月11日12:31:04
+			#DELETE FROM images WHERE id >= 46653;
+			::]12:31:43
+			
+			###2021年2月12日17:20:23
+			#DELETE FROM images WHERE id >= 46673;
 			
 			@@@
 			
 4)			validate : access file
 				SELECT * FROM images WHERE file_name LIKE "2020-08-0%";
+				
+				###2021年2月11日12:32:01
+				#SELECT * FROM images WHERE file_name LIKE "2021-02-1%";
+				::]12:32:43
+				
+				###2021年2月12日17:21:25
+				#SELECT * FROM images WHERE file_name LIKE "2021-02-1%";
+				
 				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-05-16_07-41-13_000.jpg&RBs_AND_OR_File_Name=AND
 				==> "( total = 0 / filtered images = 0 / page = 1 of 0 )" --> OK ]10:32:10
 		

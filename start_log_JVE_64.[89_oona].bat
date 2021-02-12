@@ -15,8 +15,13 @@ REM 	2021年1月28日0:29:04
 REM =================================
 set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\89_oona\01_
 
-rem : target page
-set fname=2021-02-09_07-13-31_000.jpg
+REM =================================
+REM 	rem : target page
+REM 	2021年2月11日16:00:24
+REM =================================
+set fname=2021-02-09_07-13-56_000.jpg
+
+REM =================================
 
 rem : batch file
 set fname_batch="start_log_JVE_64.[89_oona].bat"
@@ -65,10 +70,14 @@ rem 	image file & mspaint
 REM 	2021年1月28日0:29:29
 REM =================================
 
-%fpath%
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+
+rem %fpath%
 
 rem : for comment secions : 2021年2月9日7:35:14
-%fpath%
+rem %fpath%
 
 rem %fpath_2%
 
@@ -131,5 +140,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
 
 

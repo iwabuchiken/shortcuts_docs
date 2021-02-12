@@ -14,9 +14,12 @@ REM 	2021年1月28日0:29:04
 REM =================================
 set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\90_oritaku\1_
 
+REM =================================
 rem : target page
-set fname=2021-02-09_06-54-36_000.jpg
+REM =================================
+set fname=2021-02-09_06-55-28_000.jpg
 
+REM =================================
 set fname_batch="start_log_JVE_64.[90_oritaku].bat"
 
 rem : "注"
@@ -53,14 +56,17 @@ REM =================================
 
 rem %fpath%
 rem : use "rundll32.exe" : 2021年2月10日17:20:07
-rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
 
 rem : for comment secions : 2021年2月9日7:35:14
 rem %fpath%
 rem : use "rundll32.exe" : 2021年2月10日17:20:07
-rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
 
 rem %fpath_2%
+
+rem test : 2021年2月11日13:45:17
+rem goto end
 
 start mspaint %fpath%
 
@@ -99,11 +105,18 @@ REM =================================
 REM 	resources
 REM 	2021年2月9日12:42:47
 REM =================================
+
+REM =================================
+REM 	close apps
+REM 	2021年2月11日14:25:50
+REM =================================
+
 rem for /F %i in (%listof_apps%) do echo %i
 
 rem set listof_apps=mspaint.exe sakura.exe javaw.exe
 rem : updated : 2021年2月10日12:48:13
 rem : "rundll32.exe" --> photo viewer
+
 set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
 
@@ -122,5 +135,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
 
 

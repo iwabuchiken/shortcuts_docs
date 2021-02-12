@@ -15,7 +15,7 @@ REM =================================
 set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\85_topika\3_
 
 rem : target page
-set fname=2021-02-02_16-56-35_000.jpg
+set fname=2021-02-02_16-57-07_000.jpg
 
 rem : "注"
 set fname_2=2021-01-29_17-03-07_000.jpg
@@ -51,13 +51,18 @@ rem 	image file & mspaint
 REM 	2021年1月28日0:29:29
 REM =================================
 
-%fpath%
+
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+
+rem %fpath%
 
 rem : for comment secions
 rem : c/o : 2021年2月5日17:03:55
 rem %fpath%
 
-%fpath_2%
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath_2:"=%
+
+rem %fpath_2%
 
 start mspaint %fpath%
 
@@ -97,7 +102,10 @@ REM 	2021年2月9日12:42:47
 REM =================================
 rem for /F %i in (%listof_apps%) do echo %i
 
-set listof_apps=mspaint.exe sakura.exe javaw.exe
+
+rem set listof_apps=mspaint.exe sakura.exe javaw.exe
+
+set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
 
 rem taskkill /f /im %listof_apps%
@@ -108,4 +116,6 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
 
