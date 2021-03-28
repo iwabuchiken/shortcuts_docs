@@ -1,4 +1,4 @@
-REM =================================
+ =================================
 REM 	update batch file
 REM 	freemind
 REM 	browser
@@ -7,40 +7,37 @@ REM 	folders
 REM 	batch file ==> open
 rem 	open ==> log file
 REM =================================
-rem @echo off
+@echo off
 
 
 REM =================================
 REM 	variables
 REM 	2021年1月28日0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\90_oritaku\2_middle\1_
+
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\102_banzan_wakumon\1_jou
 
 REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-02-23_14-15-26_000.jpg
+set fname=2021-03-10_12-43-38_000.jpg
 
 REM =================================
-set fname_batch="start_log_JVE_64.[90_oritaku].bat"
+set fname_batch="start_log_JVE_64.[102_banzan_wakumon].bat"
 
-set fname_log="log-session_JVE_64.[90_oritaku].log"
-
-rem : "注"
-rem set fname_2=2021-01-29_17-03-07_000.jpg
+set fname_log="log-session_JVE_64.[102_banzan_wakumon].log"
 
 set fpath="%folder_2%\%fname%"
-rem set fpath_2="%folder_2%\%fname_2%"
 
 REM opening message
-echo start_log_JVE_64.[90_oritaku].bat ==^> starting...
+echo %fname_batch:"=% ==^> starting...
 
 REM =================================
 REM 	update batch file
 REM 	2021年1月28日0:29:12
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[90_oritaku].bat"
+echo.>> "C:\WORKS_2\shortcuts_docs\%fname_batch:"=%"
 
 echo batch file --^> updated
 
@@ -91,7 +88,7 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=90+折たく&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=102+或問&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
@@ -121,7 +118,7 @@ REM 	close apps
 REM 	2021年2月11日14:25:50
 REM =================================
 rem ###
-start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[90_oritaku].bat
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[94_kinshiroku].bat
 
 set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
@@ -152,10 +149,6 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
-
-rem exit
-
-
 
 
 

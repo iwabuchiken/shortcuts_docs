@@ -28,6 +28,7 @@ REM =================================
 REM 	browser
 REM 	2020/01/07 14:44:50
 REM =================================
+rem : c/o : 2021”N2ŒŽ17“ú11:24:59
 pushd C:\WORKS_2\Programs\opera
 
 set url_1="https://mail.google.com/mail/ca/u/0/#search/myself+korean?compose=new"
@@ -52,9 +53,17 @@ rem arabic - english
 set url_4_5_1="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ru&tl=en"
 set url_4_5_2="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=ru"
 
+rem vietnamese - english
+set url_trans_vt_en="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=vi&tl=en"
+set url_trans_en_vt="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=vi"
+
+
 REM launcher.exe %url_1% %url_1_2% %url_2% %url_3% %url_4% %url_4_2%
-launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3%
+rem launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3%
 rem launcher.exe %url_2% %url_3% %url_4% %url_4_2% %url_1_3% %url_4_3% %url_4_4% %url_4_5_1% %url_4_5_2%
+
+rem : 
+launcher.exe  %url_4% %url_4_2% %url_trans_vt_en% %url_trans_en_vt%
 
 REM =================================
 REM 	update batch file
@@ -76,6 +85,8 @@ rem echo.>> C:\WORKS_2\shortcuts_docs\start_korean.bat
 REM pause
 
 rem exit
+
+
 
 
 

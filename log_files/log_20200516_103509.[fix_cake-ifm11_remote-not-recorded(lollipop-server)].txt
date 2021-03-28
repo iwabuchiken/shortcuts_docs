@@ -46,6 +46,18 @@
 			###2021年2月12日17:20:23
 			#DELETE FROM images WHERE id >= 46673;
 			
+			###2021年2月17日12:09:42
+			DELETE FROM images WHERE id >= 46770;
+			
+			###2021年3月3日9:35:31
+			#DELETE FROM images WHERE id >= 46966;
+			
+			###2021年3月4日11:24:47
+			DELETE FROM images WHERE id >= 46990;
+			
+			###XXX
+			DELETE FROM images WHERE id >= XX;
+			
 			@@@
 			
 4)			validate : access file

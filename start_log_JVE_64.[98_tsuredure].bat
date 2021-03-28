@@ -1,46 +1,51 @@
 REM =================================
+REM 	variables
+rem : target page
 REM 	update batch file
-REM 	freemind
 REM 	browser
 rem 	image file & mspaint
 REM 	folders
 REM 	batch file ==> open
 rem 	open ==> log file
 REM =================================
-rem @echo off
+@echo off
 
 
 REM =================================
 REM 	variables
 REM 	2021年1月28日0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\90_oritaku\2_middle\1_
+set fname_text_image="he10_00934_0002_p0070.jpg"
+
+
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\98_tsuredure
 
 REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-02-23_14-15-26_000.jpg
+set fname=2021-02-24_14-13-56_000.jpg
 
 REM =================================
-set fname_batch="start_log_JVE_64.[90_oritaku].bat"
+set fname_batch="start_log_JVE_64.[98_tsuredure].bat"
 
-set fname_log="log-session_JVE_64.[90_oritaku].log"
+set fname_log="log-session_JVE_64.[98_tsuredure].log"
 
-rem : "注"
-rem set fname_2=2021-01-29_17-03-07_000.jpg
+set fpath_text_image="C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\98_tsuredure\%fname_text_image:"=%"
+
+set fpath_base_image="C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\98_tsuredure\--.jpg"
 
 set fpath="%folder_2%\%fname%"
 rem set fpath_2="%folder_2%\%fname_2%"
 
 REM opening message
-echo start_log_JVE_64.[90_oritaku].bat ==^> starting...
+echo %fname_batch:"=% ==^> starting...
 
 REM =================================
 REM 	update batch file
 REM 	2021年1月28日0:29:12
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[90_oritaku].bat"
+echo.>> "C:\WORKS_2\shortcuts_docs\%fname_batch:"=%"
 
 echo batch file --^> updated
 
@@ -54,26 +59,20 @@ start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
 
 start %folder_2%
 
+rem test
+rem goto end
+
+
 REM =================================
 rem 	image file & mspaint
 REM 	2021年1月28日0:29:29
 REM =================================
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath_text_image:"=%
 
-rem %fpath%
-rem : use "rundll32.exe" : 2021年2月10日17:20:07
-start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
 
-rem : for comment secions : 2021年2月9日7:35:14
-rem %fpath%
-rem : use "rundll32.exe" : 2021年2月10日17:20:07
-start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
 
-rem %fpath_2%
+start mspaint %fpath_base_image%
 
-rem test : 2021年2月11日13:45:17
-rem goto end
-
-start mspaint %fpath%
 
 REM =================================
 REM 	freemind
@@ -91,11 +90,15 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=90+折たく&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=99+徒然草&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+
+set url_2=http://yatanavi.org/text/turezure/k_tsurezure238.txt
+
+set url_3=https://archive.wul.waseda.ac.jp/kosho/he10/he10_00934/he10_00934_0002/he10_00934_0002_p0070.jpg
 
 echo opening browser... : %url_1%
 
-launcher.exe %url_1%
+launcher.exe %url_1% %url_2% %url_3%
 
 REM =================================
 REM 	batch file ==> open
@@ -121,7 +124,7 @@ REM 	close apps
 REM 	2021年2月11日14:25:50
 REM =================================
 rem ###
-start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[90_oritaku].bat
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[94_kinshiroku].bat
 
 set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
@@ -153,22 +156,6 @@ REM 	2021年1月28日0:29:57
 REM =================================
 :end
 
+pause
+
 rem exit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -7,25 +7,25 @@ REM 	folders
 REM 	batch file ==> open
 rem 	open ==> log file
 REM =================================
-rem @echo off
+@echo off
 
 
 REM =================================
 REM 	variables
 REM 	2021年1月28日0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\90_oritaku\2_middle\1_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\68_daigaku\2_
 
 REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-02-23_14-15-26_000.jpg
+set fname=2021-03-06_12-21-09_000.jpg
 
 REM =================================
-set fname_batch="start_log_JVE_64.[90_oritaku].bat"
+set fname_batch="start_log_JVE_64.[68_daigaku].bat"
 
-set fname_log="log-session_JVE_64.[90_oritaku].log"
+set fname_log="log-session_JVE_64.[68_daigaku].log"
 
 rem : "注"
 rem set fname_2=2021-01-29_17-03-07_000.jpg
@@ -34,13 +34,13 @@ set fpath="%folder_2%\%fname%"
 rem set fpath_2="%folder_2%\%fname_2%"
 
 REM opening message
-echo start_log_JVE_64.[90_oritaku].bat ==^> starting...
+echo start_log_JVE_64.[68_daigaku].bat ==^> starting...
 
 REM =================================
 REM 	update batch file
 REM 	2021年1月28日0:29:12
 REM =================================
-echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[90_oritaku].bat"
+echo.>> "C:\WORKS_2\shortcuts_docs\start_log_JVE_64.[68_daigaku].bat"
 
 echo batch file --^> updated
 
@@ -68,6 +68,9 @@ rem %fpath%
 rem : use "rundll32.exe" : 2021年2月10日17:20:07
 start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
 
+rem : 3rd image : 2021年3月20日13:21:27
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+
 rem %fpath_2%
 
 rem test : 2021年2月11日13:45:17
@@ -91,11 +94,13 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=90+折たく&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=64+68+大学&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
-echo opening browser... : %url_1%
+set url_2=https://ctext.org/liji/da-xue/zh
 
-launcher.exe %url_1%
+echo opening browser... : %url_1% %url_2%
+
+launcher.exe %url_1% %url_2%
 
 REM =================================
 REM 	batch file ==> open
@@ -121,7 +126,7 @@ REM 	close apps
 REM 	2021年2月11日14:25:50
 REM =================================
 rem ###
-start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[90_oritaku].bat
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[94_kinshiroku].bat
 
 set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
@@ -140,7 +145,7 @@ ref https://answers.microsoft.com/en-us/windows/forum/windows_7-windows_programs
 
 
 rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %folder_2:"=%\%fname:"=%
-rem rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\90_oritaku\1_\2021-02-09_06-50-10_000.jpg
+rem rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\68_daigaku\1_\2021-02-09_06-50-10_000.jpg
 
 
 1. update --> target page
@@ -153,7 +158,6 @@ REM 	2021年1月28日0:29:57
 REM =================================
 :end
 
-rem exit
 
 
 
