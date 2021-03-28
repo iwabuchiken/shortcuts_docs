@@ -1,0 +1,8 @@
+###2021年3月28日16:50:50 steps
+*C/P ==> folder:shortcuts_docs
+git ==> roll back to : fc4ff31a30b9b3d72a5b095cfd4740425a586259
+	ref/https://stackoverflow.com/questions/1616957/how-do-you-roll-back-reset-a-git-repository-to-a-particular-commit
+	git reset fc4ff31a30b9b3d72a5b095cfd474042
+	
+C/P back shortcuts_docs
+git ==> commit
