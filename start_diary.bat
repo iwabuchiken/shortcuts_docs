@@ -22,6 +22,8 @@ REM 	2021”N2ŒŽ17“ú12:50:32
 REM =================================
 echo opening browser...
 
+echo C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
+
 start C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
 
 rem pushd C:\WORKS_2\Programs\opera
@@ -62,7 +64,8 @@ rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\diary-in-la
 
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\vietnamese_list.ods
 
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\vietnamese.odt
+rem : c/o : 2021”N3ŒŽ31“ú10:22:16
+rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\vietnamese.odt
 
 REM =================================
 REM 	update batch file
@@ -73,4 +76,9 @@ echo.>> C:\WORKS_2\shortcuts_docs\start_diary.bat
 echo.>> C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
 
 exit
+
+
+
+
+
 

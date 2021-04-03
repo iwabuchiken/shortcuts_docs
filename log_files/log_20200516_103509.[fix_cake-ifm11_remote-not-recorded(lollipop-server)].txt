@@ -55,10 +55,17 @@
 			###2021年3月4日11:24:47
 			DELETE FROM images WHERE id >= 46990;
 			
+			###2021年3月31日11:20:30
+			DELETE FROM images WHERE id >= 47223;
+			
+			###2021年4月1日9:50:46
+			DELETE FROM images WHERE id >= 47247;
+			
+			@@@
+			
 			###XXX
 			DELETE FROM images WHERE id >= XX;
 			
-			@@@
 			
 4)			validate : access file
 				SELECT * FROM images WHERE file_name LIKE "2020-08-0%";

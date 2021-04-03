@@ -1,3 +1,4 @@
+
 REM =================================
 REM 	browser
 REM 	2021”N2ŒŽ17“ú12:50:32
@@ -34,4 +35,10 @@ rem launcher.exe %url_trans_vi_en% %url_trans_en_vi%
 launcher.exe %url_trans_en_vi%
 launcher.exe   %url_forvo_persian% %url_polish_grammar%
 launcher.exe   %url_random_number%
+
+
+exit
+
+
+
 
