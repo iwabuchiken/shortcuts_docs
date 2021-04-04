@@ -1,54 +1,19 @@
-#1~
-    #1
-        words
-            solar methanol
-            ingeum
-###[
-	#1.1 The production of solar methanol, 
-	#1.2 Here, we report that a defect-laden 
-	#1.3 This discovery bodes 
-###]
-
-    #2 The development of methanol synthesis from
-###[
-	#2.1 It is also a convenient medium 
-	#2.2 Furthermore, the desire of 
+#9 Conclusion
+	#.1 While this discovery 
+		memo
+			research to understand the surface chemistry
 		words
-			dimethyl ether
-			homolog
-			oxy-methylene ether (OME-1)
-###]
+			operando spectroscopy techniques
+#10 Synthesis of In2O3?x(OH)y Nanocrystals
+	ref
+		The rational design of a single-component photocatalyst for gas-phase CO2 reduction using both UV and visible light. https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201400013
+			readable : YES
+			reference-45
+#11 Synthesis of In2O3?x(OH)y Nanocrystal Superstructures
+	ref
+		Spatial Separation of Charge Carriers in In2O3?x(OH)y Nanocrystal Superstructures for Enhanced Gas-Phase Photocatalytic Activity https://pubs.acs.org/doi/abs/10.1021/acsnano.6b02346?casa_token=4LA7BF7F4B4AAAAA:Lf-6n6O0TiePDAw__5k5MAqVIqD9NyBm-ig3EVdxPP9MDTrGX-SfNMQaslLOUyFQrjTWQqNLeg7h6ICL
+			readable : YES-support-info
+			reference-47
 	
-    #3 There have been extensive research
-        words
-            activation energy barrier
-            competing RWGS reaction
-###[
-	3.1 Due to the competing RWGS 
-		memos
-			listing
-				competing RWGS reaction
-				exothermic nature of methanol synthesis
-				equilibrium-limited conversion
-				very high activation energy barrier of the CO2 hydrogenation to methanol reaction
-###]
-				
-    #4 It would be of considerable scientific
-        memos
-            the source of H2 remains key to the environmental viability of photocatalysis,
-        words
-            steam reforming of natural gas
-###[
-	#4.01 We emphasize that the source 
-	#4.02 Prior attempts for photo-assisted 
-###]
 
 
-    #4.1 Here, we report that defect-laden indium
-        words
-            surface frustrated Lewis pairs (SFLP)
-            Lewis acidity
-            photochemical RWGS reaction,
-    #5 superstructures composed of nanocrystal
-        words
-            nanoporous
