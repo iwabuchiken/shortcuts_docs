@@ -6,8 +6,7 @@ rem 	image file & mspaint
 REM 	folders
 REM 	batch file ==> open
 rem 	open ==> log file
-REM =================================
-@echo off
+REM ===============================@echo off
 
 
 REM =================================
@@ -15,13 +14,13 @@ REM 	variables
 REM 	2021”N1ŒŽ28“ú0:29:04
 REM =================================
 
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\102_banzan_wakumon\1_jou
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\102_banzan_wakumon\2_ge
 
 REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-03-10_12-45-42_000.jpg
+set fname=2021-03-21_12-35-32_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64.[102_banzan_wakumon].bat"
@@ -149,3 +148,6 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+
+

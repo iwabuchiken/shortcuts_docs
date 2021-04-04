@@ -1,0 +1,65 @@
+====== read=PY2 ====== 2021年4月3日17:50:29
+###2021年4月3日17:51:38
+search
+	esteban morales dominguez cuba
+	https://3g2upl4pq6kufc4m.onion/?q=esteban+morales+dominguez+cuba&ia=web
+
+read:
+	https://www.afrocubaweb.com/estebanmorales.htm	:d-1
+		#1 
+
+read
+	:d-2 http://www.lajiribilla.co.cu/2007/n331_09/331_18.html
+		#1
+
+n:
+	1. read	d-1
+	2. read	d-2
+
+::]18:02:12
+
+###2021年4月4日9:18:04
+read.
+	:d-3 https://www.afrocubaweb.com/estebanmorales.htm#Esteban Morales punished for his article on corruption
+		*#1
+		*#2 Esteban Morales supuestamente expulsado del partido	
+		*#3 Cuba: El carnet se fue 
+		*#4 Esteban Morales niega sanciones 
+		#5 ¿HUIR DEL CAPITALISMO?  1/26/2018
+
+n: d-3
+
+
+###
+
+
+
+
+@@@
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###2021年3月28日16:34:14
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "([read=PY2:morales]) periodical updates" && e && p && taskkill /f /im sakura.exe
+
