@@ -5,7 +5,7 @@
 韓国 神学会
 	https://3g2upl4pq6kufc4m.onion/?q=한국+신학회&ia=web
 	http://praxis.or.kr/
-	http://praxis.or.kr/NFUpload/nfupload_down.php?tmp_name=20210201074734_77382115_0.pdf&name=%EC%A0%9C79%ED%9A%8C+%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EC%9E%90%EB%A3%8C%EC%A7%91.pdf
+	http://praxis.or.kr/NFUpload/nfupload_down.php?tmp_name=20210201074734_77382115_0.pdf&name=%EC%A0%9C79%ED%9A%8C+%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%EC%9E%90%EB%A3%8C%EC%A7%91.pdf	
 		*#1
 		*#2 ‘기념관’이라는  용어
 		*#3 거의 역사 속에서
@@ -61,10 +61,14 @@ n:	#17.2
 read.
 
 ::[17:52:35
-	:d-2 http://www.mapocmc.org/xe/church_school2/1467
+	* http://www.mapocmc.org/xe/church_school2/1467
 	#1
 	*#2 해방신학의 입장과 역사 ::[18:00:59
-	#3 해방신학의 형성에 영항을 준 ::[2021年4月4日12:50:09
+	#3  해방신학의 형성에 영항을 준 두 번째  ::[2021年4月4日12:50:09
+		words
+			정치신학(Political Theology)
+	 *#4 해방신학의 형성에 영향을 준 세 번째 ::[16:16:25
+	 
 
 n: #2
 
@@ -75,12 +79,65 @@ read.
 n: read	d-2
 
 
+###2021年4月4日15:31:24
+srch.
+	仏教 人間の価値
+	https://3g2upl4pq6kufc4m.onion/?q=仏教+人間の価値&ia=web
+
+	http://www.shouhouji.com/sh_diary/new-「仏教的価値観」/
+	http://www.zenseikyo.or.jp/katsudo/chiiki/familia/post_48.html 人、みなに美しき花あり　～仏教の人生観・人間観～(2)
+	http://sasurainohanngyakuso.blog99.fc2.com/blog-entry-645.html
+	https://true-buddhism.com/teachings/meaning/ 生きる意味とは？
+	https://sites.google.com/site/sawatani1/buddhizm 
+		
+		#1
+		#2 仏教の心と生命言語説::[2021年4月4日16:07:56
+		
+	https://buddhism-orc.ryukoku.ac.jp/old/pdf/20070627_001.pdf
+
+*read.
+	d-2
+
+read.
+	* ::[2021年4月4日16:22:53
+	http://www.mapocmc.org/xe/church_school2/1468 해방신학 비판(2)
+		*#1
+	::]16:32:40
+
+last::srch.
+	해방신학 사회주의
+	https://3g2upl4pq6kufc4m.onion/?q=해방신학+사회주의&ia=web
+	
+	https://news.joins.com/article/1517554 기독사회주의와 해방신학|전통적인 현실참여는 합법·평화적
+	:d-5
+		*#1 ::[16:39:51
+		#2 노동운동의 효시가 맨
+	
+	::]16:43:27
+	
+last::srch.
+	解放の神学
+	https://3g2upl4pq6kufc4m.onion/?q=解放の神学&iax=videos&ia=videos&iai=https://www.youtube.com/watch?v=_K5BGoGNz2E#
+	
+	https://youtu.be/_K5BGoGNz2E
+	:d-6
+		*#1
+		#2 https://youtu.be/_K5BGoGNz2E?t=562
+
+n:	read : d-3
+
 ###
 
 
 
 
 @@@
+###
+
+
+
+
+
 ###
 
 
