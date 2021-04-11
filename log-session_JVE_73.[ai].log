@@ -1,0 +1,70 @@
+###2021年4月11日
+srch:
+	python program machine learning
+	https://duckduckgo.com/?q=python+program+machine+learning&t=opera&ia=web&iai=r1-2&page=1&sexp=%7B"biaexp"%3A"b"%2C"msvrtexp"%3A"b"%2C"mliexp"%3A"b"%7D
+	
+::[16:47:05	
+programming
+	#C/P
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\1_start
+		to	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai
+	modify codes
+	test ==> OK
+	
+	> https://www.w3schools.com/python/python_ml_mean_median_mode.asp
+	test ==> code
+		C/P
+		edit
+		test ==> OK
+	
+	::]17:06:42
+	
+	>> https://www.w3schools.com/python/python_ml_standard_deviation.asp
+		1) std
+		C/P
+		#edit
+		test ==> OK : time=20210411_171234
+	
+		2) variance
+		C/P
+		edit
+		test ==> OK
+	
+	>> https://www.w3schools.com/python/python_ml_percentile.asp
+		1) percentile
+		#1 Percentiles are used in statistics to 
+		
+		#C/P		#code:20210411_171845
+		#edit
+		test ==> OK
+
+n:
+	#n:20210411_172354
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\1_1.py
+		
+	
+	
+
+@@@
+###
+
+
+
+
+###
+
+
+
+
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+set stringof_commit_message="(JVE_73.[theme=ai]) periodical updates"
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message% && e && p && r f && g a . && g c -m "(JVE_73.[theme=ai]) periodical updates" && e && p && r oj && g a . && g c -m "(JVE_73.[theme=ai]) periodical updates" && e && p && taskkill /f /im sakura.exe && taskkill /f /im javaw.exe

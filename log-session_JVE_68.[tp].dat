@@ -1,0 +1,33 @@
+s-1.d-1 / Quantum_field_theory <https://en.wikipedia.org/wiki/Quantum_field_theory>
+
+#1
+	words
+		quasiparticles https://en.wikipedia.org/wiki/Quasiparticle
+			texts
+				#1
+					words
+						collective excitations
+						emergent phenomena https://en.wikipedia.org/wiki/Emergence
+				#.1 For example, as an electron
+					words
+						effective mass https://en.wikipedia.org/wiki/Effective_mass_(solid-state_physics)
+#.1 QFT treats particles as excited 
+	words
+		excited states
+#.2 Interactions between particles are described 
+	words
+		Lagrangian https://en.wikipedia.org/wiki/Lagrangian_(field_theory)
+			texts
+				#1
+					words
+						Lagrangian mechanics
+						degrees of freedom
+				#.1 One motivation for the 
+				#2 Overview https://en.wikipedia.org/wiki/Lagrangian_(field_theory)#Overview
+					20210411_124619/
+#.3 Each interaction can be 
+#2 History https://en.wikipedia.org/wiki/Quantum_field_theory#History
+
+		
+
+

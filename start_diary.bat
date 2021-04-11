@@ -62,7 +62,9 @@ REM =================================
 rem : c/o : 2021”N3ŒŽ25“ú12:56:57
 rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\diary-in-langs.odt
 
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\vietnamese_list.ods
+rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\vietnamese_list.ods
+rem start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\diary.[20210408_101910~].ods"
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\diary.[20210408_101910~].ods
 
 rem : c/o : 2021”N3ŒŽ31“ú10:22:16
 rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\vietnamese.odt
@@ -76,6 +78,13 @@ echo.>> C:\WORKS_2\shortcuts_docs\start_diary.bat
 echo.>> C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
 
 exit
+
+
+
+
+
+
+
 
 
 
