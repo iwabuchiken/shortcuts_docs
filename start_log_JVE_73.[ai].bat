@@ -18,15 +18,15 @@ rem set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\78_goedel\2_
 rem set command_path_sakura=C:\WORKS_2\Programs\sakura\sakura.exe
 
 REM =================================
-set fname_batch="start_log_JVE_70.[CO2].bat"
+set fname_batch="start_log_JVE_73.[ai].bat"
 set dpath_batch=C:\WORKS_2\shortcuts_docs
 
 set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 
-set fname_log="log-session_JVE_70.[CO2].log"
+set fname_log="log-session_JVE_73.[ai].log"
 set fpath_log="%dpath_batch%\%fname_log:"=%"
 
-set fname_dat="log-session_JVE_70.[CO2].dat"
+set fname_dat="log-session_JVE_73.[ai].dat"
 set fpath_dat="%dpath_batch%\%fname_dat:"=%"
 
 rem : file path
@@ -47,13 +47,8 @@ REM =================================
 REM 	folders
 REM 	2021年1月28日0:29:20
 REM =================================
-:test
 
-start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
-
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
-
-rem start %folder_2%
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start
 
 REM =================================
 REM 	freemind
@@ -63,7 +58,7 @@ rem : 2021年3月14日15:49:09
 echo starting... freemind
 
 rem start "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
-"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
+rem "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
 
 REM =================================
 REM 	browser
@@ -74,9 +69,9 @@ pushd C:\WORKS_2\Programs\opera
 
 set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+70+co2&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
-echo opening browser... : %url_1%
+rem echo opening browser... : %url_1%
 
-launcher.exe %url_1%
+rem launcher.exe %url_1%
 
 REM =================================
 REM 	batch file ==> open
@@ -91,14 +86,7 @@ rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_batch%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
-
-rem : sheet : 2021年3月20日9:52:12
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
-
-rem start C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].dat
-
-rem start %fpath_dat%
+rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
 goto end
 
@@ -126,6 +114,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
 
 
 
