@@ -81,20 +81,44 @@ n:
 		prog
 
 
-###
+###2021年4月14日14:29:02
 
+*>> https://www.w3schools.com/python/python_ml_polynomial_regression.asp	::]15:55:31
+		*#1 Start by drawing a scatter plot:
+		*#2 Import numpy and matplotlib then 
+			words
+				numpy.polyfit
+		*seg
+			polyfit ==> 5
+			#code:20210414_152625
+		*seg
+			"from sklearn.metrics import r2_score"
+			==> yes?
+				==> YES	::]15:32:49
+		*#3 How well does my data fit in a polynomial regression?	::[15:33:27
+		seg
+			srch	scikit learn r2_score
+		::]15:41:57
+		*#4 Now we can use the information 	::[15:42:07
+			"test_10_Predict"
+			seg
+				srch : matplotlib plot color
+			*code
+			test ==> 
+				/seg
+					srch : matplotlib api plot
+				==> OK : plot_image_20210414_155224.png
+
+n:
+	https://www.w3schools.com/python/python_ml_multiple_regression.asp
+	#n:20210414_160053
+
+###
 
 
 
 
 @@@
-###
-
-
-
-
-
-
 ###
 
 
@@ -117,6 +141,7 @@ taskkill /f /im opera.exe
 (a|b|c)([A-Z])	 $2
 Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
 
+###
 start C:\WORKS_2\shortcuts_docs\end_log_JVE_73.[ai].bat
 
 set stringof_commit_message="(JVE_73.[theme=ai]) periodical updates"

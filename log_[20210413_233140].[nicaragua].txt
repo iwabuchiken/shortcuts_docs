@@ -1,0 +1,30 @@
+###2021年4月14日12:59:51
+search
+	gramma.cu nicaragua
+	
+	http://www.granma.cu/archivo?page=3&q=nicaragua
+	
+>> http://www.granma.cu/mundo/2021-01-03/por-que-a-ee-uu-le-preocupa-la-reciente-ley-aprobada-en-nicaragua-03-01-2021-23-01-16	*:d-1
+	
+	https://3g2upl4pq6kufc4m.onion/?q=Nicaragua+diario+periódico&ia=web
+	
+	https://3g2upl4pq6kufc4m.onion/?q=socialismo+nicaragüense&ia=web
+	
+		https://nomassocialismo.com/
+		https://www.lajornadanet.com/diario/archivo/2008/diciembre/5/4.html	:d-2
+			*#1
+			#2 Al consultársele sobre si el 
+
+n:	ANY
+
+
+###
+
+
+
+@@@
+###
+
+
+
+
