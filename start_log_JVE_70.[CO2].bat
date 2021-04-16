@@ -19,6 +19,9 @@ rem set command_path_sakura=C:\WORKS_2\Programs\sakura\sakura.exe
 
 rem %%%
 set url_read="http://tuprints.ulb.tu-darmstadt.de/5593/1/Dr.%20Arbeit%20Kommoß-tuprints.pdf"
+rem set url_read="http%3A%2F%2Ftuprints.ulb.tu-darmstadt.de%2F5593%2F1%2FDr.%2520Arbeit%2520Kommo%C3%9F-tuprints.pdf"
+
+
 
 REM =================================
 set fname_batch="start_log_JVE_70.[CO2].bat"
@@ -130,6 +133,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
 
 
 

@@ -129,6 +129,25 @@ n:
 	https://www.w3schools.com/python/python_ml_scale.asp
 	#n:20210415_174210
 
+###2021年4月16日14:45:43
+>> https://www.w3schools.com/python/python_ml_scale.asp
+	#n:20210415_174210
+	#1 Scale all values in the Weight 
+		coding
+		test ==> OK
+		sheet : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data_20210416\session-data.ods
+	
+	#2 
+		"test_14_Scale_Predict"
+		coding
+	*seg : search
+			sklearn linear_model predict()
+
+n:
+	https://www.w3schools.com/python/python_ml_train_test.asp
+	#n:20210416_153541
+
+
 ###
 
 
@@ -136,13 +155,6 @@ n:
 
 
 @@@
-###
-
-
-
-
-
-
 ###
 
 

@@ -51,11 +51,20 @@ REM =================================
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start
 
 REM =================================
+REM 	eclipse
+REM 	2021年4月16日14:43:39
+REM =================================
+echo starting... : eclipse.exe
+
+pushd C:\WORKS_2\Programs\eclipse\eclipse_luna-php,python
+start eclipse.exe
+
+REM =================================
 REM 	freemind
 REM 	2021年1月28日0:29:35
 REM =================================
 rem : 2021年3月14日15:49:09
-echo starting... freemind
+rem echo starting... freemind
 
 rem start "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
 rem "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
@@ -114,6 +123,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
 
 
 
