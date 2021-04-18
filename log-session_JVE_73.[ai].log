@@ -148,6 +148,58 @@ n:
 	#n:20210416_153541
 
 
+###2021年4月17日14:09:58
+s-7:
+
+>> https://www.w3schools.com/python/python_ml_train_test.asp
+	#n:20210416_153541
+	
+	*#1
+	
+		sheet : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data_20210416\session-data.ods s-7.(1)
+	
+	*#2 The training set should be a random selection 
+		
+		search : matplotlib plot reset
+	
+	*#3 To make sure the testing set is not 
+	
+	*#4 What does the data set look like? 
+		
+		srch : numpy linespace
+	
+	*#5 Remember R2, also known 
+	
+	#6 Bring in the Testing Set
+
+n:
+	https://www.w3schools.com/python/python_ml_train_test.asp
+	
+		#6 Bring in the Testing Set
+		
+		#n:20210417_151327
+
+###2021年4月18日12:41:45
+
+	https://www.w3schools.com/python/python_ml_train_test.asp
+	
+		*#6 Bring in the Testing Set
+		
+			#n:20210417_151327
+
+		*#7 Predict Values
+		
+			#:20210418_125209
+		
+			#.1 plot ==> predicted value, kadhalika
+				srch : matplotlib plot font
+
+n:
+	https://www.w3schools.com/python/python_ml_decision_tree.asp
+	#n:20210418_133238
+	
+	https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_data_loading_for_ml_projects.htm
+
 ###
 
 
@@ -155,6 +207,13 @@ n:
 
 
 @@@
+###
+
+
+
+
+
+
 ###
 
 

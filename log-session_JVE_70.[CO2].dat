@@ -1,17 +1,49 @@
-#.1 Phase I is CO2 hydrogenation catalyst
+#1
+#.1 The surrogate model is constructed 
 	words
-		methanol to olefins conversion
-	docs
-		Three dimensional printing of components and functional devices for energy and environmental applications https://pubs.rsc.org/en/content/articlelanding/2017/EE/C6EE03526D#!divAbstract
-			ref-127
-			readable : YES
-				==>further
-#.2 Also, most of the printed catalysts are
-#.3 As different spatial arrangements in bifunctional
-#.4 Also, new material modification technologies,
-#.5 Phase II is to characterize the
-#.6 Timoshenko et al.140 have successfully deciphered
-#.7 Therefore, theoretical simulations can assist
-#.8 Phase III is to perform AI-guided evaluation of CO2 hydrogenation
-#.9 First, the AI-guided method is
-#.10 Currently, it is inconvenient to
+		Gaussian process
+			docs
+				Gaussian_process https://en.wikipedia.org/wiki/Gaussian_process
+		group additivity fingerprints
+			srch
+				1 https://duckduckgo.com/?q=group+additivity+fingerprints&t=opera&ia=web&iai=r1-6&page=1&sexp=%7B"biaexp"%3A"b"%2C"msvrtexp"%3A"b"%7D
+			docs
+				Molecular ConvNet in Property Prediction http://kehang.github.io/basic_project/2017/04/18/machine-learning-in-molecular-property-prediction/
+					==>further
+				Group-contribution_method https://en.wikipedia.org/wiki/Group-contribution_method
+					==>further
+		transition-state scaling relations
+		simple classifier
+		rate-limiting step
+#.2 The surrogate model is iteratively used 
+	words
+		electronic structure theory
+#.3 Applying these methods 
+#2 Reaction network complexity limits the 
+#.1 For direct hydrocarbon reactions in 
+#.2 Identifying the right reactions to 
+#.3 The overwhelming complexity of reaction networks 
+#.4 Model refinement should focus 
+	words
+		systems biology
+			docs
+				Universally Sloppy Parameter Sensitivities in Systems Biology Models https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030189
+					===>further
+					readable : YES
+#.5 Using surrogate models as a 
+	words
+		group additivity energetics
+		automated semiempirical quantum mechanical calculations
+			docs
+				Reaction Mechanism Generator: Automatic construction of chemical kinetic mechanisms https://www.sciencedirect.com/science/article/pii/S0010465516300285?via%3Dihub
+				
+					===>further
+					readable : YES
+#.6 Metabolic engineering has also 
+	words
+		Metabolic engineering
+		adsorption energetics
+#.7 There has also been success 
+#.8 This work takes a markedly 
+
+

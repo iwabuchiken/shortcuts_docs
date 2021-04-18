@@ -1,0 +1,29 @@
+r-1-2
+#2 Early_years https://en.wikipedia.org/wiki/Automated_reasoning#Early_years
+	words
+		formal proof https://en.wikipedia.org/wiki/Formal_proof
+			texts
+				#1
+					words
+						effective
+#.1 Some consider the Cornell 
+	words
+		automated deduction
+		Presburger's decision procedure
+#.2 Automated reasoning, although 
+#3 Significant_contributions https://en.wikipedia.org/wiki/Automated_reasoning#Significant_contributions
+	topic
+		Logic Theorist (LT)  https://en.wikipedia.org/wiki/Logic_Theorist
+			text
+				#1
+				#2 History https://en.wikipedia.org/wiki/Logic_Theorist#History
+					words
+						pattern matching
+#.1 In addition to proving the 
+#4 Proof_systems https://en.wikipedia.org/wiki/Automated_reasoning#Proof_systems
+#.1 Written in OCaml, HOL Light is
+
+		
+		
+
+
