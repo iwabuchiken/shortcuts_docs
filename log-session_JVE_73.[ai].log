@@ -200,6 +200,118 @@ n:
 	
 	https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_data_loading_for_ml_projects.htm
 
+###2021年4月18日16:27:15
+s-8:
+
+	https://www.w3schools.com/python/python_ml_decision_tree.asp
+	#n:20210418_133238
+		*#1 In this chapter we will 
+			new file : shows.csv
+		*#2 First, import the modules you 
+			
+			pydotplus
+				python -m pip list
+				search : python pydotplus
+					https://3g2upl4pq6kufc4m.onion/?q=python+pydotplus&ia=web
+				s: python pip search module
+					https://3g2upl4pq6kufc4m.onion/?q=python+pip+search+module&ia=web
+				console : python -m pip search pydotplus
+					ERROR
+					xmlrpc.client.Fault: <Fault -32500: "RuntimeError: PyPI's XMLRPC API i
+s currently disabled due to unmanageable load and will be deprecated i
+n the near future. See https://status.python.org/ for more information
+.">
+				console : python -m pip install pydotplus
+					result : Successfully built pydotplus
+Installing collected packages: pydotplus
+Successfully installed pydotplus-2.0.2
+			coding : skeleton : "import pydotplus"
+			test ==> ok ::]16:47:35
+			
+			coding : DecisionTreeClassifier
+			test ==> ok		::]16:51:28
+			
+			coding : read csv
+				==> ok		::]16:54:17
+			
+		#3 To make a decision tree, all 
+		#.1 Pandas has a map() method 
+		
+			coding :
+				==> ok
+		*#.2 Then we have to separate the feature 
+			==> ok		::]17:02:07
+		
+		#4 Now we can create the actual 
+			"step : 3"
+				==> ok
+			"export_graphviz"
+				==> #debug:20210418_170812
+					NameError: name 'tree' is not defined
+					==> ok	::]17:09:18
+				==> ok	::]17:09:45
+			"graph_from_dot_data"
+				==> ok	::]17:11:44
+			
+			"graph.write_png('mydecisiontree.png')"
+				==> ERROR
+					    'GraphViz\'s executables not found')
+pydotplus.graphviz.InvocationException: GraphViz's executables not fou
+nd
+					search : pydotplus GraphViz's executables not found 
+						https://stackoverflow.com/questions/27666846/pydot-invocationexception-graphvizs-executables-not-found
+							On Windows 8 this solved the same
+							
+						https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not ==> this?
+							Here's the advice from those three links:
+							Download and install graphviz-2.38.msi 
+							
+					search : python pip graphviz
+						https://pypi.org/project/graphviz/
+					
+					TRY : 
+						cl : python -m pip install graphviz
+						==> Installing collected packages: graphviz
+Successfully installed graphviz-0.14.2
+					
+					~TRY : re-run py file	::[17:24:35
+						==> N/C
+					
+					~TRY : "graphviz-2.38.msi "	::[17:28:52
+						https://graphviz.org/download/
+						https://graphviz.org/download/#windows
+						https://gitlab.com/graphviz/graphviz/-/package_files/9574245/download
+						
+						download : exe file : stable_windows_10_cmake_Release_x64_graphviz-install-2.47.1-win64.exe
+						C/P --> C:\WORKS_2\Programs\Python\Python_3.5.1\lib_additional
+						
+						add path	::]17:35:09
+						
+						==> N/C	::]17:36:44
+					
+					TRY : pydotplus --> other func for image export?
+						search : pydotplus save image file
+							https://3g2upl4pq6kufc4m.onion/?q=pydotplus+save+image+file&ia=web
+							https://riptutorial.com/python/example/29348/pydotplus
+							https://stackoverflow.com/questions/39825699/convert-decision-tree-directly-to-png
+							
+					
+						"tree.export_XXX" ==> export dot file?
+					
+					TRY : image export --> other than actually first generating a png file?
+					
+					TRY : put executable file to --> ".../Lib"
+						C:\WORKS_2\Programs\Python\Python_3.5.1
+						
+						##mark:20210418_180429
+			
+	https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_data_loading_for_ml_projects.htm
+
+
+n:
+	##mark:20210418_180429
+	#debug:20210418_170812
+
 ###
 
 
@@ -207,13 +319,6 @@ n:
 
 
 @@@
-###
-
-
-
-
-
-
 ###
 
 

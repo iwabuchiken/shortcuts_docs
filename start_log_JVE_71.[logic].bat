@@ -26,7 +26,8 @@ set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 set fname_log="log-session_JVE_71.[logic].log"
 set fpath_log="%dpath_batch%\%fname_log:"=%"
 
-set fname_dat="dat-session_JVE_71.[datic].dat"
+rem set fname_dat="dat-session_JVE_71.[datic].dat"
+set fname_dat="dat-session_JVE_71.[logic].dat"
 set fpath_dat="%dpath_batch%\%fname_dat:"=%"
 
 rem : file path
@@ -118,6 +119,7 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
 
 
 
