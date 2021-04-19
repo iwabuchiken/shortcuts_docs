@@ -61,6 +61,9 @@
 			###2021年4月1日9:50:46
 			DELETE FROM images WHERE id >= 47247;
 			
+			###2021年4月19日8:45:43
+			DELETE FROM images WHERE id >= 47445;
+			
 			@@@
 			
 			###XXX
@@ -88,7 +91,11 @@ C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
 			
 			"commands : list no.12~17,18~21" ==> continue
 
-			"13	data ==> to remote" ==> exec
+6) browser
+
+	"12	upload db file"
+	
+	"13	data ==> to remote" ==> exec
 				==> "'new_data_Success' => (int) 22," --> OK
 		
 		validate		:2020年7月26日14:23:04

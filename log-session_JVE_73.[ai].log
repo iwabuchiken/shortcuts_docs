@@ -312,10 +312,178 @@ n:
 	##mark:20210418_180429
 	#debug:20210418_170812
 
-###
+###2021年4月19日10:29:28
+s-9:
 
+	##mark:20210418_180429
+	#debug:20210418_170812
 
+	"graph.write_png('mydecisiontree.png')"
+					==> ERROR
+		~TRY : put executable file to --> ".../Lib"
+			C:\WORKS_2\Programs\Python\Python_3.5.1
+			from : C:\WORKS_2\Programs\Python\Python_3.5.1\lib_additional
+			
+			run file
+				pushd C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\
+echo.>> log_session-1.log && echo ============================ >> log_session-1.log && python 1_1.py >> log_session-1.log
+			==> N/C
+			
+		*TRY : see python load path	::[10:35:06
+		
+			search : python load path
+			
+			code : "print(sys.path)"
+		
+		~TRY : "C:\\WORKS_2\\Programs\\Python\\Python_3.5.1\\lib"
+		C:\WORKS_2\Programs\Python\Python_3.5.1\lib
+			==> put exe file in this dir
+			
+			code
+			==> already copied	::]10:45:24
+		
+		*TRY : view code
+				"C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\pydotplus\graphviz.py", line 1960, in create
+			found : "self.progs is None"
+			*see : find_graphviz()
+				==> #debug:20210419_104901
+				found : "os.environ['PATH']" --> using this var for paths
+							only if --> "if 'PATH' in os.environ"
+						#debug:20210419_105456
+					*?: 'PATH' in os.environ ? ==> YES	::]10:52:57
+			see : __find_executables(path)
+				#debug:20210419_105546
+			
+			solution candidate:	##id:20210419_110131
+				in ".../Lib" dir, the exe file --> change name to one of:
+			        'dot': '',
+			        'twopi': '',
+			        'neato': '',
+			        'circo': '',
+			        'fdp': '',
+			        'sfdp': ''
+					--> and, the extenstion ".exe"
+						--> ref : #debug:20210419_110037
+		
+		*TRY : #id:20210419_110131
+			::[11:02:04		::]11:22:40
+			*change file name --> to : dot.exe
+			run file
+				==> N/C		::]11:03:33
+		
+			*FOLLOWUP: let's ouput on the console the func "find_graphviz()"'s inner working
+				#debug:20210419_110522
+				*code:
+				*test ==> ERROR
+					"SyntaxError: from __future__ imports must occur at the beginning of the file"
+					line 34
+					found: module import had been inserted
+				*test ==> ERROR	::[11:09:38
+				    "os.path.basename(os.path.basename(libs.thisfile()))
+					NameError: name 'libs' is not defined"
+					 line 487
+					measure : import "libs"
+						#debug:20210419_111157
+				*test ==> ok : results shown	::]11:13:51
+				
+				*found : "C:\WORKS_2\Programs\Python\Python_3.5.1\lib" --> not in the output list
+					--> seems : the program is looking at the windows PATH environ var
+						--> ##mark:20210419_111844 (.../\1_start\log_session-1.log)
 
+		*TRY :
+				add to the windows environ var list --> "C:\WORKS_2\Programs\Python\Python_3.5.1\lib"
+			::[11:22:34		::]11:43:33
+			search : python add environ variable window
+					python add windows path
+			
+			*code: add code to "...\pydotplus\graphviz.py"
+				#debug:20210419_112847
+			test:run file	::[11:30:22
+				==> result chaged : "path : C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/ ==> result : True"
+							--> ##mark:20210419_113303 (.../\1_start\log_session-1.log)
+				==> "OSError: [WinError 740] 要求された操作には管理者特権が必要です。"
+					--> following the below:
+					"File "C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\pydotplus\graphviz.py", line 2023, in create
+					    stderr=subprocess.PIPE, stdout=subprocess.PIPE)"
+			>TRY :
+					see the output from --> graphviz.py :line 2023
+				#debug:20210419_113721 (graphviz.py)
+				*code:
+				test:run
+					==> see log file --> comp.
+				suggest : 	##id:20210419_114400
+					maybe, need to see the file --> ...\Python\Python_3.5.1\lib\subprocess.py
+					==> refer "  File "C:\WORKS_2\Programs\Python\Python_3.5.1\lib\subprocess.py", line 1220, in _execue_child    startupinfo)
+							OSError: [WinError 740] 要求された操作には管理者特権が必要です。"
+		
+		*TRY : ->#id:20210419_114400
+					::]12:02:11
+			open : C:\WORKS_2\Programs\Python\Python_3.5.1\lib\subprocess.py
+				--> line : 1220
+			
+			>TRY :
+					see --> variables : "executable, args"
+				*code : #debug:20210419_114738
+					*1) import "libs"
+						#debug:20210419_114909
+					*2) debug code
+				test:run
+					==> "args = 'C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/dot.exe -Tpng C:\Users\IWABUC~1\AppData\Local\Temp\tmp73gsl4hy'"
+				
+				found :
+					1) data file (i.e. the above "...\tmp73gsl4hy") --> generated in the user's dir (d1)
+					2) d1 --> to access this dir, admin status is required.
+				at-the-moment-thinkable solutions :
+					1) seemingly : the graphviz.py program generates dot data for the tree into the above in-users-dir directory(hypotheisis 1, h1)
+					2) on h1 : change somehow the corresponding lines in graphviz.py --> generate dot data file into some non-admin-status-required dir.
+				
+				think :	##id:20210419_120233
+					1) the possible funcs that generates dot data file are :
+						1) tree.export_graphviz
+						2) pydotplus.graph_from_dot_data
+		
+		TRY : ->##id:20210419_120233
+				see code : tree.export_graphviz
+			::[12:03:41
+			sklearn.tree	==> where is the file?
+				==> C:\WORKS_2\Programs\Python\Python_3.5.1\Lib\site-packages\sklearn\tree
+					--> file : tree.py ? --> func "export_graphviz" --> exists? ==> NO
+							--> export.py ? ==> YES!
+			
+			found :
+				1) #debug:20210419_121525 (export.py // C:\WORKS_2\Programs\Python\Python_3.5.1\Lib\site-packages\sklearn\tree)
+					--> "open(out_file, "w", encoding="utf-8")"
+					and, this "out_file" is --> "export_graphviz(..., out_file=SENTINEL, ..."
+
+		TRY : ->##id:20210419_120233
+				see code : pydotplus.graph_from_dot_data
+		
+		*TRY : 
+				in the console, "C:/WORKS_2/Programs/Python/Python_3.5.1/Lib/dot.exe -Tpng C:\Users\IWABUC~1\AppData\Local\Temp\tmp73gsl4hy"
+			::[12:18:10		::]12:27:14
+pushd C:\WORKS_2\Programs\Python\Python_3.5.1\Lib\
+dot.exe -Tpng "C:\Users\IWABUC~1\AppData\Local\Temp\tmp73gsl4hy"
+			result:
+				1) "Graphviz" --> installation window started
+				2) install to --> C:\WORKS_2\Programs\Graphviz\
+					==> comp	::]2021年4月19日
+				3) console --> cursor returned
+				4) in Temp dir --> no png file (C:\Users\iwabuchiken\AppData\Local\Temp)
+			
+			>TRY :	::[12:23:56
+					again, the cmd line : ""
+				1) again, "Graphviz" --> installation window started
+			>TRY :		::]12:25:51
+					see --> C:\WORKS_2\Programs\Graphviz\
+				1) in the dir "C:\WORKS_2\Programs\Graphviz\bin" --> "dot.exe"
+		
+		TRY :	##id:20210419_123012
+				"dot.exe" --> use the one in "C:\WORKS_2\Programs\Graphviz\bin"
+				#debug:20210419_112847 (graphviz.py)
+				::[12:28:56
+
+n:
+	->##id:20210419_123012
 
 
 @@@
