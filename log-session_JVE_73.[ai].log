@@ -203,7 +203,7 @@ n:
 ###2021年4月18日16:27:15
 s-8:
 
-	https://www.w3schools.com/python/python_ml_decision_tree.asp
+	https://www.w3schools.com/python/python_ml_decision_tree.asp	:d-1
 	#n:20210418_133238
 		*#1 In this chapter we will 
 			new file : shows.csv
@@ -253,7 +253,7 @@ Successfully installed pydotplus-2.0.2
 			"graph_from_dot_data"
 				==> ok	::]17:11:44
 			
-			"graph.write_png('mydecisiontree.png')"
+			"graph.write_png('mydecisiontree.png')"	##id:20210419_140659
 				==> ERROR
 					    'GraphViz\'s executables not found')
 pydotplus.graphviz.InvocationException: GraphViz's executables not fou
@@ -486,14 +486,85 @@ n:
 	->##id:20210419_123012
 
 
+
+###2021年4月19日13:49:26
+s-10:
+
+>>1
+	TRY ] ->##id:20210419_123012
+	"dot.exe" --> use the one in "C:\WORKS_2\Programs\Graphviz\bin"
+				#debug:20210419_112847 (graphviz.py)
+		code:
+			1) change --> var value
+			2) comment in --> #debug:20210419_110522
+		test:run	::[13:53:01
+			==> png created!!!!		::]13:55:34
+	
+		found :
+				how to fix
+			1) download installation file from : https://gitlab.com/graphviz/graphviz/-/package_files/9574245/download
+			2) open the file --> installation window opens
+			3) install to the dir of your choice
+			4) in the generated directory set, there also comes the dir "bin"
+			5) in this dir, the executable file "dot.exe" is listed
+			6) in graphviz.py file, add an import line
+				--> "os.environ["PATH"] += os.pathsep + 'your-directory-of-choice/Graphviz/bin'"
+			==> complete.
+	
+	*work:		::]14:16:19
+			comment out --> those lines used in the debugging
+		*1) subprocess.py
+		*2) graphviz.py (C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\pydotplus)
+	
+	%TRY :
+			what is "SENTINEL" (export.py : #debug:20210419_135422) 
+
+>>2		::[14:07:24
+
+		resume from : ->##id:20210419_140659
+	https://www.w3schools.com/python/python_ml_decision_tree.asp
+	
+		#4 Now we can create the actual
+			"graph.write_png('mydecisiontree.png')"
+				==> ok		::]14:11:13
+			up to " plt.show() "
+				==> ok		::]14:23:17
+		
+		#5 Result Explained
+			use sheet --> C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data\s-10\sheet.ods
+			::]14:42:57
+			
+		*#6 Comedians Continue:
+		
+		~#7 Comedians Continue:
+			code:
+			test:run	::[15:30:21
+				==> PROBLEM
+					--> result is "[0]"
+				==> DROP: let's move on. maybe other sites using this decision tree thing.
+			::]15:36:20
+		
+>>3		::[15:36:41
+		
+		search : other ML tutorial sites
+		*https://duckduckgo.com/?q=python+program+machine+learning&t=opera&ia=web&iai=r1-2&page=1&sexp=%7B"biaexp"%3A"b"%2C"msvrtexp"%3A"b"%2C"mliexp"%3A"b"%7D	<== s-1.1
+		
+		search : qiita python machine learning
+
+>>4		::[15:50:43
+		
+		s-10.d-1 / Introduction To Machine Learning using Python
+		https://www.geeksforgeeks.org/introduction-machine-learning-using-python/
+		
+			*#1 Machine learning is a type of 
+			#2 Machine learning involves a computer 
+			#3 Here is a python script 	##id:20210419_161132
+			
+n:
+	->##id:20210419_161132
+
+
 @@@
-###
-
-
-
-
-
-
 ###
 
 
