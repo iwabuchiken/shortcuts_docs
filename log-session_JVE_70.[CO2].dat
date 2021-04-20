@@ -1,49 +1,13 @@
-#1
-#.1 The surrogate model is constructed 
-	words
-		Gaussian process
-			docs
-				Gaussian_process https://en.wikipedia.org/wiki/Gaussian_process
-		group additivity fingerprints
-			srch
-				1 https://duckduckgo.com/?q=group+additivity+fingerprints&t=opera&ia=web&iai=r1-6&page=1&sexp=%7B"biaexp"%3A"b"%2C"msvrtexp"%3A"b"%7D
-			docs
-				Molecular ConvNet in Property Prediction http://kehang.github.io/basic_project/2017/04/18/machine-learning-in-molecular-property-prediction/
-					==>further
-				Group-contribution_method https://en.wikipedia.org/wiki/Group-contribution_method
-					==>further
-		transition-state scaling relations
-		simple classifier
-		rate-limiting step
-#.2 The surrogate model is iteratively used 
-	words
-		electronic structure theory
-#.3 Applying these methods 
-#2 Reaction network complexity limits the 
-#.1 For direct hydrocarbon reactions in 
-#.2 Identifying the right reactions to 
-#.3 The overwhelming complexity of reaction networks 
-#.4 Model refinement should focus 
-	words
-		systems biology
-			docs
-				Universally Sloppy Parameter Sensitivities in Systems Biology Models https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030189
-					===>further
-					readable : YES
-#.5 Using surrogate models as a 
-	words
-		group additivity energetics
-		automated semiempirical quantum mechanical calculations
-			docs
-				Reaction Mechanism Generator: Automatic construction of chemical kinetic mechanisms https://www.sciencedirect.com/science/article/pii/S0010465516300285?via%3Dihub
-				
-					===>further
-					readable : YES
-#.6 Metabolic engineering has also 
-	words
-		Metabolic engineering
-		adsorption energetics
-#.7 There has also been success 
-#.8 This work takes a markedly 
+#2.17  оказы'вает[show отношение[ratio стехиометрического[stoichiometric (окисленная[oxidized поверхность[surface) к нестехиометрическому цинку[zinc (восстановленная[reduced поверхность). 
+#.18 В процессе формирования и эксплуатации[operation, а также под воздействием[influence реакционной среды на поверхности катализатора
+#.19 меняется[it-changes соотношение[ratio окисленных и восстановленных активных центров
+#.20 В зави'симости от их соотношения меняется[it-changes и селективность[selectivity процесса синте. за метанола и спиртов Сг—С4. 
+#.21 Так, при дозировании[dosing диоксида углерода в восстановительную среду Нг—СО
+#.22 резко[sharply увеличивается[increase производительность[productivity цинк-хромового катализатора
+#.23 по метанолу, что, по-видимому[apparently, связано[associated с образованием[formation дополнительных[additional окисленных активных центров
+#.24  и ускорением[acceleration лимитирующей[limiting стадии — хемосорбции водорода[hydrogen [87]. [c.205]
+#3 Метиловый спирт получают гидрированием
+
+
 
 

@@ -13,10 +13,6 @@ REM =================================
 REM 	variables
 REM 	2021年1月28日0:29:04
 REM =================================
-rem set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\78_goedel\2_
-
-rem set command_path_sakura=C:\WORKS_2\Programs\sakura\sakura.exe
-
 rem %%%
 set url_read="http://tuprints.ulb.tu-darmstadt.de/5593/1/Dr.%20Arbeit%20Kommoß-tuprints.pdf"
 rem set url_read="http%3A%2F%2Ftuprints.ulb.tu-darmstadt.de%2F5593%2F1%2FDr.%2520Arbeit%2520Kommo%C3%9F-tuprints.pdf"
@@ -24,15 +20,18 @@ rem set url_read="http%3A%2F%2Ftuprints.ulb.tu-darmstadt.de%2F5593%2F1%2FDr.%252
 
 
 REM =================================
-set fname_batch="start_log_JVE_70.[CO2].bat"
+
+set stringof_project_id="JVE_74.[dyslexia]"
+
+set fname_batch="start_log_JVE_74.[dyslexia].bat"
 set dpath_batch=C:\WORKS_2\shortcuts_docs
 
 set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 
-set fname_log="log-session_JVE_70.[CO2].log"
+set fname_log="log-session_JVE_74.[dyslexia].log"
 set fpath_log="%dpath_batch%\%fname_log:"=%"
 
-set fname_dat="log-session_JVE_70.[CO2].dat"
+set fname_dat="log-session_JVE_74.[dyslexia].dat"
 set fpath_dat="%dpath_batch%\%fname_dat:"=%"
 
 rem : file path
@@ -57,7 +56,7 @@ REM =================================
 
 start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
 
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\74_dyslexia
 
 rem start %folder_2%
 
@@ -68,8 +67,8 @@ REM =================================
 rem : 2021年3月14日15:49:09
 echo starting... freemind
 
-rem start "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
-"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\70_CO2\70_CO2.mm"
+rem start "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\74_dyslexia\74_dyslexia.mm"
+"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\74_dyslexia\74_dyslexia.mm"
 
 REM =================================
 REM 	browser
@@ -78,12 +77,12 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+70+co2&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+73+dyslexia&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
-rem launcher.exe %url_1%
-launcher.exe %url_1% %url_read%
+launcher.exe %url_1%
+rem launcher.exe %url_1% %url_read%
 
 REM =================================
 REM 	batch file ==> open
@@ -100,13 +99,6 @@ start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
-rem : sheet : 2021年3月20日9:52:12
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
-
-rem start C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].dat
-
-rem start %fpath_dat%
-
 goto end
 
 REM =================================
@@ -118,9 +110,13 @@ REM =================================
 REM 	close apps
 REM 	2021年2月11日14:25:50
 REM =================================
-rem ###
-start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[90_oritaku].bat
 
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].bat
+
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
+rem ###
 set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
 
@@ -133,6 +129,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
 
 
 
