@@ -610,25 +610,63 @@ s-11:
 	https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/
 	
 	#1 Important features of 	::[17:23:06	##id:20210421_172316
-
+	
+	#2 Installation:	::[2021年4月22日16:03:39
+	#3 Step 1: Load a dataset
+		code :  (C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\s_11_ml.py .../\log_s-11_ml.log)
+			test_S_12_Scikit	#mark:20210422_162029
+			*load_iris
+			*type(X)
+	
+	~#4 Loading external dataset: 	::[16:42:28
+		code : 
+			*import pands	#mark:20210422_164640
+			data.shape
+			
+	*#5 Consider the example below:
+	#6 Step 3: Training the model	::[17:01:54
+		code : #mark:20210422_170418
+			*accuracy_score	#mark:20210422_171840
+			*"step : 5 : 2"
+			joblib.dump		#mark:20210422_172852
+				import module
+	#7 In case you want to load 	::[17:58:23
+		##id:20210422_175911
+	
+	
+	
 n:
 	##id:20210421_172316
 	
 	py file ==> use this session's file
 
-###
+###2021年4月22日16:01:03
+s-12:
 
+>>1
+		##id:20210421_172316
+	*>> valid : 
+		python -m pip list
+	
+	>> seg
+		*srch : python count time
+		*srch : python convert float to time string
+			https://3g2upl4pq6kufc4m.onion/?q=python+convert+float+to+time+string&ia=web
+		*srch : python float to string
+		~srch : geeksforgeeks.org weather.csv	::[16:52:28
+		
+n:
+	https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/
+		
+		##id:20210422_175911
+
+
+###
 
 
 
 
 @@@
-###
-
-
-
-
-
 ###
 
 
@@ -650,10 +688,9 @@ taskkill /f /im opera.exe
 Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
 
 ###
-start C:\WORKS_2\shortcuts_docs\end_log_JVE_73.[ai].bat
-
 start C:\WORKS_2\shortcuts_docs\end_log_JVE_73.[ai].git.bat
 
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_73.[ai].bat
 
 set stringof_commit_message="(JVE_73.[theme=ai]) periodical updates"
 
