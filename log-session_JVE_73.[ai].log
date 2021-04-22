@@ -613,6 +613,8 @@ s-11:
 
 n:
 	##id:20210421_172316
+	
+	py file ==> use this session's file
 
 ###
 
