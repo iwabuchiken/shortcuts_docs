@@ -689,18 +689,63 @@ s-13:
 n:
 	s-13.d-2
 
+###2021年4月24日14:43:09
+s-14:
+
+>>1
+	s-13.d-2
+	https://www.geeksforgeeks.org/ml-machine-learning/		::[14:50:07
+	
+		#1
+		#.1 Example: Training of 
+		*#2 Basic Difference in ML 
+		#3 How ML works?
+		::]14:57:37
+	
+>>2
+	s-13.d-1
+	https://www.geeksforgeeks.org/ml-introduction-data-machine-learning/
+			::[14:59:16
+		#1
+		#2 How we split data 
+
+>>3		::[15:08:21
+
+	s-13.d-2
+	https://www.geeksforgeeks.org/demystifying-machine-learning/
+		#1
+		#2 Machine Learning : What is it really?
+
+>>4		::[
+
+	s-13.d-3 / Best Python libraries for Machine Learning
+	https://www.geeksforgeeks.org/best-python-libraries-for-machine-learning/
+	
+		#1
+		#2 Python program using NumPy
+				file : s_14_ml.py, log_s-14_ml.log
+			prep file
+			*code
+			test		::[15:31:39
+				==> ok
+		#.1 # Inner product of vectors
+		
+		seg: matrix vector product
+		
+		#3 # Python script using Scipy
+				func : test_S_14_No_2_Scipy
+		
+n:
+	s-13.d-4 / Decision Tree Introduction with example <https://www.geeksforgeeks.org/decision-tree-introduction-example/>
+	
+	file : s_14_ml.py, log_s-14_ml.log
+
 ###
 
 
 
 
 @@@
-###
-
-
-
-
-
 ###
 
 

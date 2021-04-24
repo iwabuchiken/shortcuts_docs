@@ -21,6 +21,7 @@ rem %%%
 set url_read="http://tuprints.ulb.tu-darmstadt.de/5593/1/Dr.%20Arbeit%20Kommoß-tuprints.pdf"
 rem set url_read="http%3A%2F%2Ftuprints.ulb.tu-darmstadt.de%2F5593%2F1%2FDr.%2520Arbeit%2520Kommo%C3%9F-tuprints.pdf"
 
+set url_trans_de_en="https://translate.google.co.jp/?sl=de&tl=en&op=translate&hl=ja"
 
 
 REM =================================
@@ -83,7 +84,9 @@ set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filte
 echo opening browser... : %url_1%
 
 rem launcher.exe %url_1%
-launcher.exe %url_1% %url_read%
+rem launcher.exe %url_1% %url_read%
+
+launcher.exe %url_1% %url_trans_de_en%
 
 REM =================================
 REM 	batch file ==> open
@@ -133,6 +136,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
 
 
 
