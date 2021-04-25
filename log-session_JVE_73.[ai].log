@@ -740,25 +740,75 @@ n:
 	
 	file : s_14_ml.py, log_s-14_ml.log
 	
-	#1		::[2021年4月25日14:49:25
-	
-	
-
 ###2021年4月25日14:48:27
 s-15:
 
 >>1
 
-	s-13.d-4
+	s-13.d-4 / Decision Tree Introduction with example <https://www.geeksforgeeks.org/decision-tree-introduction-example/>
 	
+	file : s_14_ml.py, log_s-14_ml.log
+	
+#1		::[2021年4月25日14:49:25	
+#2 As you can see from 
+	words
+			Disjunctive Normal Form
+			attribute selection
+#3 We have two popular 
+	words
+		Information Gain
+		Gini Index
+#4 For the set X
+	seg
+		search : online logarithm
+		https://stackoverflow.com/questions/33754670/calculate-logarithm-in-python
+	*calc 
+		import math
+		a = math.log(3/8)/math.log(2)*(3/8)
+		b = math.log(5/8)/math.log(2)*(5/8)
+#5 Now, lets draw a Decision 	::[15:46:05
+#.1 Here, we have 
+	calc
 
-@@@
+n1 = 1
+denomi = 3
+n2 = denomi - n1
+
+val1 = n1/denomi
+val2 = n2/denomi
+
+a = val1 * (math.log(val1)/ (math.log(2)))
+b = val2 * (math.log(val2)/ (math.log(2)))
+
+H = (-1)* a + (-1)* b
+H
+
+Z:
+n1 = 1
+denomi = 2
+n2 = denomi - n1
+
+val1 = n1/denomi
+val2 = n2/denomi
+
+a = val1 * (math.log(val1)/ (math.log(2)))
+b = val2 * (math.log(val2)/ (math.log(2)))
+
+H = (-1)* a + (-1)* b
+H
+
+#6 2. Gini Index
+
+n:
+	read C
+	->s-13.d-4
+
 ###
 
 
 
 
-
+s-13.d-4
 ###
 
 
