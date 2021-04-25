@@ -14,13 +14,13 @@ REM =================================
 REM 	variables
 REM 	2021”N1ŒŽ28“ú0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\68_daigaku\2_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\68_daigaku\1_
 
 REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-02-23_14-26-55_000.jpg
+set fname=2021-02-23_14-27-33_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64.[68_daigaku].bat"
@@ -157,6 +157,7 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
 
 
 

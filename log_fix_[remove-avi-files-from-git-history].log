@@ -1,0 +1,71 @@
+2021年4月25日8:49:48
+
+edit : .gitignore
+
+g co 38ca7a4fb3f9013dabacf752808a4ac453aceafc
+
+g co master
+
+g co 38ca7a4fb3f9013dabacf752808a4ac453aceafc
+
+g rm --cache *.avi
+
+commit
+
+search
+	git remove previous file
+	https://www.sitereq.com/post/4-ways-to-remove-files-from-git-commit-history
+
+8:59:37
+	g co .gitignore
+
+#8:59:43
+	g co master
+
+remove avi file
+
+	g rm VID_20210424_180545.[play-section].avi
+
+commit
+	(Cake_IFM11/WS) fixing : avi file --> deleting...
+
+>> back to the commit, C/P all files, remove avi, commit, copy back all files
+
+	#copy
+		g co 38ca7a4fb3f9013dabacf752808a4ac453aceafc
+		
+		commands/10-1) edit_memos.14.add-data-to-remote.history.txt
+		commands/11-0) update date.txt
+		commands/12-2) upload image files.log
+		commands/2-0 -0)_close-apps.txt
+	srch
+		git reset commit
+		https://www.thomaslaurenson.com/blog/2018-07-07/how-to-reset-and-revert-git-commits/
+	
+	#g reset --hard 38ca7a4fb3f9013dabacf752808a4ac453aceafc
+
+	#g rm VID_20210424_180545.[play-section].avi
+
+	#commit
+	(Cake_IFM11/WS) fixing : avi file --> deleted
+
+	push	::[9:15:24
+	p
+
+	copy back files
+
+>> 9:24:38
+
+again, back to the target history, commit again.
+
+	#g reset --hard 1212029fa19999ce99ce7935028aef7c908fd39f
+
+	#copy back files
+
+	#commit
+	
+	#push	::]9:30:01
+	p
+
+::] comp.	9:30:11
+

@@ -25,7 +25,9 @@ rem : 2021年2月24日10:58:03
 set url_polish_grammar="https://ja.wikipedia.org/wiki/ポーランド語#格変化"
 
 rem : 2021年3月25日13:00:12
-set url_random_number="https://psychicscience.org/random"
+rem set url_random_number="https://psychicscience.org/random"
+set url_random_number=""
+
 
 set list_of_url=%url_trans_ja_ko% %url_trans_ko_ja% %url_trans_en_pl% %url_trans_pl_en% %url_trans_en_vi% %url_forvo_persian% %url_polish_grammar% %url_random_number%
 
@@ -41,6 +43,7 @@ rem launcher.exe   %url_random_number%
 
 
 exit
+
 
 
 
