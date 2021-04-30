@@ -803,12 +803,40 @@ n:
 	read C
 	->s-13.d-4
 
-###
+###2021年4月30日14:30:26
+s-16:
+
+>>1
+	s-13.d-4 / Decision Tree Introduction with example <https://www.geeksforgeeks.org/decision-tree-introduction-example/>
+	
+#6 2. Gini Index
+	==> sheet "1" / sheet_s-16.ods (C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data\s-16)
+import math
+n1 = (5/12)
+n2 = (7/12)
+a = 1 - math.pow(n1,2) - math.pow(n2,2)
+a
+
+#7 The most notable types of 
+
+>>2
+	https://www.geeksforgeeks.org/decision-tree/
+	
+#1
+#2 Construction of Decision Tree :
+#.1 The construction of decision tree classifier 
+	words
+		decision tree classifier
+		Decision tree induction
+#3 Decision Tree Representation :
 
 
+	
+n:
+	
+	
 
-
-s-13.d-4
+@@@
 ###
 
 

@@ -67,6 +67,11 @@
 			###2021年4月21日7:46:16
 			DELETE FROM images WHERE id >= 47480;
 			
+			###2021年4月28日11:51:49
+			#DELETE FROM images WHERE id >= 47559;
+			
+			###2021年4月28日11:55:40
+			DELETE FROM images WHERE id >= 47592;
 			
 			@@@
 			

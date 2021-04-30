@@ -15,18 +15,18 @@ REM 	variables
 REM 	2021îN1åé28ì˙0:29:04
 REM =================================
 
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\102_banzan_wakumon\1_jou
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\108_imayou_heta\1_
 
 REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-03-10_12-43-38_000.jpg
+set fname=2021-04-28_23-34-29_000.jpg
 
 REM =================================
-set fname_batch="start_log_JVE_64.[102_banzan_wakumon].bat"
+set fname_batch="start_log_JVE_64.[108_imayou_heta].bat"
 
-set fname_log="log-session_JVE_64.[102_banzan_wakumon].log"
+set fname_log="log-session_JVE_64.[108_imayou_heta].log"
 
 set fpath="%folder_2%\%fname%"
 
@@ -88,7 +88,7 @@ REM =================================
 
 pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=102+àΩñ‚&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=108+ìñê¢&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
 echo opening browser... : %url_1%
 
@@ -149,19 +149,4 @@ REM 	end
 REM 	2021îN1åé28ì˙0:29:57
 REM =================================
 :end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

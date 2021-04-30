@@ -104,7 +104,8 @@ start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
 rem : sheet : 2021年3月20日9:52:12
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
+rem : comment out : 2021年4月30日11:18:25
+rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
 
 rem start C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].dat
 
@@ -136,6 +137,12 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
+
+
+
+
 
 
 

@@ -19,7 +19,7 @@ REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-03-03_15-44-18_000.jpg
+set fname=2021-03-03_15-55-16_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64.[99_chuuyou].bat"
@@ -65,6 +65,8 @@ start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",Image
 rem : for comment secions : 2021”N2ŒŽ9“ú7:35:14
 rem %fpath%
 rem : use "rundll32.exe" : 2021”N2ŒŽ10“ú17:20:07
+start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
+
 start rundll32.exe "C:\Program Files\Windows Photo Viewer\photoviewer.dll",ImageView_Fullscreen %fpath:"=%
 
 rem %fpath_2%
