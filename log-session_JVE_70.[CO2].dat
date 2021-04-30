@@ -1,12 +1,17 @@
-r-19.1 / To address surface reaction network complexity 
+r-19-4 / Machine learning for material characterization 
 
-  using scaling relations machine learning and DFT calculations <https://www.nature.com/articles/ncomms14621?origin=ppub>
+  with an application for predicting mechanical properties <https://onlinelibrary.wiley.com/doi/10.1002/gamm.202100003>
 
+#1
+	words
+		material property prediction
+		creep tests
+		small punch test https://www.researchgate.net/figure/Small-punch-tensile-test-apparatus_fig2_327612391
+#2 1 INTRODUCTION
+#.1 While experimental investigations
+#.2 However, it is not only 
+#Contrary to the curse of 
+#3 2 STATE OF THE ART
 
-#6.2 After the selection of
-#7 Mechanism reduction under DFT uncertainty
-#.1 The presence of alternate products 
-#8 Discussion
-
-
+		
 
