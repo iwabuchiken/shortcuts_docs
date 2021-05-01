@@ -149,3 +149,30 @@ using scaling relations machine learning and DFT calculations
 	2. browser
 		1. C - a/ - v / - Home [paste to trans site, move to the top of the text]
 	
+###2021年5月1日13:52:17
+
+regex ---> for german texts
+
+\r\n	 
+
+([a-z])\. 	$1.\r\n\r\n
+
+regex ---> for general texts
+
+# 1) remove : non-period return
+([^\.])\r\n$	
+
+# 2) add : return chars
+\.	.\r\n\r\n
+$\r\n	\r\n\r\n
+
+# 3) add : in-sentence period --> return chars
+\. 	.\r\n\r\n
+
+regex backward
+http://www.rexegg.com/regex-disambiguation.html#lookarounds
+
+regex : reduce double empty lines into one
+\r\n	@@@@
+@+	\r\n\r\n
+
