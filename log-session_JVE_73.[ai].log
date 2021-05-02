@@ -829,12 +829,53 @@ a
 		decision tree classifier
 		Decision tree induction
 #3 Decision Tree Representation :
+#.1 The decision tree in above 
+	/2021年5月2日16:23:16
+#4 Strengths and Weakness of Decision Tree approach
+#.1 The weaknesses of decision tree methods :
+/2021年5月2日16:25:59
 
-
-	
 n:
-	
-	
+
+###2021年5月2日16:19:28
+s-17:
+
+>>1
+
+s-17.d-1 / Decision tree implementation using Python https://www.geeksforgeeks.org/decision-tree-implementation-python/
+	texts
+		#1
+		#2 Assumptions we make while using Decision tree :
+		#.1 Data Slicing :
+		#3 Below is the python code for 
+			program
+				new file : s_17_ml.py (C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\s_17_ml.py)
+				
+				code:
+					*import	::[16:41:20
+					importdata() ==> C/P
+				test
+					==> OK		::]16:51:09
+			*seg
+				srch : python pands api
+			*program
+				code:
+					*train_using_gini --> C/P
+					*splitdataset --> C/P
+				*test
+					==> OK		::]17:05:19
+			*inspect:
+				*srch : python pandas values
+				#debug:20210502_170801
+					*coding
+					*test
+						==> OK	::]17:11:07
+
+n:
+	=> s-17.d-1
+		coding
+		#n:20210502_171207
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\s_17_ml.py
 
 @@@
 ###
@@ -843,7 +884,16 @@ n:
 
 
 
+
 ###
+
+
+
+
+
+
+###
+
 
 
 

@@ -99,7 +99,11 @@ hydroformylation
 
 	 of Carbon Dioxide over Fe-Cu Catalyst <https://core.ac.uk/download/pdf/82012210.pdf>
 
-###
+###2021年5月2日14:25:52
+
+>>1
+	sheet : sheets.[s-60~].ods / tab : 1
+	
 
 
 
@@ -160,10 +164,10 @@ regex ---> for german texts
 regex ---> for general texts
 
 # 1) remove : non-period return
-([^\.])\r\n$	
+([^\.])$\r\n	$1
 
 # 2) add : return chars
-\.	.\r\n\r\n
+\.$	.\r\n\r\n
 $\r\n	\r\n\r\n
 
 # 3) add : in-sentence period --> return chars
