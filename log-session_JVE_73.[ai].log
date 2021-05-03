@@ -204,7 +204,7 @@ n:
 s-8:
 
 	https://www.w3schools.com/python/python_ml_decision_tree.asp	:d-1
-	#n:20210418_133238
+	#n:20210418_133238 ##mark:20210503_163501
 		*#1 In this chapter we will 
 			new file : shows.csv
 		*#2 First, import the modules you 
@@ -870,12 +870,99 @@ s-17.d-1 / Decision tree implementation using Python https://www.geeksforgeeks.o
 					*coding
 					*test
 						==> OK	::]17:11:07
+			*srch:
+				20210503_155517/
+				*sklearn train_test_split
+					https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+			*srch:	::[16:01:44
+				numpy ndarray get size
+			*debug:
+				#debug:20210503_160446
+				get size
+			*srch:
+				numpy ndarray show elements
+				https://www.geeksforgeeks.org/numpy-ndarray/
+			*debug:
+				see a few lines from X
+				#debug:20210503_160757
+					==> OK : time=20210503_162250
+			*debug
+				show vals : #n:20210502_171207
+				==> OK
+					/20210503_162501
+			code:
+				#code:20210503_162445
+				train_using_gini(...)
+				TEST:
+					#debug:20210503_162611
+					==> OK
+			*code:
+				tarin_using_entropy()
+				#code:20210503_162857
+				TEST:
+					#debug:20210503_163047
+					==> OK : time=20210503_163129
+			review:
+				https://www.w3schools.com/python/python_ml_decision_tree.asp
+				-->##mark:20210503_163501
+				"tree.export_graphviz(dtree, out_file=None, feature_names=features)"
+				*Qs:
+					"tree" ==> which module?
+					==> "from sklearn import tree"
+			*code:
+				*add "tree"
+				TEST:
+					==> OK : time=20210503_163940
+			code:
+				export_graphviz
+				*SEG:
+					srch : sklearn export_graphviz
+					https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_graphviz.html
+				TEST:
+					==> ?? : no error
+			Qs:
+				export_graphviz --> previous sessions. how did i use this?
+				srch : "export_graphviz" in eclipse
+					==> #mark:20210503_164821 (...\\73_ai\1_start\1_1.py)
+			*code:
+				decision tree ==> to png file
+				%import pydotplus
+				#debug:20210503_165123
+				*TEST:
+					==> OK : decisiontree.20210503_165222.png (C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data\s-18)
+				/20210503_165432
+			*code:
+				decision tree (clf_entropy) ==> to png file
+				#debug:20210503_165911
+				TEST:
+					==> OK : time=20210503_170140
+		#3.1 # Prediction using gini
+			##n:20210503_170501
 
 n:
-	=> s-17.d-1
+	=> -1
 		coding
 		#n:20210502_171207
 			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\s_17_ml.py
+
+
+###2021年5月3日15:50:09
+s-18:
+
+>>1
+
+	--> s-17.d-1
+		coding
+
+n:
+	##n:20210503_170501
+	#n:20210503_170550
+
+###
+
+
+
+
 
 @@@
 ###

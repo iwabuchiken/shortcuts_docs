@@ -103,18 +103,13 @@ hydroformylation
 
 >>1
 	sheet : sheets.[s-60~].ods / tab : 1
-	
 
-
-
-
-@@@
 ###
 
 
 
 
-
+@@@
 ###
 
 
@@ -156,9 +151,9 @@ using scaling relations machine learning and DFT calculations
 ###2021年5月1日13:52:17
 
 regex ---> for german texts
-
+# 1) non-sentence-end return --> remove
 \r\n	 
-
+# 2) in-paragraph sentence-end --> add a new return
 ([a-z])\. 	$1.\r\n\r\n
 
 regex ---> for general texts
