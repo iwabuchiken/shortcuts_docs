@@ -936,8 +936,48 @@ s-17.d-1 / Decision tree implementation using Python https://www.geeksforgeeks.o
 				#debug:20210503_165911
 				TEST:
 					==> OK : time=20210503_170140
-		#3.1 # Prediction using gini
+		*#3.1 # Prediction using gini
 			##n:20210503_170501
+			::[2021年5月5日16:17:32
+			code:
+				*C/P : cal_accuracy(
+				*C/P : prediction(
+				TEST:	::[16:21:37
+					==> ERROR
+						urllib.error.URLError: <urlopen error [WinError 10060] 接続済みの呼び
+出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんで
+した。または接続済みのホストが応答しなかったため、確立された接続は失敗
+しました。>
+						File "s_17_ml.py", line 151, in importdata
+						TRY : run again
+							==> N/C
+						#~TRY : load from csv file locally
+							C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\73_ai\1_start\data\s-19\balance-scale.data
+							code:
+								#code:20210505_162927
+								srch : python pandas read_csv
+									https://3g2upl4pq6kufc4m.onion/?q=python+pandas+read_csv&ia=web
+								TEST
+									==> WARNING
+										C:\WORKS_2\Programs\Python\Python_3.5.1\lib\site-packages\sklearn\metr
+ics\classification.py:1135: UndefinedMetricWarning: Precision and F-sc
+ore are ill-defined and being set to 0.0 in labels with no predicted s
+amples.
+  'precision', 'predicted', average, warn_for)
+  							SRCH : python sklearn UndefinedMetricWarning
+  								docs
+	  								https://3g2upl4pq6kufc4m.onion/?q=python+sklearn+UndefinedMetricWarning&ia=web
+	  								https://stackoverflow.com/questions/43162506/undefinedmetricwarning-f-score-is-ill-defined-and-being-set-to-0-0-in-labels-wi
+	  								referer : https://stackoverflow.com/questions/54099256/undefinedmetricwarning-in-sklearn
+	  								==>DROP : enough
+	  									/20210505_164001
+	  	*#3.2 # Prediction using entropy
+	  		code:
+	  			#code:20210505_164310
+	  				TEST:	::[16:44:04
+	  					==> OK (not exactly the same scores between the web page data and the local results)
+	  				
+
 
 n:
 	=> -1
@@ -958,6 +998,20 @@ n:
 	##n:20210503_170501
 	#n:20210503_170550
 
+###2021年5月5日16:15:13
+s-19:
+
+>>1
+
+	##n:20210503_170501
+
+n:
+	s-19.d-1 / Decision Tree Regression using sklearn <https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/>
+
+	file : main_202105XX()
+		#n:20210505_165121
+
+
 ###
 
 
@@ -965,13 +1019,6 @@ n:
 
 
 @@@
-###
-
-
-
-
-
-
 ###
 
 

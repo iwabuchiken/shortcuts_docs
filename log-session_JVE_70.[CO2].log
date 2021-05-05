@@ -175,3 +175,21 @@ regex : reduce double empty lines into one
 \r\n	@@@@
 @+	\r\n\r\n
 
+###2021年5月5日11:58:07
+taskkill /f /im opera.exe
+
+###2021年5月5日15:25:24
+steps---------------------
+	1) C/P
+		from : orig text from orig page
+		to : sakura file (m1)
+	2) remove
+		non-sentence-end return chars (m1')
+	3) m1' ==> C/P
+		1) sakura "dat" file
+		2) web trans page
+	comp.
+
+	::]15:28:10
+
+
