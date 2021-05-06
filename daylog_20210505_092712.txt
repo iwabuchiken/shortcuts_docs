@@ -30,7 +30,7 @@ n:
 -------------- 
 17:07:14
 
-	download : korean trad
+	*download : korean trad
 	
 	
 -------------- 
