@@ -1011,6 +1011,70 @@ n:
 	file : main_202105XX()
 		#n:20210505_165121
 
+	##mark:20210506_165303
+	
+	#1
+	#.1 The branches/edges represent the result 
+	*#2 Let’s see the Step-by-Step 
+		code:
+			imports
+			TEST
+				==> OK : time=20210506_170325
+	*#.1 Step 2: Initialize and print the Dataset.
+		code:
+			#code:20210506_170631
+			np array
+			TEST ==> OK
+	*#.2 Step 3: Select all 
+		code:
+			==> OK
+	*#.3 Step 4: Select all of 
+		code:
+			#code:20210506_171149
+			==> OK
+	*#.4 Step 5: Fit decision tree 
+		code:
+			TEST
+				==> OK
+	*#.5 Step 6: Predicting a new 
+		code:
+			#code:20210506_172247
+			TEST
+				==> OK : time=20210506_172333
+	#.6 Step 7: Visualising the 
+		##n:20210506_172454
+		#n:20210506_172536
+	
+	
+
+###2021年5月6日16:44:02
+s-20:
+
+>>1
+
+	*file : main_202105XX()
+		#n:20210505_165121
+		==> new file : s_20_ml.py
+			edit:
+				*file name strings
+					s_17_ml.py	-> s_20_ml.py
+					log_s-17_ml.log -> log_s-20_ml.log
+				*funcs --> remove
+				*change "main()" --> add datetie strig
+					main() --> main_20210506_164920()
+				*func : main_20210506_164920() --> delete lines
+				*TEST : run file	::[16:51:02
+					==> OK : time=20210506_165141
+				
+	*new log file
+		==> log_s-20_ml.log
+
+*>>2
+	work ==> s-19.d-1
+		-->##mark:20210506_165303
+
+n:	-->##n:20210506_172454
+
 
 ###
 
@@ -1019,6 +1083,13 @@ n:
 
 
 @@@
+###
+
+
+
+
+
+
 ###
 
 

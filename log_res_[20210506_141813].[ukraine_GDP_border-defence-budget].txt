@@ -1,0 +1,57 @@
+###2021年5月6日14:04:54
+source --> each wiki page
+
+GDP（PPP）
+合計（2013年）	3,925億[2]ドル（44位）
+1人あたり	8,650[2]ドル
+		“World Economic Outlook Database, October 2014” (英語). IMF (
+
+GDP（PPP）	2020年估计
+• 总计
+4,299.47億美元[3]（第48名）
+• 人均
+10,310美元[3]（第108名）
+		World Economic Outlook Database, October 2019". IMF.org. International Monetary Fund.
+
+GDP（国际汇率）	2020年估计
+• 总计
+1,618.72億美元[3]（第56名）
+• 人均
+3,881美元[3]（第119名）
+
+
+GDP(PPP)	2013년 어림값
+ • 전체	$3,373억 (29위)
+ • 일인당	$7,422 (91위)
+ 
+----------------
+World Economic Outlook Database Oktober 2020. In: World Economic Outlook Database. International Monetary Fund, 2020,
+Bruttoinlandsprodukt
+Total (nominal)
+Total (KKP)
+BIP/Einw. (nom.)
+BIP/Einw. (KKP)
+2019[3]
+155 Milliarden USD (58.)
+561 Milliarden USD (40.)
+3.707 USD (124.)
+13.442 USD (98.)
+
+----------
+ВВП (ППС)
+ • Итого (2019)	↗ 560 млрд[8] долл. (40-й)
+ • На душу населения	↗ 13 442[8] долл. (93-й)
+ВВП (номинал)
+ • Итого (2019)	↗ 154,69 млрд[8] долл. (56-й)
+ • На душу населения	↗ 3706[8] долл. (117-й)
+		 https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=914,913,963,918,960,944,967,921,943,962,964,968,922,942,186,926,&s=NGDPD,PPPGDP,NGDPDPC,PPPPC,&sy=2018&ey=2020&ssm=0&scsm=1&scc=0&ssd=1&ssc=0&sic=0&sort=country&ds=,&br=1
+
+----------------
+<findings>
+GDP,in PPP --> 日本円で、約、５－６兆円
+
+n:	any
+
+	::]14:21:55
+
+

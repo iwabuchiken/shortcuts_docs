@@ -152,14 +152,17 @@ using scaling relations machine learning and DFT calculations
 
 regex ---> for german texts
 # 1) non-sentence-end return --> remove
-\r\n	 
+([^\.])\r\n	$1 
+
+#=> deprecated(2021年5月6日14:47:44) : \r\n	 
+
 # 2) in-paragraph sentence-end --> add a new return
 ([a-z])\. 	$1.\r\n\r\n
 
 regex ---> for general texts
 
 # 1) remove : non-period return
-([^\.])$\r\n	$1
+([^\.])$\r\n	$1 
 
 # 2) add : return chars
 \.$	.\r\n\r\n
@@ -174,6 +177,17 @@ http://www.rexegg.com/regex-disambiguation.html#lookarounds
 regex : reduce double empty lines into one
 \r\n	@@@@
 @+	\r\n\r\n
+
+###2021年5月6日10:22:48
+
+regex ---> for chinese texts
+
+1) remove : non-sentence-end return chars
+([^。,])$\r\n	$1
+
+2) remove : space char
+ 	
+
 
 ###2021年5月5日11:58:07
 taskkill /f /im opera.exe
@@ -191,5 +205,34 @@ steps---------------------
 	comp.
 
 	::]15:28:10
+
+###2021年5月6日10:55:26
+--------------------- steps
+read : chinese texts
+
+1) read : original
+2) pinyin 
+	--> see trans page
+	--> add pinyin ~~> sakura text
+
+###15:18:09
+--------------------- steps : korean texts
+[1] regex : korean texts
+
+# 1) non-sentence-end return --> remove
+([^\.])\r\n	$1 
+
+# 2) in-paragraph sentence-end --> add a new return
+([^0-9])\. 	$1.\r\n\r\n
+
+[2] prosssing : read
+1) copy --> orig texts (m1)
+1.1) paste --> structure file (sakura); topical words
+2) paste --> sakura file (m2)
+3) regex (m2')
+4) c/p
+	from : sakura (m2')
+	to : web trans page (m3)
+
 
 
