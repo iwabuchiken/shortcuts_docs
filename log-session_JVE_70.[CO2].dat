@@ -1,19 +1,62 @@
-r-16.1 / 二氧化碳氢化固定反应催化剂的研究 <http://www.actasc.cn/hjkxxb/ch/reader/create_pdf.aspx?file_no=19930308>
+r-11.3 / Global challenges and strategies for control, conversion 
+
+  and utilization of CO2 for sustainable development involving energy, 
+
+  catalysis,adsorption and chemical processing§ <https://www.sciencedirect.com/science/article/abs/pii/S0920586106000757>
 
 
-#4 催化荆活性评价[
+
+
+
+#5 4. Challenges of CO2
+#.1 Energy choice is the basic consideration
+#.2 4.2. Needs for CO2 
+#.3 4.3. Challenges for 
+#6 5. Strategies for CO2 conversion and
 	words
-		活性测试
-		色谱仪-pu3- chromatograph
-		热导池 thermal conductivity cell
-		筛串联-chuan4-
-#5 催化剂样品 与[锭ding4;扣除kou4*;扫描sao3*;
+		triple point
+			search
+				co2 triple point
+				docs
+					The Triple Point https://www.friesian.com/triplept.htm
+					Triple_point (wi) https://en.wikipedia.org/wiki/Triple_point
+		supercritical fluid
+#.1 5.2. Technical approaches 
+#.2 Examples of the concentrated sources 
+#.3 5.3. Thermodynamic considerations of
 	words
-		红外池
-#6 程序升沮 脱附[玻璃bo1li2;
-#7 实验中产物分析结果表 明
-
-	
+		Gibbs free energy
+			search
+				docs
+					r-11.3~1 / 기브스_자유_에너지#정의 https://ko.wikipedia.org/wiki/기브스_자유_에너지#정의
+						texts
+							#1
+							#2 정의 https://ko.wikipedia.org/wiki/기브스_자유_에너지#정의
+							#3 전개 https://ko.wikipedia.org/wiki/기브스_자유_에너지#전개
+							#4 기브스_자유_에너지_변화량 https://ko.wikipedia.org/wiki/기브스_자유_에너지#기브스_자유_에너지_변화량
+							
+			fur
+				r-11.3~2 / 엔트로피 https://ko.wikipedia.org/wiki/엔트로피
+					texts
+						#1
+						#2 열역학적_정의 https://ko.wikipedia.org/wiki/엔트로피#열역학적_정의
+							words
+								유용한 에너지
+								사용불가능한 에너지
+			
+		pyrolysis 熱分解[jp 热裂解[zh
+			docs
+				r-11.3~3 / 열분해 https://ko.wikipedia.org/wiki/열분해
+				r-11.3~4 / 热裂解 https://zh.wikipedia.org/zh-cn/热裂解
+					texts
+						#1
+							memos
+								无氧气存在下的
+								不可逆的反应
+							words
+								干馏gan1liu2
+								烷烃wan2ting1
+#6.1 A simple comparison between steam
 
 
 

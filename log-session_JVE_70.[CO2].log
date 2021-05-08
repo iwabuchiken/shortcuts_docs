@@ -171,6 +171,19 @@ $\r\n	\r\n\r\n
 # 3) add : in-sentence period --> return chars
 \. 	.\r\n\r\n
 
+[2] steps : key operations
+1) sakura
+	C - Home > -r [open dialog]
+	M - ↓ > ↑↓:"([^\.])$\r\n" > Tab [choose regex, move to the box below
+	M - ↓ > ↑↓:"$1 " > M - a [choose the replacements, replace]
+	Esc [close : message dialog]
+	S - Tab [go back to the upper box
+	M - ↓ > ↑↓:"\.$" > Tab [choose regex, move to the box below
+	M - ↓ > ↑↓:".\r\n\r\n" > M - a [choose the replacements, replace]
+	S - Tab [go back to the upper box
+	M - ↓ > ↑↓:"\. " > M - a [choose regex, replace	Esc x 2 [close dialogues
+
+
 regex backward
 http://www.rexegg.com/regex-disambiguation.html#lookarounds
 
@@ -187,6 +200,43 @@ regex ---> for chinese texts
 
 2) remove : space char
  	
+####2021年5月7日15:56:19
+regex ---> for spanish texts (with trans)
+
+#DEPRECATED 1) trans-word-carrying-orig-words(m1) --> to a new line
+[a-zA-Z]+? ([a-zA-Z]+?\[[a-zA-Z\-]*)	\r\n$1
+
+#DEPRECATED 2) delete "["-less lines
+^.*[^\[].*\r\n
+
+3) remove chars between two m1's
+([úa-zA-Z\-]*\[[a-zA-Z\-]*)	\r\n$1\r\n
+
+[úa-zA-Z\-]*\[	==> detected
+[úa-zA-Z\-]*\[[a-zA-Z\-]*	==> YES
+([úa-zA-Z\-]*\[[a-zA-Z\-]*).+? ==> up to the next space char
+([úa-zA-Z\-]*\[[a-zA-Z\-]*).+ ==> upto : line end
+([úa-zA-Z\-]*\[[a-zA-Z\-]*).+?[a-zA-Z\-]*\[ ==> m1:orig-word-part included
+([úa-zA-Z\-]*\[[a-zA-Z\-]*).+? [a-zA-Z\-]*\[ ==> multiple m1's selected
+([úa-zA-Z\-]*\[[a-zA-Z\-]*).+? [a-zA-Z\-]*?\[ ==> same
+ [úa-zA-Z\-]*  ==> (no "[" char) : e.g. "valor de" --> only "valor" selected
+/ [úa-zA-Z\-]*? / : (no "[" char; longer) ==> same
+/ [úa-zA-Z\- ]*? / : (no "[" char; longer; add " " char) ==> same
+/ [úa-zA-Z\- ]*?/ : (no "[" char; longer; add " " char; " " char at the beginning) ==> 
+
+4) remove non-m1 lines
+#--> this
+#ref https://stackoverflow.com/questions/4105956/regex-does-not-contain-certain-characters
+^[^\[]+$	
+
+4.1) empty lines --> remove
+\r\n	@@@@
+@+	\r\n
+
+5) return chars --> to ","
+(\[.*)\r\n	$1,
+
+([úa-zA-Z\-]*\[[a-zA-Z\-]*).+?([a-zA-Z\-]*\[[a-zA-Z\-]*)
 
 
 ###2021年5月5日11:58:07
