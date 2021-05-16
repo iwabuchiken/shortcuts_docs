@@ -36,6 +36,10 @@ set fpath_log="%dpath_batch%\%fname_log:"=%"
 set fname_dat="log-session_JVE_70.[CO2].dat"
 set fpath_dat="%dpath_batch%\%fname_dat:"=%"
 
+rem : addition : 2021年5月11日14:12:15
+set fname_dat_trans="log-session_JVE_70.[CO2].[trans-sentences].dat"
+set fpath_dat_trans="%dpath_batch%\%fname_dat_trans:"=%"
+
 rem : file path
 rem set fpath="%folder_2%\%fname%"
 
@@ -103,6 +107,11 @@ start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
+rem : 2021年5月11日14:13:00
+start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat_trans%
+
+
+
 rem : sheet : 2021年3月20日9:52:12
 rem : comment out : 2021年4月30日11:18:25
 rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
@@ -137,6 +146,17 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
+
+
+
+
+
+
+
+
+
 
 
 

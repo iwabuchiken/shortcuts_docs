@@ -104,9 +104,222 @@ hydroformylation
 >>1
 	sheet : sheets.[s-60~].ods / tab : 1
 
-###
+###2021年5月10日17:16:11
+s-68
 
+>>1 programming
 
+	*eclipse : jve_70-CO2_68_trans-string
+	*new file : 
+		*process-trans-sentences.php
+		*log_process-trans-sentences.log
+	*edit
+		
+	code:
+		"test_1();" --> skeleton
+		TEST		::[17:29:26
+			==> OK		::]17:38:34
+	code:
+		$fpath_Trans_Dat
+		TEST
+			==> OK
+	code:
+		join loaded lines
+			==> OK
+	code:
+		each line --> trim return char
+		search : php trim white char
+			==> OK		::]17:56:31
+	code:
+		joined lines --> split by " "
+			==> OK
+		
+n:
+	#n:20210510_175850
+	process-trans-sentences.php (C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\)
+	tasks:
+		split tokens --> filter
+		filtered tokens --> build into a line
+		the line --> write into a file
+		the file --> open
+		COMP.
+
+###2021年5月11日10:41:28
+s-69
+
+>>1. programming
+
+	code:
+		filtering
+		*search : php replace regex
+		TEST		::[10:55:35
+			==> OK
+	code:
+		pattern --> /^[,'-0-9a-zA-Z\(\),\.а-я]+(\r\n|$)/	(add ",")
+		==> not as intended
+	code
+		pattern --> /^[,'-0-9a-zA-Z\(\),\.а-я]*(\r\n|$)/	(replace "+" with "*")
+		==> n.a.i.	::]11:02:09
+	*code:
+		add dummy strings : "abc def"
+		==> match
+	*code:		::[11:03:41
+		add dummy strings : "abc def gh'i"
+		==> match	::]11:04:19
+	code:		::[11:03:41
+		add dummy strings : "abc def gh'i ааа"	(a kyril chars)
+		==> match
+	code:		::[11:06:15
+		add dummy strings : "аадаа"	(kyril-specific chars)
+		==> match
+	code:		::[11:08:10
+		add dummy strings : "вод"	(a part of an unmatched string)
+		==> m.
+	*code:		::[11:08:41
+		add dummy strings : "водород"	(a part of an unmatched string, "," char not included)
+		==> not match
+	code:		::[11:10:13
+		add dummy strings : "водо"	(a part of an unmatched string, "р" char nie zawarty)
+		==> m.
+	code:		::[11:12:42
+		add dummy strings : "рр"	(a string of suspect chars)
+		==> nie pasuje.
+	*TRY:
+		pattern --> add range "А-Я" (capital chars)
+		==> no change
+	TRY:		::[11:16:48
+		pattern --> add char "р" (specific char)
+		==> pasuje.
+	*TRY:		::[11:18:30
+		source --> remove "'" char
+		==> brak zmiany (wydaje się)
+	*TRY:		::[11:20:14
+		dummy --> "окс" (część niedopasowanego ciągu.)
+		==> nie pasuje (n.p.)
+	search : php regex russian characters
+		https://stackoverflow.com/questions/1571187/regexp-with-russian-lang
+	
+	*TRY:		::[11:25:07
+		pattern --> "\x{0410}-\x{042F}"
+		==> cyrillic strings --> all not matched.
+	TRY:		::[11:28:31
+		pattern --> "\x{0410}-\x{042F}" (cyrillic only)
+		==> cyrillic nie pasuje. non-cyrillic also.
+	TRY:		::[11:32:51
+		pattern --> "а-яА-Я\p{Cyrillic}0-9"
+		==> same as : pattern-id:20210511_113516
+	TRY:		::[11:35:33
+		pattern --> "^[а-яА-Я\p{Cyrillic}0-9\s\-]*$"	(no return chars)
+		==> brak zmiany.
+	TRY:		::[11:37:35
+		pattern --> "йцукенгшщзхъфывапролджэячсмитьбю"	(list up)
+		==> partially. "синтез-газ," --> nie pasuje.
+	*TRY:		::[11:39:29
+		source --> replace : "синтез-газ," --> "синтез-газ"	("," removed)
+		==> pasuje.
+	TRY:		::[11:41:08
+		pattern --> add ","
+		==> pasuje.
+	*code:
+		pattern --> add non-cyrillic chars
+		"0-9a-zA-Z"
+		==> OK
+	*code:		::[11:48:04
+		pattern --> add non-cyrillic chars
+		"'"
+		==> OK
+	code:		::[11:49:44
+		pattern --> add directive "i"
+		source --> add capital cyrillic chars
+		first, without "i"
+		==> OK
+		with "i"
+		==> nie pasuje.
+	*TRY:		::[11:53:20
+		pattern --> add capital chars
+		"ЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮ"
+		==> pasuje.
+	*code:
+		not-matched tokens --> to an array
+		==> OK		::]12:04:26
+	code:
+		final string --> to a file
+		*coding
+		==> OK		::]12:11:10
+	*code:
+		open the written file
+		search : php run external file
+		*coding
+		==> OK		::]12:18:21
+	admin:
+		debug outputs --> comment out
+		==> ok		::]12:25:21
+
+n:
+	german text
+	spanish text
+	#n:20210511_122722
+
+>>session-2
+
+	code:
+		debug lines --> comment in
+		source --> add german words
+			--> add : german words with no trans string(dummy)
+		run
+			==> ok		::]13:56:21
+	test:
+		source --> no-trans-string umlaut-containing german texts
+			--> "Zeitö"
+		==> "NOT match" --> OK		::]13:57:55
+	code:
+		pattern --> add umlauts
+		*coding : pattern-id:20210511_140010
+			--> "äüöß"
+		==> "match" --> ok		::]14:01:55
+	
+	code:
+		spanish chars --> "ÁÉÍÓÚÜñáéíóúü"
+		source --> spanish chars
+		coding : first, w/o setting
+			--> "canción gustó"
+		==> pasuje.
+		tesing: "ñ" --> "español pequeña ciudad"
+		==> ok : pasuje.
+		tesing: "ñ" --> "español pequeña[little ciudad"
+		==> ok : pasuje.	::]14:09:44
+	
+	coding --> COMP.
+
+>>3.
+	project start --> batch file, addition --> "log-session_JVE_70.[CO2].[trans-sentences].dat"
+		==> ok		::]14:13:15
+
+>>4. coding
+	code:
+		*comment out
+			294 274 266 241 225 161 117
+		==> ok		::]14:20:58
+	admin: git	::[14:22:16
+
+n:
+	COMP.
+	if any trouble happens(it will), then work on it.
+
+>>4-1.
+	PROBLEM		::[14:52:41
+		==> korean chars --> not filtered
+		search : php regex korean characters
+
+>>5. read
+
+###2021年5月13日11:57:59
+s-70:
+
+>>1. 
+
+		==> korean chars --> not filtered
+		search : php regex korean characters
 
 
 @@@
@@ -159,6 +372,84 @@ regex ---> for german texts
 # 2) in-paragraph sentence-end --> add a new return
 ([a-z])\. 	$1.\r\n\r\n
 
+###2021年5月9日11:09:59
+regex ---> for german texts : (with trans)
+
+1) space char --> to return char
+ 	\r\n
+ 	
+2) "["-char-not-containg lines --> delete
+^#*[-0-9a-zA-Z\(\),\.]*[äüöß]*:*[-0-9a-zA-Z\(\),\.]*\r\n	
+	--> "#" char at the head ~~> potrzebny
+#^#*[-0-9a-zA-Z\(\),\.]+[äüöß]*:*[-0-9a-zA-Z\(\),\.]*\r\n	
+#^[-0-9a-zA-Z\(\),\.]+[äüöß]*[-0-9a-zA-Z\(\),\.]*\r\n
+#^[-0-9a-zA-Z\(\),\.]+[äüöß]*:*[-0-9a-zA-Z\(\),\.]*\r\n
+#^[a-zA-Z\(\),\.]+[äöß]*[a-zA-Z\(\),\.]+\r\n	
+#^[-0-9a-zA-Z\(\),\.]+[äüöß]*[-0-9a-zA-Z\(\),\.]+\r\n
+#^[:\#-0-9a-zA-Z\(\),\.]*[äüöß]*[:\#-0-9a-zA-Z\(\),\.]*\r\n	
+
+^[:\(\)0-9-a-z]+\r\n	#=> works	2021年5月9日14:17:29
+
+
+
+3) return char --> to "," (last step)
+\r\n	,
+
+	==> comp
+
+[öa-zA-Z]+? ([öa-zA-Z]+?\[.*?)	\r\n$1	#=> "ö"-included words not detected
+ö	#=> detected
+[öa-zA-Z]+?	#=> not detected
+	search : regular expression german letters
+		https://stackoverflow.com/questions/36366125/include-special-characters-like-ö-ä-ü-in-regular-expressions
+[a-zA-Zö]+?	#=> n.d.
+#ref https://stackoverflow.com/questions/22017723/regex-for-umlaut
+[\u00C0-\u017Fa-zA-Z]+?	#=> n.d.
+ (.+?)(ö|ä)(.+?)\[(.+?) 
+
+	search : regular expression not include character
+
+TRY: / .+\[.+ /	#=> select a long range
+TRY: / .+?\[.+? /
+	==> "Größen[수량" --> preceding words selected
+TRY: / .+?ö+? /
+	==> not detected
+TRY: / .+?[ö]+? /
+	==> not detected
+TRY: / .+?[öß]+? /
+	==> not detected
+TRY: / / --> \t	(space --> return)
+	==> OK
+TRY: /^.+?[^\[].+$/ --> \t	("["-not-containing lines --> delete)
+	==> no : all lines selected
+TRY: /^.+?[\[].+$/ ("["-containing lines)
+	==> OK
+TRY: /^[a-zA-Z\(\),\.]*$/ ("["-not-containing lines)
+	==> PROB : "ä"-containing line --> n.d.
+TRY: /^[a-zA-Z\(\),\.ä]*$/ ("["-not-containing lines)
+	==> n/c
+search : sakura regular expression
+
+TRY: /[a-z]+ä.+/	(openoffice)	::[11:48:25
+	==> detected : "Selektivität)."
+TRY: /öß/	(openoffice)	::[11:49:01
+	==> detected
+TRY: /ö.+/	(openoffice)	::[11:49:31
+	==> detected : "ößen[수량"
+TRY: /[öa-z]+/	(openoffice)	::[11:50:34
+	==> detected
+TRY: /[a-z]+[ö]+.+/	(openoffice)	::[11:51:31
+	==> detected : "Größen[수량"
+TRY: /.+[\[]+.+/	(openoffice)	::[11:54:34
+	==> detected
+TRY: /.+[^\[]+.+/	(openoffice)	::[11:55:33
+	==> detect all
+TRY: /^[a-zA-Z\(\),\.]+[ä]*[a-zA-Z\(\),\.]+\r\n/	(openoffice)	::[11:56:38
+TRY: /^[a-zA-Z\(\),\.]+[ä]*[a-zA-Z\(\),\.]+\r\n/	(sakura)
+	==> detected!!
+TRY: /^[a-zA-Z\(\),\.]+[äöß]*[a-zA-Z\(\),\.]+\r\n/	(sakura)	::[12:03:07
+	==> detected!!		==> THIS
+	
 regex ---> for general texts
 
 # 1) remove : non-period return
@@ -166,7 +457,7 @@ regex ---> for general texts
 
 # 2) add : return chars
 \.$	.\r\n\r\n
-$\r\n	\r\n\r\n
+#$\r\n	\r\n\r\n
 
 # 3) add : in-sentence period --> return chars
 \. 	.\r\n\r\n
@@ -191,6 +482,80 @@ regex : reduce double empty lines into one
 \r\n	@@@@
 @+	\r\n\r\n
 
+###2021年5月9日15:55:18
+regex ---> for russian texts : (with trans)
+
+#trans
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#texts
+1) empty line --> add return
+^$\r\n	\r\n\r\n
+
+2) period-ending line --> add return
+\.\r\n	\.\r\n\r\n
+
+3) in-sentence period --> add return chars
+\. 	.\r\n\r\n
+
+
+pushd C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\
+echo =============================== >> log_process-trans-sentences.log && php process-trans-sentences.php >> log_process-trans-sentences.log && echo. >> log_process-trans-sentences.log
+
+1) space char --> to return char
+ 	\r\n
+ 	
+2) "["-char-not-containg lines --> delete
+
+^['-0-9a-zA-Z\(\),\.а-я]+(\r\n|$)
+
+#^['-0-9a-zA-Z\(\),\.а-я]+\r\n	
+
+
+#^[-0-9a-zA-Z\(\),\.а-я']+\r\n	#=> not working
+#^['-0-9a-zA-Z\(\),\.а-я]+\r\n	#=> working
+
+3) return char --> to ","
+\r\n	,
+
+
+#[-0-9a-zA-Z\(\),\.а]+
+	==> OK		2021年5月9日15:57:36
+#[-0-9a-zA-Z\(\),\.а-х]+
+	==> OK		2021年5月9日15:58:38
+#^[-0-9a-zA-Z\(\),\.а-х]+\r\n
+	==> "каталитических" ~~> n.d.		2021年5月9日16:00:53
+#^[-0-9a-zA-Z\(\),\.а-я]+\r\n
+	==> OK		2021年5月9日16:01:41
+
+
+#^#*[-0-9a-zA-Z\(\),\.]+[äüöß]*:*[-0-9a-zA-Z\(\),\.]*\r\n	
+	--> "#" char at the head ~~> potrzebny
+
+^[:\(\)0-9-a-z]+\r\n	#=> works	2021年5月9日14:17:29
+
+###2021年5月9日16:13:13
+text-processing ---------> russian texts
+
+1) c/p
+	from : orig page (m1)
+	to :
+		1) sakura
+			1)「無題」 (m2a)
+			2) "dat" file (m2b)
+		2) trans page
+			1) ru --> en (m3a)
+			2) ru --> ko (m3b)
+				--> then, switch the direction
+2) read
+	1) add translation
+		from : m3b
+		to : m2a
+
+3) "trans" strings prep
+	1) regex replace @m2a
+	2) copy to : m2b
+
 ###2021年5月6日10:22:48
 
 regex ---> for chinese texts
@@ -205,6 +570,7 @@ regex ---> for spanish texts (with trans)
 
 #DEPRECATED 1) trans-word-carrying-orig-words(m1) --> to a new line
 [a-zA-Z]+? ([a-zA-Z]+?\[[a-zA-Z\-]*)	\r\n$1
+[a-zA-Z]+? ([a-zA-Z]+?\[.*?)	\r\n$1
 
 #DEPRECATED 2) delete "["-less lines
 ^.*[^\[].*\r\n
@@ -272,17 +638,35 @@ read : chinese texts
 # 1) non-sentence-end return --> remove
 ([^\.])\r\n	$1 
 
+# 1-2) paragraph-end return --> double
+(\.)\r\n	$1\r\n\r\n
+
 # 2) in-paragraph sentence-end --> add a new return
 ([^0-9])\. 	$1.\r\n\r\n
 
 [2] prosssing : read
-1) copy --> orig texts (m1)
-1.1) paste --> structure file (sakura); topical words
-2) paste --> sakura file (m2)
-3) regex (m2')
-4) c/p
-	from : sakura (m2')
+1) copy
+	from	: orig texts (m1)
+	to		: "dat" file (m2a) --> first few words
+			: "trans-sentences" file (m2b) --> all
+2) regex (m2b')
+3) c/p
+	from : sakura (m2b')
 	to : web trans page (m3)
+4) read + add trans
+5) exec --> php file
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+	2) c/p
+		from	: gen-ed txt file
+		to		: dat file
 
 
+###2021年5月16日10:49:32
+--------------------- steps : web page texts --> to freemind
 
+1) select web page texts (m1)
+2) web page
+	1 ~ 6. C - c > -f > -a > -v > -a > -c (copy, paste to the search box, select, copy)
+	7. Tab x N (to freemind)
+3) free,omd
+	1. F2 > C - v (change to edit mode, paste)

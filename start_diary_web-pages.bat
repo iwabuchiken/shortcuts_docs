@@ -29,7 +29,7 @@ rem set url_random_number="https://psychicscience.org/random"
 set url_random_number=""
 
 
-set list_of_url=%url_trans_ja_ko% %url_trans_ko_ja% %url_trans_en_pl% %url_trans_pl_en% %url_trans_en_vi% %url_forvo_persian% %url_polish_grammar% %url_random_number%
+set list_of_url=%url_trans_ja_ko% %url_trans_ko_ja% %url_trans_en_pl% %url_trans_pl_en% %url_trans_vi_en% %url_trans_en_vi% %url_forvo_persian% %url_polish_grammar% %url_random_number%
 
 rem : launch
 launcher.exe  %list_of_url%
@@ -43,6 +43,12 @@ rem launcher.exe   %url_random_number%
 
 
 exit
+
+
+
+
+
+
 
 
 
