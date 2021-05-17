@@ -10,7 +10,7 @@ REM 	log file
 REM 	2021”N5ŒŽ16“ú15:44:09
 REM =================================
 
-start C:\WORKS_2\shortcuts_docs\log-session_JVE_41.[economics_12_watching]\
+start C:\WORKS_2\shortcuts_docs\log-session_JVE_41.[economics_12_watching].log
 
 REM =================================
 REM 	folders
