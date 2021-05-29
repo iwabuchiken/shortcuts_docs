@@ -19,7 +19,7 @@ REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-03-03_15-55-16_000.jpg
+set fname=2021-03-03_15-56-00_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64.[99_chuuyou].bat"

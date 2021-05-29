@@ -79,55 +79,8 @@ echo.>> C:\WORKS_2\shortcuts_docs\start_diary.bat
 
 echo.>> C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
 
+
 exit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

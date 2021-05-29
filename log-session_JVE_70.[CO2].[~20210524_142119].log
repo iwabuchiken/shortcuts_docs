@@ -699,18 +699,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
 #trans : chinese
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
-	
-	steps
-	1. console
-		1. run batch file
-	2. gen-ed file
-		1. C - a > - c [copy
-		2. M - Space - c [close file
-		3. Tab x N [move to the "...[CO2].dat" file
-	3. [CO2].dat file
-		1. type-in --> "trans"
-		2. paste
-		
+
 
 sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
@@ -878,29 +867,6 @@ text-processing ---------> russian texts
 	1) add translation
 		from : m3b
 		to : m2a
-	
-	2) steps (more micro-like)
-		1. sakura file
-				DC(double click) > C - c > Tab x N
-			1. read
-			2. the target word fond (m1)
-			3. m1 --> select
-			4. copy
-		2. trans page
-				C - f > -v > DC || C - a > -v
-			1. C - f > -v
-			2. see --> the trans word (m1')
-			3. select
-			4. trans word --> shown?
-				1. YES : to step 3
-				2. NO :
-					1. move to trans korean page
-					2. paste
-					3. see the trans
-		3. sakura
-			1. add trans --> "[..."
-			2. add accent --> "...'.."
-			
 
 3) "trans" strings prep
 	1) regex replace @m2a
@@ -916,36 +882,21 @@ text-processing ---------> russian texts
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
 
 #process texts : chinese
-C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
-
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
 
 steps
-	1. web page
-		1. select texts
-		2. C - c [c/p --> web texts
-		3. Tab x N	[from : web page
-				to : "trans" file ("...[trans-sentences].dat") (f1)
-	2. f1
-		1. C - a > - p > -s [paste text, save
-		2. Tab x N [move to --> console
-	3. console
-		2. run --> batch file (process texts) : 
+	1. c/p --> web texts
+		from : web page
+		to : "trans" file ("...[trans-sentences].dat") (f1)
+	2. run --> batch file (process texts) : 
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
 	
-	4. gen-ed processed texts (f2)
-		1. C - a > - c [copy
-		2. M - Space - c [close file
-		3. Tab x N [back to : f1
-	5. f1
-		1. C - a > - v > -s [paste, save
-		2. select head words (m1)
-		3. C - c [copy
-		4. Tab x N [move to --> "...[CO2].dat" (f3)
-	6. f3
-		1. cursor --> move to the area end
-		2. C - v [paste head words
+	3. gen-ed processed texts --> c/p
+		to : f1
 	
+	3-1. topic text --> register
+		to : "...[CO2].dat" (f2)
+		
 	4. read, add pinyins
 		to : f1
 	
@@ -1000,8 +951,3 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 	7. Tab x N (to freemind)
 3) free,omd
 	1. F2 > C - v (change to edit mode, paste)
-###2021年5月26日15:15:59
-start freemind
-C:\WORKS_2\Programs\FreeMind_1.0.1\FreeMind.exe
-s fm
-

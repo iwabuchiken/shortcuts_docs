@@ -34,7 +34,7 @@ fur
 	
 
 
-	s-4.d-3 / 용담유사 https://namu.wiki/w/용담유사
++	s-4.d-3 / 용담유사 https://namu.wiki/w/용담유사
 	
 
 ###2021年5月9日10:40:11
@@ -113,3 +113,34 @@ using scaling relations machine learning and DFT calculations
 	2. browser
 		1. C - a/ - v / - Home [paste to trans site, move to the top of the text]
 	
+###2021年5月28日16:01:36
+
+steps : read
+	1. "....[trans-sentences].dat" (f1)
+		==> open
+	2. web page
+		1. select --> texts (m1)
+		2. C - c	[copy
+		3. Tab x N	[move to --> f1
+	3. f1
+		1. C - a > - v > - s	[paste, save
+		2. Tab x N	[move to --> console
+	4. console
+		1. paste
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-tra
+ns-process.bat
+	5. gen-ed file (f2)
+		1. C - a > - c > M - Space - c	[copy, close
+		2. Tab x N	[back to --> f1
+	6. f1
+		1. C - a > - v > - s (f1')	[paste, save
+	7. f1' --> read
+
+###2021年5月29日13:06:18
+
+#trans
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+###process : spanish texts
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
