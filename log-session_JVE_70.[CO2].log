@@ -694,7 +694,7 @@ regex : reduce double empty lines into one
 ###2021年5月9日15:55:18
 regex ---> for russian texts : (with trans)
 
-#trans
+#trans : korean, english
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
 #trans : chinese
@@ -921,7 +921,7 @@ C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chi
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
 
 steps
-	1. web page
+	1. web page (f0)
 		1. select texts
 		2. C - c [c/p --> web texts
 		3. Tab x N	[from : web page
@@ -947,7 +947,17 @@ steps
 		2. C - v [paste head words
 	
 	4. read, add pinyins
-		to : f1
+			to : f1
+		1. f1
+			1. add --> space chars to both ends of the target word (m1)
+			2. m1 --> select > C - c > Tab x N	[move to trans page (f0)
+		2. f0
+			1. C - v
+			2. read out --> pinyin (m2)
+			3. Tab x N [to --> f1
+		3. f1
+			1. add --> pinyin
+		
 	
 	5. run --> batch (trans) : 
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
