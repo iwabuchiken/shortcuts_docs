@@ -1,0 +1,157 @@
+2020年5月16日10:23:40
+
+1)	access remote page
+		https://mysqladmin.lolipop.jp/pma/index.php?server=136&token=bab9d9fba6eb510450b26f15bd9cbec9#PMAURL-1:sql.php?db=LAA0278957-cakeifm11&table=images&server=136&target=&token=bab9d9fba6eb510450b26f15bd9cbec9
+		
+		username=LAA0278957						:20200726_141925
+		databasename=LAA0278957-cakeifm11
+		passwd=4edhdrj9gsgjj9q
+		server=mysql017.phy.lolipop.lan
+		
+2)		table : images
+			==> col "id" --> descending
+		
+3)		sqlite browser
+			start
+			get file name --> today's first
+				_id	44436		]2020年8月8日17:08:47 // 2020年10月16日10:35:40
+				==> NOT : "local_id"	]2020年10月16日10:38:30
+				file_name	2020-10-16_08-24-33_000.mp4
+		remote
+			DELETE FROM images WHERE id >= 44436;
+			DELETE FROM images WHERE id >= 42868;
+			DELETE FROM images WHERE id >= 44776;
+				--> 2020年10月31日11:28:14
+				--> " 15 行削除しました。 (クエリの実行時間 0.0013 秒)"
+				--> "44775" --> top entry
+				
+			==> "実行"
+
+			DELETE FROM images WHERE id >= 48595;	 0 行削除しました。 (クエリの実行時間 0.0003 秒)	2020年12月3日14:06:51
+			DELETE FROM images WHERE id >= 45419;	 19 行削除しました。 (クエリの実行時間 0.0008 秒)	2020年12月3日14:07:49
+			
+			DELETE FROM images WHERE id >= 45438;	 1 行削除しました。 (クエリの実行時間 0.0007 秒)	2020年12月3日14:11:44
+			
+			DELETE FROM images WHERE id >= 45488;
+			11 行削除しました。 (クエリの実行時間 0.0009 秒)	2020年12月5日16:20:45
+			
+			###2020年12月30日13:23:25
+			DELETE FROM images WHERE id >= 45916;
+			::]13:26:14
+			
+			###2021年2月11日12:31:04
+			#DELETE FROM images WHERE id >= 46653;
+			::]12:31:43
+			
+			###2021年2月12日17:20:23
+			#DELETE FROM images WHERE id >= 46673;
+			
+			###2021年2月17日12:09:42
+			DELETE FROM images WHERE id >= 46770;
+			
+			###2021年3月3日9:35:31
+			#DELETE FROM images WHERE id >= 46966;
+			
+			###2021年3月4日11:24:47
+			DELETE FROM images WHERE id >= 46990;
+			
+			###2021年3月31日11:20:30
+			DELETE FROM images WHERE id >= 47223;
+			
+			###2021年4月1日9:50:46
+			DELETE FROM images WHERE id >= 47247;
+			
+			###2021年4月19日8:45:43
+			DELETE FROM images WHERE id >= 47445;
+			
+			###2021年4月21日7:46:16
+			DELETE FROM images WHERE id >= 47480;
+			
+			###2021年4月28日11:51:49
+			#DELETE FROM images WHERE id >= 47559;
+			
+			###2021年4月28日11:55:40
+			DELETE FROM images WHERE id >= 47592;
+			
+			###2021年5月2日8:38:48
+			#DELETE FROM images WHERE id >= 47705;
+			
+			###2021年5月9日9:10:31
+			#DELETE FROM images WHERE id >= 47789;
+			
+			###2021年5月10日8:41:12
+			#DELETE FROM images WHERE id >= 47823;
+			
+			###2021年5月14日11:05:10
+			DELETE FROM images WHERE id >= 47892;
+			
+			###2021年5月23日10:34:19
+			#DELETE FROM images WHERE id >= 47992;
+			
+			###2021年5月27日11:17:39
+			#DELETE FROM images WHERE id >= 48051;
+			
+			###2021年5月31日10:33:14
+			#DELETE FROM images WHERE id >= 48092;
+			
+			
+			@@@
+			
+			###XXX
+			DELETE FROM images WHERE id >= XX;
+			
+			
+4)			validate : access file
+				SELECT * FROM images WHERE file_name LIKE "2020-08-0%";
+				
+				###2021年2月11日12:32:01
+				#SELECT * FROM images WHERE file_name LIKE "2021-02-1%";
+				::]12:32:43
+				
+				###2021年2月12日17:21:25
+				#SELECT * FROM images WHERE file_name LIKE "2021-02-1%";
+				
+				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-05-16_07-41-13_000.jpg&RBs_AND_OR_File_Name=AND
+				==> "( total = 0 / filtered images = 0 / page = 1 of 0 )" --> OK ]10:32:10
+		
+		http://127.0.0.1:8000/im/
+		
+5)		console
+			REM #insert data
+C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
+			
+			"commands : list no.12~17,18~21" ==> continue
+
+6) browser
+
+	"12	upload db file"
+	
+	"13	data ==> to remote" ==> exec
+				==> "'new_data_Success' => (int) 22," --> OK
+		
+		validate		:2020年7月26日14:23:04
+			http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_file_name=2020-07-26_09-17-28_000.jpg&RBs_AND_OR_File_Name=AND
+				==> OK	]2020年7月26日14:24:29
+
+
+
+
+============================= change log
+2020年7月26日14:19:11
+
+	:20200726_141925
+	:2020年7月26日14:23:04
+
+2020年8月8日17:08:55
+
+	]2020年8月8日17:08:47
+
+2020年10月16日10:45:26
+
+	"DELETE" ==> use "_id" column, not "local_id"
+
+2020年10月31日11:31:14
+	executed
+
+=================== EOF ===================
+pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(shortcuts\\log_files : fix_cake-ifm11_remote-not-recorded) periodical updates" && e && p

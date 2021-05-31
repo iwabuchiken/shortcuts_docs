@@ -884,19 +884,22 @@ text-processing ---------> russian texts
 				DC(double click) > C - c > Tab x N
 			1. read
 			2. the target word fond (m1)
-			3. m1 --> select
-			4. copy
+			3. DC		[m1 --> select
+			4. C - c	[copy
+			5. Tab x N	[to --> trans page
 		2. trans page
-				C - f > -v > DC || C - a > -v
-			1. C - f > -v
-			2. see --> the trans word (m1')
-			3. select
-			4. trans word --> shown?
-				1. YES : to step 3
-				2. NO :
-					1. move to trans korean page
-					2. paste
-					3. see the trans
+				C - f > -v > DC || C - a > -v			1. C - v		[paste the word
+			2. Tab x 2		[to --> speaker
+			3. Space		[start voice
+//			1. C - f > -v
+//			2. see --> the trans word (m1')
+//			3. select
+//			4. trans word --> shown?
+//				1. YES : to step 3
+//				2. NO :
+//					1. move to trans korean page
+//					2. paste
+//					3. see the trans
 		3. sakura
 			1. add trans --> "[..."
 			2. add accent --> "...'.."
@@ -912,6 +915,8 @@ text-processing ---------> russian texts
 
 2021年5月18日12:42:47
 #process texts : korean
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
 
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
 
