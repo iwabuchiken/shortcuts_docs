@@ -45,18 +45,41 @@ s-15 / g-4
 	全琫準 <https://ja.wikipedia.org/wiki/全琫準>
 
 
-###
+###2021年5月31日1:01:58
+https://blackagendareport.com/against-left-wing-white-nationalism
+	memos
+		Bob Wing https://www.organizingupgrade.com/author/bob/
+		Пек,_Рауль https://ru.wikipedia.org/wiki/Пек,_Рауль
+		Tyler Stovall https://www.historians.org/about-aha-and-membership/aha-history-and-archives/presidential-addresses/tyler-stovall/tyler-stovall-biography
+		Ishmael_Reed https://pl.wikipedia.org/wiki/Ishmael_Reed
+			texts
+				#1
+					trans
+						lutego[February,powieściopisarz[novel-writer,pokolenia[generations,obok[next-to,lewicowych[left-wing,Przedstawia[present,świetle[light,prawicę[right-wing,Dorastał[grew-up,Ukończył[completed,przeniósł[move~się,włączył[joined,Wydawał[released,pismo[writing,należał[belong,rozwój[development
+	words
+		audacity https://www.thefreedictionary.com/audacity
+			insolent https://www.thefreedictionary.com/insolent
+				impudent https://www.thefreedictionary.com/impudent
+			heedlessness https://www.thefreedictionary.com/heedlessness
+				heed https://www.thefreedictionary.com/heed
+
+	n: Settler Colonialism and the Construction of Whiteness
 
 
+###2021年5月31日8:15:52
 
+https://twitter.com/NaamanStavy/status/1392934431606910986?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1392934431606910986%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.mintpressnews.com%2Famerican-money-entwined-with-jewish-terrorism-israel%2F277432%2F
+הלינץ׳ בצומת בנימינה אתמול. 
+	ha'liynts[lynching/vitsoomet[junction/Biniyamina/etmuul[yesterday
+לא ראיתי אותו בפיד שלי עדיין. 
+	lo/rayiitii[seen/utu[him/ba'piid[in-feed/shlii[my/adain[still
+
+>>read
+https://www.mintpressnews.com/american-money-entwined-with-jewish-terrorism-israel/277432/
+next
+	IRS charity law states that 
 
 @@@
-###
-
-
-
-
-
 ###
 
 
@@ -141,8 +164,15 @@ ns-process.bat
 #trans
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+
 ###process : spanish texts
 
-"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
 
 
