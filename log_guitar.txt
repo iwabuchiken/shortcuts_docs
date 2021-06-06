@@ -55,6 +55,73 @@
 
 2020年2月17日18:08:04
 
+###2021年6月1日9:44:28
+>> review
+	20	2020-07-01_19-08-04_000.mp4
+	21	2020-07-01_19-12-24_000.mp4
+	22	2020-07-02_18-52-39_000.mp4
+	23	2020-07-02_19-08-53_000.mp4	
+
+>>
+next : 
+	2020-07-01_19-12-24_000.mp4
+	2020-07-01_19-08-04_000.mp4
+	(file path = G:/videos/5_guitar/)
+		
+
+========================= resources : 2021年6月1日10:43:33
+
+###2021年6月1日10:43:21
+1) path --> musescore3 
+
+C:\WORKS_2\Programs\musescore\ms_3.2.3.7635\bin\MuseScore3.exe
+
+2. review --> kb files
+	#2021-02-11_17-07-17_000.mp4	not bad
+	#2021-01-07_17-53-20_000.mp4		no
+	#2021-01-07_15-12-42_000.mp4		interesting,Re+
+		search : 神秘和音
+			https://duckduckgo.com/?q=神秘和音&t=opera&ia=web&iai=r1-1&page=1&sexp=%7B"biaexp"%3A"b"%2C"msvrtexp"%3A"b"%2C"mliexp"%3A"b"%7D
+			https://www.terrax.site/entry/2017/08/31/105432	"和声の分子構造"
+				words
+					和声の分子構造
+					十二音連関表
+			https://circle.musictheory.jp/?p=5244
+			words
+				上方領域
+					search
+						上方領域 音楽理論
+						doc
+							https://www.terrax.site/entry/2018/07/04/＜不定調性論用語/概念紹介47＞和声の分子構造
+							:d-1
+>> view
+	和声の分子構造～音楽をあなたが理解できる存在に置き換える https://www.terrax.site/entry/2018/07/04/＜不定調性論用語/概念紹介47＞和声の分子構造
+
+n:
+	1
+		12音連関表 https://www.terrax.site/entry/2018/06/24/＜不定調性論用語/概念紹介33＞12音連関表
+	2
+		any
+::]14:48:19
 	
+###2021年6月2日1:12:38
+>>
+	search : 篠笛 創作
+		https://www.youtube.com/results?search_query=篠笛+創作
+
+
+@@@
+###
+
+
+
+
+
+###
+
+
+
+
+
 
 ========================= EOF =========================

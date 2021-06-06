@@ -1,33 +1,17 @@
-s-1.d-1 / Quantum_field_theory <https://en.wikipedia.org/wiki/Quantum_field_theory>
+r-1-1~2 / 양자_중력 <https://ko.wikipedia.org/wiki/양자_중력>
 
-#1
-	words
-		quasiparticles https://en.wikipedia.org/wiki/Quasiparticle
-			texts
-				#1
-					words
-						collective excitations
-						emergent phenomena https://en.wikipedia.org/wiki/Emergence
-				#.1 For example, as an electron
-					words
-						effective mass https://en.wikipedia.org/wiki/Effective_mass_(solid-state_physics)
-#.1 QFT treats particles as excited 
-	words
-		excited states
-#.2 Interactions between particles are described 
-	words
-		Lagrangian https://en.wikipedia.org/wiki/Lagrangian_(field_theory)
-			texts
-				#1
-					words
-						Lagrangian mechanics
-						degrees of freedom
-				#.1 One motivation for the 
-				#2 Overview https://en.wikipedia.org/wiki/Lagrangian_(field_theory)#Overview
-					20210411_124619/
-#.3 Each interaction can be 
-#2 History https://en.wikipedia.org/wiki/Quantum_field_theory#History
 
-		
+#1 양자중력(QG)은 중력을 
+#1.1 중력에 대한 현재의 이해는 
+	words
+		양자장이론
+		중력 보손
+#.2 양자장이론의 일반적인 방법을 
+	words
+		초끈이론
+		루프양자중력
+#.3 초끈이론과 같은 일부 양자중력이론은 
+#.4 엄밀히 말하자면, 
+#2 개요 https://ko.wikipedia.org/wiki/양자_중력#개요
 
 

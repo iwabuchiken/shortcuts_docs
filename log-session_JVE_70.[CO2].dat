@@ -1,12 +1,35 @@
-r-22-3~1 / СПОСОБ ФИКСАЦИИ ДИОКСИДА УГЛЕРОДА <https://patenton.ru/patent/RU2456062C2>
+r-24-3~2 / Electrochemical Conversion of Carbon Dioxide to Hydrocarbon Fuels <https://personal.ems.psu.edu/~fkd/courses/egee580/2010/Final%20Reports/co2_electrochem.pdf>
 
-
-
-#1
-	
-		Описа'ние[description,изобрете'ние[invention,Область,отно'сится[refer,настоя'щем[present,разрабо'тан[developed,по'мощью[help,тве'<jo>рдым[solid,материа'лом[-,отхо'дов[waste,включа'ет[include,кальцийсодержа'щий[calcium-containg,сме'шанный[mixed,ча'стности[particular,ста'льной[,шлак[slag
-#1.1 Уровень техники
-
-
+#1 *skip
+#2 Greenhouse Gas Emission Stabilization
+	words
+		GHG emissions
+		EIA
+#3 Process Overview
+#.1 Current Status
+#.2 The physical makeup of the electrochemical would
+	words
+		proton exchange membrane (PEM)
+			search
+				1 https://duckduckgo.com/?q=proton+exchange+membrane&t=opera&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F259994159%2Ffigure%2Ffig1%2FAS%3A668990040969238%401536511063895%2FProton-Exchange-Membrane-Fuel-Cell-schematic-representation.png
+				docs
+					Proton Exchange Membrane Fuel Cell schematic representation https://www.researchgate.net/figure/Proton-Exchange-Membrane-Fuel-Cell-schematic-representation_fig1_259994159
+		Alkaline electrolysis
+			search
+				docs
+					Schematic diagram of the alkaline electrolysis cell [34]. https://www.researchgate.net/figure/Schematic-diagram-of-the-alkaline-electrolysis-cell-34_fig4_327179309
+#.3 The anode electrolyte and 
+#.4 It should be noted that the total 
+	words
+		resistive losses
+	memos
+		1
+			efficiency decline --> one of the reason : "certain products were left unaccounted"
+#.5 It is important to note the cell 
+#.6 A basic schematic of the 
+	memos
+		SOx --> "well-known catalyst poison"
+		NOx --> "could lead to acidic conditions"
+#3.7 Auxiliary Processes
 
 

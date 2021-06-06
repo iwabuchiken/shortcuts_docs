@@ -62,7 +62,9 @@ REM =================================
 rem : 2021”N3ŒŽ14“ú15:49:09
 echo starting... freemind
 
-set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics(tp)(v-2.0)\68_theoretical-physics(tp)(v-2.0).mm"
+rem set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics(tp)(v-2.0)\68_theoretical-physics(tp)(v-2.0).mm"
+
+set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm"
 
 echo "starting freemind... " %fpath_freemind%
 
@@ -98,7 +100,7 @@ start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
 rem : sheet : 2021”N3ŒŽ20“ú9:52:12
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
+rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
 
 rem start C:\WORKS_2\shortcuts_docs\log-session_JVE_68.[tp].dat
 
@@ -130,3 +132,9 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+
+
+
+
+
