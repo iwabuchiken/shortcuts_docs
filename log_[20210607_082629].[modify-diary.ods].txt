@@ -1,0 +1,19 @@
+2021年6月7日8:15:30
+
+g co 534b56d5
+
+copy --> "diary.ods"
+
+g co master
+
+g co 4e3283411
+
+##copy --> "diary.ods" (f1)
+
+entries from "6/5"
+	--> c/p to : diary.[~20210605_111252].ods (f2)
+
+f1 --> delete
+
+]]8:26:07
+

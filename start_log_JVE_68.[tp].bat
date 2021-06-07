@@ -99,6 +99,8 @@ start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
+"C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+
 rem : sheet : 2021”N3ŒŽ20“ú9:52:12
 rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
 
@@ -132,6 +134,10 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+
+
+
 
 
 

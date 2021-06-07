@@ -4,13 +4,16 @@ search
 	https://3g2upl4pq6kufc4m.onion/?q=Vulpes+vulpes+schrencki&iar=images&iax=images&ia=images
 
 ###2021年6月6日9:06:22
+>> steps
 
-	search
+	1. search
 		https://3g2upl4pq6kufc4m.onion/?q=Vulpes+vulpes+schrencki&iax=images&ia=images
 		
-	download
-		
-	upload
+	2. download --> image file
+	
+	3. filezilla --> start
+	
+	4. upload
 		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/Vulpes_vulpes_schrencki_06_512px.jpg
 	open the link in app
 		http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php
@@ -21,6 +24,27 @@ search
 	mobile
 		read qrcode, open
 
+###2021年6月7日11:06:07
+
+>>1
+	#DL
+		http://duffer1056.blog79.fc2.com/blog-entry-669.html?sp
+			201508142131579a5.jpg
+	
+	#upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/201508142131579a5.jpg (m1)
+	
+	open the app
+		1. open
+		2. paste --> m1
+		3. "Go"
+		4. "url with image param"
+		5. copy --> url (m2)
+	
+	qrcode
+		1. open the site
+		2. paste --> m2
+		3. "作成"
 
 ###
 
@@ -40,7 +64,18 @@ search
 
 
 
+###
+
+
+
+
+
 =========================== resources
+
+###2021年6月7日11:42:36
+git
+
+start C:\WORKS_2\shortcuts_docs\end_dessin.bat
 
 set stringof_labels="dessin"
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(%stringof_labels:"=%) periodical updates" && e && p

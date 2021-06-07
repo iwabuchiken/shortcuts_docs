@@ -1,42 +1,40 @@
 r-1-2~1 / 水道本管工事のながれ <https://www.water-kawaguchi.jp/object/suidoukoujinonagare.pdf>
 
 
-#1 道路では一年を通じて、
-	words
-		水道本管
-		布設
-	memos
-		(1)工事(a1)名 (2)a1期間 (3)a1時間 (4)発注者(p1) (5)受注業者(p2)
-#.1 ※水道管布設工事の場合、
-	words
-		布設替
-	memos
-		"布設" --> "管を敷いて設置"
-		"布設替" --> "管を入れ替える"
-	memos
-		布設工事
-			1) 試掘工
-			2) 仮設管布設工
-			3) 本管布設工
-			4) 洗管通水作業
-			5) 給水管布設工
-			6) 道路構造物復旧工
-			7) 舗装復旧工
-			8) 区画線工
-#2 試掘工道路の中には水道管だけではなく
-	
-		試掘工 --> "標準でも１０箇所程度は"
-			--> "1日あたり3箇所程度"
-			--> おおよそ7日間程度
-#3 仮設管布設工本管を布設する工事の
-	memos
-		仮設管 --> "深さ３０～８０ｃｍ程度"
-			--> "ステンレス製、ポリエチレン製など"
-#3.1 仮設管の布設が終わると、
-	memos
-		切り替え --> "早いものでは２日程度"
-		"排水口から排水" ... "水質状況を確認"
 #4 ３． 本管布設（布設替）工 
+	memos
+		幅 --> "６０～８０ｃｍ"
+		深さ --> "１．2ｍ程度が標準"
+		１日あたりの進み具合 --> "６ｍ～１５ｍ程度が標準"
+#5 洗管通水作業
+	memos
+		水道法 : 給水栓（蛇口）における水 --> "遊離残留塩素0.1ppm 以上"
+	words
+		遊離残留塩素
+#6 ６．道路構造物復旧工
+	words
+		歩車道境界ブロック
+		L型側溝 https://3g2upl4pq6kufc4m.onion/?q=L型側溝&iax=images&ia=images
+#7 ７．舗装復旧工
+	words
+		アスファルト合材
+		敷き均し
+			docs
+				敷均し https://sekokan-navi.jp/magazine/skk_words/敷均し
+				敷き均し、転圧 https://blog.goo.ne.jp/geosupply02/e/ceed61a82680983553c8e00eaa2b8791
+					texts
+						#1
+							words
+								路盤
+								不陸調整 https://3g2upl4pq6kufc4m.onion/?q=不陸調整&ia=web
+						#2 転圧はハンドガイドローラーで
+							words
+								ハンドガイドローラー
+								バックホウ https://3g2upl4pq6kufc4m.onion/?q=バックホウ&ia=web
+									docs
+										https://www.55truck.com/journal/backhoe.html#i-2
+		締め固め
+#8 ８．区画線工 
 
-		
+								
 		
