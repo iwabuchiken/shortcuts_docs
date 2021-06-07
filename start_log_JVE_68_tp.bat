@@ -29,11 +29,6 @@ set fpath_log="%dpath_batch%\%fname_log:"=%"
 set fname_dat="log-session_JVE_68.[tp].dat"
 set fpath_dat="%dpath_batch%\%fname_dat:"=%"
 
-rem : addition : 2021”N6ŒŽ7“ú12:06:50
-set fname_dat_trans="log-session_JVE_70.[CO2].[trans-sentences].dat"
-set fpath_dat_trans="%dpath_batch%\%fname_dat_trans:"=%"
-
-
 rem : file path
 rem set fpath="%folder_2%\%fname%"
 
@@ -101,20 +96,12 @@ rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\%fnam
 rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_batch%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
-rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
-rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
-
-rem : 2021”N6ŒŽ7“ú12:07:32
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat_trans%
-
 
 rem start "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
 "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
-
-call "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
 rem start "C:\WORKS_2\shortcuts_docs\start_log_JVE_68.[tp].[sakura-files].bat"
 
@@ -153,9 +140,6 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
-
-
-
 
 
 

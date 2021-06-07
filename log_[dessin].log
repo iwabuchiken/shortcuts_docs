@@ -46,10 +46,35 @@ search
 		2. paste --> m2
 		3. "作成"
 
-###
+###2021年6月7日15:20:56
 
-
-
+>>1
+	0. start apps
+		1. filezilla
+		2. wep pages
+			1. app : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+			2. qrcode : https://www.databanksoft.com/software/qrmaker
+	1. DL
+		https://www.mammalwatching.com/2019/05/23/red-fox-vulpes-vulpes-schrencki/
+			RedFoxIMG_3591.jpg
+	
+	#2. upload
+		1. filezilla --> start
+			1. bookmark : "photo-for-dessin"
+		2. upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/RedFoxIMG_3591.jpg (m1)
+	
+	3. open the app
+		1. open : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+		2. paste --> m1
+		3. "Go"
+		4. "url with image param"
+		5. copy --> url (m2)
+	
+	4. qrcode
+		1. open the site : 
+		2. paste --> m2
+		3. "作成"
 
 @@@
 ###
@@ -71,6 +96,37 @@ search
 
 
 =========================== resources
+###2021年6月7日15:43:26
+
+STEPS : update --> 2021年6月7日15:43:45
+
+>>1
+	0. start apps
+		1. filezilla
+		2. wep pages
+			1. app : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+			2. qrcode : https://www.databanksoft.com/software/qrmaker
+	1. DL
+		https://www.mammalwatching.com/2019/05/23/red-fox-vulpes-vulpes-schrencki/
+			RedFoxIMG_3591.jpg
+	
+	#2. upload
+		1. filezilla --> start
+			1. bookmark : "photo-for-dessin"
+		2. upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/RedFoxIMG_3591.jpg (m1)
+	
+	3. open the app
+		1. open : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+		2. paste --> m1
+		3. "Go"
+		4. "url with image param"
+		5. copy --> url (m2)
+	
+	4. qrcode
+		1. open the site : 
+		2. paste --> m2
+		3. "作成"
 
 ###2021年6月7日11:42:36
 git
