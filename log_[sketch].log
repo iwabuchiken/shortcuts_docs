@@ -1,0 +1,153 @@
+###2021年6月5日13:49:39
+
+search
+	https://3g2upl4pq6kufc4m.onion/?q=Vulpes+vulpes+schrencki&iar=images&iax=images&ia=images
+
+###2021年6月6日9:06:22
+>> steps
+
+	1. search
+		https://3g2upl4pq6kufc4m.onion/?q=Vulpes+vulpes+schrencki&iax=images&ia=images
+		
+	2. download --> image file
+	
+	3. filezilla --> start
+	
+	4. upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/Vulpes_vulpes_schrencki_06_512px.jpg
+	open the link in app
+		http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main.(1.14~).php
+	
+	qrcode
+		https://www.databanksoft.com/software/qrmaker
+	
+	mobile
+		read qrcode, open
+
+###2021年6月7日11:06:07
+
+>>1
+	#DL
+		http://duffer1056.blog79.fc2.com/blog-entry-669.html?sp
+			201508142131579a5.jpg
+	
+	#upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/201508142131579a5.jpg (m1)
+	
+	open the app
+		1. open
+		2. paste --> m1
+		3. "Go"
+		4. "url with image param"
+		5. copy --> url (m2)
+	
+	qrcode
+		1. open the site
+		2. paste --> m2
+		3. "作成"
+
+###2021年6月7日15:20:56
+
+>>1
+	0. start apps
+		1. filezilla
+		2. wep pages
+			1. app : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+			2. qrcode : https://www.databanksoft.com/software/qrmaker
+	1. DL
+		https://www.mammalwatching.com/2019/05/23/red-fox-vulpes-vulpes-schrencki/
+			RedFoxIMG_3591.jpg
+	
+	#2. upload
+		1. filezilla --> start
+			1. bookmark : "photo-for-dessin"
+		2. upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/RedFoxIMG_3591.jpg (m1)
+	
+	3. open the app
+		1. open : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+		2. paste --> m1
+		3. "Go"
+		4. "url with image param"
+		5. copy --> url (m2)
+	
+	4. qrcode
+		1. open the site : 
+		2. paste --> m2
+		3. "作成"
+
+
+###2021年6月8日13:37:17
+
+>> sketch
+
+	--> comp ::]14:27:09
+
+
+@@@
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+=========================== resources
+###2021年6月7日15:43:26
+
+STEPS : update --> 2021年6月7日15:43:45
+
+>>1
+	0. start apps
+		1. filezilla
+		2. wep pages
+			1. app : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php
+			2. qrcode : https://www.databanksoft.com/software/qrmaker
+	1. search
+		https://3g2upl4pq6kufc4m.onion/?q=Vulpes+vulpes+schrencki&iax=images&ia=images&iai=https://upload.wikimedia.org/wikipedia/commons/0/01/Vulpes_vulpes_schrencki_01.jpg
+	1.1 DL
+		https://fr.wikipedia.org/wiki/Fichier:Vulpes_vulpes_schrencki_01.jpg
+			640px-Vulpes_vulpes_schrencki_01.jpg
+	
+	#2. upload
+		1. filezilla --> start
+			1. bookmark : "photo-for-dessin"
+		2. upload
+		http://benfranklin.chips.jp/cake_apps/images/ifm11_2/640px-Vulpes_vulpes_schrencki_01.jpg		(m1)
+		3. build url string : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php?url=http://benfranklin.chips.jp/cake_apps/images/ifm11_2/XXXX
+	
+	3. open the app
+		1. open : http://benfranklin.chips.jp/WS/WS_Others/free/UH8G6E_CE/1_X/1_14/main_1.14~.php?url=http://benfranklin.chips.jp/cake_apps/images/ifm11_2/640px-Vulpes_vulpes_schrencki_01.jpg		(m2)
+	
+	4. qrcode
+		1. open the site : 
+		2. paste --> m2
+		3. "作成"
+
+###2021年6月7日11:42:36
+git
+
+start C:\WORKS_2\shortcuts_docs\end_sketch.bat
+
+rem start C:\WORKS_2\shortcuts_docs\end_dessin.bat
+
+set stringof_labels="dessin"
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(%stringof_labels:"=%) periodical updates" && e && p
+
