@@ -1,31 +1,26 @@
-r-1-1~4 / Quantum_gravity <https://en.wikipedia.org/wiki/Quantum_gravity>
+r-1-3~1 / 共変ベクトルと反変ベクトル (hooktail) <http://hooktail.sub.jp/vectoranalysis/CovariantContravariant/>
 
 
-
-#7 https://en.wikipedia.org/wiki/Quantum_gravity#Candidate_theories
-	related
-		アインシュタインの原論文 https://ja.wikipedia.org/wiki/アインシュタインの原論文
-		Folgerungen aus den Capillaritätserscheinungen http://myweb.rz.uni-augsburg.de/~eckern/adp/history/einstein-papers/1901_4_513-523.pdf
-			<= lets-read
-		"Loop Quantum Gravity: Four Recent Advances and a Dozen Frequently Asked Questions". https://arxiv.org/pdf/0705.2222.pdf
-			<= lets-read
-#7.1 String_theory https://en.wikipedia.org/wiki/Quantum_gravity#String_theory_2
+#5 具体例
+#6 反変ベクトルの例１
+#.1 個々の成分は単なる実数ですが
+#.2 途中で共変基底の逆変換を代入したことから，
+#7 反変ベクトルの例２
 	words
-		one-dimensional extended objects
-	ref [32]
-		https://arxiv.org/pdf/hep-ph/9911499.pdf
-			<= lets-read
-#.2 In what is called the second superstring
-	words
-		supergravity
-		M-theory
-	unrelated
-		Gravitoelectromagnetism https://en.wikipedia.org/wiki/Gravitoelectromagnetism
-		A GRAVITATIONAL AND ELECTROMAGNETIC
-ANALOGY. http://sergf.ru/Heavisid.htm
-		Anti-gravity https://en.wikipedia.org/wiki/Anti-gravity
-		United_States_gravity_control_propulsion_research https://en.wikipedia.org/wiki/United_States_gravity_control_propulsion_research
-		 Method and apparatus for generating a secondary gravitational force field  https://patents.google.com/patent/US3626605
-#7.3 Loop_quantum_gravity https://en.wikipedia.org/wiki/Quantum_gravity#Loop_quantum_gravity
+		チェーンルール
+			search
+				チェーンルール 微積分
+#8 共変ベクトルの例
+	insert
+		#8~1 / もう一度ベクトル3（幾何と代数の通訳） http://hooktail.sub.jp/vectoranalysis/restudyVector3/#id6
+			texts
+				#6 ５．付録：ベクトルの外積の直交性とその大きさの確認 http://hooktail.sub.jp/vectoranalysis/restudyVector3/#id14
+				#7 外積で作られるベクトルの大きさは http://hooktail.sub.jp/vectoranalysis/restudyVector3/#id18
+				
+
+				
+				
+		
+
 
 

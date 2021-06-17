@@ -1,0 +1,82 @@
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###2021年6月16日8:50:30
+
+#process texts : korean
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+
+
+#trans : korean, english
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+###2021年6月16日8:53:01
+
+	(\d\])	$1.
+
+###2021年6月16日8:59:56
+
+<= know-this
+<= lets-read
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+
+###2021年6月16日9:00:20
+
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+
+###
+
+memo images : url
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+75+science&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+
+###
+
+freemind
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\75_science-research\75_science-research.mm
+

@@ -9,7 +9,4 @@ rem for %%i in (%listof_apps%^) do taskkill /f /im %%i
 rem ref / https://ss64.com/nt/for.html
 for %%i in (%listof_apps%) do taskkill /f /im %%i
 
-pause
-
 exit
-

@@ -38,6 +38,8 @@ related
 memos
 	1. quoting
 
+irrelevant
+	1. totally non-related
 
 ###
 taskkill /f /im javaw.exe
@@ -46,4 +48,16 @@ taskkill /f /im opera.exe
 
 (a|b|c)([A-Z])	 $2
 Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+###2021年6月8日14:34:10
+
+memo images : url
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年6月12日17:36:28
+
+freemind
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm
 
