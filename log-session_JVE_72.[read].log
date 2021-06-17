@@ -111,10 +111,13 @@ https://russian.rt.com/opinion/blog/andrei-babickii
 			Де'ньги[money,впусту'ю[wasted,обо'йме[cage,разворо'вываться[plunder,пу'ти[way,адреса'ту[address
 	#.1 Кстати, американцы 
 	
+###2021年6月17日15:35:55
 
-
-
-###
+	https://felesteen.ps/post/72549/إصابة-جندي-بالرأس-طفل-يدوخ-جنود-الاحتلال-في-الخليل
+	
+	search
+		regex arabic characters
+		
 
 
 
@@ -185,6 +188,9 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 #trans : chinese
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
 
+//sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+//sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
 
 ###process : spanish texts
 
