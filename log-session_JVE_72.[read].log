@@ -99,7 +99,7 @@ https://pl.sputniknews.com/pisza-dla-nas/2020111213359696-rzad-sie-rozjedzie-a-n
 		Rząd[government,rozjedzie[spread~sie,,naród[nation,powiedział[said,postacie[figures,powtarzają[repeat~sie,dwukrotnie[twice,uzupełnił[supplemented,Uczestniczymy[participate,najgorsze[worst,czujemy[feel~sie,Zdaje[seem~sie,państwowości[statehood,większości[most,społecznie[socially,akceptowalny[acceptable,pobłażaniem[indulgence,podziwem[admiration,przyglądamy[look~s,wynosimy[we-are
 #2 Zgodnie z zasadą K.I.
 
-@@@
+
 ###2021年6月16日21:30:26
 
 >> read
@@ -118,15 +118,55 @@ https://russian.rt.com/opinion/blog/andrei-babickii
 	search
 		regex arabic characters
 		
+###2021年6月18日10:05:29
+@@@
 
+>> programming
 
-
-
-
-###
-
-
-
+	1. prep
+		1. DUP
+			1.
+				process-trans-sentences.php
+				process-trans-sentences_arabic.php
+			2.
+				log_process-trans-sentences.log
+				log_process-trans-sentences_arabic.log
+		2. change strings
+			trans-sentences
+			trans-sentences_arabic
+	#2. up to : "step : 1"
+		1. coding
+		2. test
+				#debug:20210618_101202
+			==> OK		::]10:14:21
+	3. upto : "step : 2"
+		1. code
+		==> OK
+	4. coding
+		1. "step : 3 : 0.1"
+			==> OK	]10:17:37
+		2. "step : 3 : 1"
+			==> OK
+		3. "step : 3 : 2"
+			==> OK		]10:21:15
+		4. "step : 4 : 1"
+			1. up to --> filter in
+			==> OK		]10:26:49
+		5. "step : 5 build : final string"
+			==> OK		]10:28:12
+		6. "step : 6	string : to file"
+			"step : 7	file : open"
+			==> OK		]10:29:37
+	5. setup --> batch file
+		1. DUP
+		2. coding
+		3. test
+			==> OK		]10:33:28
+	6. git
+		==> OK		]10:38:48
+	7. closing
+		1. eclipse
+		
 
 
 ###
@@ -182,11 +222,14 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
 ###2021年5月29日13:06:18
 
-#trans
+#trans : korean, a.o.
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
 #trans : chinese
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+#trans : arabic
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.bat
 
 //sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
@@ -201,4 +244,9 @@ rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-f
 #process texts : chinese
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
 
+###2021年6月18日10:35:18
+========================= git
 
+set stringof_message="trans : arabic" 
+
+C:\WORKS_2\a && r c && g a . && g c -m %stringof_message% && e && p
