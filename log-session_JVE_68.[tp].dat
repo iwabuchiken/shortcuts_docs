@@ -1,12 +1,30 @@
-r-1-3~5 / 双対空間 <http://hooktail.sub.jp/vectoranalysis/DualSpace/>
+r-1-4~2 / 内積空間 <http://hooktail.sub.jp/vectoranalysis/InnerdotSpace/>
 
 
 #1
-#2 前節で『線形写像全体から
-#3 双対性について
+#2 集合の元を二つとってきて，
+#3 まず，私達が普通に知っている内積によって， 
 	words
-		線型汎函数 https://ja.wikipedia.org/wiki/線型汎函数
-#4 意味から言って，『双対の双対は
+		ノルム
+		双線形関数
+#4 三番目の定義より， 
+	search
+		内積 不等式 証明
+#5 ベクトル空間の元が関数の場合，
+	search
+		合成関数 積分
+		積分 公式
+			https://w3e.kanazawa-it.ac.jp/math/category/sekibun/henkan-tex.cgi?target=/math/category/sekibun/bubunsekibun.html
+		関数 内積
+#6 一般的に，関数の間の角度と言われても
+	search
+		関数解析 https://3g2upl4pq6kufc4m.onion/?q=関数解析&ia=web
+			docs
+				関数解析入門 https://www.math.nagoya-u.ac.jp/~yamagami/teaching/functional/hilbert2018.pdf
+					<= lets-read
+				よくわかる関数解析。 https://watanabeckeiich.hatenablog.com/entry/2017/09/01/202658
+				
+#7 内積の直観的理解
 
 
 
