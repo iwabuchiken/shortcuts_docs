@@ -21,7 +21,7 @@ REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-06-11_23-48-21_000.jpg
+set fname=2021-06-11_23-48-33_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64.[111_ujishuui].bat"
@@ -29,6 +29,8 @@ set fname_batch="start_log_JVE_64.[111_ujishuui].bat"
 set fname_log="log-session_JVE_64.[111_ujishuui].log"
 
 set fpath="%folder_2%\%fname%"
+
+
 
 REM opening message
 echo %fname_batch:"=% ==^> starting...
@@ -156,6 +158,7 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
 
 
 

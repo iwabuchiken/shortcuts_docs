@@ -114,7 +114,8 @@ rem start "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].
 
 "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
-call "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+rem : comment out : 2021”N6ŒŽ21“ú11:36:22
+rem call "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
 rem start "C:\WORKS_2\shortcuts_docs\start_log_JVE_68.[tp].[sakura-files].bat"
 
@@ -153,6 +154,7 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
 
 
 
