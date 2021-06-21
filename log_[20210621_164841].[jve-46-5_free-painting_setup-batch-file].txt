@@ -1,0 +1,6 @@
+2021年6月21日16:47:13
+
+	add "start" to gimp start batch
+		==> a new window opened
+		==> log file --> opened
+	

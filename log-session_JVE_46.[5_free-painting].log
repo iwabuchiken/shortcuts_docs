@@ -1,0 +1,104 @@
+###2021年6月21日16:24:41
+
+	「GIMP教本」
+	.96
+	
+	1. choose --> an image file
+			2018-08-23_16-21-41_000.jpg (C:\WORKS_2\WS\WS_Cake_IFM11\photo-for-records\nature_obs\2018\08)
+	2. gimp
+		1. open the file
+		2. save as a gimp file
+			C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4
+			s-4.xcf C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4\s-4.xcf
+	3. xcf
+		#1. dup layer
+			--> L-1
+			RC > u > F2 > C - v
+			%SEG-1
+		*2. add : new layer (for pasting the flower)
+			L-2
+		*3. paste --> selected area
+			1. C - v
+			*2. layer "フローティング選択範囲"
+			   --> RC > a	[固定
+	#SEG-1
+		1. search
+			gimp 写真 切り抜き クイックマスク
+			https://duckduckgo.com/?q=gimp+写真+切り抜き+クイックマスク&t=opera&ia=web&iai=r1-1&page=1&sexp=%7B"biaexp"%3A"b"%2C"msvrtexp"%3A"b"%2C"mliexp"%3A"b"%2C"trmexp"%3A"b"%7D
+		#2. docs
+			https://gimp.jp.net/knowledge_channels_quickmask.html
+				<= this
+				texts
+					#1
+					#2 上図のように画像を開きます。
+					#.1 大まかに選択しましょう。
+					#3 続いて、この選択範囲を
+					#.1 では、選択範囲の微調整を
+					*#.2 次に、ブラシを
+					#.3 では、クイックマスクを終了します。
+					]]17:18:49
+	n:
+		1. 『教本』 .96 --> "背景写真を…読み込む"
+
+
+@@@
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###2021年6月13日10:57:22
+
+url=http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+64+111&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+
+###2021年6月15日16:51:27
+
+#trans : korean, english
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+2021年5月18日12:42:47
+#process texts : korean
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+
+
+###2021年6月21日17:25:10
+===================== closing
+1. close apps
+	1. gimp
+	2. web pages
+	3. freemind
+2. others
+	1. folders
