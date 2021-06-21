@@ -189,9 +189,6 @@ https://russian.rt.com/opinion/blog/andrei-babickii
 >>>
 	search
 		iranian daily newspaper
-		
-
-
 
 ###
 
@@ -283,6 +280,33 @@ rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-f
 
 #process texts : chinese
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+###2021年6月20日17:09:35
+========================= regex
+	\] 	]. 
+
+
+###2021年6月20日17:26:25
+
+<= know-this
+<= lets-read
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###2021年6月20日17:31:46
+========================= freemind
+C:\WORKS_2\batches\start_fm.bat
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\72_read\72_read.mm
+
+C:\WORKS_2\batches\s.bat fm
+
 
 ###2021年6月18日10:35:18
 ========================= git
