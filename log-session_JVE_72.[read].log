@@ -327,6 +327,16 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-readi
 ========================= regex
 	\] 	]. 
 
+###2021年6月22日14:06:21
+
+========================= regex : get --> session strings from a map
+
+	1. "    " --> "\t"
+	2. \t --> ""
+	3. (s-\d+? \/ g-\d+?) --> @@$1
+	4. ^[^@]+	--> ""
+	5. " / " --> \t
+
 
 ###2021年6月20日17:26:25
 
