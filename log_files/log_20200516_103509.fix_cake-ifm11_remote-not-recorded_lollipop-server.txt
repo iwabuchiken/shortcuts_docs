@@ -97,6 +97,9 @@
 			###2021年6月15日10:56:41
 			#DELETE FROM images WHERE id >= 48312;
 			
+			###2021年6月22日10:07:30
+			#DELETE FROM images WHERE id >= 48421;
+			
 			@@@
 			
 			###XXX
