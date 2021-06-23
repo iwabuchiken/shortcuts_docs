@@ -12,12 +12,12 @@
 		2. save as a gimp file
 			C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4
 			s-4.xcf C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4\s-4.xcf
-	3. xcf
+	3. xcf	##20210623_140709
 		#1. dup layer
 			--> L-1
 			RC > u > F2 > C - v
 			%SEG-1
-		*2. add : new layer (for pasting the flower)
+		*2. add : new layer (for pasting the flower)	--> S - C - n
 			L-2
 		*3. paste --> selected area
 			1. C - v
@@ -46,8 +46,40 @@
 	s-4.(1).png --> layer : L-2
 
 @@@
-###
+###2021年6月23日13:55:11
 
+*>> 1
+	sketch
+	id=4XLA
+>> 2
+	prep image file
+	1. copy
+pushd C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4
+copy C:\WORKS_2\WS\WS_Cake_IFM11\photo-for-records\nature_obs\2018\08\2018-08-23_16-21-41_000.jpg 2018-08-23_16-21-41_000_resized.jpg
+	2. rename
+		--> 2018-08-23_16-21-41_000_resized_half.jpg
+	3. gimp
+		1. open as a layer
+		2. save
+			s-5.xcf
+			folder=C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4
+		3. process
+			0. add a new layer
+				C - S - n
+			1. -->##20210623_140709
+				==> upto : quick mask --> end
+			*2. c/p, fix
+				click on "L-1" > C - c
+				click on "L-2" > -v
+				"L-2" > RC > a		[fix
+	further
+		1
+			"クイックマスクを利用した半透明な筆塗り" https://gimp.jp.net/knowledge_channels_quickmask.html
+	n:
+		1
+			『教本』 .96 "背景写真を…読み込む"
+
+			
 
 
 
