@@ -5,6 +5,6 @@ rem taskkill /f /im javaw.exe && C:\WORKS_2\a.bat && git push origin master && C
 
 set message_string="(shortcuts : 1MPF_drink-alcohol) periodical updates"
 
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message_string% && e && r oj && g a . && g c -m %message_string% && e && p
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message_string% && e && p && r oj && g a . && g c -m %message_string% && e && p
 
 pause
