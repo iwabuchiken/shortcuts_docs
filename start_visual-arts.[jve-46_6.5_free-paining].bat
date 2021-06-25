@@ -1,4 +1,5 @@
 REM ==============================
+rem 	message : opening
 rem 	batch file --> update
 REM 	folders
 REM 	doc
@@ -9,12 +10,20 @@ REM 	app : gimp
 REM ==============================
 
 rem ==============================
+rem 	message : opening
+rem 	2021”N6ŒŽ25“ú11:24:41
+rem ==============================
+echo staritng file.. : C:\WORKS_2\shortcuts_docs\start_visual-arts.[jve-46_6.5_free-paining].bat
+
+rem ==============================
 rem 	batch file --> update
 rem 	2021”N6ŒŽ21“ú16:29:53
 rem ==============================
 REM 
 rem echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_visual-arts.[jve-46#6.5_free-paining].bat
-echo.>> C:\Users\iwabuchiken\Desktop\shortcuts_docs\start_visual-arts.[jve-46_6.5_free-paining].bat
+echo.>> C:\WORKS_2\shortcuts_docs\start_visual-arts.[jve-46_6.5_free-paining].bat
+
+rem C:\WORKS_2\shortcuts_docs\start_visual-arts.[jve-46_6.5_free-paining].bat
 
 REM goto testing
 

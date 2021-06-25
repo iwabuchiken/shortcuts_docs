@@ -1,9 +1,11 @@
-1
-r-1-4~4 / ベクトルの成分を表わす <http://hooktail.sub.jp/vectoranalysis/VectorRepresentation/>
+r-1-4~5 / ベクトル成分の座標変換 <http://hooktail.sub.jp/vectoranalysis/VectorCompoTrans/>
 
 #1
-#2 基底ベクトルの長さが 1 ではない場合
-#3 基底が直交していない場合
-#.1 この場合も，さきほどのように
-#.2 同様にして， 
+	ref
+		1 http://hooktail.sub.jp/vectoranalysis/BaseTransform/
+#2 全く同様にして，反変ベクトル
+	words
+		中心化アフィン群
+		
+
 

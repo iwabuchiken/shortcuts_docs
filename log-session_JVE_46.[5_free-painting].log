@@ -45,7 +45,7 @@
 	add : 2021年6月22日9:46:21
 	s-4.(1).png --> layer : L-2
 
-@@@
+
 ###2021年6月23日13:55:11
 
 *>> 1
@@ -79,16 +79,40 @@ copy C:\WORKS_2\WS\WS_Cake_IFM11\photo-for-records\nature_obs\2018\08\2018-08-23
 		1
 			『教本』 .96 "背景写真を…読み込む"
 
-			
+###2021年6月25日11:25:46
+@@@
 
+1
+	file : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4\s-5.xcf
+2
+	背景画像 --> prep
+		C:\WORKS_2\WS\WS_Cake_IFM11\photo-for-records\nature_obs\6_wolke\2018-09-08_18-01-01_000.jpg
+		copy to : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\sessions\s-4
+		resize --> 1/4
+			1008x756
+		change name
+			2018-09-08_18-01-01_000_resized-1008x756
+3
+	gimp
+		1. open as a layer [C - M - o
+		*2. 拡大・縮小
+		*3. "キャンバスに合わせる"
+		*4. 複製
+		*5. 反転
+		*6. モード「スクリーン」 --> 透明化
+		*7. 下のレイヤーと　=>　結合
+		8. フィルタ
+			*1. モーションぼかし
+				回転,角度=10
+			*#=> out : s-6.step-3.8.1.png
+			*2. ガウス
+				半径=45,45;RLE
+n:
+	1
+		（１）今回までのステップ　=>　画像を２５％に縮小したものを、レイヤーとして開く。（２）そしたら、花やそれ以外のレイヤーを、この新しいレイヤーに、サイズについて、合わせる。（３）「花のサイズと配置…」より
 
-
-
-
-###
-
-
-
+		
+		
 
 
 
@@ -128,6 +152,12 @@ C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
 
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+
+###2021年6月25日11:54:22
+open console window
+
+C:\WORKS_2\batches\start_command_prompot.bat
+
 
 
 ###2021年6月21日17:25:10
