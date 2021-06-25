@@ -1,11 +1,14 @@
-r-1-4~5 / ベクトル成分の座標変換 <http://hooktail.sub.jp/vectoranalysis/VectorCompoTrans/>
+r-1-4~6 / 計量テンソル <http://hooktail.sub.jp/vectoranalysis/MetricTensor/>
+
 
 #1
-	ref
-		1 http://hooktail.sub.jp/vectoranalysis/BaseTransform/
-#2 全く同様にして，反変ベクトル
-	words
-		中心化アフィン群
-		
-
-
+#.1 また，補足ですが，
+#.2 さて，式
+#.3 見やすいように，変換係数を
+#2 変換係数の意味
+#.1 微小ベクトルの長さ
+#3 さらにもう一歩
+#.1 一方，先ほど式 
+#.2 ところで， 
+#.3 色々，細かいテクニックを使って
+#.4 また，次の関係に
