@@ -1,14 +1,17 @@
-r-1-4~6 / 計量テンソル <http://hooktail.sub.jp/vectoranalysis/MetricTensor/>
+r-1-4~8 / 一般の座標系における内積と外積 <http://hooktail.sub.jp/vectoranalysis/AffineProds/>
 
 
 #1
-#.1 また，補足ですが，
-#.2 さて，式
-#.3 見やすいように，変換係数を
-#2 変換係数の意味
-#.1 微小ベクトルの長さ
-#3 さらにもう一歩
-#.1 一方，先ほど式 
-#.2 ところで， 
-#.3 色々，細かいテクニックを使って
-#.4 また，次の関係に
+	search
+		ベクトル 共変 内積
+		docs
+			#1~1 / 【図解】共変ベクトル・反変ベクトル https://remedics.air-nifty.com/academy/2021/01/post-19f371.html
+				<= lets-read
+			#1~2 / 反変ベクトル，共変ベクトル，計量テンソルに関するメモ http://www.totoha.net/fc2_mirror2/covariant_contravariant_vectors.pdf
+				<= lets-read
+			曲線座標 http://penguinitis.g1.xrea.com/study/note/curvilinear.pdf
+				<= also-good
+#.1 もちろん，スカラーである内積が，
+#2 ベクトルの長さは，自分自身との内積の
+#3 縮約について考えてみる
+#4 外積は『ベクトル
