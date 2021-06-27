@@ -20,11 +20,14 @@ REM =================================
 REM 	browser
 REM 	2021”N2ŒŽ17“ú12:50:32
 REM =================================
-echo opening browser...
+rem : c/o : 2021”N6ŒŽ27“ú12:57:10 [[
+rem echo opening browser...
 
-echo C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
+rem echo C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
 
-start C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
+rem start C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
+
+rem : c/o : 2021”N6ŒŽ27“ú12:57:10 ]]
 
 rem pushd C:\WORKS_2\Programs\opera
 
@@ -81,6 +84,7 @@ echo.>> C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
 
 
 exit
+
 
 
 
