@@ -1,15 +1,16 @@
-r-1-4~9 / もういちどだけ内積・外積 <http://hooktail.sub.jp/vectoranalysis/ReviewVectorProds/>
+r-1-4~15 / 双線形関数 <http://hooktail.sub.jp/vectoranalysis/BilinearFunction/>
 
 
-#1
-#2 まず二つのベクトル
-#.1 とりあえず，ベクトル 
-#.2 次のようなルールを決めることに
-#.3 今度は，次のようなルールを
-#3 考察
+#1 
+#.1 これは大変に面白い結果ですが
+#.2 私達は テンソルの概念 で
+#.3 まず手始めに，二階のテンソルが，
+#2 まずは記号
+#.1 線形関数の性質を復習
+#3 双線形関数
 	related
-		#3~1 / 直交行列 https://ja.wikipedia.org/wiki/直交行列
-#.1 拡大・縮小のような長さを変える
-#4 外積の向きは，基底ベクトルを
+		2次関数と双線形関数を特徴づける函数方程式 https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1547-23.pdf
+#.1 の元に対し，関数
+#4 双線形関数のつくるベクトル空間
 
 

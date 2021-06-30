@@ -21,7 +21,7 @@ REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-06-23_14-34-51_000.jpg
+set fname=2021-06-23_14-36-42_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64.[114_hirata].bat"
@@ -120,7 +120,7 @@ REM 	close apps
 REM 	2021”N2ŒŽ11“ú14:25:50
 REM =================================
 rem ###
-C:\WORKS_2\shortcuts_docs\end_log_JVE_64_94_kinshiroku.bat
+start C:\WORKS_2\shortcuts_docs\end_log_JVE_64_94_kinshiroku.bat
 
 rem start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[94_kinshiroku].bat
 
@@ -158,6 +158,9 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+pause
+
 
 
 
