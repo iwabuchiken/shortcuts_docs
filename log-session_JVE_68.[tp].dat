@@ -1,16 +1,10 @@
-r-1-4~15 / 双線形関数 <http://hooktail.sub.jp/vectoranalysis/BilinearFunction/>
+r-1-4~18 / 多重線形性とテンソル空間 <http://hooktail.sub.jp/vectoranalysis/MultilinearTensor/>
+
+#1
+#.1 同様にして，
+#.2 多重線形性という性質は，
+#2 テンソルの直積
 
 
-#1 
-#.1 これは大変に面白い結果ですが
-#.2 私達は テンソルの概念 で
-#.3 まず手始めに，二階のテンソルが，
-#2 まずは記号
-#.1 線形関数の性質を復習
-#3 双線形関数
-	related
-		2次関数と双線形関数を特徴づける函数方程式 https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1547-23.pdf
-#.1 の元に対し，関数
-#4 双線形関数のつくるベクトル空間
 
 

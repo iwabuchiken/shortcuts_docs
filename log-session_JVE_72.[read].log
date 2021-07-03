@@ -256,15 +256,28 @@ https://russian.rt.com/opinion/blog/andrei-babickii
 		https://www.yna.co.kr/view/AKR20210507049553004?section=industry/all&site=major_news01
 			"노조는 또 지난달 "
 			
+
+###2021年7月3日15:40:09
+
+	search
+		homophobia saint paul
+		동성애 공포증 세인트 폴
+		동성애 세인트 폴
+			:d-1 / https://3g2upl4pq6kufc4m.onion/?q=동성애+세인트+폴&ia=web
+			http://dc.koreatimes.com/article/20181214/1220210
+			https://blog.daum.net/gheen2001/7712422
+		同性恋 圣保罗
+		homophobia bible christianity / 동성애 혐오증 성경 기독교
+			https://progressivechristianity.org/resources/the-apostle-paul-was-not-a-misogynist-homophobe/
+				<= lets-read
+			:d-2 / https://namu.wiki/w/동성애/종교적 관점?from=동성애, 동성결혼/종교적 관점#s-2
+				<= lets-read
+
+	n:
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\[jve-72.g-19-4_d-2]_out.20210703_154946_871941.txt
+
+###
 @@@
-###
-
-
-
-
-
-###
-
 
 
 
@@ -407,8 +420,7 @@ C:\WORKS_2\a && r c && g a . && g c -m %stringof_message% && e && p
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="read article" 
+set stringof_session_id="g-19-4" 
+set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
- set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
-
- C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%

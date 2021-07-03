@@ -5,4 +5,59 @@
 	python physics engine
 		https://3g2upl4pq6kufc4m.onion/?q=python+physics+engine&ia=weby
 		https://projectchrono.org/pychrono/
-	
+
+###2021年6月30日10:21:09
+
+>>
+	https://projectchrono.org/pychrono/
+	1. install https://www.anaconda.com/
+		https://www.anaconda.com/products/individual
+		1. dl
+			https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe
+		2 install	[12:05:32
+		
+	2. tut
+		https://docs.anaconda.com/anaconda/user-guide/?utm_source=anaconda.com&utm_medium=individual-get-started
+		
+		#1
+		#2 Spyder by clicking Spyder’s
+			PROBLEM		[12:52:10
+				--> spyder, console opened, not starting
+			TRY		[12:52:54
+				1. restart navigator
+				2. launch Spyder
+					--> splash started	[12:53:28
+					--> IDE ==> started		[12:54:08
+		#3 In the new file on the left,
+			?? "placeholder text"
+		#4 In the top menu, click File 
+			C:\Users\iwabuchiken\.spyder-py3\hello.py
+		#5 Close Spyder		[12:59:50
+	n:
+		#6 What’s next?
+
+
+###
+@@@
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
