@@ -4,7 +4,7 @@
 		https://3g2upl4pq6kufc4m.onion/?q=opensource+physics+engine&ia=web
 	python physics engine
 		https://3g2upl4pq6kufc4m.onion/?q=python+physics+engine&ia=weby
-		https://projectchrono.org/pychrono/
+		https://projectchrono.org/pychrono/	###id=BA72
 
 ###2021年6月30日10:21:09
 
@@ -18,6 +18,8 @@
 		
 	2. tut
 		https://docs.anaconda.com/anaconda/user-guide/?utm_source=anaconda.com&utm_medium=individual-get-started
+		
+		##id=LS5U https://docs.anaconda.com/anaconda/user-guide/getting-started/	<== this : 2021年7月4日14:34:44	
 		
 		#1
 		#2 Spyder by clicking Spyder’s
@@ -37,8 +39,170 @@
 		#6 What’s next?
 
 
+###2021年7月4日14:32:00
+
+>>
+	*start --> anaconda navigator
+		--> start from "start" button
+		]14:38:53
+		
+	1. browse --> -->##id=LS5U
+	-->##id=LS5U https://docs.anaconda.com/anaconda/user-guide/getting-started/
+	
+		#1 Run Python in a Jupyter Notebook
+			1. launch --> click
+				==> OK		]14:41:46
+		*#2 On the top of the right hand side	[14:42:10
+			1. save notebook
+				==> OK		]14:47:07
+		*#3 Close Jupyter Notebook
+			]14:57:34
+	
+	2. physics engine : -->###id=BA72
+		https://api.projectchrono.org/pychrono_introduction.html	PyChrono
+		https://api.projectchrono.org/pychrono_installation.html	Install PyChrono
+			#1 Alternatively, use the Anaconda Navigator GUI, 		[15:11:56
+				1. anaconda navi
+					1. button "Channels" --> click
+					2. new window : "Add"
+					3. "projectchrono" --> channel name
+						search
+							pychrono channel name anaconda 
+					4. navi : "refresh"
+		SEG-1
+			1. search
+				pychrono インストール
+					==> no relevant
+				pychrono 使い方
+					==> no relevant
+				pychrono anaconda gui install
+			*TRY		[15:26:08
+					re-start navi
+				1. ==> n/c		]15:28:21
+			TRY : search
+				anaconda navi channels
+				1. https://anaconda.org/search?q=pychrono
+				2, "https://anaconda.org/projectchrono"	==> add channel
+				==> n/c (in the navi, main pane		]15:33:43
+				--> pychrono channel url : https://anaconda.org/projectchrono
+					--> ref doc : https://docs.anaconda.com/anaconda/navigator/tutorials/manage-channels/ "EXAMPLE: Let’s say you want to "
+			TRY
+				navi, left pane --> "Environ..."
+				--> "pychrono" -> items exists
+			TRY		[15:35:51
+				install
+				1. click the box button
+				2. "Add" button --> click	[15:36:49
+				3. dialog : "Apply" --> click	[15:38:08
+				
+		n:		[15:53:39
+		SEG-2	verify : jupyter, import pychrono	--> as in https://api.projectchrono.org/pychrono_introduction.html "The idea is that, once installed, "		
+				
+	SEG-3 : unrelated
+		https://qiita.com/search?q=シミュレーション
+		https://qiita.com/Teeca/items/0268aa23d1abec189199
+		https://qiita.com/hiRina/items/0ae29a679a6c01dc8aab
+
+###2021年7月4日16:33:03		s-2
+
+>>>
+	SEG-2	verify : jupyter, import pychrono	--> as in https://api.projectchrono.org/pychrono_introduction.html "The idea is that, once installed, "		
+		1. jupyter --> start
+			file:///C:/Users/iwabuchiken/AppData/Roaming/jupyter/runtime/nbserver-8784-open.html
+			http://localhost:8888/tree?token=c471f2ee204771b08ba6f90f4ccd53bcc12688d7c5e322b7
+		2. "new" > "Python 3"
+		3. console
+			1. "import pychrono as chrono"
+			ERROR
+				"ImportError: DLL load failed with error code 3221225501 while importing _core"
+			TRY : search
+				pychrono ImportError DLL load failed
+			TRY : browse file
+				1. pushd C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono\
+				C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono\__init__.py
+				*2. DUP : file		]16:43:08
+				3. search : "_core.py" in C:\WORKS_2\Programs\anaconda3_2021	[16:45:14
+					--> _core.pyd // C:\WORKS_2\Programs\anaconda3_2021\pkgs\pychrono-6.0.0-py38_0\Lib\site-packages\pychrono
+			TRY : browse file
+				core.py // C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono\core.py
+				//sakura C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono\core.py
+				--> _core.pyd // C:\WORKS_2\Programs\anaconda3_2021\Lib\site-packages\pychrono
+			*TRY : show PYTHONPATH val		]17:08:14
+				*0. test : in core.py, write a non-significant code		]17:01:26
+					1. coding : "print("yes")"	--> #debug:20210704_165804
+					2. jupyter --> again, import chrono : "import pychrono as chrono"
+					==> ERROR : "IndentationError: unindent does not " --> OK. the control is loading the debug line
+					3. fix the code, re-run
+					==> "yes" --> shown in the error message chunk.
+				*1. search : python show PYTHONPATH value
+					https://stackoverflow.com/questions/1489599/how-do-i-find-out-my-pythonpath-using-python
+					*1. TRY : import sys; print(sys.path)
+						1. coding
+						2. TEST ==> shown. OK		]17:04:30
+					*2. pychrono lib --> in the PATH ?
+						==> YES --> NO
+						C:\WORKS_2\Programs\anaconda3_2021\Lib\site-packages\pychrono --> no
+						C:\WORKS_2\Programs\anaconda3_2021\Lib\site-packages --> no
+			TRY : add pychrono path		[17:08:33
+				1. search : python add lib path
+					https://stackoverflow.com/questions/20394613/add-a-folder-to-the-python-library-path-once-for-all-windows		<== use "sys"
+					https://stackoverflow.com/questions/23244418/set-ld-library-path-before-importing-in-python		<== use "os"
+				2. coding
+					*1. debug lines --> c/o	(-->#debug:20210704_165804)
+					*2. add a line : #code:20210704_171218
+						//C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono
+						"sys.path.append('C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\pychrono')"
+				3. test
+					*1. execution-code-less lines ==> OK		]17:18:36
+//SEG-20210704_171942
+//	1. if this test "2" shows no success --> halt the pychrono. start qiita articles
+// maybe, for using pychrono, use conda through console.	17:31:57
+
+					2. execution-code-added lines
+						*1. c/i the line		]17:20:33
+						2. jupyter --> exec	
+					ERROR : NameError: name 'sys' is not defined
+				*TRY : "import sys"
+					1. add line at : #code:20210704_172216
+					2. test
+						==> ERROR : "ImportError: DLL load failed with error code 3221225501 while importing _core"
+				*TRY : after appending the path, re-show the PATH val
+					1. coding
+					2. test 
+						==> n/c		]17:26:09
+//['C:\\Users\\iwabuchiken', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\python38.zip', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\DLLs', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib', 'C:\\WORKS_2\\Programs\\anaconda3_2021', '', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\locket-0.2.1-py3.8.egg', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\win32', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\win32\\lib', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\Pythonwin', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\IPython\\extensions', 'C:\\Users\\iwabuchiken\\.ipython', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\pychrono', 'C:\\WORKS_2\\Programs\\anaconda3_2021\\lib\\site-packages\\pychrono']						
+				*search : python pyd file	]17:29:35
+					==> what is pyd file?
+					https://stackoverflow.com/questions/8822335/what-do-the-python-file-extensions-pyc-pyd-pyo-stand-for#8822377
+				
+				search		<== this is the last try
+					pychrono import dll file failed
+					https://github.com/projectchrono/chrono/issues/140
+					https://groups.google.com/g/projectchrono/c/LCogsynC7VM		##d:20210704_173453
+	n:
+		this time -->##d:20210704_173453
+		1. maybe, you need an actual DLL file itself (such as ***.dll), not a pyd file.
+
+]17:35:30
+
+	1. after-closing works	[17:51:56
+		1. freemind --> register this project : prog > physic-engine
+			*1. new file : 57_programming
+		2. git
+			*1. copy command line strings --> from : 72. read
+			2. exec git
+				
+			
+
+
 ###
 @@@
+
+
+
+
+###
+
 
 
 

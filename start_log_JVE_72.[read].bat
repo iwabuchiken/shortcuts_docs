@@ -1,5 +1,6 @@
 REM =================================
 REM 	batch file ==> update
+rem 	start : files only
 REM 	variables
 REM 	folders
 REM 	freemind
@@ -7,6 +8,34 @@ REM 	browser
 REM 	log files ==> open
 REM =================================
 @echo off
+
+REM =================================
+rem 	start : files only
+rem 	2021年7月4日13:26:36
+REM =================================
+set param=%1
+
+set stringOf_Option__Files_Only="files"
+
+echo param is ... '%param%'
+
+if "%param%"==%stringOf_Option__Files_Only% (
+
+start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_72.[read].log"
+
+start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+
+goto end
+
+) else (
+
+echo param is not : %stringOf_Option__Files_Only%
+
+rem goto end
+
+)
+
+
 
 REM =================================
 REM 	batch file ==> update

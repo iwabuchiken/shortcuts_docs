@@ -1,10 +1,15 @@
-r-1-4~18 / 多重線形性とテンソル空間 <http://hooktail.sub.jp/vectoranalysis/MultilinearTensor/>
+r-1-5~1 / テンソル成分の加法と乗法 <http://hooktail.sub.jp/vectoranalysis/TensorManup/>
+
 
 #1
-#.1 同様にして，
-#.2 多重線形性という性質は，
-#2 テンソルの直積
-
-
+ 
+ 
+ 
+#2 添字の上下による区別
+#3 次式のように，二つの テンソル積
+#4 テンソルの縮約規則
+ 
+ 
+ 
 
 

@@ -13,6 +13,8 @@ echo updating batch file ...  %fpath_batch:"=%
 
 echo.>> %fpath_batch:"=%
 
+echo batch file --^> updated
+
 rem debug
 rem goto end
 
