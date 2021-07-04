@@ -190,10 +190,7 @@
 			*1. new file : 57_programming
 		2. git
 			*1. copy command line strings --> from : 72. read
-			2. exec git
-				
-			
-
+			*2. exec git
 
 ###
 @@@
