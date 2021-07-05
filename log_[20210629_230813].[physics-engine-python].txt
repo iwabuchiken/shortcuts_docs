@@ -192,9 +192,10 @@
 			*1. copy command line strings --> from : 72. read
 			*2. exec git
 
-###
+###2021年7月5日9:28:53
 @@@
 
+>>
 
 
 
