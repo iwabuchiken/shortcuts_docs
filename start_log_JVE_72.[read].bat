@@ -16,20 +16,33 @@ REM =================================
 set param=%1
 
 set stringOf_Option__Files_Only="files"
+rem : add : 2021年7月5日17:11:22
+set stringOf_Option__Full="full"
 
 echo param is ... '%param%'
 
-if "%param%"==%stringOf_Option__Files_Only% (
+rem if "%param%"==%stringOf_Option__Files_Only% (
+if "%param%"==%stringOf_Option__Full% (
+
+echo param is %stringOf_Option__Full%
+echo starting all apps...
+
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_72.[read].log"
+
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+
+rem goto end
+
+) else (
+
+echo param is not : %stringOf_Option__Full%
+echo starting files only...
 
 start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_72.[read].log"
 
 start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
 goto end
-
-) else (
-
-echo param is not : %stringOf_Option__Files_Only%
 
 rem goto end
 
@@ -125,6 +138,7 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
 
 
 

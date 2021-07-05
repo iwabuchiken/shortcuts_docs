@@ -256,11 +256,22 @@ n:
 
 ]12:14:13
 
-###
+###17:38:23
 @@@
 
+>>> read
 
+	panda3d
+	https://docs.panda3d.org/1.10/python/introduction/index
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210705_174008_960514.txt
+			scene graph browsing
+		*C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210705_174641_498166.txt		]17:53:50
+		
+n:
+	https://docs.panda3d.org/1.10/python/introduction/installation-windows
+	Installing Panda3D in Windows
 
+]17:54:26
 
 ###
 
@@ -285,7 +296,7 @@ n:
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="s-3 / g-2" 
+set stringof_session_id="s-4 / g-2" 
 
 set stringof_project_id="JVE_57.[programming] : %stringof_session_id:"=%" 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
