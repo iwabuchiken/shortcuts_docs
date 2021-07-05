@@ -193,9 +193,72 @@
 			*2. exec git
 
 ###2021年7月5日9:28:53
-@@@
+s-3 / g-2
 
 >>
+	1. start --> 
+		*1. navi		]10:48:01
+		2. jupyter
+		
+	*2. re-make-it-happen : error case		]10:51:42
+			"import pychrono as chrono"
+		1. "new" > Python 3
+		2. paste : line --> run (S - Ret
+			==> "ImportError: DLL load failed with error code 3221225501 while importing _core"
+	3.TRY : -->##d:20210704_173453
+			https://groups.google.com/g/projectchrono/c/LCogsynC7VM
+		#1 
+		#2 i check on my directory;
+			// review : _core.pyd // C:\WORKS_2\Programs\anaconda3_2021\Lib\site-packages\pychrono
+			SEG-1 : search dll
+				--> ChronoEngine.dll @C:\WORKS_2\Programs\anaconda3_2021
+				1. FOUND
+					1. C:\WORKS_2\Programs\anaconda3_2021\DLLs --> 
+						1. no -->  "_core.pyd"
+						2. ChronoEngine.dll --> no
+					2. C:\WORKS_2\Programs\anaconda3_2021\bin
+						==> no
+					3. C:\WORKS_2\Programs\anaconda3_2021\pkgs\pychrono-6.0.0-py38_0\Library\bin
+						1. ChronoEngine.dll --> YES
+			*SEG-2 : how to? --> add dll-load path
+				1. search : python path dll
+					https://stackoverflow.com/questions/2980479/python-ctypes-loading-dll-from-from-a-relative-path "I always add the directory"
+				XX. conc
+					1. add the path to the "...\library\bin"
+						C:\WORKS_2\Programs\anaconda3_2021\Library\bin
+						--> one of the folder where the dll exists.//DLL이 존재하는 폴더의 하나.
+			SEG-3 : add path to dll file
+				1. core.py -->#debug:20210704_165804
+					C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono
+					*[[open file : sakura C:\WORKS_2\Programs\anaconda3_2021\lib\site-packages\pychrono\core.py
+				[[*2. coding	[11:21:01
+					#code:20210705_112130
+				3. test --> run		[11:24:53
+					==> n/c		]11:26:14
+		#3 Have you also installed the pre-compiled windows binaries: 	[11:28:10
+		#4 managed to borrow a more up-to-date laptop, 
+	4. conc
+		1. seems the computer is not up for pychrono.	]11:41:59
+
+>>> [11:42:30
+	1. search : python physics engine
+		https://3g2upl4pq6kufc4m.onion/?q=python+physics+engine&ia=web
+		https://docs.panda3d.org/1.10/python/programming/physics/builtin/index
+	
+	2. search :
+			python pandas tutorial
+			python panda3d phsics engine
+			python panda3d tutorial
+
+n:
+	panda3d
+	https://docs.panda3d.org/1.10/python/introduction/index
+
+]12:14:13
+
+###
+@@@
+
 
 
 
@@ -217,9 +280,14 @@
 
 
 
-###
+###2021年7月5日12:15:02
+====================== git
 
+C:\WORKS_2\start_a.bat
 
+set stringof_session_id="s-3 / g-2" 
 
+set stringof_project_id="JVE_57.[programming] : %stringof_session_id:"=%" 
+C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
 
