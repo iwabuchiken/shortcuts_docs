@@ -377,15 +377,41 @@ n:
 
 ]11:44:57
 
+
+###2021年7月7日16:57:12
+
+
+	https://docs.panda3d.org/1.10/python/introduction/running-your-program
+	Running your Program
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210707_165703_232743.txt
+		#1
+			cd C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64
+
+		#2 To run your script and start
+		ppython myscript.py
+		==> DROP : "myscript.py" --> where?
+
+	https://docs.panda3d.org/1.10/python/introduction/tutorial/index
+	A Panda3D Hello World Tutorial
+	
+	#1 This tutorial is called 
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210707_172205_284254.txt
+	SEG-1
+		file : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-1\s_1.py
+		1. run file
+			ERROR : "ModuleNotFoundError: No module named 'sympy'"
+			TRY : add path
+				#code:20210707_175722
+				==> n/c		]17:58:11
+			WORKAROUND : c/o "sympy"
+			
+n:
+	C:/WORKS_2/WS/WS_Others/free/fx/82_\libs\libs.py
+		==> DUP. make a new file "libs_20210707_180120.py" --> when in pada3d, let's use this file
+
+###
 @@@
-###
-
-
-
-
-
-###
-
 
 
 
@@ -405,12 +431,14 @@ n:
 ###2021年7月5日12:15:02
 ====================== git
 
+rem set stringof_session_id="s-6 / g-2" 
+
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="s-6 / g-2" 
-
-set stringof_project_id="JVE_57.[programming] : %stringof_session_id:"=%" 
+set stringof_project_id="JVE_57.[2_physics-engine]" 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
 
 ###2021年7月7日10:59:55
 comment out

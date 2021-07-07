@@ -1,0 +1,15 @@
+2021年7月7日12:50:31
+
+	東京都 年齢構成
+	https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/03/23/08.html
+	https://ecitizen.jp/Population/Prefecture/13
+		C:\WORKS_2\shortcuts_docs\13.xls
+		--> ...\13.ods
+	
+	
+	2. "東京都モニタリング会議"
+			"30代以下は全体の約30％"
+			--> 27.39% (...\13.ods # tab : copy-1 -->  https://ecitizen.jp/Population/Prefecture/13#google_vignette)
+			
+			
+	
