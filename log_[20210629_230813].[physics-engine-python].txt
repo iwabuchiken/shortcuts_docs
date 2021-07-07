@@ -274,7 +274,7 @@ n:
 ]17:54:26
 
 ###2021年7月6日17:02:21
-@@@
+
 
 	https://docs.panda3d.org/1.10/python/introduction/installation-windows
 	Installing Panda3D in Windows
@@ -316,6 +316,80 @@ n:
 	#n:20210706_180605
 	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210706_171056_015088.txt
 
+###2021年7月7日10:51:23
+
+
+>>>
+
+#n:20210706_180605
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210706_171056_015088.txt
+	
+	pushd C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\samples
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 84A5-EBF6 です
+
+ C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\samples のディレクトリ
+
+set name=rocket-console
+echo dir\%name%"
+dir %name%
+%name%\main.py
+%name%\basic.py
+%name%\advanced.py
+
+
+// 2021/07/06  17:45    <DIR>          .
+// 2021/07/06  17:45    <DIR>          ..
+// 2021/07/06  17:45    <DIR>          asteroids
+// 2021/07/06  17:45    <DIR>          ball-in-maze
+// 2021/07/06  17:45    <DIR>          boxing-robots
+// 2021/07/06  17:45    <DIR>          bump-mapping		#
+// 2021/07/06  17:45    <DIR>          carousel			#
+// 2021/07/06  17:45    <DIR>          cartoon-shader
+// 2021/07/06  17:45    <DIR>          chessboard
+// 2021/07/06  17:45    <DIR>          culling			#
+// 2021/07/06  17:45    <DIR>          disco-lights
+// 2021/07/06  17:45    <DIR>          distortion		#
+// 2021/07/06  17:45    <DIR>          fireflies		#
+// 2021/07/06  17:45    <DIR>          fractal-plants	#
+// 2021/07/06  17:45    <DIR>          gamepad
+// 2021/07/06  17:45    <DIR>          glow-filter		#
+// 2021/07/06  17:45    <DIR>          infinite-tunnel	#
+// 2021/07/06  17:45    <DIR>          looking-and-gripping	#
+// 2021/07/06  17:45    <DIR>          media-player		***
+// 2021/07/06  17:45    <DIR>          motion-trails	#
+// 2021/07/06  17:45    <DIR>          mouse-modes
+// 2021/07/06  17:45    <DIR>          music-box
+// 2021/07/06  17:45    <DIR>          particles
+// 2021/07/06  17:45    <DIR>          procedural-cube
+// 2021/07/06  17:45    <DIR>          render-to-texture
+// 2021/07/06  17:45    <DIR>          roaming-ralph
+// 2021/07/06  17:45    <DIR>          rocket-console
+// 2021/07/06  17:45    <DIR>          shader-terrain
+// 2021/07/06  17:45    <DIR>          shadows			#
+// 2021/07/06  17:45    <DIR>          solar-system		#
+//                0 個のファイル                   0 バイト
+//               30 個のディレクトリ  37,398,331,392 バイトの空き領域
+
+n:
+	https://docs.panda3d.org/1.10/python/introduction/running-your-program
+	Running your Program
+
+]11:44:57
+
+@@@
+###
+
+
+
+
+
+###
+
+
+
+
+
 ###
 
 
@@ -333,10 +407,15 @@ n:
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="s-5 / g-2" 
+set stringof_session_id="s-6 / g-2" 
 
 set stringof_project_id="JVE_57.[programming] : %stringof_session_id:"=%" 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+###2021年7月7日10:59:55
+comment out
+
+^(.)	// $1
 
 
 ###2021年7月5日17:56:26
