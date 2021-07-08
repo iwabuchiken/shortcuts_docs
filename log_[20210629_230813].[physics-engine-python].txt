@@ -397,21 +397,106 @@ n:
 	
 	#1 This tutorial is called 
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210707_172205_284254.txt
-	SEG-1
-		file : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-1\s_1.py
-		1. run file
-			ERROR : "ModuleNotFoundError: No module named 'sympy'"
-			TRY : add path
-				#code:20210707_175722
-				==> n/c		]17:58:11
-			WORKAROUND : c/o "sympy"
-			
+		SEG-1
+			file : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-1\s_1.py
+			1. run file
+				ERROR : "ModuleNotFoundError: No module named 'sympy'"
+				TRY : add path
+					#code:20210707_175722
+					==> n/c		]17:58:11
+				WORKAROUND : c/o "sympy"
+		>>##20210708_152736
+		SEG-2 : -->task-20210708_153047
+				new file : .../free/fx/82_\libs\libs.py
+			1. DUP
+			2. rename
+			==> HALT	[15:32:50
+		#SEG-3 : on panda python system --> install sympy		[15:33:22
+			#1. search : python sympy install
+				https://blog.finxter.com/how-do-you-install-sympy-in-python/
+			2. console
+	pushd C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\python
+	pip install sympy
+			#3. test -->
+				*1. interactive, import
+				*2. run file
+			//SEG-3
+		#SEG-4 : eclipse --> new task
+			//SEG-4	]15:50:55
+	==> this web page --> comp	]2021年7月8日15:52:21
+	
 n:
 	C:/WORKS_2/WS/WS_Others/free/fx/82_\libs\libs.py
-		==> DUP. make a new file "libs_20210707_180120.py" --> when in pada3d, let's use this file
+		==> DUP. make a new file "libs_20210707_180120.py" --> when in pada3d, let's use this file	>>task-20210708_153047
+
+###
+
+
+>>
+	//-->##20210708_152736
+
+>>
+	#tut : https://docs.panda3d.org/1.10/python/introduction/tutorial/starting-panda3d
+		#1 To start Panda3D, create a text file 
+		#TASK-1 : new func
+				s_1.py
+			*1. task_1_ShowBase
+			2. import --> ShowBase
+			*3. TEST 	[15:56:52
+				==> OK	]15:58:43
+			//4. instantiate, run
+				==> OK		]16:00:11
+	*#tut : https://docs.panda3d.org/1.10/python/introduction/tutorial/loading-the-grassy-scenery
+	Loading the Grassy Scenery
+		#1 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210708_160404_816473.txt
+		*#2 Update the Code
+		
+		///[
+			#1. coding
+			#2. run		]16:23:21
+				==> ERROR : "NameError: name 'self' is not defined"
+			TRY : "class" codes --> transfer to inside of the func
+				1. coding
+				2. run ==> 	[16:11:39
+					==> n/c		]16:11:56
+			TRY : search :
+				~python self not defined
+				python this.self
+			FOUND		[16:21:38
+				1. indentation --> not proper?
+				ref : https://stackoverflow.com/questions/21694901/difference-between-python-self-and-java-this#21695159
+					"self.radius = "
+			TEST	[16:22:14
+				==> OK		]16:23:06
+				//ERROR
+		#3 Run the Program	[16:26:52
+		//[ tinker
+			#1. pos vals --> -50, 42, 0
+				Baidu IME_2021-7-8_16-30-37.[-50, 42, 0].jpg
+			#2. pos vals --> -100, 42, 0
+				Baidu IME_2021-7-8_16-30-37.[-100, 42, 0].jpg
+			#3. pos vals --> -400, 42, 0
+			#4. pos vals --> -400, 420, 0
+				==> all gray color
+			#5. pos vals --> -400, 42, 100
+				==> gray
+			#6. pos vals --> -800, 42, 0		[16:38:30
+				==> shown
+
+n:
+	tut : https://docs.panda3d.org/1.10/python/introduction/tutorial/controlling-the-camera
+		Controlling the Camera
+
+]16:44:42
 
 ###
 @@@
+
+
+
+
+###
+
 
 
 
