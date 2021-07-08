@@ -1,7 +1,1 @@
-Panda3D contains a data structure called the Scene Graph. The Scene Graph is a tree containing all objects that need to be rendered. At the root of the tree is an object named render. Nothing is rendered until it is first inserted into the Scene Graph.
-
-To install the grassy scenery model into the Scene Graph, we use the method reparentTo(). This sets the parent of the model, thereby giving it a place in the Scene Graph. Doing so makes the model visible in the scene.
-
-Finally, we adjust the position and scale of the model. In this particular case, the environment model is a little too large and somewhat offset for our purposes. The setScale() and setPos() procedures rescale and center the model.
-
-Panda3D uses the “geographical” coordinate system where position (-8, 42, 0) means map coordinates (8, 42) and height 0. If you are used to OpenGL/Direct3D coordinates, then hold up your right hand in the classical position with thumb as X, fingers as Y, and palm as Z facing toward you; then tilt backward until your hand is level with the fingers pointing away and palm facing up. Moving “forward” in Panda3D is a positive change in Y coordinate.
+Milagro Sala nació en San Salvador de Jujuy en 1964 y fue abandonada en una caja de cartón frente a un hospital. Fue adoptada por una familia de clase media que la crio en el barrio Bajo Azopardo. Según una nota periodística, su madre adoptiva era peronista, y recordaba como un hecho importante haberle escrito una carta a Eva Perón (primera dama de la Nación) y en consecuencia haber recibido desde la Fundación Eva Perón una máquina de coser para trabajar.16​ Hasta su adolescencia, Sala vivió en una familia de clase media en la que fue tratada como una hermana más, y heredó el carácter duro de su madre.17​ 
