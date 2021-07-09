@@ -490,13 +490,49 @@ n:
 ]16:44:42
 
 ###
-@@@
 
+s-2
 
+>>
+	*tut : https://docs.panda3d.org/1.10/python/introduction/tutorial/controlling-the-camera
+		Controlling the Camera
+	
+	1. review the prev	[16:03:08
+		#mark:20210709_160406
+		==> DROP : window not responding
+			]16:08:09
+	2. tut
+		1. new file
+			1. DUP
+				s_2.py
+				log_s-2.log
+			2. test --> OK		]16:13:57
+		2. coding
+			1. import section
+			==> OK		]16:17:47
+	#SEG-1 : "MyApp" --> to the global domain
+		*1. coding
+		==> OK		]16:21:31
+				2. body
+					*1. "MyApp"
+					*2. func
+				==> OK		]16:25:55
+		*TINK-1 : degrees --> change
+			#code:20210709_162814
+			1. "valOf_Angle_Degrees     = 20"
+			==> OK		]16:29:14
+		*TINK-2 : change --> ground level (z value)		#code:20210709_163101
+			1. "valOf_Coord_Z       = 10"
+			==> OK		]16:32:15
+	
+n:
+	https://docs.panda3d.org/1.10/python/introduction/tutorial/loading-and-animating-the-panda-model
+	Loading and Animating the Panda Model
 
+]16:34:34
 
 ###
-
+@@@
 
 
 
@@ -520,7 +556,7 @@ rem set stringof_session_id="s-6 / g-2"
 
 C:\WORKS_2\start_a.bat
 
-set stringof_project_id="JVE_57.[2_physics-engine]" 
+set stringof_project_id="JVE_57.[2_physics-engine] : s-2" 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
 
@@ -529,6 +565,11 @@ C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 comment out
 
 ^(.)	// $1
+
+###2021年7月9日16:06:35
+====================== task
+taskkill /f /im python.exe
+
 
 
 ###2021年7月5日17:56:26
