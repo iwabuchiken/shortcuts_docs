@@ -528,13 +528,102 @@ s-2
 n:
 	https://docs.panda3d.org/1.10/python/introduction/tutorial/loading-and-animating-the-panda-model
 	Loading and Animating the Panda Model
-
+	aaa
+	==> gen new file
+	
 ]16:34:34
 
-###
+###2021年7月10日14:32:38
+
+s-3
+
 @@@
+>>> tut
 
+https://docs.panda3d.org/1.10/python/introduction/tutorial/loading-and-animating-the-panda-model
+	Loading and Animating the Panda Model
+	
+	1. DUP
+		*1. s_3.py
+			log_s-3.log
+		*2. test ==> OK		]14:40:52
+	2. coding
+		*1. imports
+		*2. class::init
+		*3. class::spinCameraTask
+	*3. test ==> OK		]14:48:47
 
+>>> tut
+	https://docs.panda3d.org/1.10/python/introduction/tutorial/using-intervals-to-move-the-panda
+	Using Intervals to move the Panda
+	
+	1. DUP
+		1. files
+			s_3_2.py
+			log_s-3-2.log
+		*2. file names in the code --> modify
+		*3. test  ==> OK		]14:52:51
+	*2. coding
+		*1. imports
+		*2. class::init
+		%3. class::spinCameraTask
+	3. test ==> OK		]14:50:58
+
+>>> tut : bullet
+
+	1. dl : https://www.panda3d.org/download/noversion/bullet-samples.zip
+		to : C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\python
+	
+	2. test
+		1. cd : 
+pushd C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\python\bullet-samples
+python 01_Basics.py
+			==> OK		]15:17:11
+	SEG-1 : load into eclipse
+		--> C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64
+		*1. C/P : 
+			.pydevproject
+			.project
+		2. edit : .project
+		3. load
+			==> OK		]15:25:52
+	3. other sample
+			C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\python\bullet-samples\list-of-samples.txt
+			02_Shapes.py
+		1. console
+			==> OK
+	4. sample : \04_Filtering.py
+		1. ERROR : "SyntaxError: Missing parentheses in call to 'print'"
+			#fix:20210710_153903
+		2. coding
+		3. test ==> OK	]15:42:59
+	*5. sample : 25_SoftbodyTetra.py
+		1. ERROR : "    ele = file('models/cube/cube.1.ele', 'r').read()
+NameError: name 'file' is not defined"
+		*2. fix : coding
+			search : python method file read
+			https://www.w3schools.com/python/ref_file_read.asp
+			1. coding : #fix:20210710_154525
+		*3. test ==> OK		:2021年7月10日
+		
+
+n:
+	https://docs.panda3d.org/1.10/python/programming/physics/bullet/hello-world
+	Bullet Hello World
+	
+		==> new folder, new file
+
+]15:52:53
+
+related
+	C:\WORKS_2\Programs\panda3d\Panda3D-1.10.9-x64\python\bullet-samples\models\cube\cube.1.ele
+	search : tetgen cube
+	https://3g2upl4pq6kufc4m.onion/?q=tetgen+cube&ia=web
+		https://imr.sandia.gov/papers/imr22/IMR22_ResearchNote9_Kamenski.pdf A study on generation of three-dimensionalM-uniform tetrahedral meshes in practice
+			<== lets-read
+		http://wias-berlin.de/software/tetgen/1.5/doc/manual/manual005.html
+		http://oomph-lib.maths.man.ac.uk/doc/meshes/mesh_from_tetgen/html/index.html
+		
 
 
 ###
@@ -570,6 +659,9 @@ comment out
 ====================== task
 taskkill /f /im python.exe
 
+###2021年7月10日14:39:24
+
+taskkill /f /im sakura.exe
 
 
 ###2021年7月5日17:56:26

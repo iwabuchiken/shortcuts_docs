@@ -1,13 +1,20 @@
-r-1-5~7 / テンソルの主軸１ <http://hooktail.sub.jp/vectoranalysis/TensorPrincipalAxis1/>
+r-1-5~8 / テンソルの主軸２ <http://hooktail.sub.jp/vectoranalysis/TensorPrincipalAxis1/>
 
 
-#1 
-#2 固有値問題
-#.1 もう少し図形的に
-#.2 ところが，座標系を
-#3 固有値・固有ベクトル・主方向を求めてみる
-#4 固有方程式が重解を持たない場合の固有ベクトル
+#1
+#2 対称テンソルの固有ベクトルは直交する
+#3 テンソルの主軸変換
+	words
+		行列の対角化
+			search
+			docs
+				https://www.headboost.jp/matrix-diagonalization/
+					<= good
+				https://linky-juku.com/matrix-diagonalization/
+					<= also-good
+#.1 このような座標変換を
+#.2 テンソルのこのような働きが
+#4 固有方程式が重解を持つ場合
+
  
-
-
 
