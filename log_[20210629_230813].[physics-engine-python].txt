@@ -528,7 +528,7 @@ s-2
 n:
 	https://docs.panda3d.org/1.10/python/introduction/tutorial/loading-and-animating-the-panda-model
 	Loading and Animating the Panda Model
-	aaa
+	
 	==> gen new file
 	
 ]16:34:34
@@ -537,7 +537,7 @@ n:
 
 s-3
 
-@@@
+
 >>> tut
 
 https://docs.panda3d.org/1.10/python/introduction/tutorial/loading-and-animating-the-panda-model
@@ -624,12 +624,43 @@ related
 		http://wias-berlin.de/software/tetgen/1.5/doc/manual/manual005.html
 		http://oomph-lib.maths.man.ac.uk/doc/meshes/mesh_from_tetgen/html/index.html
 		
+###2021年7月11日15:04:09
+@@@
+s-4
+*>>>
+
+	*read
+	https://imr.sandia.gov/papers/imr22/IMR22_ResearchNote9_Kamenski.pdf A study on generation of three-dimensionalM-uniform tetrahedral meshes in practice
+		#1 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210711_152213_656940.txt
+			words
+				isotropic
+		#2 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210711_152721_490978.txt
+		#3 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210711_152938_708817.txt
+	
+	==> ENOUGH : if want to know further on the topic --> read docs on preceeding knoledges, such as "isotropic".	]15:34:41
 
 
-###
+>>>
+	tut : https://docs.panda3d.org/1.10/python/programming/physics/bullet/hello-world
+	Bullet Hello World
+	
+		==> new folder, new file
+	
+	1. folder, files
+		==> OK		]15:08:54
+	2. test ==> OK	]15:35:41
+	3. c/p --> texts	[15:36:49
+		*0. new func : task_1_Bullet_Hello_World()
+		1. imports
+			:test --> OK	]15:46:19
+		2. global area (m1); func: m2
+			*1. c/p
+	4. run ==> OK	]15:52:09
 
+n:
+	https://docs.panda3d.org/1.10/python/programming/physics/bullet/debug-renderer
 
-
+]15:52:25
 
 
 ###
@@ -641,7 +672,7 @@ related
 ###2021年7月5日12:15:02
 ====================== git
 
-rem set stringof_session_id="s-6 / g-2" 
+//rem set stringof_session_id="s-6 / g-2" 
 
 C:\WORKS_2\start_a.bat
 

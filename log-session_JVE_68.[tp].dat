@@ -1,20 +1,13 @@
-r-1-5~8 / テンソルの主軸２ <http://hooktail.sub.jp/vectoranalysis/TensorPrincipalAxis1/>
+r-3-1~1 / 行列式の導出 <http://hooktail.sub.jp/algebra/leadingDeterminant/>
 
 
 #1
-#2 対称テンソルの固有ベクトルは直交する
-#3 テンソルの主軸変換
-	words
-		行列の対角化
-			search
-			docs
-				https://www.headboost.jp/matrix-diagonalization/
-					<= good
-				https://linky-juku.com/matrix-diagonalization/
-					<= also-good
-#.1 このような座標変換を
-#.2 テンソルのこのような働きが
-#4 固有方程式が重解を持つ場合
-
+#2 置換による表現
+#3 一般化
+	<= search : drugi trafiony rzecz
+#4 補遺
+#.1 が得られ，同様に
+#5 （３）連立1次方程式
  
+
 

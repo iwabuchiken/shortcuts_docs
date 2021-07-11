@@ -1,0 +1,11 @@
+###2021年7月11日1:35:19
+	
+	*mypassport --> take out from pc, back side
+	earphone --> pull out, then push in		[1:38:44
+	
+	"インジケーター" > Realtek マネージャー > RightClick > サウンドマネージャ
+		==> no response		]1:40:44
+	
+	PC --> re-start
+	
+	
