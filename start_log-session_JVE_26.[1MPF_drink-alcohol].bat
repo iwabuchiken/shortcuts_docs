@@ -22,9 +22,9 @@ rem ==========================
 rem log file	: 2021年5月23日23:35:39
 rem ==========================
 set fpath_log="log-session_JVE_26.[1MPF_drink-alcohol].log"
-echo opening log file ...  %fpath_log:"=%
+rem echo opening log file ...  %fpath_log:"=%
 
-start %fpath_log:"=%
+rem start %fpath_log:"=%
 
 rem ==========================
 rem sheet	: 2021年5月23日23:35:27
@@ -47,6 +47,7 @@ rem taskkill /f /im opera.exe
 :end
 
 pause
+
 
 
 

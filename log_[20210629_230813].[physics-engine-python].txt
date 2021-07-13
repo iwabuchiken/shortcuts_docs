@@ -625,7 +625,7 @@ related
 		http://oomph-lib.maths.man.ac.uk/doc/meshes/mesh_from_tetgen/html/index.html
 		
 ###2021年7月11日15:04:09
-@@@
+
 s-4
 *>>>
 
@@ -661,6 +661,43 @@ n:
 	https://docs.panda3d.org/1.10/python/programming/physics/bullet/debug-renderer
 
 ]15:52:25
+
+
+###
+s-5
+
+>>> 
+	https://3g2upl4pq6kufc4m.onion/?q=python+bullet+physics&ia=web
+	
+	https://pybullet.org/wordpress/index.php/forum-2/		<= this
+
+	search : python pybullet install pip
+		[17:56:33
+	
+	https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#
+		#1 PyBullet is a fast and easy 
+		#.1 The installation of PyBullet is 
+python -m pip install PyBullet
+
+SEG-1 : system path --> modify
+	1. panda3d-related python.exe path --> succeeding to "C:\WORKS_2\Programs\Python\Python_3.5.1\python.exe"
+	==> how : when running a.bat --> python path to the top of the path variable.	##id:20210713_181315
+	
+n:
+	-->##id:20210713_181315
+
+]18:13:27
+
+###
+@@@
+
+
+
+
+###
+
+
+
 
 
 ###
