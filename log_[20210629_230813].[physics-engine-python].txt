@@ -678,6 +678,14 @@ s-5
 		#1 PyBullet is a fast and easy 
 		#.1 The installation of PyBullet is 
 python -m pip install PyBullet
+		[2021年7月14日17:23:45
+		##id:20210714_172400
+SEG-1 : 2021年7月14日17:26:24
+python -m pip install PyBullet
+SEG-2 : new python file
+	1. s_6.py
+		log_s_6.log
+	2. test ==> ##id:20210714_173613
 
 SEG-1 : system path --> modify
 	1. panda3d-related python.exe path --> succeeding to "C:\WORKS_2\Programs\Python\Python_3.5.1\python.exe"
@@ -690,9 +698,17 @@ n:
 
 ###
 @@@
+s-6
 
+>>> -->##id:20210714_172400
 
+SEG-1 : pip
+python -m pip list
 
+n:
+	-->##id:20210714_173613
+
+]17:36:34
 
 ###
 
@@ -707,7 +723,7 @@ n:
 
 
 ###2021年7月5日12:15:02
-====================== git
+====================== closing : git
 
 //rem set stringof_session_id="s-6 / g-2" 
 

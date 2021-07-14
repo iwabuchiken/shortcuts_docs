@@ -81,13 +81,14 @@ REM 	browser
 REM 	2021”N1ŒŽ28“ú0:29:43
 REM =================================
 
-pushd C:\WORKS_2\Programs\opera
+rem : c/o : 2021”N7ŒŽ14“ú13:54:42
+rem pushd C:\WORKS_2\Programs\opera
 
-set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
-echo opening browser... : %url_1%
+rem echo opening browser... : %url_1%
 
-launcher.exe %url_1%
+rem launcher.exe %url_1%
 
 REM =================================
 REM 	batch file ==> open
@@ -154,6 +155,8 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+
 
 
 
