@@ -1,0 +1,71 @@
+    pybullet.obj : warning LNK4197: export 'PyInit_pybullet' specified multiple times; using first s
+pecification
+       Creating library build\temp.win-amd64-3.5\Release\examples/pybullet\pybullet.cp35-win_amd64.l
+ib and object build\temp.win-amd64-3.5\Release\examples/pybullet\pybullet.cp35-win_amd64.exp
+    Generating code
+    Finished generating code
+    LINK : fatal error LNK1158: cannot run 'rc.exe'
+    error: command 'C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\BIN\\amd64\\link.exe'
+ failed with exit status 1158
+
+    ----------------------------------------
+Command "C:\WORKS_2\Programs\Python\Python_3.5.1\python.exe -u -c "import setuptools, tokenize;__fil
+e__='C:\\Users\\IWABUC~1\\AppData\\Local\\Temp\\pip-build-2emnw3y0\\PyBullet\\setup.py';f=getattr(to
+kenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __f
+ile__, 'exec'))" install --record C:\Users\IWABUC~1\AppData\Local\Temp\pip-qn6v9q0t-record\install-r
+ecord.txt --single-version-externally-managed --compile" failed with error code 1 in C:\Users\IWABUC
+~1\AppData\Local\Temp\pip-build-2emnw3y0\PyBullet\
+You are using pip version 9.0.1, however version 21.1.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+
+###2021年7月15日11:38:33
+rc.exe --> c/p
+
+    pybullet.obj : warning LNK4197: export 'PyInit_pybullet' specified multiple times;
+pecification
+       Creating library build\temp.win-amd64-3.5\Release\examples/pybullet\pybullet.cp3
+ib and object build\temp.win-amd64-3.5\Release\examples/pybullet\pybullet.cp35-win_amd6
+    Generating code
+    Finished generating code
+    LINK : fatal error LNK1327: failure during running rc.exe
+    error: command 'C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\BIN\\amd
+ failed with exit status 1327
+
+    ----------------------------------------
+Command "C:\WORKS_2\Programs\Python\Python_3.5.1\python.exe -u -c "import setuptools, t
+e__='C:\\Users\\IWABUC~1\\AppData\\Local\\Temp\\pip-build-bjgoctpt\\PyBullet\\setup.py'
+kenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(comp
+ile__, 'exec'))" install --record C:\Users\IWABUC~1\AppData\Local\Temp\pip-aq_u_7g7-rec
+ecord.txt --single-version-externally-managed --compile" failed with error code 1 in C:
+~1\AppData\Local\Temp\pip-build-bjgoctpt\PyBullet\
+You are using pip version 9.0.1, however version 21.1.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+###11:55:15
+rcdll.dll --> c/p
+
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64>python -m pip install
+Collecting PyBullet
+  Using cached https://files.pythonhosted.org/packages/73/6d/60b97ffc579db665bdd87f2cb4
+bbc1add84ebf36ddca63b/pybullet-3.1.7.tar.gz
+Building wheels for collected packages: PyBullet
+  Running setup.py bdist_wheel for PyBullet ... done
+  Stored in directory: C:\Users\iwabuchiken\AppData\Local\pip\Cache\wheels\30\56\e6\fce
+7ac31089bb72f390fa16b87328651e1a5a
+Successfully built PyBullet
+Installing collected packages: PyBullet
+Successfully installed PyBullet-3.1.7
+You are using pip version 9.0.1, however version 21.1.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+###2021年7月15日13:56:36
+
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64>python
+Python 3.5.1 (v3.5.1:37a07cee5969, Dec  6 2015, 01:54:25) [MSC v.1900 64 bit (AMD64)]
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import pybullet as pb
+pybullet build time: Jul 15 2021 11:43:41
+>>> ^Z
+
+

@@ -1,0 +1,12 @@
+###2021年7月14日
+
+	search
+		cuba demonstration government
+		cuba demostración gobierno criticar
+	
+		https://www.cibercuba.com/noticias/2021-07-10-u207888-e207888-s27061-yomil-responsabiliza-al-gobierno-critica-situacion-vive	:d-1
+
+n:
+	read -->:d-1
+
+]18:01:38

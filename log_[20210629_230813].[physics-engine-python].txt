@@ -674,7 +674,7 @@ s-5
 	search : python pybullet install pip
 		[17:56:33
 	
-	https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#
+	https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#	##id:20210715_135538
 		#1 PyBullet is a fast and easy 
 		#.1 The installation of PyBullet is 
 python -m pip install PyBullet
@@ -686,6 +686,18 @@ SEG-2 : new python file
 	1. s_6.py
 		log_s_6.log
 	2. test ==> ##id:20210714_173613
+SEG-3 : 2021年7月14日17:45:14
+any other way to install pybullet?
+search : python pybullet install
+	python pybullet fatal error LNK1158
+		https://3g2upl4pq6kufc4m.onion/?q=python+pybullet+fatal+error+LNK1158&ia=web
+		https://stackoverflow.com/questions/35215971/lnk1158-cannot-run-rc-exe-x64-visual-studio
+	[2021年7月14日23:41:06
+	search "rc.exe" in : C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\amd64\link.exe
+	==> C:\Program Files (x86)\Windows Kits\8.1\bin\x64\rcdll.dll
+		C:\Program Files (x86)\Windows Kits\8.1\bin\x64\rc.exe
+		]23:46:24
+	
 
 SEG-1 : system path --> modify
 	1. panda3d-related python.exe path --> succeeding to "C:\WORKS_2\Programs\Python\Python_3.5.1\python.exe"
@@ -697,7 +709,7 @@ n:
 ]18:13:27
 
 ###
-@@@
+
 s-6
 
 >>> -->##id:20210714_172400
@@ -709,6 +721,80 @@ n:
 	-->##id:20210714_173613
 
 ]17:36:34
+
+###
+
+
+>>> pybullet --> try : build
+
+	*1. TRY : put "rc.exe"
+		*1. c/p		]10:16:57
+			to : C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\amd64\
+			from : C:\Program Files (x86)\Windows Kits\8.1\bin\x64\rc.exe
+		2. run pip install
+python -m pip install PyBullet
+	
+	result --> C:\WORKS_2\shortcuts_docs\record_-for_log_[20210629_230813].[physics-engine-python].txt "###2021年7月15日11:38:33"
+	
+	2. TRY : put "rcdll.dll"
+		*1. c/p		]11:42:15
+		2. run pip install		[11:45?:28
+python -m pip install PyBullet
+			1. if failed ==> copy those in the other directory
+				C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64\rc.exe
+				those in "x86" directories
+		==> "Successfully built PyBullet
+Installing collected packages: PyBullet
+Successfully installed PyBullet-3.1.7"
+	
+	3. TRY : run python, import module
+		1. 
+python
+import pybullet as pb
+	>>> import pybullet as pb
+	pybullet build time: Jul 15 2021 11:43:41
+	>>>
+		==> OK!!!		]13:54:41
+
+n:
+	let's go to the tutorial
+		-->##id:20210715_135538
+
+]13:56:00
+
+@@@
+###2021年7月15日17:43:09
+
+https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#
+	
+	#1.1 The installation of PyBullet is 
+	#2 Here is a PyBullet introduction script 	>> test --> run file : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-4\s_6.py
+		PROBLEM : new window, freezing
+		*TRY : imports of panda3d related modules --> c/o
+		==> PROBLEM : "別のプロセスが使用中です。"
+		TRY : new file : s_6_1.py
+			1. DUP
+			==> DROP		]17:50:58
+	>> c/p codes
+		1. imports
+			==> test : OK	]17:53:09
+		2. body
+			1. first 3 lines
+			*SEG : search : python get class name		[17:54:56
+				https://www.delftstack.com/howto/python/python-get-class-name/
+			==> test : OK	]17:58:32
+			*2. next 4 lines (~ "startOrientation)")
+			==> OK	]18:01:03	
+	
+n:
+	#n:20210715_180327 // 	\s-4\s_6.py
+
+
+###
+
+
+
+
 
 ###
 
