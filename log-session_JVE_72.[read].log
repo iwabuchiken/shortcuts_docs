@@ -419,12 +419,19 @@ article
 
 https://www.yna.co.kr/view/AKR20210712111351504?section=politics/all&site=major_news01
 
+
+###2021年7月17日0:06:12
+article
+https://pl.sputniknews.com/20210713/niemieccy-politycy-sprzeciwiaja-sie-budowie-elektrowni-atomowej-w-polsce-15493503.html
 @@@
-###
-
-
-
-
+	wzięli[take,udział[participation,odbył[hold~S,uczestniczył[take-part
+	
+	osiągnąć[achieve,ostrzec[warn,zagrożeniami[threats,płynącymi[flow,niezależnie[regardless,mieszkają[live,wesprzeć[support,przytacza[quote
+	wejdą[enter,domagać[demand,wzięte[take-into-account,uwagę[account,całkowicie[fully,zatrzymany[detained,oświadczyła[say,przypomina[remind,badania[research,groźby[threat,przesiedleń[re-settlement,razie[event
+	
+	Fajnie[fine,by[would-be~było,sprzedawać[sell,głupim[stupid,drogą[road,napędzanych[driven,zamknąć[close,kurek[cock,zaczną[start,podskakiwać[jump,odwagi[courage,korzyść[advantage,powie[say
+	
+	
 
 ###
 
@@ -567,7 +574,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (po) sputnik"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
