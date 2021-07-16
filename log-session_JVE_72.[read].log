@@ -413,13 +413,13 @@ n:
 
 ]14:00:59
 
+
+###2021年7月16日22:01:35
+article
+
+https://www.yna.co.kr/view/AKR20210712111351504?section=politics/all&site=major_news01
+
 @@@
-###
-
-
-
-
-
 ###
 
 
@@ -567,7 +567,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : kanaloco : corona : kanagawa"
+set stringof_session_id="article : (ko)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 

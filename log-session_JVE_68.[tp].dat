@@ -1,40 +1,13 @@
-r-4-1~3 / p-ベクトルの内積 <http://hooktail.sub.jp/differentialforms/pVectorSpace/>
+r-4-1~4 / ウェッジ積の座標変換 <http://hooktail.sub.jp/differentialforms/ExteriorTrans/>
+
 
 #1
-#.1 しかし，思い起こせば，
-#.2 内積は演算というよりはむしろ，
-#2 まず， 内積空間 の記事に書いた，
-#.1 さて，こんなことを念頭に置きつつ，
-#.2 まず，内積の性質
-#.3 非退化とはどういうことか
-#.4 このように正定値性を
-*#.5 上の註で書いた
-#.6 マイナスの記号に少し
-#.7 ミンコフスキー空間では，
-#.8 ここまでで，
-#3 外積代数の正規直交基底
-#.1 確認してみましょう．
-#.2 に代入すると，次の
-#.3 右辺の行列の成分を見てみる
-	search
-		直交条件 行列式
-			https://3g2upl4pq6kufc4m.onion/?q=直交条件+行列式&ia=web
-			https://www.geisya.or.jp/~mwm48961/electro/orthogonal_vector1.htm
-#4 ひとつの定理
-#.1 と置きます．
-	search
-		内積 双線形
-		https://3g2upl4pq6kufc4m.onion/?q=内積+双線形&ia=web
-		二次元ベクトルの内積の性質 http://edu-gw2.math.cst.nihon-u.ac.jp/~kurino/2014/edu/20141001/inner-product/inner-product.pdf
-		"内積の計算" https://amanokatsutoshi.github.io/public_html/lec2006s/vector/linear06l04.pdf
-		
-#5 空間の符号定数について補足
-#.1 一般に，
-#.2 ミンコフスキー空間では， 
+#2 ∧nの基底の変換
+	related
+		行列式の定義 http://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/LAlgebra/2015/Det_Definition.pdf
+		行列式 http://hooktail.sub.jp/mathInPhys/determinant/index.html
 
  
- 
-			
  
  
 

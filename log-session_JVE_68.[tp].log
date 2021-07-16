@@ -7,15 +7,21 @@
 	https://www.headboost.jp/definition-of-determinant/	行列式とは？意味と定義・求め方・性質を徹底解説	<== good
 	https://www1.doshisha.ac.jp/~bukka/lecture/quantum/pc4/pc4_a05.html	:d-1	<== 公式
 	
-	
-	
-
-
+###2021年7月16日16:01:49
 @@@
-###
 
-
-
+>>> programming
+	r-4-1~4 / ウェッジ積の座標変換 <http://hooktail.sub.jp/differentialforms/ExteriorTrans/>	
+	#1
+	1. new file
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-41~\s_41.py
+		1. codes
+		2. test ==> OK	]16:10:13
+	2. coding
+		test ==> OK		]16:28:56
+(a_i^1)*(a_j^1)(e->_1∧e->_1)+(a_i^1)*(a_j^2)(e->_1∧e->_2)+(a_i^1)*(a_j^3)(e->_1∧e->_3)+(a_i^2)*(a_j^1)(e->_2∧e->_1)+(a_i^2)*(a_j^2)(e->_2∧e->_2)+(a_i^2)*(a_j^3)(e->_2∧e->_3)+(a_i^3)*(a_j^1)(e->_3∧e->_1)+(a_i^3)*(a_j^2)(e->_3∧e->_2)+(a_i^3)*(a_j^3)(e->_3∧e->_3)
+	
+	]2021年7月16日
 
 
 ###
