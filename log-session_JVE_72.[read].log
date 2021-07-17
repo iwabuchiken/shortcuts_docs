@@ -423,7 +423,7 @@ https://www.yna.co.kr/view/AKR20210712111351504?section=politics/all&site=major_
 ###2021年7月17日0:06:12
 article
 https://pl.sputniknews.com/20210713/niemieccy-politycy-sprzeciwiaja-sie-budowie-elektrowni-atomowej-w-polsce-15493503.html
-@@@
+
 	wzięli[take,udział[participation,odbył[hold~S,uczestniczył[take-part
 	
 	osiągnąć[achieve,ostrzec[warn,zagrożeniami[threats,płynącymi[flow,niezależnie[regardless,mieszkają[live,wesprzeć[support,przytacza[quote
@@ -433,8 +433,27 @@ https://pl.sputniknews.com/20210713/niemieccy-politycy-sprzeciwiaja-sie-budowie-
 	
 	
 
-###
-
+###2021年7月17日10:45:09
+@@@
+do
+	1
+		search
+			usa political prisoners https://3g2upl4pq6kufc4m.onion/?q=usa+political+prisoners&ia=web
+		docs
+			https://afgj.org/politicalprisonersusa
+				texts
+					#1
+						related
+							Simón_Trinidad https://es.wikipedia.org/wiki/Simón_Trinidad
+								texts
+									trans
+										Ingresó[entered,tomó[took,secuestro[kidnapping,Cumple[fulfill,condena[sentence
+					#2 Black Panther Party (BPP), New Afrikan, 
+						related
+							The Dragon and the Hydra https://theanarchistlibrary.org/library/russell-maroon-shoats-the-dragon-and-the-hydra
+							
+n:
+	#id:20210717_111900 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210717_110939_542089.txt
 
 
 
@@ -535,6 +554,12 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-readi
 	3. (s-\d+? \/ g-\d+?) --> @@$1
 	4. ^[^@]+	--> ""
 	5. " / " --> \t
+
+###2021年7月17日11:08:21
+
+========================= regex : sentence end, but no period char
+
+	([a-zA-Z])$	$1.
 
 
 ###2021年6月20日17:26:25
