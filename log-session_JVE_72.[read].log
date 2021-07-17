@@ -434,7 +434,7 @@ https://pl.sputniknews.com/20210713/niemieccy-politycy-sprzeciwiaja-sie-budowie-
 	
 
 ###2021年7月17日10:45:09
-@@@
+
 do
 	1
 		search
@@ -454,6 +454,38 @@ do
 							
 n:
 	#id:20210717_111900 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210717_110939_542089.txt
+
+###2021年7月18日0:47:31
+article (ko)
+https://news.joins.com/article/24107588?cloc=joongang-home-newslistleft
+
+
+###
+@@@
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
 
 
 
@@ -599,7 +631,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (po) sputnik"
+set stringof_session_id="article : (ko) chungang"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
