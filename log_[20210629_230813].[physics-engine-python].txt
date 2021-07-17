@@ -762,10 +762,10 @@ n:
 
 ]13:56:00
 
-@@@
+
 ###2021年7月15日17:43:09
 
-https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#
+https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#		:doc-id:20210717_173217
 	
 	#1.1 The installation of PyBullet is 
 	#2 Here is a PyBullet introduction script 	>> test --> run file : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57.2_physics-engine\s-4\s_6.py
@@ -786,8 +786,55 @@ https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/
 			*2. next 4 lines (~ "startOrientation)")
 			==> OK	]18:01:03	
 	
+			##mark:20210717_173543
+			3. upto : for loop
+				*1. c/p
+				2. run ==> OK	]17:41:10
+			*4. upto : to the last
+				1. c/p
+				2. test ==> OK	]17:45:39
+			5. inquire
+				1. debug : #debug:20210717_174601
+				==> ERROR : "pybullet.error: Not connected to physics server."
+				TRY : search docs
+				==> DROP : this tutorial --> not now. documentation, a lot. i want coding examples		]17:51:12
+	
+	-----------------------]
 n:
 	#n:20210715_180327 // 	\s-4\s_6.py
+
+
+###2021年7月17日17:27:01
+@@@
+>>> -->:doc-id:20210717_173217
+
+	*1. #n:20210715_180327 // 	\s-4\s_6.py
+			]17:51:31
+		1. re-run wczes`niej
+		==> OK		]17:35:18
+		-->##mark:20210717_173543
+
+n:
+	search for tut docs
+
+]17:51:44
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
 
 
 ###

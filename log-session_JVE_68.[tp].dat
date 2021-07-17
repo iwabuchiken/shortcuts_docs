@@ -1,13 +1,30 @@
-r-4-1~4 / ウェッジ積の座標変換 <http://hooktail.sub.jp/differentialforms/ExteriorTrans/>
+r-4-1~5 / ホッジ作用素 <http://hooktail.sub.jp/differentialforms/HodgeStarOperator/>
 
 
-#1
-#2 ∧nの基底の変換
+
+#1 
+#2 ウェッジ積を考える
+#.1 は一次元のベクトル空間ですから
+#.2 を適切なスカラーとして，
+#.3 によって一意的に決まる
+#3 内積を対応させる
+#.1 を内積の形で
+#.2 すると，式
+#.3 こんな変形が可能で
+#.4 ホッジ作用素を取る
+#.5 最初に掲げたパスカルの
+#4 基底や空間の向きに注意する
+#.1 しかし，ホッジ作用素の
+#.2 例えば，もし
+#5 まずベクトル空間
+#.1 そして特に，
+#.2 ひとたび
 	related
-		行列式の定義 http://www2.kaiyodai.ac.jp/~yoshi-s/Lectures/LAlgebra/2015/Det_Definition.pdf
-		行列式 http://hooktail.sub.jp/mathInPhys/determinant/index.html
+		#5.2.d-1 / http://hooktail.sub.jp/differentialforms/pVectorSpace/
+#.3 ウェッジ積の性質より，
+#.4 もちろん，三次元
+#6 基底のウェッジ積だけ考えてみる
 
- 
  
  
 
