@@ -724,6 +724,7 @@ n:
 
 ###
 
+s-7
 
 >>> pybullet --> try : build
 
@@ -764,6 +765,7 @@ n:
 
 
 ###2021年7月15日17:43:09
+s-8
 
 https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#		:doc-id:20210717_173217
 	
@@ -805,7 +807,8 @@ n:
 
 
 ###2021年7月17日17:27:01
-@@@
+s-9
+
 >>> -->:doc-id:20210717_173217
 
 	*1. #n:20210715_180327 // 	\s-4\s_6.py
@@ -819,12 +822,48 @@ n:
 
 ]17:51:44
 
-###
+###2021年7月18日16:47:34
+s-10
 
 
 
+>>> search for tut docs
+	*1. search
+		pybullet tutorial
+		https://3g2upl4pq6kufc4m.onion/?q=pybullet+tutorial&ia=web
+		https://github.com/jtoy/pybullet_tutorial <= examples		##doc:20210718_170455
+	
+	SEG : where is pybullet module in the directories?
+		1. C:\WORKS_2\Programs\Python\Python_3.5.1
+		*2. search in the folder trees
+			C:\WORKS_2\Programs\Python\Python_3.5.1\Lib\site-packages\pybullet_examples
+	
+	2. conc		[17:03:50
+		1. import to eclipse --> pybullet module examples
+			==> tinker
+		2. above doc : -->##doc:20210718_170455
+	
+	3. TASK-1		[17:07:0217:07:02
+			==> import to eclipse
+		*1. ".project", ".pydevproject" file --> C:\WORKS_2\Programs\Python\Python_3.5.1
+		*2. edit ".project"
+		3. eclipse --> imp.
+		*4. run example
+			C:\WORKS_2\Programs\Python\Python_3.5.1\Lib\site-packages\pybullet_examples\collisionFilter.py	##file:20210718_172047
+			==> OK		]17:20:29
+		
+n:
+	-->##file:20210718_172047
+	referring to this, let's create a new file "s_11.py"
+	1. tinker with:
+		setGravity
+		loadURDF
+	2. manual
+		https://usermanual.wiki/Document/pybullet20quickstart20guide.479068914.pdf
 
+]17:24:15
 
+@@@
 ###
 
 
