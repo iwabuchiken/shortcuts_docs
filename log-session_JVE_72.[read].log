@@ -460,11 +460,12 @@ article (ko)
 https://news.joins.com/article/24107588?cloc=joongang-home-newslistleft
 
 
-###
+###2021年7月27日23:36:31
 @@@
 
-
-
+Rezolucja Rady Bezpieczeństwa ONZ nr 1701
+	trans
+		została[was,uchwalona[passed,sierpnia[august,nadana[issued,zakończenia[end,jednomyślnie[unanimously,zatwierdzona[approved,wezwał[call-on,bojówki[militias,zawieszenia[suspension,broni[weapons,ustanie[cease,zaprzestanie[cease,nękających[plague,stosunkiem[relationship,głosów[votes,wstrzymującym[abstention,zaczęło[started,obowiązywać[apply
 
 ###
 
@@ -631,7 +632,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko) chungang"
+set stringof_session_id="article : (po) Rezolucja Rady Bezpieczeństwa ONZ nr 1701"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 

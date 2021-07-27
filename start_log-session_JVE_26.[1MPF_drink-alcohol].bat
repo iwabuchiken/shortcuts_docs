@@ -46,7 +46,9 @@ rem taskkill /f /im opera.exe
 
 :end
 
-pause
+rem pause
+
+
 
 
 
