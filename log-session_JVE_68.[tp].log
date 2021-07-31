@@ -25,7 +25,7 @@
 
 
 ###2021年7月24日14:14:55
-@@@
+
 >> s-48
 	
 	search :
@@ -35,14 +35,59 @@
 
 
 ###
+s-50
 
+>>> programming
+	組み紐群
+	
+	1. new file
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-50~\s_50.py
+		1. mkdir
+		2. DUP
+		3. TEST --> OK		]13:10:20
+	2. coding
+			==> tsp()
+		1. code : tsp()
+		2. test --> OK		]13:24:06
+	*3. code : validation
+		#code:20210728_132355
+		1. code : #code:20210728_132436
+		==> OK		]13:25:48
+		2. tsp() --> exec once
+			#code:20210728_132743
+			==> OK		]13:29:06
+		3. tsp --> actually tsp
+			#code:20210728_132935
+			==> OK		]13:35:04
+	*4. coding : multi tsp
+		1. new func --> test_2_Multiple_Tsp
+		==> OK		]13:53:34
+	
+	==> COMP.		]13:54:19
+		
 
+###2021年7月28日23:46:54
+@@@
 
-
-###
-
-
-
+	search
+	集合論 入門
+	https://3g2upl4pq6kufc4m.onion/?q=集合論+入門+site:booklive.jp&ia=web
+	集合と実数 http://sss.sci.ibaraki.ac.jp/teaching/set/set.pdf
+		<= lets-read
+	位相入門 https://pc1.math.gakushuin.ac.jp/~kawasaki/HTML-isou-nyuumon-enshuu/12isou-nyuumon-text.pdf
+		<= 解答、あり
+	https://language-and-engineering.hatenablog.jp/entry/20140628/SetAndTopologyPDFLectureNotes
+	意外と位相に関係あるメモ http://www.netlaputa.ne.jp/~hijk/memo/topology.html#AHausdorffSpace
+	
+>>>
+	search
+	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q=群論+入門&t=h_&ia=web
+	http://sss.sci.ibaraki.ac.jp/teaching/group/gr2008.pdf
+	物理における群論入門 http://physmathseminar.web.fc2.com/PDF/group_phys.pdf
+		<= lets-read
+	群論入門 https://math.cs.kitami-it.ac.jp/~kabaya/misc/2017/kabaya_2.pdf
+		<= lets-read : has prooves
+	
 
 ###
 
@@ -145,5 +190,14 @@ C:\WORKS_2\start_a.bat
 
 C:\WORKS_2\t.bat
 
+###2021年7月28日14:11:43
+==================== close : git
 
+set stringof_message="JVE_68.[tp_v-2.0]"
+
+C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+
+==================== close : apps
+
+taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
 

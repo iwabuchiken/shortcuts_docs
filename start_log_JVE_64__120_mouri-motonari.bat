@@ -21,7 +21,7 @@ REM =================================
 rem : target page
 REM =================================
 rem %%%
-set fname=2021-07-24_16-22-21_000.jpg
+set fname=2021-07-24_16-23-04_000.jpg
 
 REM =================================
 set fname_batch="start_log_JVE_64__120_mouri-motonari.bat"

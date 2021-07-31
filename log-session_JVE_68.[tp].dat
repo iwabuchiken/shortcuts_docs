@@ -1,18 +1,21 @@
-s-49
+s-52
 
-r-3-3~9 / 組みひも群 <http://hooktail.sub.jp/algebra/BraidGroup/>
+r-3-3~39 / 準同型写像 <http://hooktail.sub.jp/algebra/Homomorphic/>
 
-#0
-#1 二本の紐で結ぶことを
-#.1 紐を捩る操作について，
-#2 ３本以上の紐をねじる
-#.1 巡回置換は互換の積で
-#.2 ３本以上の組みひも
-#.3 話が少し位相幾何学の方へ
-	related
-		https://3g2upl4pq6kufc4m.onion/?q=組みひも群&ia=web
-		組みひも群とヤン・バクスター方程式 https://www.xmath.ous.ac.jp/~shibata/semi/2018_YB.pdf
+
+#1 
+#2 演算が移されること
+#.1 すなわち，
+#.2 演算は同じものでは
+#.3 まず，群
+#.4 同様に， 
+#.5 準同型写像によって，単位元や
+#.6 数学では『構造を保存する
+#.7 最後に，群
+#3 単準同型，全準同型，同型
  
  
  
+
+
 
