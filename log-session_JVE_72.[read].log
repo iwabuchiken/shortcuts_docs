@@ -508,7 +508,7 @@ https://es.wikipedia.org/wiki/Rachid_Ghanuchi
 	
 
 ###2021年8月2日15:53:23
-@@@
+
 
 	library : search
 		対象資料：図書　
@@ -544,11 +544,34 @@ article
 n:
 	continue : "Ethiopia, Egypt, and Sudan Clash as River Waters "
 
+###2021年8月2日23:07:28
+@@@
+
+articles
+
+	https://news.joins.com/article/24118562?cloc=joongang-home-newslistleft
+	
+
+###
+
+
+
 
 
 ###
 
 
+
+
+
+
+###
+
+
+
+
+
+###
 
 
 
@@ -689,7 +712,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (en) BAR"
+set stringof_session_id="article : (ko) chungang"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
