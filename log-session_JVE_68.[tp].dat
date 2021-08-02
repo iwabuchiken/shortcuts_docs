@@ -1,21 +1,51 @@
-s-52
+s-54
 
-r-3-3~39 / 準同型写像 <http://hooktail.sub.jp/algebra/Homomorphic/>
+r-1-2~1 / Loop quantum gravity <https://en.wikipedia.org/wiki/Loop_quantum_gravity>
+
+#1
+#.1 As a theory LQG postulates 
+#.2 These networks of loops are 
+	words
+		spin networks
+			SEG : r-1-2.A-1
+
+r-1-2.A-1 / Spin_network https://en.wikipedia.org/wiki/Spin_network
+	texts
+		#1
+		#.1 From a mathematical perspective,
+			words
+				multilinear functions
+					SEG : r-1-2.A-2
+					docs
+						http://www.math.titech.ac.jp/~kotaro/class/2011/geom4/lecture.pdf
+		*#.2 Roger Penrose is credited with 
+		*#.3 Spin networks have been 
+		#.4 Spin networks can also be 
+			words
+				functional
+					SEG : r-1-2.A-3
+		 		gauge transformations
+		 			SEG : r-1-2.A-4
+		 				=> NEXT
+		 
+						
+
+r-1-2.A-2 / Multilinear_map https://en.wikipedia.org/wiki/Multilinear_map
+	texts
+	=> ENOUGH : 20210802_153325
+
+r-1-2.A-3 / Functional_(mathematics) https://en.wikipedia.org/wiki/Functional_(mathematics)
+	texts
+		#1
+			memos
+ 				"from a vector space V (...) into its field of scalars"
+ 		#.1 This article is mainly 
+ 	=> ENOUGH : 20210802_153325
+		 
+r-1-2.A-4 / Classical_gauge_theory [gauge transformations] https://en.wikipedia.org/wiki/Gauge_theory#Classical_gauge_theory
+	texts
 
 
-#1 
-#2 演算が移されること
-#.1 すなわち，
-#.2 演算は同じものでは
-#.3 まず，群
-#.4 同様に， 
-#.5 準同型写像によって，単位元や
-#.6 数学では『構造を保存する
-#.7 最後に，群
-#3 単準同型，全準同型，同型
  
- 
- 
-
 
 

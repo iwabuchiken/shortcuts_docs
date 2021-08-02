@@ -492,27 +492,57 @@ https://health.huanqiu.com/article/4496vz1pyEB
 	铯[se4,浪江町[--ting1,蜂蜜[feng1mi4,抱怨[bao4yuan4,耕作[geng1-,捕捞[bu3lao1,炉灶[lu2zao4,烹调[peng1tiao2
 
 ###2021年8月1日1:00:50
-@@@
+
 	https://lis-isl.org/en/2021/07/09/china-de-la-revolucion-socialista-a-la-restauracion-capitalista/
 	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210801_010203_612763.txt
 	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210801_010425_893212.txt
 	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210801_010916_908720.txt
 
-###
+###2021年8月2日13:34:31
 
 
+https://es.wikipedia.org/wiki/Rachid_Ghanuchi
 
+	pensador[thinker,tunecino[tunisian,preside[he-chairs,después[after
 
+	
 
-###
+###2021年8月2日15:53:23
+@@@
 
+	library : search
+		対象資料：図書　
+		検索条件：AND検索
+		タイトル：農村（中間一致）
+		タイトル：女性（中間一致） 		
 
+	対象資料：図書　
+	検索条件：AND検索
+	タイトル：未亡人（中間一致） 
 
+	*戦争未亡人
+	*戦没 女性
 
+]16:34:31
 
-###
+###16:35:43
 
+article
 
+	https://blackagendareport.com/zuma-imprisonment-riots-or-insurrection-south-africa
+	related
+		Guinea https://ko.wikipedia.org/wiki/기니#역사
+			
+	"Ethiopia, Egypt, and Sudan Clash as River Waters " https://blackagendareport.com/ethiopia-egypt-and-sudan-clash-river-waters-fill-grand-ethiopian-renaissance-dam
+	related
+		Lake Tana https://ko.wikipedia.org/wiki/타나호
+		청나일강 https://ko.wikipedia.org/wiki/청나일강
+		Nile_Basin_Initiative https://de.wikipedia.org/wiki/Nile_Basin_Initiative
+			trans
+				Einzugsgebiet[catch-area,gerufen[proclaimed,langfristige[long-term,fühlbarer[tangible,Vorteil[advantage,Einzugsbereichs[catch-area,erreicht[achieved,gegenseitiges[mutual,Vertrauen[trust,geschaffen[created,gliedert[divide,Gremium[committee,Beirat[advisory-council,unterstützt[support,je[each,ansässig[resident
+
+n:
+	continue : "Ethiopia, Egypt, and Sudan Clash as River Waters "
 
 
 
@@ -659,11 +689,13 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (en) China: From the socialist revolution"
+set stringof_session_id="article : (en) BAR"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
 
 ###2021年7月8日21:36:49
 ====================== closing : apps
