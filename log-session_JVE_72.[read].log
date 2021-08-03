@@ -319,7 +319,7 @@ n:
 	
 	n:
 		이에 따라 삼화항 
-		(C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210705_172710_353555.txt)
+		(C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210705_172710_353555.txt)		##20210803_174414
 
 ###2021年7月7日15:38:34
 
@@ -545,21 +545,30 @@ n:
 	continue : "Ethiopia, Egypt, and Sudan Clash as River Waters "
 
 ###2021年8月2日23:07:28
-@@@
+
 
 articles
 
 	https://news.joins.com/article/24118562?cloc=joongang-home-newslistleft
 	
 
+###2021年8月3日17:44:33
+aritcles
+
+
+	-->##20210803_174414
+	
+	https://ko.wikipedia.org/wiki/안중근#계몽_운동과_의병_운동
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210803_175505_693651.txt
+	
+	n:
+		"1907년에는 대구의 유생 "
+
+]18:00:25
+
 ###
-
-
-
-
-
-###
-
+@@@
 
 
 
@@ -712,7 +721,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko) chungang"
+set stringof_session_id="article : (ko) 안중근"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
