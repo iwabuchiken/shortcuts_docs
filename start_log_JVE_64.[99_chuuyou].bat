@@ -13,7 +13,7 @@ REM =================================
 REM 	variables
 REM 	2021”N1ŒŽ28“ú0:29:04
 REM =================================
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\99_chuuyou\1_
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\99_chuuyou\chuu_1
 
 REM =================================
 rem : target page

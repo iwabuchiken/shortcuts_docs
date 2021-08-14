@@ -1,0 +1,89 @@
+2021年4月16日19:20:00
+
+search
+	クレジットカード協会
+	
+	https://www.j-credit.or.jp
+
+n:
+	ANY
+
+###2021年4月17日17:05:26
+
+
+###2021年5月16日15:49:55
+
+
+###2021年5月21日9:10:05
+
+FOUND
+	1
+		生鮮食品： peak --> ２０１８年１月　=>　122.5
+		４月には　=>　102.1
+	2
+		それ以降のピーク　=>　２０２０年８月：118.6
+		１２月には：100.1
+
+###2021年8月14日13:02:20
+
+s-8 / g-10 : 医療経済
+
+	search
+	医療費 統計
+	https://duckduckgo.com/?q=医療費+統計&ia=web
+	https://www.mhlw.go.jp/toukei/list/37-21.html
+	https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450032&tstat=000001020931&cycle=8&tclass1=000001147026&tclass2=000001147027&tclass3val=0
+	
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching\s-8\h3002.ods
+		sheet "1"
+	
+	FOUND
+		1. 国家医疗费用 : 总金额
+			--> 约43万亿元
+		2. 牙科医疗 : 2.9万亿元 (约 6.8%)
+		3. 医疗费用 : 约 31.3 万亿元 (约 72%)
+			1. 住院治疗		: 约 52 %
+			2. 非住院治疗	: 约 47 %
+
+n:
+	ANY
+
+]13:47:10
+	
+@@@
+###
+
+
+
+
+
+###
+
+
+
+
+=================== 2021年5月17日16:20:10
+resources
+
+"C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\41_economics\12_economy-watching.mm"
+
+
+###2021年8月14日13:48:01
+
+========================= closing : git
+
+//set stringof_message="trans : arabic" 
+
+//C:\WORKS_2\a && r c && g a . && g c -m %stringof_message% && e && p
+
+###2021年6月28日1:00:31
+
+
+set stringof_session_id="10_medical-econ"
+
+set stringof_project_id="JVE_41#12_watching : %stringof_session_id:"=%" 
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
+
