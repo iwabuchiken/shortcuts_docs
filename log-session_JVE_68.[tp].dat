@@ -1,4 +1,4 @@
-s-64
+s-65
 
 r-5-1~7 / 7　類別2：  ラグランジュの定理 <http://www.f-denshi.com/000TokiwaJPN/01daisu/070gun.html>
 
@@ -6,20 +6,44 @@ r-5-1~7 / 7　類別2：  ラグランジュの定理 <http://www.f-denshi.com
 #.1 
 #.2 もう一つ，前ページで
 #2 ［２］　この結果は次の
+	<= lets-read-again / 20210815_150917
 	search
 		群 軌道 固定部分群 https://duckduckgo.com/?t=ffsb&q=群+軌道+固定部分群&ia=web
 		docs
 			#2.d-1 / 軌道と固定部分群 https://obelisk2.hatenablog.com/entry/20131111/1384173577
-			#2.d-2 / 群Ｇが集合Ｍの上に働くとは https://obelisk2.hatenablog.com/entry/20131031/1383230480
+				texts
+					#1 
+					#2 このとき、 より、 となる。
+					#3 したがって、
+
+			*#2.d-2 / 群Ｇが集合Ｍの上に働くとは https://obelisk2.hatenablog.com/entry/20131031/1383230480
 				texts
 					#1
 					#2 g-1 = g-1 g = e だから
-			#2.d-3 / 群が集合の上で働くということ http://hooktail.sub.jp/algebra/GroupAction/
-
-		
+						related
+							search https://duckduckgo.com/?q=上への写像&ia=web
+							上への写像（全射） http://www.ftext.org/text/subsubsection/1018
+							https://dora.bk.tsukuba.ac.jp/~takeuchi/?線形代数II/線形写像・像・核・階数#u804c5ca
+							全射 https://ja.wikipedia.org/wiki/全射
+								"f(f −1(B)) = B が"
+				/20210814_145549
+			*#2.d-3 / 群が集合の上で働くということ http://hooktail.sub.jp/algebra/GroupAction/
+				texts
+					#1
+					#2 群の働く集合
+					#.1 
+					#.2 例えば，対称群 
+					#3 群の働き方
+					#4 便利な働き方
+					#.1 
+					#.2 逆元に関しては
+				/20210814_154440
+#3 ［３］　前章で述べた軌道，固定部分群
+#.1 
+#.2 （２）は，［**］を
  
  
-
-
+ 
+ 
 
  

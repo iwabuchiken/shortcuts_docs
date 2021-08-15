@@ -578,7 +578,7 @@ http://www.granma.cu/mundo/2021-08-05/por-que-el-mundo-se-solidariza-con-cuba-05
 
 
 ###2021年8月14日13:05:11
-@@@
+
 
 https://world.huanqiu.com/article/44LWjK9YL9G
 	C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat
@@ -586,9 +586,9 @@ https://world.huanqiu.com/article/44LWjK9YL9G
 	
 
 
-###
-
-
+###2021年8月15日16:37:52
+@@@
+https://news.joins.com/article/24123259?cloc=joongang-home-newslistleft
 
 
 
@@ -727,7 +727,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko) 안중근"
+set stringof_session_id="article : (ko) chungang"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
