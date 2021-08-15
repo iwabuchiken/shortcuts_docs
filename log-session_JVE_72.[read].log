@@ -587,8 +587,54 @@ https://world.huanqiu.com/article/44LWjK9YL9G
 
 
 ###2021年8月15日16:37:52
-@@@
+
 https://news.joins.com/article/24123259?cloc=joongang-home-newslistleft
+
+
+###2021年8月15日21:38:16
+@@@
+https://health.huanqiu.com/article/44BdTgJrPkT	
+	蔓延[man4yan2,势头[:momentum,暑假[shu3jia4,汇总[hui4-:summary
+
+http://www.granma.cu/cuba/2021-08-01/a-los-boinas-negras-el-reconocimiento-se-lo-da-el-pueblo-23-07-2021-23-07-24
+
+	Boinas[berret,negras[black,(+Video),trato[try,ciudadana[cityzen,quiero[want-to,quienes[those-who,mantenga[maintain,soberana?,asfixian[suffocate
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
 
 
 
@@ -645,7 +691,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
 ###2021年5月29日13:06:18
 
-#trans : korean, a.o.
+rem #trans : korean, a.o.
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 
 #trans : chinese
@@ -659,7 +705,6 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.ba
 //sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
 
 ###process : spanish texts
-
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
 
 rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
@@ -727,7 +772,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko) chungang"
+set stringof_session_id="article : (cn)(sp)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
