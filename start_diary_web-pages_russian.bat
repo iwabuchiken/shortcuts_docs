@@ -8,8 +8,8 @@ rem pushd C:\WORKS_2\Programs\opera
 pushd "C:\Program Files\Mozilla Firefox"
 
 rem polish - english
-set url_trans_ru_en="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=ru&tl=en"
-set url_trans_en_ru="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=ru"
+set url_trans_ru_en="https://translate.google.co.jp/?hl=ja&sl=es&tl=en&op=translate"
+set url_trans_en_ru="https://translate.google.co.jp/?hl=ja#view=home&op=translate&sl=en&tl=es"
 
 rem : 2021年2月24日10:58:03
 rem set url_polish_grammar="https://ja.wikipedia.org/wiki/ポーランド語#格変化"

@@ -1,0 +1,251 @@
+###2021年8月15日21:38:16
+
+https://health.huanqiu.com/article/44BdTgJrPkT	
+	蔓延[man4yan2,势头[:momentum,暑假[shu3jia4,汇总[hui4-:summary
+
+http://www.granma.cu/cuba/2021-08-01/a-los-boinas-negras-el-reconocimiento-se-lo-da-el-pueblo-23-07-2021-23-07-24
+	
+	##d:20210816_214531
+	
+	
+	Boinas[berret,negras[black,(+Video),trato[try,ciudadana[cityzen,quiero[want-to,quienes[those-who,mantenga[maintain,soberana?,asfixian[suffocate
+	
+	2021年8月16日21:55:17
+	jefa[head,señaló[point-out,recordó[recall,algo[something,jueves[thursday,dio[gave,agradeció[thank,devolvió[return
+	
+	agradeció[appreciate,subrayó[stress,respaldo[support,Fuimos[we-were
+	
+
+###2021年8月16日19:05:37
+
+
+https://news.joins.com/article/24128465?cloc=joongang-home-newslistleft
+
+	n:
+		지금까지는 
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210816_190912_057967.txt
+
+]19:19:35
+
+
+
+###2021年8月16日21:45:58
+
+-->##d:20210816_214531 gramma
+
+	n:
+		ANY
+
+]22:01:29
+
+###2021年8月20日16:22:59
+@@@
+
+	search
+	eritrea
+	エリトリア
+	https://ko.wikipedia.org/wiki/에리트레아
+
+n:
+	ANY
+	
+]16:31:10
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+
+2021年3月25日17:05:11
+81.6.40.182
+
+#.7 Zum besseren Verständnis der Phasen- und Dichtezustände des CO2-H2-Systems und den zusätzlichen
+
+using scaling relations machine learning and DFT calculations
+
+###2021年4月19日16:39:53
+>>steps
+		german texts
+	1. sakura
+		1. C - a / -v [C/P --> to sakura file]
+		2. C - r / M - ↓ [choose "\r\n"] / M - a / Esc x 2 [close window]
+		3. C -a / - c / Tab [move to browser]
+	2. browser
+		1. C - a/ - v / - Home [paste to trans site, move to the top of the text]
+	
+###2021年5月28日16:01:36
+
+steps : read
+	1. "....[trans-sentences].dat" (f1)
+		==> open
+	2. web page
+		1. select --> texts (m1)
+		2. C - c	[copy
+		3. Tab x N	[move to --> f1
+	3. f1
+		1. C - a > - v > - s	[paste, save
+		2. Tab x N	[move to --> console
+	4. console
+		1. paste
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+		
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+	5. gen-ed file (f2)
+		1. C - a > - c > M - Space - c	[copy, close
+		2. Tab x N	[back to --> f1
+	6. f1
+		1. C - a > - v > - s (f1')	[paste, save
+	7. web : trans page --> paste
+	8. f1' --> read
+
+###2021年5月29日13:06:18
+
+rem #trans : korean, a.o.
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+#trans : arabic
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.bat
+
+//sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+//sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
+
+###process : spanish texts
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+###2021年6月20日17:09:35
+========================= regex
+	\] 	]. 
+
+	(\.”)	$1.
+
+###2021年6月22日14:06:21
+
+========================= regex : get --> session strings from a map
+
+	1. "    " --> "\t"
+	2. \t --> ""
+	3. (s-\d+? \/ g-\d+?) --> @@$1
+	4. ^[^@]+	--> ""
+	5. " / " --> \t
+
+###2021年7月17日11:08:21
+
+========================= regex : sentence end, but no period char
+
+	([a-zA-Z])$	$1.
+
+
+###2021年6月20日17:26:25
+
+<= know-this
+<= lets-read
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###2021年6月20日17:31:46
+========================= freemind
+C:\WORKS_2\batches\start_fm.bat
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\72_read\72_read.mm
+
+C:\WORKS_2\batches\s.bat fm
+
+###2021年6月26日10:48:48
+library
+
+190001550002
+makemeaning
+
+
+###2021年6月18日10:35:18
+========================= closing : git
+
+//set stringof_message="trans : arabic" 
+
+//C:\WORKS_2\a && r c && g a . && g c -m %stringof_message% && e && p
+
+###2021年6月28日1:00:31
+
+set stringof_session_id="article : (en) eritrea"
+
+set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
+
+###2021年7月8日21:36:49
+====================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+
+
+###2021年7月3日16:40:31
+====================== closing : git
+"C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat"
+
+end_log_JVE_70.[CO2]_apps <C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat>
+
+
+
+
+###2021年7月7日15:43:55
+=================== list-of-books.txt
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
+
+###2021年7月9日13:57:38
+=================== let's read
+https://diefreiheitsliebe.de/politik/deutschland-und-israel-waffenexporte-fuer-die-besetzung-palaestinas/	2021年7月9日13:57:49
+	https://3g2upl4pq6kufc4m.onion/?q=Deutsche+Unterstützung+Israel+Palästina&ia=web
+
+###2021年7月16日12:57:40
+=================== file path : batch file
+
+"C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
+sakura "C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
+
+
+###2021年7月3日16:45:23
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+

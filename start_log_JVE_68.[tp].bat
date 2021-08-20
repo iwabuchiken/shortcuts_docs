@@ -76,6 +76,8 @@ echo "starting freemind... " %fpath_freemind%
 rem start 
 "%fpath_freemind%"
 
+echo "start freemind... complete"
+
 REM =================================
 REM 	browser
 REM 	2021年1月28日0:29:43
@@ -101,10 +103,16 @@ rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\%fnam
 rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\%fname_batch:"=%"
 rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_batch%
 
+echo opening files...
+echo %fpath_log%
+echo %fpath_dat%
+echo %fpath_dat_trans%
+
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
+rem %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
 rem : 2021年6月7日12:07:32
@@ -113,7 +121,17 @@ start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat_trans%
 
 rem start "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
-"C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+set fpath_trans_sentences="C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+
+echo opening files...
+echo %fpath_trans_sentences%
+
+%fpath_trans_sentences%
+
+rem "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+
+echo opening files... complete
+
 
 rem : comment out : 2021年6月21日11:36:22
 rem call "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
@@ -155,6 +173,20 @@ REM 	end
 REM 	2021年1月28日0:29:57
 REM =================================
 :end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
