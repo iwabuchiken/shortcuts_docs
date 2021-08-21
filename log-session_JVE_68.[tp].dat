@@ -2,15 +2,31 @@ s-71
 
 r-5-2~2 / ２　数列の収束･発散速度 <http://www.f-denshi.com/000TokiwaJPN/10kaisk/020ksk.html>
 
-#0
-#1
-#.1 １．　数列の収束と発散
-#2 ［１］　まず，n→∞　といっても
-	related
-		https://ja.wikipedia.org/wiki/二項係数
 #3 ［２］　また，n は必ずしも離
- 
- 
+#.1 
+#.2 したがって，n＜m；
+	related
+		ランダウの記号 https://ja.wikipedia.org/wiki/ランダウの記号
+#4 ［３］　次のような代表的な
+	related
+		https://duckduckgo.com/?q=実数解析&ia=web
+		数学解析 http://nalab.mind.meiji.ac.jp/~mk/lecture/kaiseki-2016/kaiseki-2016.pdf
+		第１部・「無限」の理解／ 実数とは何か http://racco.mikeneko.jp/Kougi/2015a/AMA/2015a_ama03.pdf
+			<= 説明：厚い
+		https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H29-isono.pdf
+			<= 説明：厚い
+		https://www.sci.kanagawa-u.ac.jp/math-phys/hmatsu/BasicAnalysis.pdf
+			<= 証明あり
+		スカラー型梯子模型のBethe-Salpeter方程式の固有値 https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0869-10.pdf
+		ギリシア比例論の適用について https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1019-2.pdf
+		RIMS Kôkyûroku https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/kokyuroku.html
+		解析学概論第一/第二 https://www1.econ.hit-u.ac.jp/kawahira/courses/17S-kaiseki.pdf
+			<= 証明あり
+		数学解析 http://nalab.mind.meiji.ac.jp/~mk/lecture/kaiseki-2016/kaiseki-2016.pdf
+			<= 証明あり
+		解析学I演習 http://www.r.dendai.ac.jp/~ara_lab/kaisekiIensyuu/16analexercise.pdf
+			<= 解答例：あり
+		
  
  
 

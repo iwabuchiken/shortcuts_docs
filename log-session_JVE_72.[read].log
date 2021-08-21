@@ -623,7 +623,7 @@ https://news.joins.com/article/24128465?cloc=joongang-home-newslistleft
 
 
 ###2021年8月16日21:45:58
-@@@
+
 -->##d:20210816_214531 gramma
 
 	n:
@@ -631,11 +631,13 @@ https://news.joins.com/article/24128465?cloc=joongang-home-newslistleft
 
 ]22:01:29
 
-###
+###2021年8月21日9:33:12
+@@@
 
-
-
-
+https://es.wikipedia.org/wiki/Abahlali_baseMjondolo
+	
+	n:
+		Abahlali baseMjondolo (AbM) se formó a partir 
 
 
 ###
@@ -787,7 +789,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (sp) gramma"
+set stringof_session_id="article : (sp) Abahlali baseMjondolo"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
