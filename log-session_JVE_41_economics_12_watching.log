@@ -50,7 +50,28 @@ n:
 
 ]13:47:10
 	
+
+###2021年8月22日13:14:25
 @@@
+	
+	米の相対取引価格・数量、契約・販売状況、民間在庫の推移等
+	https://www.maff.go.jp/j/seisan/keikaku/soukatu/aitaikakaku.html
+	
+	aitaikakaku-168.xlsx
+	
+	sheet
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching\s-20210822_131824~
+	
+	n:
+		1. zobaczmy dane. --> aitaikakaku-168.xlsx
+
+]14:10:53
+
+###
+
+
+
+
 ###
 
 
@@ -62,10 +83,39 @@ n:
 
 
 
-=================== 2021年5月17日16:20:10
-resources
+###
+
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+###2021年5月17日16:20:10
+=================== resources : freeming
 
 "C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\41_economics\12_economy-watching.mm"
+
+
+=================== resources : folder
+2021年8月22日13:17:27
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching
+
+
 
 
 ###2021年8月14日13:48:01
@@ -79,7 +129,7 @@ resources
 ###2021年6月28日1:00:31
 
 
-set stringof_session_id="10_medical-econ"
+set stringof_session_id="cena ryżu w japonii"
 
 set stringof_project_id="JVE_41#12_watching : %stringof_session_id:"=%" 
 

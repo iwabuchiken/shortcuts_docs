@@ -1,0 +1,27 @@
+###2021年8月21日10:04:12
+
+		
+		total_data => 1
+new_data_Success => 0
+new_data_Failed => 0
+existing_data_Success => 0
+existing_data_Failed => 1
+	
+	[10:05:03
+	*to tmp folder
+	*C:\WORKS_2\WS\WS_Cake_IFM11\commands\2-0_edit_memos.9-0.bat
+	*validate --> sql browser
+	
+	*C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.8.open-csv-file.bat
+	
+	*C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
+	
+	*validate --> sql browser	[10:09:31
+		==> OK		]10:09:53
+	
+	upload db, i dalej		10:10:18
+		==> OK		]10:11:11
+
+	COMPLETE
+
+]10:11:23
