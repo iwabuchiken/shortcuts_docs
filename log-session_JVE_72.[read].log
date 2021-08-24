@@ -650,7 +650,7 @@ https://es.wikipedia.org/wiki/Abahlali_baseMjondolo
 
 ###2021年8月23日23:24:06
 (ko)
-@@@
+
 	-->##doc-20210823_232346
 	
 	n:
@@ -658,10 +658,19 @@ https://es.wikipedia.org/wiki/Abahlali_baseMjondolo
 
 ]23:45:54
 
-###
+###2021年8月24日21:34:21
+@@@
 
+	-->##doc-20210823_232346
 
+>>>
+	https://www.joongang.co.kr/article/24129232#home		##doc:20210824_215403
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210824_215317_110333.txt
+		
+		n: "토지 보유 주체는 "
 
+]21:59:32
 
 
 ###
@@ -823,7 +832,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (ko) chungang"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
