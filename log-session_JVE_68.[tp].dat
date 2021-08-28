@@ -1,13 +1,19 @@
-s-71
+s-77
 
-r-5-2~4 / ４　テイラー展開 <http://www.f-denshi.com/000TokiwaJPN/10kaisk/040ksk.html>
+r-5-2~6 / 5－2　一様収束 <http://www.f-denshi.com/000TokiwaJPN/10kaisk/051ksk.html>
 
-
-#2 ［３]　さて，これらの定理の
-#.1 なので，
-#3 ［４]　今度は(３)に
- 
- 
+#1
+#.1 
+#.2 ［１］　次の定理は
+	search
+		ベキ級数関数 収束域 連続 https://duckduckgo.com/?q=ベキ級数関数+収束域+連続&ia=web
+			docs
+				関数列の収束と微分積分 https://www.suzuka-ct.ac.jp/genl/suugaku/mathfact/nagase2/analysis.pdf
+					<= lets-read
+		ベキ級数関数 連続
+#.3 ［２］　この定理は
+#.4 fn(x) がf(x) に一様収束するとは，
+#2 ［３］　この定理１の主張を
  
  
 
