@@ -162,6 +162,7 @@ irrelevant
 ###
 taskkill /f /im javaw.exe
 taskkill /f /im opera.exe
+taskkill /f /im tor.exe
 
 
 (a|b|c)([A-Z])	 $2
