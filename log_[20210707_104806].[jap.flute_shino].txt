@@ -17,7 +17,7 @@ each hole
 	1) kaz@dy dz'wie%k
 
 ###2021年7月16日18:14:38
-@@@
+
 
 	search
 	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=video+flute+todays&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
@@ -28,6 +28,22 @@ each hole
 		2021-06-13_18-38-19_000.mp4
 		
 		
+
+###2021年9月1日9:07:56
+
+@@@
+	n:
+		2021-08-12_18-49-35_000.mp4	kompozycja,kontynuacja
+		2021-08-29_18-35-06_000.mp4	kompozycja,kontynuacja
+		2021-08-09_19-01-21_000.mp4	kompozycja,kontynuacja
+		2021-06-27_18-33-22_000.mp4	tech-practice
+
+
+###
+
+
+
+
 
 ###
 
