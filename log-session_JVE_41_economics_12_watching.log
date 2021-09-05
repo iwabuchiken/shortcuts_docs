@@ -78,11 +78,26 @@ n:
 
 
 
-###
+###2021年9月5日17:44:38
 
+q-3 : 中国とインドの貿易：何をtradeしている？
 
+	search : 中国 インド 貿易
+		統計 中印貿易
+	
+	<notatka>
+	chiny i Indie. handel między tymi dwoma krajami. Co handlują?
+	
+	https://duckduckgo.com/?q=中国+インド+貿易&ia=web
+	https://www.digima-japan.com/knowhow/world/16342.php
+	
+		Chińskie eksporty do Indii w roku 2017 : w  walucie dolaru Amerykańskiego, to były 68 miliardów dolarów i 64 miliony dolarów. (2) Stosunek w całkowitej wielkości eksportów, na zasadzie pieniężnej, wynosi, trzy percent.
 
+n:
+	ANY, or,
+	docs from : https://duckduckgo.com/?q=統計+中印貿易&ia=web
 
+]18:02:50
 
 ###
 
@@ -135,7 +150,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching
 ###2021年6月28日1:00:31
 
 
-set stringof_session_id="cena ryżu w japonii"
+set stringof_session_id="handel mie_dzy Chinami a Indiami"
 
 set stringof_project_id="JVE_41#12_watching : %stringof_session_id:"=%" 
 
