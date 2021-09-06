@@ -726,7 +726,7 @@ n:
 ]21:36:06
 
 ###2021年8月31日23:49:06
-@@@
+
 
 	>> -->##d:20210831_235000
 		
@@ -744,20 +744,40 @@ n:
 
 ###
 
+	https://pl.wikipedia.org/wiki/Al-Arba’in
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210906_130021_356880.txt
+		
+		święto[holiday,obchodzone[celebrated,wnuka[grandson,towarzyszami[companions,zabity[killed,uznają[recognize,męczeństwo[martyrdom,Szacuje[estimated~s,odwiedziło[visited
+		
+	n: comp.
+
+]13:08:41
 
 
+###2021年9月6日21:06:35
+@@@
 
+	https://blackagendareport.com/we-can-no-longer-avoid-raising-contradiction-western-imperial-lefts-collaboration-western
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210906_210720_644567.txt
+	
+	n:
+		"Biden and the Post-Trump "
 
-###
+]21:17:26
 
+###2021年9月6日21:42:56
 
+(ko)
 
+	https://www.yna.co.kr/view/AKR20210905029100017?section=society/all&site=major_news01
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210906_214403_002600.txt
+		
+		n: "'맞불' 시위"
 
-###
-
-
-
-
+]21:49:03
 
 ###
 
@@ -920,7 +940,7 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (ko) chungang"
+set stringof_session_id="article : (en) BAR / (ko) yonhap"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
