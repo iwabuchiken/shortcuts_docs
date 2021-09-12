@@ -1,0 +1,22 @@
+###2021年9月11日11:28:49
+
+	(1,1)の点。零因子になる行列。を使って、回転操作。どんな、特徴があるか、その回転には？
+	http://izumi-math.jp/K_Oguri/insi/insi.htm
+	
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\log_tmp_20210911_113100.id-HH6A.ods "1"
+	<FOUND>
+	[[1 1][-1 -1]]
+		上記の行列　=>　第１象限の点を、第４へ移す
+	
+	[[1 -2][3 -6]]
+		第１　=>　第４
+		
+	[[1 2][3 -6]]
+		area 1 --> 4	(sheet : 4)
+	
+	[[1 -2][3 6]]
+		area 1 --> 2	(sheet : 5)
+		
+	
+	
+	
