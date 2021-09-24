@@ -9,6 +9,11 @@ rem 	open ==> log file
 REM =================================
 @echo off
 
+echo 76-physics.bat
+echo C:\WORKS_2\shortcuts_docs\start_log_JVE_76-physics.bat ==^> starting...
+
+rem goto end
+
 REM =================================
 REM 	variables
 REM 	2021年1月28日0:29:04
@@ -18,21 +23,23 @@ rem set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\78_goedel\2_
 rem set command_path_sakura=C:\WORKS_2\Programs\sakura\sakura.exe
 
 REM =================================
-set fname_batch="start_log_JVE_68.[tp].bat"
+set fname_batch="start_log_JVE_76-physics.bat"
 set dpath_batch=C:\WORKS_2\shortcuts_docs
 
 set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 
-set fname_log="log-session_JVE_68.[tp].log"
+set fname_log="log-session_JVE_76-physics.log"
 set fpath_log="%dpath_batch%\%fname_log:"=%"
 
-set fname_dat="log-session_JVE_68.[tp].dat"
+set fname_dat="log-session_JVE_76-physics.dat"
 set fpath_dat="%dpath_batch%\%fname_dat:"=%"
 
 rem : addition : 2021年6月7日12:06:50
-set fname_dat_trans="log-session_JVE_70.[CO2].[trans-sentences].dat"
-set fpath_dat_trans="%dpath_batch%\%fname_dat_trans:"=%"
+rem set fname_dat_trans="log-session_JVE_70.[CO2].[trans-sentences].dat"
+rem set fpath_dat_trans="%dpath_batch%\%fname_dat_trans:"=%"
 
+rem 2021年9月19日14:59:45
+set dpath_Folder="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\76_physics"
 
 rem : file path
 rem set fpath="%folder_2%\%fname%"
@@ -56,7 +63,7 @@ REM =================================
 
 start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
 
-start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics
+start %dpath_Folder:"=%
 
 rem start %folder_2%
 
@@ -67,9 +74,7 @@ REM =================================
 rem : 2021年3月14日15:49:09
 echo starting... freemind
 
-rem set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics(tp)(v-2.0)\68_theoretical-physics(tp)(v-2.0).mm"
-
-set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm"
+set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\76_physics\76_physics.mm"
 
 echo "starting freemind... " %fpath_freemind%
 
@@ -132,21 +137,6 @@ rem "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
 echo opening files... complete
 
-
-rem : comment out : 2021年6月21日11:36:22
-rem call "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
-
-rem start "C:\WORKS_2\shortcuts_docs\start_log_JVE_68.[tp].[sakura-files].bat"
-
-rem C:\WORKS_2\shortcuts_docs\start_log_JVE_68_tp_sakura-files.bat
-
-rem : sheet : 2021年3月20日9:52:12
-rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\memos.ods
-
-rem start C:\WORKS_2\shortcuts_docs\log-session_JVE_68.[tp].dat
-
-rem start %fpath_dat%
-
 goto end
 
 REM =================================
@@ -174,208 +164,7 @@ REM 	2021年1月28日0:29:57
 REM =================================
 :end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+pause
 
 
 

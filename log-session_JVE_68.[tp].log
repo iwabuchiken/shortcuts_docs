@@ -67,7 +67,7 @@ s-50
 		
 
 ###2021年7月28日23:46:54
-@@@
+
 
 	search
 	集合論 入門
@@ -88,6 +88,34 @@ s-50
 	群論入門 https://math.cs.kitami-it.ac.jp/~kabaya/misc/2017/kabaya_2.pdf
 		<= lets-read : has prooves
 	
+
+###2021年9月18日17:49:40
+@@@
+
+	search : 半物質
+	
+	
+	
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
 
 ###
 
@@ -177,6 +205,12 @@ memo images : url
 
 http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
 
+###2021年9月21日14:22:33
+
+======================== url : search origs
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68#+q+open&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+
 ###2021年6月12日17:36:28
 
 freemind
@@ -238,6 +272,11 @@ set stringof_message="JVE_68.[tp_v-2.0]"
 C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
 
 ==================== close : apps
+
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_68.[tp_v-2.0].bat
 
 taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
 

@@ -1,0 +1,34 @@
+###2021年9月18日12:32:33
+
+	review : C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
+	
+	review : C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\use_sqlite_2.rb
+	
+		line : 182
+		*#rev:20210918_123717
+			--> 'encoding: 'utf-8', col_sep: "\t"'
+			==> OK
+		
+		debug : #d:20210918_123517	[12:35:28
+			==> (debug) $FNAME_ENTRIES ==> entries.csv
+			]12:39:49
+		
+		*debug : length
+			#d:20210918_124205
+			--> "csv_data.length ==> 37"
+			==> ok		]12:42:17
+		
+		debug : read line : csv_data
+			#d:20210918_124238
+			--> "csv_data[0] ==> 1,2021-09-16_11-54-45_000.jpg,:m 東和 PHOTO / 2109"
+			==> OK		]12:44:00
+		
+		FOUND : csv file --> the col name "memos" --> not written
+		
+		TRY : write "memos" string	[12:46:34
+			--> to
+				*ods file
+				*csv file
+			==> data entered		]12:48:36
+==> SOLVED
+]12:48:46

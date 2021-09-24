@@ -1,0 +1,998 @@
+###2021年4月25日13:18:51
+
+
+
+
+
+###2021年4月30日23:58:10
+s-4 / g-4
+
+>>1 read
+
+	*s-4.d-1 / 
+	s-4.d-2 / 용담유사 https://ko.wikipedia.org/wiki/용담유사
+#1
+	words
+		한글 가사체
+			docs
+				가사_(문학) https://ko.wikipedia.org/wiki/가사_(문학)
+srch
+	q=용담유사 https://3g2upl4pq6kufc4m.onion/?q=용담유사&ia=web
+		docs
+			encykorea.aks.ac.kr http://encykorea.aks.ac.kr/Contents/Item/E0039428
+			교훈가(敎訓歌)  http://davincimap.co.kr/davBase/Source/davSource.jsp?Job=Body&SourID=SOUR001248&Lang=%ED%95%9C%EA%B8%80&Page=1
+srch
+	용담유사 해설
+		docs
+			https://hohoboy0.tistory.com/15
+			https://blog.daum.net/paulilhchoi/2712
+fur
+	全琫準 https://ja.wikipedia.org/wiki/全琫準
+	동학학회 http://www.donghaks.org/html/sub1_01.html
+	천도교중앙총부 http://m.chondogyo.or.kr/niabbs4m/index.php
+	천도교 https://ko.wikipedia.org/wiki/천도교
+	
+
+
++	s-4.d-3 / 용담유사 https://namu.wiki/w/용담유사
+	
+
+###2021年5月9日10:40:11
+s-15 / g-4
+
+>>1
+
+	全琫準 <https://ja.wikipedia.org/wiki/全琫準>
+
+
+###2021年5月31日1:01:58
+https://blackagendareport.com/against-left-wing-white-nationalism
+	memos
+		Bob Wing https://www.organizingupgrade.com/author/bob/
+		Пек,_Рауль https://ru.wikipedia.org/wiki/Пек,_Рауль
+		Tyler Stovall https://www.historians.org/about-aha-and-membership/aha-history-and-archives/presidential-addresses/tyler-stovall/tyler-stovall-biography
+		Ishmael_Reed https://pl.wikipedia.org/wiki/Ishmael_Reed
+			texts
+				#1
+					trans
+						lutego[February,powieściopisarz[novel-writer,pokolenia[generations,obok[next-to,lewicowych[left-wing,Przedstawia[present,świetle[light,prawicę[right-wing,Dorastał[grew-up,Ukończył[completed,przeniósł[move~się,włączył[joined,Wydawał[released,pismo[writing,należał[belong,rozwój[development
+	words
+		audacity https://www.thefreedictionary.com/audacity
+			insolent https://www.thefreedictionary.com/insolent
+				impudent https://www.thefreedictionary.com/impudent
+			heedlessness https://www.thefreedictionary.com/heedlessness
+				heed https://www.thefreedictionary.com/heed
+
+	n: Settler Colonialism and the Construction of Whiteness
+
+
+###2021年5月31日8:15:52
+
+https://twitter.com/NaamanStavy/status/1392934431606910986?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1392934431606910986%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.mintpressnews.com%2Famerican-money-entwined-with-jewish-terrorism-israel%2F277432%2F
+הלינץ׳ בצומת בנימינה אתמול. 
+	ha'liynts[lynching/vitsoomet[junction/Biniyamina/etmuul[yesterday
+לא ראיתי אותו בפיד שלי עדיין. 
+	lo/rayiitii[seen/utu[him/ba'piid[in-feed/shlii[my/adain[still
+
+>>read
+https://www.mintpressnews.com/american-money-entwined-with-jewish-terrorism-israel/277432/
+next
+	IRS charity law states that 
+
+
+###2021年5月31日23:13:01
+>>read
+https://www.mintpressnews.com/american-money-entwined-with-jewish-terrorism-israel/277432/
+
+#2 IRS charity law states that 
+#3 
+
+
+###
+
+>> read
+
+https://pl.sputniknews.com/pisza-dla-nas/2020111213359696-rzad-sie-rozjedzie-a-narod-jak-zwykle-z-reka-w-nocniku-sputnik/
+
+#1
+	trans
+		Rząd[government,rozjedzie[spread~sie,,naród[nation,powiedział[said,postacie[figures,powtarzają[repeat~sie,dwukrotnie[twice,uzupełnił[supplemented,Uczestniczymy[participate,najgorsze[worst,czujemy[feel~sie,Zdaje[seem~sie,państwowości[statehood,większości[most,społecznie[socially,akceptowalny[acceptable,pobłażaniem[indulgence,podziwem[admiration,przyglądamy[look~s,wynosimy[we-are
+#2 Zgodnie z zasadą K.I.
+
+
+###2021年6月16日21:30:26
+
+>> read
+
+https://russian.rt.com/opinion/blog/andrei-babickii
+	
+	#1
+		trans
+			Де'ньги[money,впусту'ю[wasted,обо'йме[cage,разворо'вываться[plunder,пу'ти[way,адреса'ту[address
+	#.1 Кстати, американцы 
+	
+###2021年6月17日15:35:55
+
+	https://felesteen.ps/post/72549/إصابة-جندي-بالرأس-طفل-يدوخ-جنود-الاحتلال-في-الخليل
+	
+	search
+		regex arabic characters
+		
+###2021年6月18日10:05:29
+
+
+>> programming
+
+	1. prep
+		1. DUP
+			1.
+				process-trans-sentences.php
+				process-trans-sentences_arabic.php
+			2.
+				log_process-trans-sentences.log
+				log_process-trans-sentences_arabic.log
+		2. change strings
+			trans-sentences
+			trans-sentences_arabic
+	#2. up to : "step : 1"
+		1. coding
+		2. test
+				#debug:20210618_101202
+			==> OK		::]10:14:21
+	3. upto : "step : 2"
+		1. code
+		==> OK
+	4. coding
+		1. "step : 3 : 0.1"
+			==> OK	]10:17:37
+		2. "step : 3 : 1"
+			==> OK
+		3. "step : 3 : 2"
+			==> OK		]10:21:15
+		4. "step : 4 : 1"
+			1. up to --> filter in
+			==> OK		]10:26:49
+		5. "step : 5 build : final string"
+			==> OK		]10:28:12
+		6. "step : 6	string : to file"
+			"step : 7	file : open"
+			==> OK		]10:29:37
+	5. setup --> batch file
+		1. DUP
+		2. coding
+		3. test
+			==> OK		]10:33:28
+	6. git
+		==> OK		]10:38:48
+	7. closing
+		1. eclipse
+
+###2021年6月19日8:58:18
+
+>> read
+	
+	110_matsuoka_touano
+	.16
+	
+	https://duckduckgo.com/?q=浦塩支店&t=opera&ia=web
+	http://www.a-saida.jp/russ/sibir/vetvi/urazio_sengin_mondai.htm
+	
+	>>
+	支那 銀暴落
+	https://duckduckgo.com/?q=支那+銀暴落&t=opera&ia=web
+		http://www.lib.kobe-u.ac.jp/das/jsp/ja/ContentViewM.jsp?METAID=00075441&TYPE=HTML_FILE&POS=1
+
+
+###2021年6月20日14:21:16
+
+
+>>>
+	search
+		iranian daily newspaper
+
+###2021年6月22日11:14:20
+
+
+>>>
+	search
+		国連憲章 自衛権
+			https://3g2upl4pq6kufc4m.onion/?q=国連憲章+自衛権&ia=web
+		security council resolution palestine
+			https://3g2upl4pq6kufc4m.onion/?q=security+council+resolution+palestine&ia=web
+	docs
+		Resolution 2334 (2016) https://undocs.org/S/RES/2334(2016)
+			sheet C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\72_read\g-20\g-20.s-38.ods
+			texts
+				1
+					Reaffirms
+						settlements
+							no  legal validity
+							violation  under  international  law 
+							 
+				2
+					Reiterates
+						cease all settlement activitie
+				3
+					Underlines
+						will not  recognize  any  changes 
+				4
+					Stresses
+						 cessation of all Israeli settlement activities
+				5
+					Calls upon 
+						all States
+				6
+					Calls for 
+						prevent all acts of violence
+							against civilians
+				7
+					Calls upon
+						both parties
+						act on the basis of international law
+				8
+					Calls  upon
+						all  parties 
+						to  continue,[...] 
+							to exert collective efforts
+
+###2021年6月22日15:15:39
+
+
+>>>
+	search
+		原罪
+			docs
+				原罪 https://ja.wikipedia.org/wiki/原罪
+			related
+				無原罪の御宿り https://ja.wikipedia.org/wiki/無原罪の御宿り
+				復古カトリック教会 https://ja.wikipedia.org/wiki/復古カトリック教会
+				生神女マリヤへの理解 http://nagoya-orthodox.com/ja/生神女マリヤへの理解.html
+					<= lets-read
+				プロテスタントにおけるマリヤ観 https://ja.wikipedia.org/wiki/プロテスタントにおけるマリヤ観
+				
+###2021年6月28日0:59:13
+
+	continue
+		https://www.yna.co.kr/view/AKR20210507049553004?section=industry/all&site=major_news01
+			"노조는 또 지난달 "
+			
+
+###2021年7月3日15:40:09
+
+	search
+		homophobia saint paul
+		동성애 공포증 세인트 폴
+		동성애 세인트 폴
+			:d-1 / https://3g2upl4pq6kufc4m.onion/?q=동성애+세인트+폴&ia=web
+			http://dc.koreatimes.com/article/20181214/1220210
+			https://blog.daum.net/gheen2001/7712422
+		同性恋 圣保罗
+		homophobia bible christianity / 동성애 혐오증 성경 기독교
+			https://progressivechristianity.org/resources/the-apostle-paul-was-not-a-misogynist-homophobe/
+				<= lets-read
+			:d-2 / https://namu.wiki/w/동성애/종교적 관점?from=동성애, 동성결혼/종교적 관점#s-2
+				<= lets-read
+
+	n:
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\[jve-72.g-19-4_d-2]_out.20210703_154946_871941.txt
+
+###2021年7月4日13:21:49
+
+	https://ja.wikipedia.org/wiki/鬼門
+	https://ko.wikipedia.org/wiki/귀문방
+	https://zh.wikipedia.org/zh-cn/鬼門
+		trans
+			坤[kun1,忌避[ji4bi4,四隅[-yu2,艮[gen3,巽[xun4,家相[-xiang1,姫[ji1
+		trans
+			丑寅[chou3yin2,猿[yuan,木雕[-diao1,猿镇座，围墙[-qiang2,内凹[-ao1,猿辻[yuan2shi2
+	search
+		方位 方角 違い
+		https://3g2upl4pq6kufc4m.onion/?q=方位+方角+違い&ia=web
+			https://chigai.site/6265/
+	https://zh.wikipedia.org/zh-cn/肯尼思·卡翁达
+		trans
+			资深[:senior
+	https://ko.wikipedia.org/wiki/소코트라섬
+
+###2021年7月4日21:41:48
+
+
+https://news.joins.com/article/24097535?cloc=joongang-home-newslistleft
+
+###2021年7月5日9:42:52
+
+
+http://yeonso.world.coocan.jp/kankoku/toyohewa.htm
+
+n:
+	http://www.davincimap.co.kr/davBase/Source/davSource.jsp?Job=Body&SourID=SOUR001735
+
+###2021年7月5日17:16:29
+
+
+>>>
+	安重根の信仰はなんだったか？
+	https://ko.wikipedia.org/wiki/안중근#천주교_입교
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210705_171846_215075.txt
+		
+		https://ko.wikipedia.org/wiki/안중근#청인_난타_사건
+	
+	n:
+		이에 따라 삼화항 
+		(C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210705_172710_353555.txt)		##20210803_174414
+
+###2021年7月7日15:38:34
+
+C:\WORKS_2\shortcuts_docs\log_bk.[117_cone_black-theology].[20210707_154011].txt
+
+117_cone_black-theology
+
+
+
+###2021年7月8日21:26:04
+
+
+https://es.wikipedia.org/wiki/Milagro_Sala#Biografía
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210708_211936_234092.txt
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210708_212506_043267.txt
+	
+
+
+###2021年7月14日10:30:24
+
+https://blackagendareport.com/organizers-are-calling-congress-close-loophole-enables-prison-slavery
+
+https://blackagendareport.com/freedom-rider-how-billionaires-rule
+
+###2021年7月15日23:07:31
+
+
+https://health.huanqiu.com/article/43wiJYuAw7W
+	恳请[ken3qing3,恐慌[-huang1
+
+[23:34:10
+
+https://mil.huanqiu.com/article/43wgesW0toI
+	曝出[pu4-,舰艇[jian4ting3,伊丽莎白[yi1li4sha1-,尖端[jian1-,华莱士[-lai2-,口罩[-zhao4,汪文斌[wang1-bin1
+
+###2021年7月16日8:20:59
+
+opera
+https://world.huanqiu.com/article/9CaKrnKmwRY
+	
+	捅死[tong3-,吕[lv3,逼迫[bi1po4
+
+###2021年7月16日12:44:01
+
+article
+https://www.kanaloco.jp/news/social/article-576792.html/gallery
+	"１５日神奈川　１人死亡４０３人感染　１月以来の４百人超"
+
+	"７月１５日現在の県内市町村別感染者数　［写真番号:701336］"
+	
+対象	人口 (wiki)	感染	death	infec – pop (per 千)	death – pop (per 10万)	death – infec
+横須賀市	387,467	2,889	17	7.46	4.39	0.59%
+平塚市	258,237	1,372	6	5.31	2.32	0.44%
+厚木市	223,964	1,939	6	8.66	2.68	0.31%
+山北町	9,654	30	4	3.11	41.43	13.33%
+松田町	10,653	39	1	3.66	9.39	2.56%
+
+横須賀市=100
+対象	人口 (wiki)	感染	death	infec – pop (per 千)	death – pop (per 10万)	death – infec
+横須賀市	100.00	100.00	100.00	100.00	100.00	100.00
+平塚市	66.65	47.49	35.29	71.26	52.96	74.32
+厚木市	57.80	67.12	35.29	116.11	61.06	52.59
+山北町	2.49	1.04	23.53	41.68	944.36	2265.88
+松田町	2.75	1.35	5.88	49.10	213.95	435.75
+
+	
+	==> sheet : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\72_read\read_20210716_125918.ods sheet:"1"
+			
+	FOUND
+		1. 対人口、死亡確認人数の比率		平塚市は、横須賀市の、約、半分
+		2. 対感染確認人数、死亡確認人数の比率		厚木市は、横須賀市の、約、半分
+
+>>>
+	https://www.pref.kanagawa.jp/docs/ga4/covid19/occurrence_list.html
+		~~ https://www.pref.kanagawa.jp/docs/ga4/covid19/occurrence.html
+	?? 発症から判明まで、x日間
+		==> sheet : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\72_read\read_20210716_125918.ods
+					sheet:"2"
+		
+		replace
+			(\d+?例目)	\r\n$1
+			性川	性\t川
+			区	区\t
+			性市	性\t市
+			）調	）\t調
+			(7\/\d+)	\t$1\t
+			(\d)\/(\d+)	$1\t/\t$2
+
+n:
+		any
+
+]14:00:59
+
+
+###2021年7月16日22:01:35
+article
+
+https://www.yna.co.kr/view/AKR20210712111351504?section=politics/all&site=major_news01
+
+
+###2021年7月17日0:06:12
+article
+https://pl.sputniknews.com/20210713/niemieccy-politycy-sprzeciwiaja-sie-budowie-elektrowni-atomowej-w-polsce-15493503.html
+
+	wzięli[take,udział[participation,odbył[hold~S,uczestniczył[take-part
+	
+	osiągnąć[achieve,ostrzec[warn,zagrożeniami[threats,płynącymi[flow,niezależnie[regardless,mieszkają[live,wesprzeć[support,przytacza[quote
+	wejdą[enter,domagać[demand,wzięte[take-into-account,uwagę[account,całkowicie[fully,zatrzymany[detained,oświadczyła[say,przypomina[remind,badania[research,groźby[threat,przesiedleń[re-settlement,razie[event
+	
+	Fajnie[fine,by[would-be~było,sprzedawać[sell,głupim[stupid,drogą[road,napędzanych[driven,zamknąć[close,kurek[cock,zaczną[start,podskakiwać[jump,odwagi[courage,korzyść[advantage,powie[say
+	
+	
+
+###2021年7月17日10:45:09
+
+do
+	1
+		search
+			usa political prisoners https://3g2upl4pq6kufc4m.onion/?q=usa+political+prisoners&ia=web
+		docs
+			https://afgj.org/politicalprisonersusa
+				texts
+					#1
+						related
+							Simón_Trinidad https://es.wikipedia.org/wiki/Simón_Trinidad
+								texts
+									trans
+										Ingresó[entered,tomó[took,secuestro[kidnapping,Cumple[fulfill,condena[sentence
+					#2 Black Panther Party (BPP), New Afrikan, 
+						related
+							The Dragon and the Hydra https://theanarchistlibrary.org/library/russell-maroon-shoats-the-dragon-and-the-hydra
+							
+n:
+	#id:20210717_111900 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210717_110939_542089.txt
+
+###2021年7月18日0:47:31
+article (ko)
+https://news.joins.com/article/24107588?cloc=joongang-home-newslistleft
+
+
+###2021年7月27日23:36:31
+
+
+Rezolucja Rady Bezpieczeństwa ONZ nr 1701
+	trans
+		została[was,uchwalona[passed,sierpnia[august,nadana[issued,zakończenia[end,jednomyślnie[unanimously,zatwierdzona[approved,wezwał[call-on,bojówki[militias,zawieszenia[suspension,broni[weapons,ustanie[cease,zaprzestanie[cease,nękających[plague,stosunkiem[relationship,głosów[votes,wstrzymującym[abstention,zaczęło[started,obowiązywać[apply
+
+###2021年7月28日21:37:22
+
+http://www.granma.cu/discursos-de-diaz-canel/2021-07-18/diaz-canel-cuba-es-de-todos
+
+	pronunciado[delivered,revolucionaria[revolutionary,Taquigráficas[shorthand,
+Querido[dear,odio[hatred,azuzado[spurred,llevan[carry,apretando[holding,cuello[neck,estallar[explode,quieren[want,Cesen[cease,mentira[lies
+	
+###
+
+https://pl.wikipedia.org/wiki/Ibrahim_Zakzaky
+
+	duchowny[spiritual,Iranie[1][2],,odwiedził[visited,kilkakrotnie[several-times,rozpoczął[started,doprowadzając[leading,nawrócenia[conversion,prześladowani[persecuted,związanych[related,urzędników[officials,spędził[spent,więzieniach[prisons
+	
+###2021年7月29日14:41:38
+
+https://zh.wikipedia.org/zh-cn/克勞斯·富赫斯
+	吕塞尔斯海姆[lv3sai4er3si1-mu3,莱比锡[lai2bi3xi1,曼哈顿[man4ha1dun4,洛斯阿拉莫斯[mo4,钚[bu4:plutonium,胖子[pang4-
+
+
+###2021年7月30日14:19:37
+
+https://health.huanqiu.com/article/4496vz1pyEB
+	铯[se4,浪江町[--ting1,蜂蜜[feng1mi4,抱怨[bao4yuan4,耕作[geng1-,捕捞[bu3lao1,炉灶[lu2zao4,烹调[peng1tiao2
+
+###2021年8月1日1:00:50
+
+	https://lis-isl.org/en/2021/07/09/china-de-la-revolucion-socialista-a-la-restauracion-capitalista/
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210801_010203_612763.txt
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210801_010425_893212.txt
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210801_010916_908720.txt
+
+###2021年8月2日13:34:31
+
+
+https://es.wikipedia.org/wiki/Rachid_Ghanuchi
+
+	pensador[thinker,tunecino[tunisian,preside[he-chairs,después[after
+
+	
+
+###2021年8月2日15:53:23
+
+
+	library : search
+		対象資料：図書　
+		検索条件：AND検索
+		タイトル：農村（中間一致）
+		タイトル：女性（中間一致） 		
+
+	対象資料：図書　
+	検索条件：AND検索
+	タイトル：未亡人（中間一致） 
+
+	*戦争未亡人
+	*戦没 女性
+
+]16:34:31
+
+###16:35:43
+
+article
+
+	https://blackagendareport.com/zuma-imprisonment-riots-or-insurrection-south-africa
+	related
+		Guinea https://ko.wikipedia.org/wiki/기니#역사
+			
+	"Ethiopia, Egypt, and Sudan Clash as River Waters " https://blackagendareport.com/ethiopia-egypt-and-sudan-clash-river-waters-fill-grand-ethiopian-renaissance-dam
+	related
+		Lake Tana https://ko.wikipedia.org/wiki/타나호
+		청나일강 https://ko.wikipedia.org/wiki/청나일강
+		Nile_Basin_Initiative https://de.wikipedia.org/wiki/Nile_Basin_Initiative
+			trans
+				Einzugsgebiet[catch-area,gerufen[proclaimed,langfristige[long-term,fühlbarer[tangible,Vorteil[advantage,Einzugsbereichs[catch-area,erreicht[achieved,gegenseitiges[mutual,Vertrauen[trust,geschaffen[created,gliedert[divide,Gremium[committee,Beirat[advisory-council,unterstützt[support,je[each,ansässig[resident
+
+n:
+	continue : "Ethiopia, Egypt, and Sudan Clash as River Waters "
+
+###2021年8月2日23:07:28
+
+
+articles
+
+	https://news.joins.com/article/24118562?cloc=joongang-home-newslistleft
+	
+
+###2021年8月3日17:44:33
+aritcles
+
+
+	-->##20210803_174414
+	
+	https://ko.wikipedia.org/wiki/안중근#계몽_운동과_의병_운동
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210803_175505_693651.txt
+	
+	n:
+		"1907년에는 대구의 유생 "
+
+]18:00:25
+
+###2021年8月10日21:13:45
+
+
+http://www.granma.cu/mundo/2021-08-05/por-que-el-mundo-se-solidariza-con-cuba-05-08-2021-00-08-44
+	recrudecimiento[intensification,repunte[rebound
+	
+	n:
+		"En ese sentido, la "
+
+
+###2021年8月14日13:05:11
+
+
+https://world.huanqiu.com/article/44LWjK9YL9G
+	C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat
+	抵御[di3yu4:resist
+	
+
+
+###2021年8月15日16:37:52
+
+https://news.joins.com/article/24123259?cloc=joongang-home-newslistleft
+
+
+###2021年8月15日21:38:16
+
+https://health.huanqiu.com/article/44BdTgJrPkT	
+	蔓延[man4yan2,势头[:momentum,暑假[shu3jia4,汇总[hui4-:summary
+
+http://www.granma.cu/cuba/2021-08-01/a-los-boinas-negras-el-reconocimiento-se-lo-da-el-pueblo-23-07-2021-23-07-24
+	
+	##d:20210816_214531
+	
+	
+	Boinas[berret,negras[black,(+Video),trato[try,ciudadana[cityzen,quiero[want-to,quienes[those-who,mantenga[maintain,soberana?,asfixian[suffocate
+	
+	2021年8月16日21:55:17
+	jefa[head,señaló[point-out,recordó[recall,algo[something,jueves[thursday,dio[gave,agradeció[thank,devolvió[return
+	
+	agradeció[appreciate,subrayó[stress,respaldo[support,Fuimos[we-were
+	
+
+###2021年8月16日19:05:37
+
+
+https://news.joins.com/article/24128465?cloc=joongang-home-newslistleft	##doc-20210823_232346
+
+	n:
+		지금까지는 
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210816_190912_057967.txt
+
+]19:19:35
+
+
+
+###2021年8月16日21:45:58
+
+-->##d:20210816_214531 gramma
+
+	n:
+		ANY
+
+]22:01:29
+
+###2021年8月21日9:33:12
+
+
+https://es.wikipedia.org/wiki/Abahlali_baseMjondolo
+	
+	n:
+		Abahlali baseMjondolo (AbM) se formó a partir 
+
+
+###2021年8月21日10:27:19
+
+	
+	How to Sound the Alphabet in isiZulu / Zulu Phonics
+	https://www.youtube.com/watch?v=K8mbMJ4S-RU
+	n:
+		https://youtu.be/K8mbMJ4S-RU?t=204
+
+###2021年8月23日23:24:06
+(ko)
+
+	-->##doc-20210823_232346
+	
+	n:
+		미국 입장 따라왔던 
+
+]23:45:54
+
+###2021年8月24日21:34:21
+
+
+	-->##doc-20210823_232346
+
+>>>
+	https://www.joongang.co.kr/article/24129232#home		##doc:20210824_215403
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210824_215317_110333.txt
+		
+		n: "토지 보유 주체는 "
+
+]21:59:32
+
+
+###2021年8月28日21:50:03
+
+
+	-->##doc:20210824_215403
+		]21:42:02
+	
+	>>>
+	https://world.huanqiu.com/article/44Tqq0cDI4K	##doc:20210828_214218
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210828_214451_146497.txt
+		
+		残障[can2zhang4,盛事[:event,更甚[geng4shen2:even-more,契机[qi4-,褒贬[bao1bian3,气泡[-pao4
+	
+	]21:49:35
+
+###
+
+>>>
+	https://www.joongang.co.kr/article/23963391#home	##d:20210829_080152
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210829_075846_931106.txt
+		
+		n: "그러나 여전히 "
+
+]8:02:02
+
+###2021年8月29日8:24:51
+
+
+>>>
+	https://blackagendareport.com/nicaragua-revolutionary-crossroads-and-imperialist-crosshairs
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210829_082912_009387.txt		**]2021年8月30日21:25:07
+
+
+###2021年8月29日10:53:15
+
+>>>
+	https://www.presstv.ir/Detail/2021/08/28/665370/Japan-Moderna-Spain-contamination-Covid-19
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210829_105442_502238.txt
+		]10:57:17
+
+###2021年8月30日21:33:45
+
+
+n:
+	https://www.yna.co.kr/view/AKR20210827065051017?section=society/all&site=major_news01
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210830_213550_783734.txt		##d:20210831_235000
+
+]21:36:06
+
+###2021年8月31日23:49:06
+
+
+	>> -->##d:20210831_235000
+		
+			n: "보건의료노조는"
+
+
+###2021年9月6日0:12:54
+
+	>> -->##d:20210831_235000
+	
+		--> 종료.
+		n: any
+
+]0:13:26
+
+###
+
+	https://pl.wikipedia.org/wiki/Al-Arba’in
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210906_130021_356880.txt
+		
+		święto[holiday,obchodzone[celebrated,wnuka[grandson,towarzyszami[companions,zabity[killed,uznają[recognize,męczeństwo[martyrdom,Szacuje[estimated~s,odwiedziło[visited
+		
+	n: comp.
+
+]13:08:41
+
+
+###2021年9月6日21:06:35
+
+
+	https://blackagendareport.com/we-can-no-longer-avoid-raising-contradiction-western-imperial-lefts-collaboration-western
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210906_210720_644567.txt
+	
+	n:
+		"Biden and the Post-Trump "
+
+]21:17:26
+
+###2021年9月6日21:42:56
+
+(ko)
+
+	https://www.yna.co.kr/view/AKR20210905029100017?section=society/all&site=major_news01
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210906_214403_002600.txt
+		
+		n: "'맞불' 시위"
+
+]21:49:03
+
+###2021年9月13日11:58:16
+
+
+https://fa.wikipedia.org/wiki/نی‌انبان
+
+	نی‌انبان[ney-yan-baan:anbaan-reed
+	نی انبان یکی[yeekii:one از[az:of قدیمیترین[ka-diy-miy:old~-ta-riyn:most سازهایی[saa-zee-:structure~haa-yii: است[ast:is 
+	
+	که[chee:that 
+
+n: "که در کشورهای زیادی"
+
+]12:20:55
+
+###2021年9月13日13:15:01
+@@@
+
+https://es.wikipedia.org/wiki/Mustafa_Al-Kadhimi
+	
+n: comp.
+
+]14:15:39
+
+###
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+
+2021年3月25日17:05:11
+81.6.40.182
+
+#.7 Zum besseren Verständnis der Phasen- und Dichtezustände des CO2-H2-Systems und den zusätzlichen
+
+using scaling relations machine learning and DFT calculations
+
+###2021年4月19日16:39:53
+>>steps
+		german texts
+	1. sakura
+		1. C - a / -v [C/P --> to sakura file]
+		2. C - r / M - ↓ [choose "\r\n"] / M - a / Esc x 2 [close window]
+		3. C -a / - c / Tab [move to browser]
+	2. browser
+		1. C - a/ - v / - Home [paste to trans site, move to the top of the text]
+	
+###2021年5月28日16:01:36
+
+steps : read
+	1. "....[trans-sentences].dat" (f1)
+		==> open
+	2. web page
+		1. select --> texts (m1)
+		2. C - c	[copy
+		3. Tab x N	[move to --> f1
+	3. f1
+		1. C - a > - v > - s	[paste, save
+		2. Tab x N	[move to --> console
+	4. console
+		1. paste
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+		
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+	5. gen-ed file (f2)
+		1. C - a > - c > M - Space - c	[copy, close
+		2. Tab x N	[back to --> f1
+	6. f1
+		1. C - a > - v > - s (f1')	[paste, save
+	7. web : trans page --> paste
+	8. f1' --> read
+
+###2021年5月29日13:06:18
+
+rem #trans : korean, a.o.
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+#trans : arabic
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.bat
+
+//sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+//sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
+
+###process : spanish texts
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+###2021年6月20日17:09:35
+========================= regex
+	\] 	]. 
+
+	(\.”)	$1.
+
+###2021年6月22日14:06:21
+
+========================= regex : get --> session strings from a map
+
+	1. "    " --> "\t"
+	2. \t --> ""
+	3. (s-\d+? \/ g-\d+?) --> @@$1
+	4. ^[^@]+	--> ""
+	5. " / " --> \t
+
+###2021年7月17日11:08:21
+
+========================= regex : sentence end, but no period char
+
+	([a-zA-Z])$	$1.
+
+
+###2021年6月20日17:26:25
+
+<= know-this
+<= lets-read
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###2021年6月20日17:31:46
+========================= freemind
+C:\WORKS_2\batches\start_fm.bat
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\72_read\72_read.mm
+
+C:\WORKS_2\batches\s.bat fm
+
+###2021年6月26日10:48:48
+library
+
+190001550002
+makemeaning
+
+
+###2021年6月18日10:35:18
+========================= closing : git
+
+###2021年6月28日1:00:31
+
+set stringof_session_id="article : (fa) neyanbaan"
+
+set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
+
+###2021年7月8日21:36:49
+====================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+
+
+###2021年7月3日16:40:31
+====================== closing : git
+"C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat"
+
+end_log_JVE_70.[CO2]_apps <C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat>
+
+
+
+
+###2021年7月7日15:43:55
+=================== list-of-books.txt
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
+
+###2021年7月9日13:57:38
+=================== let's read
+https://diefreiheitsliebe.de/politik/deutschland-und-israel-waffenexporte-fuer-die-besetzung-palaestinas/	2021年7月9日13:57:49
+	https://3g2upl4pq6kufc4m.onion/?q=Deutsche+Unterstützung+Israel+Palästina&ia=web
+
+###2021年7月16日12:57:40
+=================== file path : batch file
+
+"C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
+sakura "C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
+
+
+###2021年7月3日16:45:23
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+
