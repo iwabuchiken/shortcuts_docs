@@ -60,6 +60,10 @@ https://pl.sputniknews.com/20210211/do-konca-lutego-uczniowie-nie-wroca-do-szkol
 https://www.joongang.co.kr/article/25008607	##d:20210922_234715
 
 	n: 올해 7월 말 기준 외국인
+	
+	[2021年9月25日0:02:02
+	
+		n: comp.
 
 
 ###2021年9月22日21:39:41
@@ -79,7 +83,7 @@ http://www.granma.cu/hilo-directo/2021-09-22/hilo-22-09-2021-00-09-15
 ]23:57:20
 
 ###2021年9月24日21:48:12
-@@@
+
 
 (cn)
 https://world.huanqiu.com/article/44M6GmLyTfk
@@ -90,10 +94,19 @@ https://world.huanqiu.com/article/44M6GmLyTfk
 
 ]21:59:46
 	
-###
+###0:01:23
+@@@
+>>
+	-->##d:20210922_234715
 
+>>
+	https://www.yna.co.kr/view/AKR20210919020200083?section=international/all&site=major_news01_related
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20210925_000842_480252.txt
+		
+		n: comp.
 
-
+]0:21:18
 
 ###
 
@@ -260,7 +273,9 @@ makemeaning
 
 ###2021年6月28日1:00:31
 
-set stringof_session_id="article : (cn)"
+C:\WORKS_2\start_a.bat
+
+set stringof_session_id="article : (ko)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
