@@ -1,0 +1,96 @@
+###2021年10月6日8:20:50
+
+	C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\VIRTUAL\Admin_Projects\libs_admin\lib_ip.py
+	
+		def get_GPS_Data(fpath_Image):
+		
+		get_exif_of_image(
+		
+	2. coding
+python
+
+from PIL import Image
+fpath = "C:\\WORKS_2\\WS\\WS_Others.Art\\JVEMV6\\46_art\\VIRTUAL\\Admin_Projects\\ip\\images\\2021-10-05_10-05-05_000.jpg"
+
+im = Image.open(fpath)
+exif = im._getexif()
+
+from PIL.ExifTags import TAGS
+exif_table = {}
+for tag_id, value in exif.items():
+	tag = TAGS.get(tag_id, tag_id)
+	exif_table[tag] = value
+
+exif_table
+
+for x in exif_table:
+	print(x)
+
+		>>> for x in exif_table:
+		...     print(x)
+		...
+		CustomRendered
+		BrightnessValue
+		ResolutionUnit
+		FNumber
+		MeteringMode
+		XResolution
+		SubsecTimeOriginal
+		DateTimeOriginal
+		Sharpness
+		ExposureTime
+		ExifImageWidth
+		ExifOffset
+		ISOSpeedRatings
+		Saturation
+		DateTime
+		GainControl
+		ApertureValue
+		Model
+		Contrast
+		Make
+		ImageWidth
+		MaxApertureValue
+		LightSource
+		SubsecTime
+		Software
+		ExposureBiasValue
+		DeviceSettingDescription
+		MakerNote
+		FocalLength
+		ExifImageHeight
+		ImageLength
+		ComponentsConfiguration
+		ShutterSpeedValue
+		DigitalZoomRatio
+		ExifInteroperabilityOffset
+		ExifVersion
+		FocalLengthIn35mmFilm
+		SubsecTimeDigitized
+		ExposureMode
+		FileSource
+		Flash
+		Orientation
+		DateTimeDigitized
+		YCbCrPositioning
+		YResolution
+		WhiteBalance
+		ExposureProgram
+		SensingMethod
+		CompressedBitsPerPixel
+		ColorSpace
+		FlashPixVersion
+		SceneCaptureType
+		BitsPerSample
+		SceneType
+		SubjectDistanceRange
+		>>>
+
+	>>> conc
+		1. phone --> gps function ==> i turned off the other day
+		2. shall i turn it on? ==> no. let's do it only when and during necessary.
+
+n:
+	COMP.
+
+]8:36:30

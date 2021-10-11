@@ -90,17 +90,15 @@ s-50
 	
 
 ###2021年9月18日17:49:40
-@@@
+
 
 	search : 半物質
+
+
+###2021年10月4日17:34:24
+@@@
+	s: integral substitution rule
 	
-	
-	
-
-###
-
-
-
 
 ###
 
@@ -174,6 +172,9 @@ r-1-2.A-4	2021年8月2日18:02:02
 <= good
 <= 証明あり
 
+###2021年9月27日17:20:19
+<= terrible
+
 <= ok
 
 <= not-understood
@@ -244,6 +245,9 @@ Derivative Calculator <https://www.symbolab.com/solver/derivative-calculator/>
 rem : batch : firefox
 C:\WORKS_2\shortcuts_docs\start_log_JVE_68-tp_tools-url.bat
 
+--- solver	: 2021年10月4日13:48:43
+https://www.mathway.com/trigonometry
+
 
 ###2021年6月30日11:11:01
 
@@ -259,10 +263,26 @@ start C:\WORKS_2\a
 
 C:\WORKS_2\start_a.bat
 
+###2021年9月25日14:00:43
+=================== console : c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
+C:\WORKS_2\start_a.bat
+
+
+
 ###2021年7月1日13:21:50
 =================== time label
 
 C:\WORKS_2\t.bat
+
+
+###2021年7月1日13:21:50
+=================== c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
 
 ###2021年7月28日14:11:43
 ==================== close : git

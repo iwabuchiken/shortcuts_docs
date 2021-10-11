@@ -1,0 +1,174 @@
+###2021年9月25日23:34:59
+
+https://ja.wikipedia.org/wiki/合成樹脂#環境への影響
+
+n: read
+
+
+@@@
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+
+###2021年5月9日15:55:18
+regex ---> for russian texts : (with trans)
+
+#trans : korean, english
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+	
+
+###2021年5月6日10:22:48
+
+regex ---> for chinese texts
+
+1) remove : non-sentence-end return chars
+([^。,])$\r\n	$1
+
+2) remove : space char
+ 	
+####2021年5月7日15:56:19
+regex ---> for spanish texts (with trans)
+
+
+###2021年5月5日11:58:07
+taskkill /f /im opera.exe
+
+###2021年5月5日15:25:24
+steps---------------------
+	1) C/P
+		from : orig text from orig page
+		to : sakura file (m1)
+	2) remove
+		non-sentence-end return chars (m1')
+	3) m1' ==> C/P
+		1) sakura "dat" file
+		2) web trans page
+	comp.
+
+	::]15:28:10
+
+###2021年5月6日10:55:26
+--------------------- steps
+read : chinese texts
+
+1) read : original
+2) pinyin 
+	--> see trans page
+	--> add pinyin ~~> sakura text
+
+###2021年5月9日16:13:13
+###process : russian texts
+text-processing ---------> russian texts
+
+###15:18:09
+--------------------- steps : korean texts
+[1] regex : korean texts
+
+2021年5月18日12:42:47
+#process texts : korean
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+
+steps
+	1. web page (f0)
+		1. select texts
+		2. C - c [c/p --> web texts
+		3. Tab x N	[from : web page
+				to : "trans" file ("...[trans-sentences].dat") (f1)
+	2. f1
+		1. C - a > - p > -s [paste text, save
+		2. Tab x N [move to --> console
+	3. console
+		2. run --> batch file (process texts) : 
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+	
+	4. gen-ed processed texts (f2)
+		1. C - a > - c [copy
+		2. M - Space - c [close file
+		3. Tab x N [back to : f1
+	5. f1
+		1. C - a > - v > -s [paste, save
+		2. select head words (m1)
+		3. C - c [copy
+		4. Tab x N [move to --> "...[CO2].dat" (f3)
+	6. f3
+		1. cursor --> move to the area end
+		2. C - v [paste head words
+	
+	4. read, add pinyins
+			to : f1
+		1. f1
+			1. add --> space chars to both ends of the target word (m1)
+			2. m1 --> select > C - c > Tab x N	[move to trans page (f0)
+		2. f0
+			1. C - v
+			2. read out --> pinyin (m2)
+			3. Tab x N [to --> f1
+		3. f1
+			1. add --> pinyin
+		
+	
+	5. run --> batch (trans) : 
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+	
+	6. gen-ed trans texts --> c/p
+		to : f2
+
+2021年5月17日15:32:33
+
+pushd C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\
+sakura php process-texts-for-reading_korean.php
+
+echo =============================== >> log_process-texts-for-reading_korean.log && php process-texts-for-reading_korean.php >> log_process-texts-for-reading_korean.log && echo. >> log_process-texts-for-reading_korean.log
+
+
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+	2) c/p
+		from	: gen-ed txt file
+		to		: dat file
+
+
+###2021年5月16日10:49:32
+--------------------- steps : web page texts --> to freemind
+
+1) select web page texts (m1)
+2) web page
+	1 ~ 6. C - c > -f > -a > -v > -a > -c (copy, paste to the search box, select, copy)
+	7. Tab x N (to freemind)
+3) free,omd
+	1. F2 > C - v (change to edit mode, paste)
+###2021年5月26日15:15:59
+start freemind
+C:\WORKS_2\Programs\FreeMind_1.0.1\FreeMind.exe
+s fm
+

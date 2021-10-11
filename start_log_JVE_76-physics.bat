@@ -111,7 +111,9 @@ rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_batch%
 echo opening files...
 echo %fpath_log%
 echo %fpath_dat%
-echo %fpath_dat_trans%
+
+rem c/o : 2021”N10ŒŽ8“ú8:03:10
+rem echo %fpath_dat_trans%
 
 start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
@@ -121,7 +123,7 @@ rem %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
 rem : 2021”N6ŒŽ7“ú12:07:32
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat_trans%
+rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat_trans%
 
 
 rem start "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
@@ -165,6 +167,9 @@ REM =================================
 :end
 
 pause
+
+
+
 
 
 

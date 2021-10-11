@@ -1,0 +1,25 @@
+###2021年10月9日13:08:08
+
+	https://www.presstv.ir/Detail/2021/10/08/668088/United-Nations-Human-Rights-Council-investigation-war-crimes-Yemen
+	
+		C:\WORKS_2\WS\WS_Others\web_pages\news\yemen-unhrc-resolution.ods
+		
+	([^NO])\r\n	$1 
+YES 	YES\r\n
+
+
+
+YES 	\r\nYES\t
+NO 	\r\nNO\t
+ABST 	\r\nABST\t
+	
+	>> Mwatana for Human Rights
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211009_134546_230083.txt
+	
+	>> FOUND
+		No
+			Asia	9/14	66.7%
+			Africa	8/12	64.3%
+			Russia	1
+			LA		3/8
+	
