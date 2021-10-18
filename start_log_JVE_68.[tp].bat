@@ -125,10 +125,11 @@ rem start "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].
 
 set fpath_trans_sentences="C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
-echo opening files...
-echo %fpath_trans_sentences%
+rem : c/o : 2021”N10ŒŽ17“ú14:24:19
+rem echo opening files...
+rem echo %fpath_trans_sentences%
 
-%fpath_trans_sentences%
+rem %fpath_trans_sentences%
 
 rem "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
@@ -175,6 +176,21 @@ REM 	end
 REM 	2021”N1ŒŽ28“ú0:29:57
 REM =================================
 :end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

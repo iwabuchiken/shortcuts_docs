@@ -174,7 +174,7 @@ https://electronicintifada.net/content/was-sabra-and-shatila-genocide/33941
 
 
 ###
-@@@
+
 (po)
 (wi)
 
@@ -185,14 +185,29 @@ https://pl.wikipedia.org/wiki/Al-Arba’in
 
 ]14:01:33
 
-###
+###2021年10月17日9:06:50
 
 
+	https://ar.wikipedia.org/wiki/عيسى_أحمد_قاسم
+	https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B3%D9%89_%D8%A3%D8%AD%D9%85%D8%AF_%D9%82%D8%A7%D8%B3%D9%85
+	
+	الشيخ عيسى أحمد قاسم (1941) هو[he عالم[scholar:AAlim دين[religious:diyni مسلم[:musulimi شيعي[:shiyAi بحريني[:bah^riyniyu ، وعالم وناشط[wanaashit:active سياسي[siyaasiyu:political واجتماعي[wa-ash^timaAyun:social في البحرين[bax^reyin ، وكان أحد[one-of تلامذة[talaamidz:students السيد[sayiid محمد باقر[baaqir الصدر،
 
+]9:19:07
 
-###
+[14:15:00
 
+	 كما[kamaa:as وكان عضوا[AUd^wan:member في كل[kul:all من المجلس[madhlis-i:council التأسيسي[ta`asiysiyu والمجلس الوطني[wat^aaniyu البحريني،
 
+]14:21:46
+
+###2021年10月18日11:18:16
+@@@
+	
+	https://vi.wikipedia.org/wiki/Hồ_Chí_Minh
+	https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh
+		tên[name khai[birth~1 sinh là Nguyễn Sinh Cung (chữ Nho: 阮生恭), 
+		 là một nhà cách mạng và chính khách người Việt Nam. 
 
 
 ###
@@ -337,9 +352,11 @@ makemeaning
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (vi)"
 
-set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
+set stringof_project_id="diary : %stringof_session_id:"=%" 
+
+rem set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
