@@ -202,22 +202,34 @@ https://pl.wikipedia.org/wiki/Al-Arba’in
 ]14:21:46
 
 ###2021年10月18日11:18:16
-@@@
+
 	
 	https://vi.wikipedia.org/wiki/Hồ_Chí_Minh
 	https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh
 		tên[name khai[birth~1 sinh là Nguyễn Sinh Cung (chữ Nho: 阮生恭), 
 		 là một nhà cách mạng và chính khách người Việt Nam. 
+		 ##mark:20211020_113439
+		
+		
 
+###2021年10月20日11:23:07
 
-###
+@@@
 
+	https://zu.wikipedia.org/wiki/Abahlali_baseMjondolo
+	
+	Inhlangano[party yaBahlali[of-residents baseMjondolo[of-shack inhlangano enkulu[great yabantu[of-people abampofu[poor eNingizimu[in-south Afrika. 
+	
+	Akusiyo[it-is-not inhlangano yezepolitiki[political. 
 
+	>> -->##mark:20211020_113439
+	
 
+###2021年10月20日13:57:42
 
-###
+	>> https://ar.wikipedia.org/wiki/جائزة_المصطفى
 
-
+ والتي[which:alatiy تمنحها[give-it:tamnaxhaa مؤسسة[mu'asasa:institution المصطفى(ص) للعلوم[lil-Alwumi:for-science والتكنولوجيا[teknuluwdhiya كل[kul:every عامين[AAmayni:two-years للعلماء[lil-AUlamaayi:for-scientists والباحثين[baaxithiyna:researchers البارزين[al-baariziyna:eminent في العالم[AAlami:world الإسلامي[islaamiy
 
 
 ###
@@ -352,7 +364,7 @@ makemeaning
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (vi)"
+set stringof_session_id="article : (ar)"
 
 set stringof_project_id="diary : %stringof_session_id:"=%" 
 
