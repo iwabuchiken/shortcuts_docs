@@ -54,10 +54,43 @@ n:
 ###2021年10月5日18:11:11
 @@@
 
+###2021年10月26日8:23:57
+
+>>+ n: 2021-10-25_18-58-52_000.mp4	re.
+
+>> re-view
+	*2021-08-29_18-35-06_000.mp4	]8:27:41
+	2021-08-09_19-01-21_000.mp4
+
+>>+ n: 2021-08-29_18-35-06_000.mp4
+
+>> search : 2021-08-29_18-35-06_000.mp4 ==> masz notatki?
+	--> tak
+			http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=2021-08-29_18-35-06_000&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+			
+			2021-08-31_19-02-56_000.mid
+			==> file-string-id=R8AF
+
+>>+ n: 2021-08-31_19-02-56_000.mid
+	==> memo-write-out
+
+n:	">>+"
+
+]8:36:12
+
+###
+
 
 
 
 ###
+
+
+
+
+###
+
+
 
 
 ###2021年9月1日19:01:24
@@ -69,11 +102,11 @@ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=vide
 
 
 ###2021年7月7日10:50:31
-====================== git
+====================== closing : git
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="s-1" 
+set stringof_session_id="reviewing" 
 
 set stringof_project_id="JVE_46.[15_jp-flute] : %stringof_session_id:"=%" 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%

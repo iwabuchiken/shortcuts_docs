@@ -3,9 +3,83 @@
 
 -----------------------------
 
-r-7-2~6 / 2.2 Divisibility <https://www.whitman.edu/mathematics/higher_math_online/section02.02.html>
+r-7-12.1~1 / 線形代数と関数解析学—無限次元の考え方 <https://www.ms.u-tokyo.ac.jp/~yasuyuki/suri0806.pdf>
 
-#6 Ex 2.2.2 Prove,
+#1
+	words
+		線形作用素
+			docs
+				*#1.d-1 / 作用素 https://ja.wikipedia.org/wiki/作用素
+					texts
+						#1
+							memos
+								バナッハ空間上の...線型変換
+						#.1 そのような空間として
+							memos
+								関数を別の関数にうつす写像
+						#.2 定義されているベクトル
+							words
+								汎函数
+						#2 定義 https://ja.wikipedia.org/wiki/作用素#定義
+						==> LATER
+#.1 ごく基礎的な部分は
+	
+		対角化
+		ジョルダン標準形
+		ランク
+#.2 そもそも行列を具
+#.3 この意味で通常の
+	memos
+		無限サイズの行列...を無限次元で考察するのが関数解析学
+#.4 しかし，単に無限次元の
+#.5 そこで新たな手法が
+	
+		収束[...]を導入し，位相的な考察[...]無限次元の線形代数[...]関数解析学
+#2 そもそもなぜ「関数」解析
+	memos
+		さまざまな関数[...]無限次元空間[...]基本的な対象
+#.1 関数解析学成立の重要な
+#.2 これら二つについては
+#.3 以下，線形代数が
+#3 2.ヒルベルト空間と
+#.1 常の線形代数では，基底の
+#.2 それ以外にはあまり中身
+#4 通常の微分積分学では，
+#.1 次元ユークリッド空間
+#.2 線形代数では，これらの
+#.3 しかし無限次元の線形空間では
+	words
+		位相線形空間
+	related
+		#4.3.d-1 / ベクトル空間 https://ja.wikipedia.org/wiki/ベクトル空間
+			texts
+				#1
+				#.1 「ベクトル空間の公理」と
+				#.2 ベクトル空間の一つの
+					words
+						幾何ベクトル https://ja.wikipedia.org/wiki/空間ベクトル
+				#.3 同じ調子で、
+		#4.3.d-2 / 線型位相空間 https://ja.wikipedia.org/wiki/線型位相空間
+			texts
+				*#1
+					words
+						位相構造
+						*==> NEXT 20211023_192055
+	search : 位相構造 https://duckduckgo.com/?q=位相構造&ia=web
+		docs
+			位相構造 https://www.weblio.jp/content/位相構造
+				 memos
+				 	図形要素間[...]空間関係[...]始点、終点、左側、右側
+			位相のいろいろ https://www.ma.noda.tus.ac.jp/u/rto/m2b/topology.pdf
+				<= lets-read
+					==> NEXT : 20211023_233825
+			位相空間 wi https://ja.wikipedia.org/wiki/位相空間
+				<= lets-read:「開集合の公理」についての説明
+			第3章 位相空間の基礎のキソ https://www1.econ.hit-u.ac.jp/kawahira/courses/kiso/03-isou.pdf
+				<= lets-read
+			位相的構造 一 (現代数学入門) https://gendai-suugaku.com/gendai/isou.html
+
+				 
  
  
  

@@ -133,4 +133,6 @@ C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updat
 
 ==================== close : apps
 
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
 taskkill /f /im javaw.exe && taskkill /f /im sakura.exe

@@ -2,16 +2,38 @@
 
 -----------------------------
 
-r-2-2.1~1 / 光速を越えて動く点P <https://qiita.com/gyu-don/items/2c370d42d46f19eb3c68>
+r-5-1~3 / 変分法について入門する <https://qiita.com/harmegiddo/items/f3d9377ae6ae89c2d40d>
 
 #1
-#.1 ここで重要なのは、
-#2 地球上に、回転台に https://qiita.com/gyu-don/items/2c370d42d46f19eb3c68#クソデカレーザーポインタとクソデカ黒板
-#.1 この回転台は、1秒間に180度回転
-#.2 黒板は、レーザーポインターから
-#.3 つまり、こういう
-#3 光速を越えて動く点p https://qiita.com/gyu-don/items/2c370d42d46f19eb3c68#光速を越えて動く点p
+#2 変分法は、ある関数
+#.1 すなわち汎関数の微小変化
+#.2 変分法では関数の
+	memos
+		関数そのものの/形が/どのように/変化したのか
+#3 すなわち汎関数は
+#.1 この時、関数
+#.2 ここで汎関数
+#.3 また、常に中身を
+#4 変分問題とは
+#.1 例えば、以下の
+#.2 その場合、全て
+#.3 等を定義した場合
+#.4 といった制約が
+#5 汎関数の方向微分ガトー微分 https://qiita.com/harmegiddo/items/f3d9377ae6ae89c2d40d#汎関数の方向微分ガトー微分
+	s : 方向微分 https://duckduckgo.com/?q=方向微分
+	
  
+r-5-1~2 / Euler–Lagrange_equation <https://en.wikipedia.org/wiki/Calculus_of_variations#Euler–Lagrange_equation>
+
+#3 Example <https://en.wikipedia.org/wiki/Calculus_of_variations#Example>
+#.1 The Euler–Lagrange equation will 
+#.2 does not appear explicitly 
+#.3 Substituting for 
+#.4 for some constant [incident-1]
+#.5 Solving, we get 
+#3.6 which implies that 
+#.7 and we have thus 
+#4 https://en.wikipedia.org/wiki/Calculus_of_variations#Beltrami's_identity
  
  
  
