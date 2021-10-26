@@ -78,15 +78,33 @@ n:	">>+"
 
 ]8:36:12
 
-###
+###14:19:22
 
+>> s : メモの写真たち。
+	for : 整理したい。
+	
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=%3Am+shino&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+	
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=id=ZMLS&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+	
+		2021-08-12_18-49-35_000.mp4	// G:\videos\15_flute
 
+>>+ n: lets do another follow : id=ZMLS
 
+]14:25:47
 
-###
+###18:50:16
 
+*>> rev : 2021-10-25_18-58-52_000.mp4
 
+>> prac : throat-vib	[18:52:09
 
+>> write-out : 2021-10-25_18-58-52_000.mp4
+
+n:
+	jeszcze raz
+
+]19:00:21
 
 ###
 
@@ -106,7 +124,8 @@ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=vide
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="reviewing" 
+rem set stringof_session_id="reviewing" 
+set stringof_session_id="play" 
 
 set stringof_project_id="JVE_46.[15_jp-flute] : %stringof_session_id:"=%" 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
