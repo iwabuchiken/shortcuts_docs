@@ -2,14 +2,48 @@
 
 -----------------------------
 
-r-5-1~5 / 最速降下線曲線 <https://mathematical.jp/analytical_mechanics/variational_problem/brachistochrone_curve.html>
+r-2-3~1 / 古典的等周問題 (mathematical) <https://mathematical.jp/analytical_mechanics/variational_problem/isoperimetric_problem.html>
 
 #1
-#2 これらを式に代入します。 
-#3 これの両辺を積分すれば 
-#4 ここで初期条件を
-	sheet 
+	s : 古典的等周問題 https://duckduckgo.com/?q=古典的等周問題&ia=web
+	words
+		閉曲線 https://kotobank.jp/word/閉曲線-623890
+	s : 閉曲線 https://duckduckgo.com/?q=閉曲線&ia=web
+		docs
+			曲線 / wi https://ja.wikipedia.org/wiki/曲線
+			道_(位相幾何学) / wi https://ja.wikipedia.org/wiki/道_(位相幾何学)
+#.1 パラメーターにとり
+	words
+		ストークスの定理
+	s : ストークスの定理 https://duckduckgo.com/?q=ストークスの定理&ia=web
+		docs
+			ストークスの定理 / 大学物理のフットノート https://diracphysics.com/portfolio/physicalmath/S3/pStokes.html
+				<= lets-read : 数式で、説明
+			 【ベクトル解析】ストークスの定理～概要と例題～ / ピクトの思考録 https://pictblog.com/vecana-stokes
+				<= want-to-read : 具体例、あり
+			ストークスの定理 / hooktail http://hooktail.sub.jp/vectoranalysis/StokesTheorem/
+	related
+		ベクトルの回転 / フットノート https://diracphysics.com/portfolio/physicalmath/S3/protation.html
 		
+			
+r-2-3~2 / ベクトルの回転 / フットノート <https://diracphysics.com/portfolio/physicalmath/S3/protation.html>
+
+#1
+	s : ベクトル 外積
+	s : ベクトル ナブラ 計算 https://duckduckgo.com/?q=ベクトル+ナブラ+計算&ia=web
+		docs
+			ナブラ演算子∇の４つの意味と計算公式 / mathwords https://mathwords.net/nabla#i-3
+				memos
+					∇×V を定義します
+			#1.d-1 / 回転_(ベクトル解析) / wi https://ja.wikipedia.org/wiki/回転_(ベクトル解析)
+				memos
+					よって curl は陰に定義される
+			回転_(数学) / wi https://ja.wikipedia.org/wiki/回転_(数学)
+#.1 ベクトルの回転も
+#.2 基底ベクトルを使うと 
+#2 具体例を通して
+ 
+ 
  
 
  
