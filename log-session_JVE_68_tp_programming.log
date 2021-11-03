@@ -17,8 +17,98 @@ n:	any
 ]14:03:55
 
 
-###
+###2021年10月30日15:05:58
 
+s-131
+
+	>> new folder-file set
+		
+		*copy : folder set
+		rename files	[15:07:26
+			.log
+			.py
+	>> s_131.py
+		1. change file name strings
+			112.py	131.py
+			112.log	131.log
+			s-112~	s-131
+	>> test code	[15:11:33
+		1. code
+		2. test ==> OK		]15:13:25
+	
+	>> prog
+			gen : line space
+		1. code
+			==> OK		]15:16:39
+		
+		>> s : python makedir
+		
+		*2. mkdir
+			1. code
+			==> OK		]15:26:37
+		3. save fig
+			==> OK		]15:32:24
+		
+		*4. graph --> add grid
+			1. s : python matplot graph grid
+				==> OK		]15:34:49
+	>> prog
+		1. num of data points
+			--> up : 36
+			1. code : #mark:20211030_153553
+			==> OK : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-131\data\plot_20211030_153631		]15:36:50
+		
+		2. introduce : (-1)^k/(2k+1)
+			1. new func : test_2
+			2. strings --> modify
+			3. test ==> OK		]15:40:21
+			
+			4. #mark:20211030_154118
+				1. coding
+				2. test ==> OK		]15:44:39
+		3. coord	[15:45:08
+				graph --> orig cos curve, too
+			1. #mark:20211030_154535
+				==> OK		]15:49:54
+		
+		4. 'k' --> 2	[15:50:25
+			1. #mark:20211030_154118
+			==> OK		]15:51:41
+		
+		5. graph --> add sum, too	[15:51:53
+			1. s : python numpy array add data
+				python numpy merge array elements
+			2. code
+				#mark:20211030_155934
+				#mark:20211030_160000
+			==> ERROR
+					"ValueError: x and y must have same first dimension, but have shapes (3
+6,) and (72,)"
+				TRY		[16:01:46
+					#debug:20211030_160239
+					1. show vals of data_y_*
+			
+			*3. code
+				ref https://www.studytonight.com/python-howtos/elementwise-addition-of-two-lists-in-python
+				1. #mark:20211030_162412	[16:24:23
+					show len
+					==> "len(data_y_sum) => 72 / len(data_y_sum_2) => 36"	==> OK		]16:27:00
+			
+			4. code		[16:27:28
+					use --> data_y_sum_2
+				==> OK		]16:29:11
+			5. gen graph --> k=1		[16:29:19
+				1. #mark:20211030_154118
+				==> OK
+			6. k=3
+				1. #mark:20211030_154118
+				2. #mark:20211030_163128 : file name --> add 'k' val
+				==> OK		]16:36:12
+	
+	n:
+		1. cos(x) --> cos((2k+1)x)
+		2. coord "(-1)^k/(...)" --> to a graph
+]16:37:06
 
 
 

@@ -1,0 +1,32 @@
+###2021年11月2日11:19:31
+
+	#ref https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+	
+	*1. github
+		https://github.com/new	[11:27:54
+		
+		WS_Others.miscs_20211102_112807
+	
+	2. desktop
+	#ref https://kbroman.org/github_tutorial/pages/init.html
+		
+		pushd C:\WORKS_2\WS\WS_Others.miscs_20211102_112807
+		
+		*remove ".git" folder
+		*file : .project --> edit dirpath
+		*file : .gitignore
+			*1. add : ...\2_bookmarks
+	3. dt : git init
+		*git init
+		*git add .
+		git commit -m "initial commit"
+	
+	4. dt : git-related
+		*git remote add origin https://github.com/iwabuchiken/WS_Others.miscs_20211102_112807
+		git push -u origin master
+		
+		==> " master had recent pushes 2 minutes ago "		]11:46:46
+
+	n: comp.
+
+]11:46:56

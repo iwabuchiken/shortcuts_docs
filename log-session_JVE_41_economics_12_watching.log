@@ -187,22 +187,51 @@ s-20211011_143015
 	
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching\data\data_20211023_131735.[shizenzougen_r3_8].ods"
 
+###2021年10月31日11:22:19
 
 
+	https://duckduckgo.com/?t=ffsb&q=神奈川県+統計&ia=web
+	
+	https://duckduckgo.com/?t=ffsb&q=神奈川県+統計&ia=web
+		神奈川県年齢別人口統計調査結果
+		
+	
+	https://www.pref.kanagawa.jp/docs/x6z/tc30/jinko/nenreibetu.html
+		
+		#mark:20211102_104917
+		
+		神奈川県年齢別人口統計調査結果
+				総人口 	年少人口
+		（0から14歳） 	生産年齢人口
+		（15から64歳） 	老年人口
+		（65歳以上）
+		全国 	12599万人
+		（100.0％） 	1516万人
+		（12.0％） 	7490万人
+		（59.4％） 	3593万人
+		（28.5％）
+		神奈川県 	920万人
+		（-％） 	109万人
+		（12.0％） 	571万人
+		（62.6％） 	231万人
+		（25.4％）
 
-###
+###2021年11月2日14:15:40
+
+	#mark:20211102_144441
+	s : 消費者物価指数 神奈川県
+	https://www.pref.kanagawa.jp/docs/x6z/tc40/kouri/2019/202108.html
+	
+###2021年11月3日10:12:14
 @@@
 
-
-
-
-###
-
-
-
-###
-
-
+	>> s: ガソリン　値段　神奈川県
+		https://duckduckgo.com/?q=統計+ガソリン　値段　神奈川県&t=ffsb&ia=web
+		
+		https://oil-stat.com/reg/神奈川県.html?sx=2020-01-06&ex=2021-10-25
+		
+		https://oil-stat.com/rank/2021-09-13.html?pref=神奈川県
+		ガソリン・軽油・灯油価格 都道府県別ランキング（2021年09月13日発表分）
 
 ###
 
@@ -237,7 +266,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching
 ###2021年6月28日1:00:31
 
 
-set stringof_session_id="iran : imports"
+set stringof_session_id="diary : gasoline price"
 
 set stringof_project_id="JVE_41#12_watching : %stringof_session_id:"=%" 
 
