@@ -7,7 +7,19 @@ r-2-3~1 / 古典的等周問題 (mathematical) <https://mathematical.jp/analytic
 
 r-2-3~4 /【ベクトル解析】ストークスの定理～概要と例題～ / ピクトの思考録 <https://pictblog.com/vecana-stokes>
 
-#4 例題2 https://pictblog.com/vecana-stokes#toc3
+#4 例題2 https://pictblog.com/vecana-stokes#toc3	s : 線素ベクトル
+		docs
+			#4.d-1 / https://pictblog.com/vecana-liniint
+				texts
+					#1
+					#.1 。これが線素ベクトル
+#.1 と書けるため、線素 [incident:1]
+	s : 三角関数 積分公式
+		docs
+			https://univ-study.net/trigonometric-function-integral/
+				texts
+					"合成関数の微分と組み合わせたもの"
+#4.2 上での線積分は( [incident:2]
  
  
  

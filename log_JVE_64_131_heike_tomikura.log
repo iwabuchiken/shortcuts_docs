@@ -1,5 +1,5 @@
 ###2021年11月4日15:08:58
-@@@
+
 
 	.201
 	s : 漢字 牛 建
@@ -58,6 +58,74 @@
 	雲井 意味
 	
 
+	
+###2021年11月5日0:34:33
+
+	>>
+		s : にび色
+		https://ja.wikipedia.org/wiki/鈍色
+		
+		img5593eff6zikazj_chigusa-color+nibi.png // C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\131_heike_tomikura
+	
+	>> unrelated
+		s : 能面
+		
+###2021年11月5日14:59:14
+
+
+	>> .204
+	御桁 意味
+	寝所 桁
+	寝所 御さお
+	漢字 今 衣
+		https://kanji.jitenon.jp/kanjik/5027.html
+		https://duckduckgo.com/?q=衾&iar=images&iax=images&ia=images
+			http://maruasa.blog49.fc2.com/blog-entry-400.html
+				鳥衾
+	桁
+		https://ja.wikipedia.org/wiki/桁_(建築)
+	綾羅錦繍 りょうらきんしゅう
+		https://duckduckgo.com/?q=綾羅錦繍&ia=web
+	繍
+		https://kakijun.jp/page/nuitori17200.html
+	漢字 糸へん 粛
+	見参らす 意味
+		https://reibuncnt.jp/11842  【見参】と【推参】と【参上】
+		https://dictionary.goo.ne.jp/word/見参_(げんざん)/
+	かけ路 意味
+		https://dictionary.goo.ne.jp/word/懸け路/
+		https://chigai-hikaku.com/?p=8926 「道」と「路」と「径」の違い
+	岩躑躅
+		https://duckduckgo.com/?q=岩躑躅&iax=images&ia=images
+		https://ameblo.jp/kirisimamejiro/entry-12582787812.html
+	
+	漢字 もんがまえ 於
+		https://kakijun.jp/page/E884200.html
+	閼
+		https://kakijun.jp/page/E884200.html
+	漢字 にんべん 加
+		伽 https://kakijun.jp/page/0707200.html	閼伽 意味
+		https://kotobank.jp/word/閼伽-24215
+	古文 あきれる
+		https://kobun.weblio.jp/content/あきる
+	
+	]15:58:04
+
+###
+@@@
+
+
+
+###
+
+
+
+
+###
+
+
+
+
 
 ===============================
 
@@ -80,4 +148,14 @@
 :ref	refered document
 
 -------------------------------------- resources
+
+###2021年11月5日0:36:21
+========================== folder
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\131_heike_tomikura
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(log_JVE_64_131_heike_tomikura) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
