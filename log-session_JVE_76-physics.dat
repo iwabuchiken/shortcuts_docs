@@ -3,24 +3,18 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-2-3~1 / 古典的等周問題 (mathematical) <https://mathematical.jp/analytical_mechanics/variational_problem/isoperimetric_problem.html>
+r-5-1~2 / Euler–Lagrange_equation <https://en.wikipedia.org/wiki/Calculus_of_variations#Euler–Lagrange_equation>
 
-r-2-3~4 /【ベクトル解析】ストークスの定理～概要と例題～ / ピクトの思考録 <https://pictblog.com/vecana-stokes>
-
-#4 例題2 https://pictblog.com/vecana-stokes#toc3	s : 線素ベクトル
-		docs
-			#4.d-1 / https://pictblog.com/vecana-liniint
-				texts
-					#1
-					#.1 。これが線素ベクトル
-#.1 と書けるため、線素 [incident:1]
-	s : 三角関数 積分公式
-		docs
-			https://univ-study.net/trigonometric-function-integral/
-				texts
-					"合成関数の微分と組み合わせたもの"
-#4.2 上での線積分は( [incident:2]
- 
+#1
+#.1 The extrema of functionals may be 
+#2 Consider the functional 
+#.1 If the functiona
+#.2 is called the variation 
+#3 Since the functional
+.1 and thus [inci:2]
+#.2 Taking the total derivative of
+#.3 Therefore, [inci:1]
+#.4 Also, as previously 
  
  
  
