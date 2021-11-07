@@ -1,0 +1,73 @@
+###2021年11月8日8:51:19
+@@@
+
+	「悔い改めよ」とは、どういう意味か。
+	土工として壁を叩いている人の横に行って、「悔い改めなさい」　=>　どういうことを、言いたいのだろう？「寝酒をやめろ」、ということか？
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+
+###2021年11月5日0:36:21
+========================== folder
+
+C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
+C:\WORKS_2\start_a.bat
+
+set message="(log_JVE_78_theology-for-japanese) periodical updates"
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
