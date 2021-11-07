@@ -1,0 +1,115 @@
+###2021年11月7日17:10:37
+>>s-1
+	1. new project
+		640x400
+		
+		*1. download --> イチョウの写真	[17:12:24
+			s : イチョウ 葉っぱ
+			https://duckduckgo.com/?q=イチョウ+葉っぱ&iax=images&ia=images&iai=https://megumittya.com/wp/wp-content/uploads/2019/08/2hp%E7%94%A8%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6-1024x1024.jpg
+				https://megumittya.com/wild_grass/501/
+				01.jpg // https://www.city.sendai.jp/hyakunen-chose/kurashi/shizen/midori/shinse/kids/zukan/icho.html
+				
+		*2. open --> as a layer
+		3. save
+			s-1.xcf
+	2. processing
+		*1. dup layer
+		2. s : gimp 色域 RGB値
+		3. 色域
+			1. 118,76
+			2. new layer
+				--> "color-area-118,76"
+			3. color RGB val --> 取り出し
+				char "A" 付近 --> 54780e
+	3. 和名の色名、探す。緑色系統
+		1. s : 色名 和名
+			https://duckduckgo.com/?q=色名+和名&ia=web
+				https://www.colordic.org/w
+	*4. process
+		1. 樺色かばいろ #cd5e3c
+			--> 上記の54780e --> fill
+	
+	*5. proc : 色名を、テキストで入れる
+	*6. export
+		s-1.1.ichou_kaba.png
+	*7. to mobile
+		1. コンピューター\HUAWEI P30 lite\内部ストレージ\DCIM\Camera\images-for-mobile
+	
+	n:
+		1. other color names
+		2. ichou
+			1. 色塗りの遊び。葉っぱを樺色。葉柄を、千種色。（ちくさいろ）
+	
+]17:38:08
+
+###
+@@@
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+
+###2021年11月5日0:36:21
+========================== folder
+
+C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
+C:\WORKS_2\start_a.bat
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(log_JVE_46-6-8_japanese-art) periodical updates" && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
