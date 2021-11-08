@@ -1,0 +1,87 @@
+###2021年11月9日7:28:07
+@@@
+>> s-1
+topic : 利他主義 : id=M93J
+
+>>
+	s : https://duckduckgo.com/?q=遺伝+利他主義&ia=web
+		docs
+			血縁淘汰説とは http://hp.vector.co.jp/authors/VA011700/biology/class_84.htm
+			利他主義の8つの理論 https://ja.yestherapyhelps.com/the-8-theories-of-altruism-why-do-we-help-others-for-nothing-14839
+			社会生物学 https://ja.wikipedia.org/wiki/社会生物学
+
+	n:
+		any
+
+]7:37:38
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+
+###2021年11月5日0:36:21
+========================== folder
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\131_heike_tomikura
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
+set message_string="(log_JVE_64_131_heike_tomikura) periodical updates"
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message_string% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
