@@ -350,7 +350,7 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 	]22:02:28
 
 ###2021年11月4日20:51:29
-@@@
+
 
 	-->##doc:20211104_205054
 
@@ -370,11 +370,19 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 		
 		n: "여성 노동자들이 또"
 
+		[2021年11月9日21:51:06
+		
+			#C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211109_215322_574224.txt
+			
+			n: "참가자들은 빗속에서 "
+			
+			]22:04:30
+
 ]21:41:50
 
 ###
 
-
+@@@
 
 
 ###
@@ -515,7 +523,7 @@ makemeaning
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (BAR)"
+set stringof_session_id="article : (ko)"
 
 set stringof_project_id="diary : %stringof_session_id:"=%" 
 
