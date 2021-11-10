@@ -16,7 +16,8 @@ REM 	variables
 REM 	2021”N1ŒŽ28“ú0:29:04
 REM =================================
 
-set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\114_hirata\114_hirata_1
+rem set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\114_hirata\114_hirata_1
+set folder_2=C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\114_hirata
 
 REM =================================
 rem : target page
@@ -52,7 +53,7 @@ REM =================================
 
 start C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
 
-rem start %folder_2%
+start %folder_2%
 
 REM =================================
 rem 	image file & mspaint
@@ -173,5 +174,6 @@ REM =================================
 :end
 
 rem pause
+
 
 
