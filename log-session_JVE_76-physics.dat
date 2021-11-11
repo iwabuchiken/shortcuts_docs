@@ -3,16 +3,29 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-2-4~2 / ヤコビ行列，ヤコビアンの定義と 
-
- 極座標の例 / 高校数学の美しい物語 <https://manabitimes.jp/math/1209>
+r-2-4~4 / ヤコビ行列 / スーパー初心者からはじめるDeep Learning <https://wonderfuru.com/ヤコビ行列/>
+https://wonderfuru.com/%E3%83%A4%E3%82%B3%E3%83%93%E8%A1%8C%E5%88%97/
 
 #1
-	related
-		#1.d-1 / ヤコビ行列 / wiki https://ja.wikipedia.org/wiki/ヤコビ行列
-			texts
-				#1
-				#.1 ヤコビ行列の行列式は、ヤコビ
+#2 簡単な例と
+#.1 さて、上で求めた
+#3 多変数への拡張
+#.1 また新たな単語
+#.2 全部の変数が
+#4 ヤコビ行列の導入
+#.1 これを行列の
+ 
+ 
+r-2-4~5 /【微積分】ヤコビ行列とヤコビアン①～導入と例題～  / pictblog <https://pictblog.com/jacobi-1>
+
+#1
+#2 このとき、新しい [:1]
+#.1 記号は頭文字
+#.2 ヤコビ行列の成分が1つ
+#.3 そしてこの
+#3 ここでヤコビ
+ 
+ 
  
  
  
