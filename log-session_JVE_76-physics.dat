@@ -3,22 +3,16 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-2-3~9 / シャボン玉はなぜ丸いか <https://www.math.kyushu-u.ac.jp/Ext-Course/Open-Lect/zi_liao_files/koiso2011.pdf>
+r-2-4~2 / ヤコビ行列，ヤコビアンの定義と 
 
-#4 1.2等周 [inci:3]
-#.1 定理1.2.1.同じ
-#.2 系1.2.1の証明
-#5 定理1.2.1の証明の概略
-#.1 C2はグラフ
-#.2 ここで，gは
-#.3 xの単調非増加
-#5.4 次に，二直線
-#.5 nを限りなく
-#6 系1.2.2(空間
-#7 2シャボン膜 [inci:2]
-==> ENOUGH (GOOD)
-	/20211109_154653
- 
+ 極座標の例 / 高校数学の美しい物語 <https://manabitimes.jp/math/1209>
+
+#1
+	related
+		#1.d-1 / ヤコビ行列 / wiki https://ja.wikipedia.org/wiki/ヤコビ行列
+			texts
+				#1
+				#.1 ヤコビ行列の行列式は、ヤコビ
  
  
  
