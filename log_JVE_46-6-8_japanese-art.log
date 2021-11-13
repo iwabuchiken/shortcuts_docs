@@ -111,17 +111,53 @@
 
 	n: any
 
-
+###2021年11月13日17:32:57
 @@@
+>> s-2
 
-
-
-
-
-###
-
-
-
+	ナス。表面を、「青丹」色に、塗ってみる
+	1. s : ナス 野菜
+		https://duckduckgo.com/?q=ナス+野菜&iax=images&ia=images
+		https://blog.goo.ne.jp/yonyonsama7/e/b9e5e013ef9f8314e53301744562ef80
+		1. "open image in new tab"
+		2. richt click : copy image
+	2. gimp
+		1. new image
+			640 x 400
+		2. paste image
+		3. to a new layer
+			1. layer name ==> L-1
+			2. 画像 > キャンバスをレイヤーに合わせる
+			*3. save project : s-2.xcf	]17:44:10
+		4. dup layer : RC > u
+			--> L-2
+		5. 色
+			1. https://ja.wikipedia.org/wiki/日本の色の一覧
+				#858954
+				あおに
+				青丹
+		6. color
+			1. S - o : 192,193
+			2. copy, paste
+			3. to a new layer : RC > n
+				--> L-2.col-1
+			4. dup : L-2.col-1.cp-1
+				RC > u
+		7. L : L-2.col-1.cp-1(##1)
+			1. color select
+			2. fill : C - ,
+			3. select --> off
+			4. L-2 --> visible
+		8. color select : L-2
+			1. 409,128
+			2. new layer : dup : L-2.col-1.cp-2(##2)
+		*9. add texts
+			1. "青丹色"
+			2. new layer : str-1
+		10. export
+			1. ##1,##2 --> visible
+			2. file name : s-2.(1).png
+		
 
 
 ###
@@ -184,5 +220,10 @@ C:\WORKS_2\start_a.bat
 set message="(log_JVE_46-6-8_japanese-art) periodical updates / bk : 132_doukyou"
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
 
+
+###2021年11月11日17:54:09
+========================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
 
 
