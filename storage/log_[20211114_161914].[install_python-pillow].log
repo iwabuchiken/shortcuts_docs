@@ -1,0 +1,34 @@
+###2021年11月14日16:18:36
+
+C:\WORKS_2\shortcuts_docs\storage (16:09:05.23)
+  >pip install pillow
+Collecting pillow
+  Downloading Pillow-8.4.0-cp37-cp37m-win_amd64.whl (3.2 MB)
+     |████████████████████████████████| 3.2 MB 504 kB/s
+Installing collected packages: pillow
+Successfully installed pillow-8.4.0
+WARNING: You are using pip version 20.1.1; however, version 21.3.1 is available.
+You should consider upgrading via the 'c:\works_2\programs\panda3d\panda3d-1.10.9-x64\p
+exe -m pip install --upgrade pip' command.
+
+C:\WORKS_2\shortcuts_docs\storage (16:18:05.34)
+  >
+
+
+###16:22:33
+C:\WORKS_2\shortcuts_docs\storage (16:21:46.40)
+  >python -m pip install pillow
+Collecting pillow
+  Cache entry deserialization failed, entry ignored
+  Downloading https://files.pythonhosted.org/packages/23/26/46bfa1d717016f7c0eecacd8e62
+0578ec5838323d89ba38/Pillow-7.2.0-cp35-cp35m-win_amd64.whl (2.0MB)
+    100% |################################| 2.0MB 284kB/s
+Installing collected packages: pillow
+Successfully installed pillow-7.2.0
+You are using pip version 9.0.1, however version 21.3.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+C:\WORKS_2\shortcuts_docs\storage (16:22:17.04)
+  >
+
+

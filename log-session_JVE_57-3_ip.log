@@ -1,0 +1,173 @@
+###2021年11月14日15:50:28
+>> g-3 / s-1
+
+	>>
+	
+	*1. change : file name
+		1. to : g-3_s-1.py
+		2. log_s_131.log --> log_g-3_s-1.log
+	2. g-3_s-1.py : modify
+		1. C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.3_ip\g-3_s-1.py
+		
+		*2. replace strings
+			log_s_131.log --> log_g-3_s-1.log
+			s_131.py --> g-3_s-1.py
+		
+		3. func : test_1()
+			*1. change the caller line in exec_prog
+			*2. edit lines
+	*3. test		[16:03:07
+		--> OK		]16:04:09
+	
+	>> task-1
+			1. load image file
+			2. get file size
+		1. s : python load image file
+		2. >python -m pip list	[16:09:05
+		3. s : python PIL install pip
+			https://stackoverflow.com/questions/68439152/how-to-install-pil-with-pip
+			https://blog.finxter.com/python-install-pil/	<= this
+		4. s : python pillow tutorial
+			https://duckduckgo.com/?q=python+pillow+tutorial&ia=web
+		
+		//HALT : 16:16:22
+	
+	>> task-2
+			1. instll pillow
+		1. cl
+			*pip install pillow
+				]16:19:42
+			python -m pip install pillow
+		2. validation
+			*1. python -m pip list
+				pandas (0.21.1)
+				Pillow (7.2.0)
+				pip (9.0.1)
+				pybullet (3.1.7)
+				pydotplus (2.0.2)
+				pyparsing (2.2.0)						
+			*2. load module
+				https://www.geeksforgeeks.org/python-pillow-tutorial/
+			
+				*from PIL import Image	16:24:14
+					C:\WORKS_2\shortcuts_docs\storage (16:22:54.88)
+					  >python
+					Python 3.5.1 (v3.5.1:37a07cee5969, Dec  6 2015, 01:54:25) [MSC v.1900 64 bit (AMD64)] o
+					Type "help", "copyright", "credits" or "license" for more information.
+					>>> from PIL import Image
+					>>>
+		2. eclipse
+			*1. load module in the program
+				1. code
+					==> "[g-3_s-1.py:76] 'from PIL import Image' => done"
+			
+			2. load image, show
+				https://www.geeksforgeeks.org/python-pillow-tutorial/
+				1. new func : test_2()
+				>>SEG : s : python join file path		[16:35:30
+				
+				2. coding		]16:36:37
+					==> OK		]16:37:55
+	
+	*>> task-3
+			1. get size, format of the image
+			2. image file : C:\WORKS_2\WS\WS_Cake_IFM11\photo-for-records\nature_obs\2021\2021-07-21_07-12-58_000_resize-25-percent.jpg
+			2. https://www.geeksforgeeks.org/python-pillow-tutorial/
+				#1
+				#2 Getting information about 
+		1. coding
+			==> OK		]16:44:13
+
+	n:
+		1. tutorial, further
+
+]16:46:50
+
+###
+
+@@@
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+
+###2021年11月5日0:36:21
+========================== folder
+
+C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
+C:\WORKS_2\start_a.bat
+
+set message="(log_JVE_57-3_ip) periodical updates / bk : 132_doukyou"
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message% && e && p && r oj && g a . && g c -m %message% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+
+
+###2021年11月11日17:54:09
+========================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+
