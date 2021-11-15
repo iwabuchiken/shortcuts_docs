@@ -443,7 +443,7 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 ###2021年11月15日13:16:25
 
-@@@
+
 	>> (sp)
 	https://www.granma.cu/discursos-de-diaz-canel/2021-10-29/diaz-canel-ya-estamos-vacunados-contra-la-covid-19-y-contra-el-miedo-lo-hemos-estado-siempre
 	
@@ -458,12 +458,15 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 
 
-###
+###2021年11月15日13:37:23
 
-
-
-
-
+@@@
+	>> (ru)
+	http://www.kremlin.ru/events/president/news/65418	Послание Президента Федеральному Собранию
+	
+		n: "Уважаемые члены"
+		
+	]13:51:25
 
 ###
 taskkill /f /im javaw.exe
@@ -602,7 +605,8 @@ C:\WORKS_2\start_a.bat
 
 rem set stringof_session_id="article : (cn)"
 rem set stringof_session_id="article : (ko)"
-set stringof_session_id="article : (sp)"
+rem set stringof_session_id="article : (sp)"
+set stringof_session_id="article : (ru)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
