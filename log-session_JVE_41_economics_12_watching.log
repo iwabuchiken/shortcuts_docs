@@ -223,7 +223,7 @@ s-20211011_143015
 	https://www.pref.kanagawa.jp/docs/x6z/tc40/kouri/2019/202108.html
 	
 ###2021年11月3日10:12:14
-@@@
+
 
 	>> s: ガソリン　値段　神奈川県
 		https://duckduckgo.com/?q=統計+ガソリン　値段　神奈川県&t=ffsb&ia=web
@@ -233,11 +233,53 @@ s-20211011_143015
 		https://oil-stat.com/rank/2021-09-13.html?pref=神奈川県
 		ガソリン・軽油・灯油価格 都道府県別ランキング（2021年09月13日発表分）
 
+###2021年11月15日12:33:26
+>>s-15
+
+	>> s : ダム 日本 数
+		https://duckduckgo.com/?q=ダム+日本+数&ia=web
+		https://bunbun.com/jiten/日本にあるダムの数は？/
+			堤の高さが15m以上
+			総数を３千
+
+	n: any
+
+]13:10:05
+
+
+###
+
+@@@
+
+
+
 ###
 
 
 
+
+
 ###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
 
 
 
@@ -265,12 +307,16 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching
 
 ###2021年6月28日1:00:31
 
+C:\WORKS_2\start_a.bat
 
-set stringof_session_id="diary : gasoline price"
+set stringof_session_id="japanse dams (in-farsi)"
 
 set stringof_project_id="JVE_41#12_watching : %stringof_session_id:"=%" 
 
-C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+
+
+rem C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
 
 ###2021年10月11日14:34:18
