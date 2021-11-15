@@ -460,7 +460,7 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 ###2021年11月15日13:37:23
 
-
+@@@
 	>> (ru)
 	http://www.kremlin.ru/events/president/news/65418	Послание Президента Федеральному Собранию
 	
@@ -468,71 +468,6 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 		
 	]13:51:25
 
-###2021年11月15日16:20:16
-
-
-	>> (po)
-	
-	https://pl.sputniknews.com/search/?query=bitwy+warszawskiej
-	
-	https://pl.sputniknews.com/20200813/wojna-polsko-radziecka-jestem-chodzaca-historia-sputnik-12901027.html
-	
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_162149_576416.txt
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_163027_139769.txt
-		
-		n: "Staram się na "
-
-]16:33:19
-
-###
-@@@
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-###
-
-
-
-
-
-
-##################
-=========================================
 ###
 taskkill /f /im javaw.exe
 taskkill /f /im opera.exe
@@ -671,8 +606,7 @@ C:\WORKS_2\start_a.bat
 rem set stringof_session_id="article : (cn)"
 rem set stringof_session_id="article : (ko)"
 rem set stringof_session_id="article : (sp)"
-rem set stringof_session_id="article : (ru)"
-set stringof_session_id="article : (po)"
+set stringof_session_id="article : (ru)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
