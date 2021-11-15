@@ -425,7 +425,7 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 ###2021年11月15日8:44:39
 
-@@@
+
 	>> (cn)
 	https://duckduckgo.com/?q=环球网+习近平+演讲+全文&ia=web
 	
@@ -441,10 +441,20 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 		
 		]9:37:03
 
-###
+###2021年11月15日13:16:25
 
-
-
+@@@
+	>> (sp)
+	https://www.granma.cu/discursos-de-diaz-canel/2021-10-29/diaz-canel-ya-estamos-vacunados-contra-la-covid-19-y-contra-el-miedo-lo-hemos-estado-siempre
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_131820_773799.txt
+			cerco[siege,clausura[closure,Séptimo[seventh
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_132232_108308.txt
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\trans\trans_20211115_133156_069287.txt
+			
+		n: "Debo destacar, "
+		
+		]13:31:44
 
 
 
@@ -524,6 +534,9 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.ba
 ###process : spanish texts
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
 
+---- 2021年11月15日13:18:07
+([^\.])$	$1.
+
 rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
 
 #process texts : chinese
@@ -588,7 +601,8 @@ makemeaning
 C:\WORKS_2\start_a.bat
 
 rem set stringof_session_id="article : (cn)"
-set stringof_session_id="article : (ko)"
+rem set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (sp)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
