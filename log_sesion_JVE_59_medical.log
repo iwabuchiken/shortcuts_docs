@@ -1,6 +1,6 @@
 ###2021年11月16日11:00:32
 
->>s-13
+>>s-13:g-12:1
 
 	>>
 	https://duckduckgo.com/?q=コルチノイド&ia=web
@@ -47,4 +47,12 @@ set stringof_message="(shortcuts) JVE_59_medical : %stringof_specific%"
 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_message% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+
+
+###2021年11月16日11:25:01
+==================== close : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
 

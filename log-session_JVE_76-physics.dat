@@ -3,14 +3,16 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-2-4~7 /  【微積分】多重積分①～導入と最も単純な場合～ <https://pictblog.com/mulint-1>
+r-2-4~8 /  【微積分】多重積分②～逐次積分～ <https://pictblog.com/mulint-2>
 
-#1
-#2 まずは、積分領域
-#.1 この場合、各一
-#2.2 ここで実際に
+#3 3. 積分領域が [:2] https://pictblog.com/mulint-2#toc2
+#.1 例えば二変数関数
+#.2 そのため被積分関数が
+#.3 積分領域が変数に
+#4 文面だけでは
+	graph-math3d https://www.math3d.org/L8Putfk6K
+#5 (2)
+	==> pass
  
  
  
- 
-

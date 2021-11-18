@@ -1,5 +1,5 @@
 ###2021年9月19日15:04:06
-@@@
+
 
 ###2021年9月20日11:26:04
 
@@ -14,6 +14,17 @@
 
 	https://en.wikipedia.org/wiki/Category:Physical_phenomena
 	
+@@@
+
+###2021年11月18日8:53:02
+
+	https://www.desmos.com/calculator/2qnitnjqmn
+	https://www.desmos.com/calculator/7i2p4eip68
+	http://people.ucalgary.ca/~aswish/MATH267L15_ReducFor.pdf Integration: Reduction Formulas
+
+
+###
+
 
 
 ###
@@ -26,6 +37,38 @@
 
 
 
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+
+=======================================
 ###2021年6月8日9:56:28
 
 <= know-this
@@ -136,9 +179,11 @@ C:\WORKS_2\t.bat
 ###2021年7月28日14:11:43
 ==================== close : git
 
-set stringof_message="JVE_68.[tp_v-2.0]"
+C:\WORKS_2\start_a.bat
 
-C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+set stringof_message="JVE_76_physics"
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
 
 ==================== close : apps
 
