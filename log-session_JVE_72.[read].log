@@ -387,9 +387,13 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 			
 			[2021年11月14日21:40:06
 			
-				n: "교육공무직본부 서울지부가" [inci:3]
+				*n: "교육공무직본부 서울지부가" [inci:3]
 				]21:40:21
-			
+				
+			[2021年11月18日22:08:36
+				n: C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211118_215403_253680.txt	"오후 4시 "
+				
+				]22:09:06
 ]21:41:50
 
 ###2021年11月11日12:27:24
@@ -484,13 +488,10 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 ]16:33:19
 
+###2021年11月18日21:47:30
+
 ###
 @@@
-
-
-
-###
-
 
 
 
@@ -669,10 +670,10 @@ makemeaning
 C:\WORKS_2\start_a.bat
 
 rem set stringof_session_id="article : (cn)"
-rem set stringof_session_id="article : (ko)"
 rem set stringof_session_id="article : (sp)"
 rem set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (po)"
+set stringof_session_id="article : (ko)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
