@@ -1,0 +1,153 @@
+###2021年11月18日12:05:15
+@@@
+
+	
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+
+=======================================
+###2021年6月8日9:56:28
+
+<= know-this
+<= lets-read
+<= want-to-read
+<= lets-read-again
+<= lets-read-links
+<= lets-read-after-this
+
+<= this
+
+<= also-good
+<= good
+<= 証明あり
+
+<= ok
+
+<= not-understood
+
+====== 2021年11月1日10:14:02
+<= memo : XXX
+
+
+=> ENOUGH
+=> NEXT
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+taskkill /f /im tor.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+###2021年6月8日14:34:10
+
+memo images : url
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+43+linguistics&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年6月12日17:36:28
+
+freemind
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\43_Linguistics\43_Linguistics.mm
+
+
+
+
+###2021年6月20日13:48:41
+
+190001550002
+makemeaning
+
+###2021年7月14日13:55:22
+=================== url : memos
+
+###2021年9月2日14:09:48
+=================== url : tools
+
+
+###2021年6月30日11:11:01
+
+git --> works
+
+C:\WORKS_2\Utils\commands\push_WORKS.bat
+
+
+###2021年10月28日8:22:23
+=================== file : dat
+
+###2021年6月23日17:03:51
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+
+###2021年7月1日13:21:50
+=================== time label
+
+C:\WORKS_2\t.bat
+
+###2021年7月28日14:11:43
+==================== close : git
+
+C:\WORKS_2\start_a.bat
+
+set stringof_message="JVE_43-linguistics"
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+
+==================== close : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
