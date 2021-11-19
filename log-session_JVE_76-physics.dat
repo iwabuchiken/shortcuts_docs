@@ -3,22 +3,14 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-2-4~9 /  【微積分】多重積分③～積分変数の変数変換～ <https://pictblog.com/mulint-3>
+r-2-4~1 / ガウス積分の公式 (hooktail) <http://hooktail.sub.jp/mathInPhys/gaussIntegral/>
 
 #1
-#.1 今までの3パターン
-#.2 積分変数の変換は
-#.3 ここで [:2]
-#2 ここで例題を
-#.1 与えられた座標系 [:2]
-#.2 そこで今回は [:1]
-#.3 となるため、求める定積分は
-	s : 積分 分数
+#.1 積分値に変わりは
+#.2 ただし 2行目から
 	graph
-		https://www.math3d.org/wyqxbw5d2
-		https://www.math3d.org/kfpAYjA7q
-		https://www.math3d.org/7Pa7eHIh5
-		
+		#1.2~g-1 / https://www.desmos.com/calculator/agwqtomulp
+		#1.2~g-2 / https://www.desmos.com/calculator/azcugbubvs
  
  
  
