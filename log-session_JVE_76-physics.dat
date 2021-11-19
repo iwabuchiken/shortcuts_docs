@@ -3,14 +3,19 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-2-4~1 / ガウス積分の公式 (hooktail) <http://hooktail.sub.jp/mathInPhys/gaussIntegral/>
+r-6.1-1~1 / ベルヌーイの問題提起 <https://eman-physics.net/analytic/bernoulli.html>
 
 #1
-#.1 積分値に変わりは
-#.2 ただし 2行目から
-	graph
-		#1.2~g-1 / https://www.desmos.com/calculator/agwqtomulp
-		#1.2~g-2 / https://www.desmos.com/calculator/azcugbubvs
+#2 それは次のような
+#.1 この正しい軌道から
+#.2 についての関数
+#.3 そして軌道を
+*#.4 先ほどのグラフ
+#3 実際の計算
+#.1 質点の軌道が
+.2 ややこしく思える
+ 
+ 
  
  
  

@@ -485,6 +485,14 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_163027_139769.txt
 		
 		n: "Staram się na "
+		
+		[2021年11月19日21:15:40
+		
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211119_211505_381433.txt
+			
+			n: file : "By dawne czasy "
+			
+			]21:19:18
 
 ]16:33:19
 
@@ -672,8 +680,8 @@ C:\WORKS_2\start_a.bat
 rem set stringof_session_id="article : (cn)"
 rem set stringof_session_id="article : (sp)"
 rem set stringof_session_id="article : (ru)"
-set stringof_session_id="article : (po)"
 set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (po)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
