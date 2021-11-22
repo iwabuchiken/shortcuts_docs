@@ -1,5 +1,5 @@
 ###2021年11月19日15:45:28
-@@@
+
 
 	>> 134_yamamoto_ieyasu
 	
@@ -8,14 +8,101 @@
 	
 ]16:32:43
 
+###2021年11月22日15:56:47
+
+
+	*>> 120_mouri-motonari
+	
+	[16:21:59
+	
+	>> 90_oritaku
+	
+		s : 新井白石 詮房朝臣
+			
+			https://ja.wikipedia.org/wiki/新井白石
+				生誕	明暦3年2月10日[1]（1657年3月24日）
+				死没	享保10年5月19日（1725年6月29日）		
+			https://ja.wikipedia.org/wiki/間部詮房
+				まなべ あきふさ
+				側用人、老中格
+				甲府藩主・徳川綱重の家臣・西田清貞の子
+				はじめは猿楽師・喜多七太夫の弟子
+				貞享元年（1684年）に[...]抜擢
+				生誕	寛文6年5月16日（1666年6月18日）
+				死没	享保5年7月16日（1720年8月19日）
+
+			https://ja.wikipedia.org/wiki/老中格
+				老中奉書への加判を行わない
+				将軍の上使を勤める
+				>> s : 音物 老中
+					https://duckduckgo.com/?q=音物+老中&ia=web
+						http://h-tekuteku.com/yorozu/files/20090325yorozu_food.pdf
+							音物とは贈り物のことで、
+				幕末の老中格はそ[...]重用
+				老中就任[...]2万5,000石
+			
+			https://ja.wikipedia.org/wiki/徳川家宣
+				初名は綱豊（つなとよ）
+				甲府藩主・徳川綱重（甲府宰相）の長男
+				生誕	寛文2年4月25日（1662年6月11日）
+				死没	正徳2年10月14日（1712年11月12日）		
+				在任：1709年 - 1712年
+				
+			https://ja.wikipedia.org/wiki/徳川綱重
+				徳川家光の三男[1]。
+				母は側室の夏（順性院）
+				生誕	正保元年5月24日（1644年6月28日）
+				死没	延宝6年9月14日（1678年10月29日）			
+			
+		s : 南都 両門主
+			*https://ja.wikipedia.org/wiki/南都七大寺
+				 興福寺 法相宗
+			
+			*https://ja.wikipedia.org/wiki/一乗院
+				興福寺にあった塔頭の一つ
+				天禄元年 (970年)[...]建立
+				江戸時代初期以降は皇族が門跡となった
+				門主は南都一乗院宮
+				>> https://ja.wikipedia.org/wiki/塔頭
+					たっちゅう
+					禅宗寺院
+					塔（多くは祖師や高僧の墓塔）や庵などの小院
+					やがて禅宗以外の宗派でも[...]建立
+			//大乗院
+				*https://ja.wikipedia.org/wiki/一乗院
+					大乗院とともに / 門主は / 興福寺別当
+				
+				*https://ja.wikipedia.org/wiki/大乗院
+					寺院の称号
+					興福寺塔頭で / 門跡寺院でもあった / 大乗院が著名
+				
+				//https://ja.wikipedia.org/wiki/大乗院_(門跡寺院)	[16:57:23
+					興福寺にあった塔頭の一つ
+					治承4年（1180年）の平家による南都攻撃 / 宝徳3年（1451年）の土一揆によって / 焼失
+					明治2年（1869年）の廃仏毀釈 / 最後の門跡隆芳（九条尚忠の子）が還俗 / 消滅
+				
+		*s: 門跡 意味
+			https://ja.wikipedia.org/wiki/門跡
+				もんぜき、もんせき
+				寺格の一つ
+				浄土真宗本願寺派の本願寺住職は門主（もんしゅ）
+			
+			https://ja.wikipedia.org/wiki/南都
+				奈良の別称
+				平安京からみて南
+		
+		s: 相論 意味
+			https://duckduckgo.com/?q=相論+一乗院&ia=web
+			
+			https://ja.wikipedia.org/wiki/天正4年興福寺別当相論
+				天正元年（1573年）9月以来 / 松林院光実[..]が / 207代別当
+				同族の東北院兼深 / 権別当
+				天正3年（1575年）頃より、兼深は[...]朝廷に働きかけ
+
+]17:06:02
+
 ###
-
-
-
-
-
-###
-
+@@@
 
 
 
@@ -73,6 +160,8 @@
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books
 
 
+========================== list-of-books.txt
+
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
 
 
@@ -86,7 +175,7 @@ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=64%2
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="134_yamamoto_ieyasu"
+set stringof_session_id="120_mouri-motonari / 90_oritaku"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
