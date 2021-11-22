@@ -101,11 +101,12 @@
 
 ]17:06:02
 
-###
+###2021年11月23日0:42:15
 @@@
-
-
-
+	>> 136.1_rice
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read\136.1_rice\136.1_20211123_011140.ods
+		
+]1:30:10
 
 ###
 
@@ -159,8 +160,10 @@
 
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books
 
+====== 2021年11月23日1:10:23
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read
 
-========================== list-of-books.txt
+=================== file : list-of-books.txt
 
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
 
@@ -175,7 +178,7 @@ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=64%2
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="120_mouri-motonari / 90_oritaku"
+set stringof_session_id="136.1_rice"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 

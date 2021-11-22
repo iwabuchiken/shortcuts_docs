@@ -3,26 +3,18 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-6.1-1~3 / つじつま合わせ <https://eman-physics.net/analytic/makelag.html>
-
-#1
-#.1 イメージしやすい
-#2 まずは簡単な
-#.1 速度に関連した
-#.2 しかしこれ
-#.3 では速度
-#.4 こういうこと
-#.5 さて,この
-#3 ポテンシャルを考慮
- 
- 
- 
- 
 
 r-2-6~3 / Configuration_(geometry) <https://en.wikipedia.org/wiki/Configuration_(geometry)>
 
 #3 Examples https://en.wikipedia.org/wiki/Configuration_(geometry)#Examples
- 
+	s: configuration math list
+#.1 the complete quadrangle and
+	words
+		#3.1.d-1 / complete quadrangle https://en.wikipedia.org/wiki/Complete_quadrangle
+			texts
+				#1
+				#2 Dually, a complete quadrilateral 
+	
  
  
  
