@@ -102,21 +102,67 @@
 ]17:06:02
 
 ###2021年11月23日0:42:15
-@@@
+
 	>> 136.1_rice
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read\136.1_rice\136.1_20211123_011140.ods
 		
 ]1:30:10
 
+###2021年11月23日15:00:54
+
+
+	>> 90_oritaku
+	
+		.253
+		?? 寺務 意味
+			https://kotobank.jp/word/寺務-523916
+				寺院の事務執行代表者
+				初め、奈良諸大寺の別当だけ
+				それを扱う僧
+		?? 花蔵院 意味
+		?? 発心院 意味
+		?? 花蔵院 一乗院
+		
+			https://ja.wikipedia.org/wiki/院家#寺院塔頭としての院家
+				宇多天皇が出家して[...]院家衆と称した
+				門跡に付随する由緒ある寺院
+		
+		?? 近衛基熙
+			https://ja.wikipedia.org/wiki/近衛基熙
+				生誕	慶安元年3月6日（1648年4月28日）
+				死没	享保7年9月4日（1722年10月13日）
+				近衛家21代当主
+		
+		?? 東求院 意味
+			https://ja.wikipedia.org/wiki/近衛前久
+				このえ さきひさ
+				前嗣（さきつぐ）
+				近衛家17代当主
+				生誕	天文5年（1536年）
+				死没	慶長17年5月8日（1612年6月7日）
+				戒名	東求院龍山空誉
+				信長が横死[...]竜山（龍山）
+				慈照寺東求堂を別荘として隠棲
+
+		%?? 東求 意味
+		
+		?? 御枕 意味
+			https://furigana.info/w/御枕
+				おんまくら	100.0%
+		
+		?? 徳川家綱
+			https://ja.wikipedia.org/wiki/徳川家綱
+				生誕	寛永18年8月3日（1641年9月7日）
+				死没	延宝8年5月8日（1680年6月4日）[1]
+				4代征夷大将軍
+				（在任：慶安4年（1651年） - 延宝8年（1680年））
+				養子：綱吉
+
+15:56:15]
+
 ###
 
-
-
-
-
-###
-
-
+@@@
 
 
 
@@ -178,7 +224,8 @@ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=64%2
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="136.1_rice"
+rem set stringof_session_id="136.1_rice"
+set stringof_session_id="90_oritaku"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
