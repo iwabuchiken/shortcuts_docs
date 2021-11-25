@@ -197,9 +197,29 @@
 
 ]16:38:02
 
-@@@
-###
 
+###2021年11月25日17:28:28
+
+	>> 137.1_ikki
+@@@
+
+	足利尊氏 https://ja.wikipedia.org/wiki/足利尊氏
+	
+		生誕	嘉元3年（1305年）[注釈 1]
+		死没	正平13年/延文3年4月30日（ユリウス暦1358年6月7日、先発グレゴリオ暦1358年6月15日）
+	
+	https://ja.wikipedia.org/wiki/足利直義
+		ただよし
+		足利貞氏の三男
+		足利尊氏の同母弟
+		生誕	徳治2年（1307年）（古説：徳治元年（1306年））[注釈 1]
+		死没	正平7年2月26日[注釈 2]（1352年3月12日）
+		
+		https://ja.wikipedia.org/wiki/足利直冬
+			ただふゆ
+			生誕	嘉暦2年（1327年）?
+			死没	元中4年/至徳4年7月2日（1387年8月16日）?
+			応永7年3月11日（1400年4月5日）とも
 
 
 ###
@@ -285,6 +305,7 @@ set stringof_session_id="90_oritaku"
 set stringof_session_id="136.1_rice"
 
 set stringof_session_id="114_hirata"
+set stringof_session_id="137.1_ikki"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
