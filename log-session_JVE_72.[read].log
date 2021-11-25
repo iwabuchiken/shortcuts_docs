@@ -498,10 +498,12 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 ###2021年11月18日21:47:30
 
-###
+###2021年11月25日13:38:39
 @@@
-
-
+	>> (cn)
+		https://opinion.huanqiu.com/article/45ioCa2g7NU
+		
+		n: 但实际上，
 
 ###
 
@@ -677,11 +679,12 @@ makemeaning
 
 C:\WORKS_2\start_a.bat
 
-rem set stringof_session_id="article : (cn)"
 rem set stringof_session_id="article : (sp)"
 rem set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (po)"
+
+rem set stringof_session_id="article : (cn)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 

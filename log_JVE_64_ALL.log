@@ -162,7 +162,7 @@
 
 ###2021年11月24日0:41:25
 
-@@@
+
 	>> 136.1_rice
 
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read\136.1_rice\136.1_20211123_011140.ods
@@ -171,6 +171,37 @@
 	
 ]1:15:22
 
+###2021年11月25日15:59:16
+
+
+	>> 114_hirata
+		
+		.22
+		~三空 意味
+		~三空 神道
+			《世界宗教源流史》日本神道教之四：主要派别 https://zhuanlan.zhihu.com/p/354988227
+			
+		月読壮士 意味	[16:20:49
+			み空行く月読壮士夕さらず・・・ https://art-tags.net/manyo/seven/m1372.html
+			たのしい万葉集: 空を詠んだ歌 https://art-tags.net/manyo/nature/sora.html
+			https://ja.wikipedia.org/wiki/ツクヨミ
+				日本神話に登場する神
+				伊勢神宮・月読神社ではツキヨミ
+				記紀では性別の記述はない
+				長女天照大御神[...]の弟神
+				建速須佐之男命[...]の兄神
+				古事記では[...]右目から
+				もう片方の目から[...]天照大御神
+				鼻から[...]須佐之男命
+				日本書紀[...]で、穀物の起源
+
+]16:38:02
+
+@@@
+###
+
+
+
 ###
 
 
@@ -178,6 +209,26 @@
 
 
 ###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
 
 
 
@@ -232,6 +283,8 @@ C:\WORKS_2\start_a.bat
 
 set stringof_session_id="90_oritaku"
 set stringof_session_id="136.1_rice"
+
+set stringof_session_id="114_hirata"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
