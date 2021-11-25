@@ -201,7 +201,7 @@
 ###2021年11月25日17:28:28
 
 	>> 137.1_ikki
-@@@
+
 
 	足利尊氏 https://ja.wikipedia.org/wiki/足利尊氏
 	
@@ -222,8 +222,25 @@
 			応永7年3月11日（1400年4月5日）とも
 
 
-###
+###2021年11月26日0:50:44
+@@@
 
+	>> 137.2_shigetoki_rokuhara
+		
+		弓
+		漢字 竹かんむり 前
+			https://kakijun.jp/page-ms/senj15200.html
+			
+		沙汰 意味
+			https://kobun.weblio.jp/content/沙汰
+				裁定。訴訟。さばき。
+			https://dictionary.goo.ne.jp/word/沙汰/
+			https://biz.trans-suite.jp/42966#i-10
+		弓箭 意味
+			https://dictionary.goo.ne.jp/word/弓箭/
+				弓と矢
+				きゅう‐せん
+				
 
 
 
@@ -306,6 +323,7 @@ set stringof_session_id="136.1_rice"
 
 set stringof_session_id="114_hirata"
 set stringof_session_id="137.1_ikki"
+set stringof_session_id="137.2_shigetoki_rokuhara"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
