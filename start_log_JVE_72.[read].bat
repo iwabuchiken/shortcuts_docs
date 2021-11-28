@@ -40,7 +40,8 @@ echo starting files only...
 
 start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_72.[read].log"
 
-start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70-CO2_trans-sentences.dat"
 
 goto end
 

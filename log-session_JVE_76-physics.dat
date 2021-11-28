@@ -3,26 +3,26 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-6.1-1~8 / ハミルトニアン <https://eman-physics.net/analytic/hamilton.html>
+r-6.1-1~10 / ポアッソン括弧式 <https://eman-physics.net/analytic/poisson.html>
 
 #1
-.1 多分,(
-.2 すでに言えているので,
-.3 記号を使って
-	s: hooktail ハミルトニアン
-	s: 正準方程式 ハミルトニアン https://duckduckgo.com/?q=正準方程式+ハミルトニアン&ia=web
+	s: ポアッソン括弧式 https://duckduckgo.com/?q=ポアッソン括弧式&ia=web
 		docs
-			#1.3~d-1 / ハミルトンの正準方程式 https://butsurimemo.com/canonical-equation/
-				<= this
-				texts
-					#1
-					#2 ハミルトニアンの定義式の
-			1-2節　いくつかの恒等式 http://bakamoto.sakura.ne.jp/buturi/kaiseki/1.html#1-2
-				<= lets-read
-			第2章　ラグランジュ方程式 http://bakamoto.sakura.ne.jp/buturi/kaiseki/2.html#mjx-eqn-lah2
-				<= want-to-read
+			ポアッソンの括弧式の定義を確認しよう https://takun-physics.net/2844/
+				<= ok : 解説あり
+			ポアッソン括弧の性質 http://www.stat.phys.kyushu-u.ac.jp/~sakaue/AM_answer/a-11.pdf
+				<= ok : 数式、あり
+#.1 まず,ある
+#.2 これを時間t
+#.3 良く分から
+#.4 前回導いた [:2]
+#2 よく見ると
+#3 正準方程式の別表現
+#.1 このどちら
+	s: ハミルトニアン 時間微分 https://duckduckgo.com/?q=ハミルトニアン+時間微分&ia=web
+		docs
 			
-	
+		
  
  
  

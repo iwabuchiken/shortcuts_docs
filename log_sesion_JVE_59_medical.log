@@ -17,13 +17,12 @@
 
 ]11:15:18
 
-@@@
-
 ###2021年11月23日9:17:32
 
 (sp)
 
 	>> https://es.wikipedia.org/wiki/Estrés
+		#d:20211128_084918
 	
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211123_091912_120089.txt
 		
@@ -46,14 +45,18 @@
 
 ]9:53:08
 
+###2021年11月28日8:48:48
+
+	>> ->#d:20211128_084918
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211128_092016_010611.txt	*
+		
+		n: https://es.wikipedia.org/wiki/Estrés#Fisiopatología
+		
+
 ###
 
-
-
-
-###
-
-
+@@@
 
 
 ###
@@ -100,9 +103,41 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_70-CO2_trans-sentences.dat
 C:\WORKS_2\shortcuts_docs\log-session_JVE_72-read.log
 
 
-===================================== CLOSING
+###2021年5月29日13:06:18
+
+rem #trans : korean, a.o.
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+#trans : arabic
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.bat
+
+//sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+//sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
+
+###process : spanish texts
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+---- 2021年11月15日13:18:07
+([^\.])$	$1.
+
+rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
 
 
+
+###2021年11月28日9:40:59
+=================== folder : texts-for-reading
+
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading
+
+###2021年11月28日9:45:36
+================================ close : git
 
 C:\WORKS_2\start_a.bat
 
@@ -121,3 +156,4 @@ C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
 
 taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
 
+#proc
