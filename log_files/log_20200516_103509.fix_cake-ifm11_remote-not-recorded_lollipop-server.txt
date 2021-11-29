@@ -109,6 +109,8 @@
 			###2021年11月22日22:18:33
 			#DELETE FROM images WHERE id >= 50650;
 			
+			###2021年11月28日22:40:32
+			#DELETE FROM images WHERE id >= 50712;
 			
 			@@@
 			

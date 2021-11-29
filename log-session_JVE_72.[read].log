@@ -477,7 +477,7 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 
 	>> (po)
 	
-	https://pl.sputniknews.com/search/?query=bitwy+warszawskiej
+	https://pl.sputniknews.com/search/?query=bitwy+warszawskiej	##d:20211129_092849
 	
 	https://pl.sputniknews.com/20200813/wojna-polsko-radziecka-jestem-chodzaca-historia-sputnik-12901027.html
 	
@@ -499,16 +499,25 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 ###2021年11月18日21:47:30
 
 ###2021年11月25日13:38:39
-@@@
+
 	>> (cn)
 		https://opinion.huanqiu.com/article/45ioCa2g7NU
 		
 		n: 但实际上，
 
-###
+###2021年11月29日9:29:13
+@@@
 
-
-
+	>> -->##d:20211129_092849
+		
+		from : "By dawne czasy "
+			
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211129_093558_893477.txt
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211129_093822_237907.txt
+			
+			n: "Do pierwszego starcia " / page
+		
+		]9:45:53
 
 ###
 
@@ -682,9 +691,9 @@ C:\WORKS_2\start_a.bat
 rem set stringof_session_id="article : (sp)"
 rem set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (ko)"
-set stringof_session_id="article : (po)"
-
 rem set stringof_session_id="article : (cn)"
+
+set stringof_session_id="article : (po)"
 
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
