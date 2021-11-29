@@ -1,4 +1,4 @@
-###2021年11月19日15:45:28
+ ###2021年11月19日15:45:28
 
 
 	>> 134_yamamoto_ieyasu
@@ -291,10 +291,61 @@
 
 ]18:01:49
 
-###
+###2021年11月30日1:09:26
+	
+	>> 138.1_ryoujin
+
+		s: 概念歌 意味
+		https://duckduckgo.com/?q=概念歌+意味&ia=web
+			docs
+				概念化と言語化 http://www.ritsumei.ac.jp/acd/cg/lt/rb/610/610PDF/kodama.pdf
+		
+		s: 情趣 意味
+		s: https://duckduckgo.com/?q=漢字+瀟&ia=web
+			蕭 https://kanji.jitenon.jp/kanjik/5431.html
+				ひっそりしたさま
+		s: 蕭条 意味
+			https://dictionary.goo.ne.jp/word/蕭条/
+				ひっそりともの寂しい
+		s: 長柄川
+			https://duckduckgo.com/?q="長柄川"&norw=1&ia=web
+			https://ameblo.jp/seijihys/entry-12498750136.html
+		
+		s: 叙す 意味
+			https://dictionary.goo.ne.jp/word/叙する/
+				文章や詩歌に述べ表す
+
+
+]1:09:33
 
 @@@
 
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
 
 
 
@@ -361,6 +412,8 @@ set stringof_session_id="114_hirata"
 set stringof_session_id="137.1_ikki"
 set stringof_session_id="137.2_shigetoki_rokuha
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="138.1_ryoujin"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
