@@ -273,15 +273,27 @@
 
 ]2021年11月27日17:18:02
 
+###2021年11月29日17:18:32
+	
+	>> 134_yamamoto_ieyasu
+	
+		s: 家康 佐崎
+		
+		https://ja.wikipedia.org/wiki/蓮如
+		
+			応永22年2月25日 - 明応8年3月25日[2]
+			1415年4月13日 - 1499年5月14日
+			1415年4月4日 - 1499年5月5日
+		
+		https://ja.wikipedia.org/wiki/一向俊聖
+
+		（1239年2月6日）? - 弘安10年11月18日（1287年12月24日）?）
+
+]18:01:49
+
 ###
 
 @@@
-
-
-
-###
-
-
 
 
 
@@ -327,6 +339,14 @@ C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
 ========================== url : cake
 http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=64%23+134+yamamoto&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
 
+###2021年11月29日18:01:06
+
+lib
+
+190001550002
+makemeaning
+
+
 
 ###2021年11月5日0:36:08
 ========================== closing : git
@@ -339,7 +359,8 @@ set stringof_session_id="136.1_rice"
 
 set stringof_session_id="114_hirata"
 set stringof_session_id="137.1_ikki"
-set stringof_session_id="137.2_shigetoki_rokuhara"
+set stringof_session_id="137.2_shigetoki_rokuha
+set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
