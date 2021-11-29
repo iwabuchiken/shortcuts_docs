@@ -381,7 +381,7 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 		[2021年11月13日22:16:29
 
 			n: 
-				http://worknworld.kctu.org/news/articleView.html?idxno=404442
+				http://worknworld.kctu.org/news/articleView.html?idxno=404442	##d:20211129_131711
 				
 			]22:20:00
 			
@@ -520,8 +520,22 @@ https://blackagendareport.com/planting-budgetary-time-bombs-africa-macron-doctri
 		]9:45:53
 
 ###
-
-
+	
+	>> (ko)
+	-->##d:20211129_131711
+	
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211118_215403_253680.txt	"오후 4시 "
+		
+		]13:22:02
+	
+	>> (ko)
+		http://worknworld.kctu.org/news/articleView.html?idxno=404570
+		
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211129_132240_084666.txt
+			
+			n: file : "단계적 일상 회복’이후"
+			
+			]13:30:18
 
 
 ###
@@ -690,11 +704,12 @@ C:\WORKS_2\start_a.bat
 
 rem set stringof_session_id="article : (sp)"
 rem set stringof_session_id="article : (ru)"
-set stringof_session_id="article : (ko)"
+
 rem set stringof_session_id="article : (cn)"
 
 set stringof_session_id="article : (po)"
 
+set stringof_session_id="article : (ko)"
 rem set stringof_project_id="read : %stringof_session_id:"=%" 
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
