@@ -358,14 +358,15 @@
 
 ]18:06:55
 
+###2021年12月1日0:05:26
+
+	>> 139.1_kaidou
+	
+]1:07:43
+	
 ###
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -434,9 +435,6 @@ makemeaning
 ###2021年11月5日0:36:08
 ========================== closing : git
 
-C:\WORKS_2\start_a.bat
-
-
 set stringof_session_id="90_oritaku"
 set stringof_session_id="136.1_rice"
 
@@ -444,9 +442,12 @@ set stringof_session_id="136.1_rice"
 set stringof_session_id="137.1_ikki"
 set stringof_session_id="137.2_shigetoki_rokuhaset stringof_session_id="114_hirata"
 set stringof_session_id="138.1_ryoujin"
+set stringof_session_id="134_yamamoto_ieyasu"
 
 --------------------------
-set stringof_session_id="134_yamamoto_ieyasu"
+C:\WORKS_2\start_a.bat
+
+set stringof_session_id="139.1_kaidou"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
