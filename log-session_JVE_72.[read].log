@@ -19,7 +19,7 @@
 
 
 	>> (ru)
-	http://www.kremlin.ru/events/president/news/65418	Послание Президента Федеральному Собранию
+	http://www.kremlin.ru/events/president/news/65418	Послание Президента Федеральному Собранию	##d:20211130_214816
 	
 		n: "Уважаемые члены"
 		
@@ -30,9 +30,9 @@
 
 	>> (po)
 	
-	https://pl.sputniknews.com/search/?query=bitwy+warszawskiej	##d:20211129_092849
+	https://pl.sputniknews.com/search/?query=bitwy+warszawskiej	
 	
-	https://pl.sputniknews.com/20200813/wojna-polsko-radziecka-jestem-chodzaca-historia-sputnik-12901027.html
+	https://pl.sputniknews.com/20200813/wojna-polsko-radziecka-jestem-chodzaca-historia-sputnik-12901027.html	##d:20211129_092849
 	
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_162149_576416.txt
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211115_163027_139769.txt
@@ -60,7 +60,7 @@
 
 ###2021年11月29日9:29:13
 
-
+	(po)
 	>> -->##d:20211129_092849
 		
 		from : "By dawne czasy "
@@ -122,14 +122,29 @@
 		
 		]13:13:43
 
+###2021年11月30日21:32:48
+
+
+	(po)
+	>> -->##d:20211129_092849
+		"Do pierwszego starcia " / page
+		
+		n: "Konszachty z Ukrainą" / page
+	
+	]21:46:58
+	
+	(ru)
+	>> -->##d:20211130_214816
+	
+		"Уважаемые члены"
+		
+		n: "Конечно, несколько " / page
+		
+		]22:01:23
+	
 ###
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -184,6 +199,7 @@ steps : read
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
 		
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
 	5. gen-ed file (f2)
 		1. C - a > - c > M - Space - c	[copy, close
 		2. Tab x N	[back to --> f1
@@ -295,13 +311,18 @@ makemeaning
 
 C:\WORKS_2\start_a.bat
 
+rem set stringof_project_id="read : %stringof_session_id:"=%" 
+
 set stringof_session_id="article : (ru)"
+
 set stringof_session_id="article : (po)"
-set stringof_project_id="read : %stringof_session_id:"=%" 
 set stringof_session_id="article : (sp)"
 
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
+
+-----------------------
+set stringof_session_id="article : (po),(ru)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
