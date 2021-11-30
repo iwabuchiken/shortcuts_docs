@@ -5,22 +5,15 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 
 r-6.1-1~12 / ラグランジアンの不定性 <https://eman-physics.net/analytic/indeterminancy.html>
 
-#1
-#.1 ちょっと考えれ
-#.2 他には
-#.3 このことを
-	*SEG / r-6.1-1~13 / ラグランジアンに任意関数の時間微分を加えても良い理由 https://eman-physics.net/analytic/indeterminancy2.html
-		texts
-			#1
-			#2 消えてくれれば良い.
-			#.1 丁寧な式変形の
-			#.2 第 3 項が
-#.4 このように,
-#.5 互いに異なる
-	s: 等価ラグランジアン https://duckduckgo.com/?q=等価ラグランジアン&ia=web
-#2 ラグランジアン候補は無数にある
 #3 ハミルトニアンは全エネルギー
- 
+#.1 これを (1) 式に
+#.2 今回は,この
+#.3 すると,変換後
+#4 この (2) 式を使って
+#.1 ここで位置エネルギ
+#5 これを使って
+#6 今の計算過程で
+#7 ではなくて,先ほど
  
  
  

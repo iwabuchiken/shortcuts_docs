@@ -82,7 +82,7 @@
 		]13:22:02
 	
 	>> (ko)
-		http://worknworld.kctu.org/news/articleView.html?idxno=404570
+		http://worknworld.kctu.org/news/articleView.html?idxno=404570	##d:20211130_124116
 		
 			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211129_132240_084666.txt
 			
@@ -106,12 +106,25 @@
 
 ###
 
-@@@
-
+	>> (ko)
+		-->##d:20211130_124116
+		
+		n: "결의대회에는 정의당 이은주 " [:2]
+	
+	]12:58:38
+	
+	>> (cn)
+	
+		https://health.huanqiu.com/article/45nDoc8gT4Z	##d:
+		
+		
+		n: "影响" : page
+		
+		]13:13:43
 
 ###
 
-
+@@@
 
 
 ###
@@ -168,7 +181,7 @@ steps : read
 		2. Tab x N	[move to --> console
 	4. console
 		1. paste
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
 		
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
 	5. gen-ed file (f2)
@@ -282,17 +295,13 @@ makemeaning
 
 C:\WORKS_2\start_a.bat
 
-
-rem set stringof_session_id="article : (ru)"
-
-rem set stringof_session_id="article : (cn)"
-
+set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (po)"
+set stringof_project_id="read : %stringof_session_id:"=%" 
+set stringof_session_id="article : (sp)"
 
 set stringof_session_id="article : (ko)"
-rem set stringof_project_id="read : %stringof_session_id:"=%" 
-
-set stringof_session_id="article : (sp)"
+set stringof_session_id="article : (cn)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
