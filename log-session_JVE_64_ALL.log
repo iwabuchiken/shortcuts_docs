@@ -352,12 +352,15 @@
 
 ###
 
-@@@
+	>> 134_yamamoto_ieyasu
+	
+		https://ja.wikipedia.org/wiki/吉田城_(三河国)
 
+]18:06:55
 
 ###
 
-
+@@@
 
 
 ###
@@ -439,14 +442,12 @@ set stringof_session_id="136.1_rice"
 
 
 set stringof_session_id="137.1_ikki"
-set stringof_session_id="137.2_shigetoki_rokuha
-set stringof_session_id="134_yamamoto_ieyasu"
-
+set stringof_session_id="137.2_shigetoki_rokuhaset stringof_session_id="114_hirata"
 set stringof_session_id="138.1_ryoujin"
 
 --------------------------
+set stringof_session_id="134_yamamoto_ieyasu"
 
-set stringof_session_id="114_hirata"
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
