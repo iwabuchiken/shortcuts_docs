@@ -142,14 +142,33 @@
 		
 		]22:01:23
 	
+###2021年12月1日10:05:27
+
+	>> (ko)
+		-->##d:20211130_124116
+		
+		"결의대회에는 정의당 이은주 " [:2]
+
+		n: "결의대회를 마무리하며 이선희 " / page
+
+	]10:24:50
+
+	>> (cn)
+	
+		https://health.huanqiu.com/article/45nDoc8gT4Z	##d:
+		
+		
+			"影响" : page
+		
+		https://world.huanqiu.com/article/45n4Fdo4vn0
+		
+		n: other article
+	
+	]10:43:42
+
 ###
 
 @@@
-
-
-###
-
-
 
 
 
@@ -247,6 +266,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-readi
 
 ---- 2021年11月15日13:18:07
 ([^\.])$	$1.
+([^\。])$	$1。
 
 rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
 
@@ -320,9 +340,10 @@ set stringof_session_id="article : (sp)"
 
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
+set stringof_session_id="article : (po),(ru)"
 
 -----------------------
-set stringof_session_id="article : (po),(ru)"
+set stringof_session_id="article : (ko),(cn)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
