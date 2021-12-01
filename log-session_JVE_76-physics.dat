@@ -3,30 +3,14 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-6.1-1~14 / 正準変換 <https://eman-physics.net/analytic/canonical.html>
+r-6.1-1~15 / ネーターの定理 <https://eman-physics.net/analytic/noether.html>
 
 #1
-#2 正準変換とは何か？
-.1 一方,座標が
-.2 新座標は旧座標
-.3 こうすれば座標と
-.4 この定義に
-#3 変分原理の応用
-.1 ここで前回の
-.2 ところで,次の
-.3 この式が成り立つ条件は,
-.4 の関数であると
-.5 もう一つ補足
-#4 変換の母関数
-.1 さあ,この式
-.2 して 3 番目の
-.3 このように
-	related
-		第5章　正準変換 http://bakamoto.sakura.ne.jp/buturi/kaiseki/5.html
-			<= want-to-read
-		
-#5 母関数のルジャンドル変換
- 
+.1 例えば,有名
+.2 他にもあって,
+.3 また,エネルギー
+#2 この定理は重要だろうか
+#2.1 ラグランジアンの中に,
  
  
  

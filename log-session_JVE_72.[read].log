@@ -166,9 +166,69 @@
 	
 	]10:43:42
 
-###
+###2021年12月1日14:01:13
+
+	>> -->##d:20211129_212413
+	
+		"Debo destacar, "
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211129_212554_655812.txt
+		
+		"Para que se tenga " : page
+		
+		n: "Compañeras y compañeros:" [:1]
+		
+		]14:12:57
+
 
 @@@
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
 
 
 
@@ -336,14 +396,14 @@ rem set stringof_project_id="read : %stringof_session_id:"=%"
 set stringof_session_id="article : (ru)"
 
 set stringof_session_id="article : (po)"
-set stringof_session_id="article : (sp)"
+
 
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
 set stringof_session_id="article : (po),(ru)"
-
------------------------
 set stringof_session_id="article : (ko),(cn)"
+-----------------------
+set stringof_session_id="article : (sp)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
