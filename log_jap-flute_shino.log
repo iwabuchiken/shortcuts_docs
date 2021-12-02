@@ -319,19 +319,33 @@ play
 
 ]0:03:32
 
+###2021年12月2日16:01:53
+
+	1. prac : transition
+		h:6-6-4`;6-6-3`
+		h:X-X-4`;X-X-3` / X=6,5,0
+	
+	2. A : kan : h:7,5 (h-6 --> omit)
+		[16:23:26	/going
+		
+		rev : -->2021年12月1日18:20:29 / 2.
+	
+	3. A : dai-kan : h-4`->4`` (Ef-->Bf
+	
+	4. B1 : (B1 --> 練習用の曲)
+		4`-4``-4``.4x2
+			X.4x2 --> ４部音符ｘ２
+	
+	]16:37:26
+	
+	5. B2 : compo
+		h:4`.8-4``.-4``.4-4``.4/3``.4-4``.8-7``.8/4``.8-4`.8-7``.4
+		
+	]16:49:05
+
+###
+
 @@@
-
-
-
-###
-
-
-
-
-
-###
-
-
 
 
 
@@ -381,6 +395,8 @@ set stringof_session_id="play"
 
 
 -------------------------------
+C:\WORKS_2\start_a.bat
+
 set stringof_session_id="practice" 
 
 set stringof_project_id="JVE_46.[15_jp-flute] : %stringof_session_id:"=%" 
