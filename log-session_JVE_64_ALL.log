@@ -367,10 +367,59 @@
 ###2021年12月2日0:30:51
 
 	>> 114_hirata
+
+###2021年12月2日17:00:14
+
+	>>
 	
+		https://ja.wikipedia.org/wiki/織田信雄
+			おだ のぶかつ、のぶお
+			織田信長の次男
+			生誕	永禄元年（1558年）3月
+			死没	寛永7年4月30日（1630年6月10日）
+			母：生駒吉乃
+				
+			https://ja.wikipedia.org/wiki/寛永
+				1624年から1645年
+				元和の後、正保の前
+				江戸幕府将軍は徳川家光
+				https://ja.wikipedia.org/wiki/徳川家光
+					在任1623年 - 1651年
+			
+		明良洪範
 		
+		s： 漢字 緩 訓読み
+		s： 漢字 郷 向
+			https://kanji.jitenon.jp/kanjig/3315.html
+				むかう。むく。むける。
+		嚮背 意味
+		漢字 豈 見
+			https://kanji.jitenon.jp/kanjik/5462.html
+				こいねが（う）
+		兪 意味
+		漢字 兪 見る
+		佐々 意味
+		慫慂 意味
+		
+###2021年12月2日17:43:40
+
+	>> 114_hirata
+
+]17:54:37
+	
+###
 
 @@@
+
+
+###
+
+
+
+
+###
+
+
 
 
 ###
@@ -444,14 +493,16 @@ set stringof_session_id="136.1_rice"
 
 
 set stringof_session_id="137.1_ikki"
-set stringof_session_id="137.2_shigetoki_rokuhaset stringof_session_id="114_hirata"
+set stringof_session_id="137.2_shigetoki_rokuhara
+
 set stringof_session_id="138.1_ryoujin"
 set stringof_session_id="134_yamamoto_ieyasu"
+set stringof_session_id="139.1_kaidou"
 
 --------------------------
 C:\WORKS_2\start_a.bat
+set stringof_session_id="114_hirata"
 
-set stringof_session_id="139.1_kaidou"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
