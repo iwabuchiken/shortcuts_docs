@@ -236,18 +236,34 @@
 		n: "Contra un proyecto "
 		
 		]2021年12月2日13:58:24
+
+	>> 2021年12月2日20:58:34
+	(en)
+	
+		https://www.rt.com/news/541900-mass-vaccination-covid-transmission/
 		
+
+###
+
+	(po)
+	>> -->##d:20211129_092849
+		
+		"Nocą z 7 " / page
+		
+		n: "Ocena wschodniej "
+	
+	(ru)
+	>> -->##d:20211130_214816
+	
+		"В те дни, " / page
+		
+		n: "Число заболевших"
+		
+		]21:40:44
+
+###
+
 @@@
-
-
-###
-
-
-
-
-###
-
-
 
 
 ###
@@ -442,13 +458,13 @@ set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (po)"
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
-set stringof_session_id="article : (po),(ru)"
+set stringof_session_id="article : (sp)"
 set stringof_session_id="article : (ko),(cn)"
 -----------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (sp)"
 
+set stringof_session_id="article : (po),(ru)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
