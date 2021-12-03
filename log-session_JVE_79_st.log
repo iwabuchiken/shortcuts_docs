@@ -1,0 +1,163 @@
+###2021年12月3日8:43:30
+>>s-5
+	
+	https://duckduckgo.com/?q=砂防ダム&ia=web
+	
+	砂防堰堤 https://ja.wikipedia.org/wiki/砂防堰堤
+		河床の過度な洗堀を防止
+		words
+			河床
+			洗堀
+			
+		堰堤 意味	s:
+			https://dictionary.goo.ne.jp/word/堰堤/
+				えん‐てい
+				堤防 / 内包
+				ダムより小規模 / ～ではない
+				川水を他に引いたり / 目的
+				think
+					区別：堤防との違い：構築物の、形状か。「堤防」は、河川に沿って設置されたもの。「堰堤」は、流れを横断して、設置。
+
+		*堰 意味	s: https://duckduckgo.com/?q=堰+意味&ia=web
+			https://ja.wikipedia.org/wiki/堰
+				せき
+				構造物 / 内包 https://ja.wikipedia.org/wiki/内包と外延
+				堤防の機能をもたない / ～ではない
+				河川を横断する形で / 直示的定義 https://ja.wikipedia.org/wiki/直示的定義 https://ja.wikipedia.org/wiki/Category:定義
+				流水を制御するため	/ 目的
+			https://dictionary.goo.ne.jp/word/堰_(せき)/
+				動詞「塞 (せ) く」の連用形から
+				流水をせき止める / 目的
+		*堤 意味		/ s:
+			https://dictionary.goo.ne.jp/word/堤/
+				包むものの意 / 語源
+				水をためた池 / 外延
+				土を高く盛り上げたもの / 直示
+				水があふれないように / 目的
+				
+		*堤防 意味	/ s:
+			https://dictionary.goo.ne.jp/word/堤防/#jn-150396
+				構築物 / 内包
+				河川の氾濫[...]防ぐため / 目的
+				堤 (つつみ)  / 類似
+				think
+					堤との違い：「氾濫」が、念頭にある				related
+					words
+						天端
+						小段
+						犬走り
+		*川水 読み方		/ s:
+			https://kotobank.jp/word/川水-2025472
+				かわみず
+			https://furigana.info/w/川水
+				かわみず	50.0%
+				かはみづ	33.3%
+				みづ	16.7%
+		
+		*堤防 犬走り		/ s:
+			https://ja.wikipedia.org/wiki/犬走り
+				細長い通路 / 内包
+				犬が通れるくらいの幅 / 語源
+				監視員の歩行路 / 目的
+				構造物保護 (軒下の犬走り) / 目的
+				築地とその外側の溝との間に設けられた平地 / 種類
+		related
+    		*突堤 https://dictionary.goo.ne.jp/word/突堤/#jn-159412
+			*土手 https://dictionary.goo.ne.jp/word/土手/#jn-159533
+				think
+					「堤（つつみ）」との違い：「土手」は、その向こうに、河川がなくても、「土手」。「堤」の向こうに、河川がないと、「堤」とは、呼ばない。習慣として、使用を続けることはある。
+
+]9:43:08
+
+
+###
+
+
+@@@
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+===============================
+
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+
+
+###2021年11月19日15:44:13
+========================== folder
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books
+
+====== 2021年11月23日1:10:23
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\79_st
+
+=================== file : list-of-books.txt
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
+
+###2021年11月30日16:43:22
+=================== file : batch file
+
+C:\WORKS_2\shortcuts_docs\start_log_JVE_79_st.bat
+
+###2021年11月9日0:35:58
+========================== url : cake
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=JVE+79%23&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年11月29日18:01:06
+
+lib
+
+190001550002
+makemeaning
+
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
+set stringof_session_id=""
+
+--------------------------
+C:\WORKS_2\start_a.bat
+
+set stringof_project_id="JVE_79_st : %stringof_session_id:"=%" 
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+
+
+###2021年11月10日1:25:08
+========================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
