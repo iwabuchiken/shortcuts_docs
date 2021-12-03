@@ -370,7 +370,7 @@
 
 ###2021年12月2日17:00:14
 
-	>>
+	>> 134_yamamoto_ieyasu
 	
 		https://ja.wikipedia.org/wiki/織田信雄
 			おだ のぶかつ、のぶお
@@ -423,14 +423,66 @@
 
 	]17:00:58
 
+###2021年12月3日17:04:00
+	
+	>> 134_yamamoto_ieyasu
+	
+		https://ja.wikipedia.org/wiki/豊臣秀頼
+			豊臣秀吉の三男
+			茶々（淀殿）の第二子
+			生誕	文禄2年8月4日（1593年8月28日）
+			死没	慶長20年5月8日（1615年6月4日）[1]
+		
+		https://ja.wikipedia.org/wiki/千姫
+			豊臣秀頼・本多忠刻の正室
+			父は徳川秀忠
+			生誕	慶長2年4月11日[1]（1597年5月26日） 山城国伏見城（現 京都市伏見区）
+			死没	寛文6年2月6日（1666年3月11日） 江戸（現 東京都）
+		
+		https://ja.wikipedia.org/wiki/松平信康
+			母は関口親永（瀬名義広）の娘で今川義元の姪・築山殿
+			生誕	永禄2年3月6日（1559年4月13日）
+			死没	天正7年9月15日（1579年10月5日）
+		
+		*https://ja.wikipedia.org/wiki/分国法
+			訴訟の公平性を確保 / 目的
+			分国支配の実情を反映
+			家法（かほう）と、[...]国法（こくほう）に区別
+		
+			https://ja.wikipedia.org/wiki/分国
+				中世における1国の単位
+				平安時代の知行国にあたる
+			
+			https://ja.wikipedia.org/wiki/知行
+				歴史概念
+				日本の中世・近世
+				所領支配権
+		
+		*https://ja.wikipedia.org/wiki/建武式目
+			室町幕府の施政方針
+			延元元年/建武3年11月7日（1336年12月10日）
+		
+		*奥書き	s:
+			https://dictionary.goo.ne.jp/word/奥書/
+				書き入れ
+				巻末
+				
+			https://ja.wikipedia.org/wiki/奥付#表記
+				奥付（）[..]書誌に関する事項（書誌事項）が記述されている部分
+				奥書（）[...]写本の巻末に、筆写者がその本の来歴などを記録したもの
+		
+		問注所	s:
+			https://ja.wikipedia.org/wiki/問注所
+				機関
+				訴訟事務を所管する
+				「問注」とは、
+					[...]双方から審問・対決させる
+					[...]内容を文書記録
+				平安期には[..]特定の場所は定められていなかった
+
 ###
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -507,13 +559,15 @@ set stringof_session_id="137.1_ikki"
 set stringof_session_id="137.2_shigetoki_rokuhara
 
 set stringof_session_id="138.1_ryoujin"
-set stringof_session_id="134_yamamoto_ieyasu"
+
 set stringof_session_id="139.1_kaidou"
+set stringof_session_id="114_hirata"
 
 --------------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="114_hirata"
+set stringof_session_id="134_yamamoto_ieyasu"
+
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
