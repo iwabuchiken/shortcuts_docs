@@ -407,14 +407,25 @@
 
 ]17:54:37
 	
+###2021年12月3日16:38:01
+
+	>> 114_hirata
+		
+		.25
+		漢字 心 皇
+			https://kanji.jitenon.jp/kanjih/3588.html
+				惶
+				コウ
+				おそれる。
+				おそれかしこまる。
+		吾屋惶根
+			https://ja.wikipedia.org/wiki/オモダル・アヤカシコネ
+
+	]17:00:58
+
 ###
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -501,9 +512,8 @@ set stringof_session_id="139.1_kaidou"
 
 --------------------------
 C:\WORKS_2\start_a.bat
+
 set stringof_session_id="114_hirata"
-
-
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
