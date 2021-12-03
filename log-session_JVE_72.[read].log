@@ -209,7 +209,7 @@
 
 		"결의대회를 마무리하며 이선희 " / page
 
-		http://worknworld.kctu.org/news/articleView.html?idxno=404575
+		http://worknworld.kctu.org/news/articleView.html?idxno=404575	##d:20211203_111241
 		
 			n: "이옥형 위원장은 " / page
 		
@@ -261,6 +261,27 @@
 		
 		]21:40:44
 
+###2021年12月3日11:12:24
+
+	>> (ko)
+		-->##d:20211203_111241
+		
+			"이옥형 위원장은 " / page
+		
+		n:
+			https://worknworld.kctu.org/news/articleView.html?idxno=404596	##d:20211203_114202
+
+	>> (cn)
+
+		https://opinion.huanqiu.com/article/45BfP1ILPCM	##d:20211203_114210
+		
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211203_114110_782032.txt
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211203_114953_370018.txt
+			
+			n: "另一数据显示" / page
+		
+		]11:54:12
+
 ###
 
 @@@
@@ -286,8 +307,33 @@
 
 
 
+
 ###
 
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
 
 
 
@@ -459,13 +505,10 @@ set stringof_session_id="article : (po)"
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
 set stringof_session_id="article : (sp)"
-set stringof_session_id="article : (ko),(cn)"
+set stringof_session_id="article : (po),(ru)"
 -----------------------
 C:\WORKS_2\start_a.bat
-
-
-set stringof_session_id="article : (po),(ru)"
-
+set stringof_session_id="article : (ko),(cn)"
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
