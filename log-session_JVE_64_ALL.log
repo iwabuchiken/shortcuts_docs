@@ -480,9 +480,81 @@
 					[...]内容を文書記録
 				平安期には[..]特定の場所は定められていなかった
 
+###2021年12月4日15:44:08
+
+	>> 134_yamamoto_ieyasu
+	
+		北条早雲
+			生誕	生年未詳
+			死没	永正16年8月15日（1519年9月8日）
+			号は早雲庵宗瑞（そううんあんそうずい
+			姓は伊勢から改称して北条を称したのは早雲の死後、
+		
+		https://ja.wikipedia.org/wiki/伊奈忠次
+			いな ただつぐ
+			生誕	天文19年（1550年）
+			死没	慶長15年6月13日（1610年8月1日）
+			父・忠家が三河一向一揆に加わるなどして徳川家康の下を出奔
+			天正3年（1575年）の長篠の戦いに陣借りをして従軍して功を立て、漸く帰参
+			信康が武田氏との内通の罪により自刃させられると再び出奔
+			家康を本国へと脱出させた伊賀越えに小栗吉忠らと共に貢献
+			駿・遠・三の奉行職
+		
+		https://ja.wikipedia.org/wiki/申次衆
+			もうしつぎしゅう
+			室町幕府の職名
+			元来は天皇や院に奏聞を取次ぐ役目をする人物
+			御相伴衆・御供衆・御部屋衆に次ぐ家格
+		
+		本多正信 https://ja.wikipedia.org/wiki/本多正信
+			三河一向一揆に与して
+		
+		.111
+		誓詞 意味
+			https://kotobank.jp/word/誓詞-545209
+				役職就任には御役誓詞(起請文)を提出
+		起請文 意味
+			https://kotobank.jp/word/起請文-50517
+				起請とは、
+					神仏に呼びかけて、
+					もし自己の言が偽りならば、
+					神仏の罰を
+					受くべきこと
+					を誓約すること
+				起請の内容を記した部分を前書
+		
+		.112
+		増田長盛 https://ja.wikipedia.org/wiki/増田長盛
+			ました ながもり
+			生誕	天文14年（1545年）
+			死没	元和元年5月27日（1615年6月23日）
+			天正元年（1573年）、[...]羽柴秀吉（後の豊臣秀吉）に召し出され
+	
+	]17:36:44
+
 ###
 
 @@@
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
 
 
 ###
@@ -571,6 +643,8 @@ set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
 
 ###2021年11月10日1:25:08
