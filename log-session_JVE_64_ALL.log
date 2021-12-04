@@ -532,14 +532,32 @@
 	
 	]17:36:44
 
+###2021年12月5日0:39:33
+
+	>> 139.1_kaidou
+		
+		.17
+		貞応 https://ja.wikipedia.org/wiki/貞応
+			1222年から1224年
+			執権は北条義時、泰時。 
+			
+			https://ja.wikipedia.org/wiki/北条義時
+				第2代執権（1205年 - 1224年）
+				1219年に、[...]実質的な支配者
+				生誕	長寛元年（1163年）
+				死没	元仁元年6月13日（1224年7月1日）
+				
+			https://ja.wikipedia.org/wiki/承久の乱
+			（旧暦）承久3年6月
+			（ユリウス暦）1221年6月 
+
+		https://ja.wikipedia.org/wiki/瀬田の唐橋
+
+	]1:55:38
+
 ###
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -631,8 +649,6 @@ set stringof_session_id="137.1_ikki"
 set stringof_session_id="137.2_shigetoki_rokuhara
 
 set stringof_session_id="138.1_ryoujin"
-
-set stringof_session_id="139.1_kaidou"
 set stringof_session_id="114_hirata"
 
 --------------------------
@@ -640,6 +656,7 @@ C:\WORKS_2\start_a.bat
 
 set stringof_session_id="134_yamamoto_ieyasu"
 
+set stringof_session_id="139.1_kaidou"
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
