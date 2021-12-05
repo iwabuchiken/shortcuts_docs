@@ -3,24 +3,30 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-8-2~2 /  最小作用の原理 <https://yamyamphysics.matrix.jp/mechanics/leastaction.html>
+2
+r-2-7~1 / なぜルベーグ積分を学ぶのか 
+
+偏微分方程式への応用の観点から <https://math-fun.net/20191030/3320/>
 
 #1
-.1 子供のころ
-.2 力学において
-#2 フェルマーの原理を、
-.1 各経路は
-#3 話を力学に
-.1 実現するか
-.2 停留値であるとは、
-#4 考えている経路を [:2]
- 
- 
- 
- 
- 
- 
- 
+	s: 収束定理 リーマン積分 https://duckduckgo.com/?q=リーマン積分+収束定理&ia=web
+		docs
+			*#1~d-1 / リーマン積分 https://ja.wikipedia.org/wiki/リーマン積分
+				texts
+					#1
+					#2 定義（一次元の場合） https://ja.wikipedia.org/wiki/リーマン積分#定義（一次元の場合）
+					#3 リーマン和 https://ja.wikipedia.org/wiki/リーマン積分#リーマン和
+					#4 リーマン積分 https://ja.wikipedia.org/wiki/リーマン積分#リーマン積分
+					.1 リーマン可積分
+					.2 重要なことは、
+					==> ENOUGH
+			非有界区間に於ける広義リーマン積分の条件収束 http://www.ozawa.phys.waseda.ac.jp/pdf/conditional.pdf
+.1 しかし、ルベーグ積分を
+#2 偏微分方程式の解を一般的に求めるために https://math-fun.net/20191030/3320/#i
+.1 すべての現象が
+.2 そもそも、一般の
+	programming
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\76_physics\s-47\s-47.py
  
  
  
