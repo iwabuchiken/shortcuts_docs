@@ -555,8 +555,30 @@
 
 	]1:55:38
 
-###
+###2021年12月5日10:52:24
 
+	>> 139.1_kaidou
+
+		.18
+		千巌 意味
+			
+			https://yoji.jitenon.jp/yojii/4352.html
+				千巌万壑
+				読み方	せんがんばんがく
+				景色
+				 「巌」は険しい岩山。
+		
+		清見が関
+			https://ja.wikipedia.org/wiki/清見関
+				駿河国庵原郡
+				（現・静岡県静岡市清水区興津）[おきつ
+			
+			広袤 意味
+				https://dictionary.goo.ne.jp/word/広袤/
+					こうぼう
+					
+			
+		
 @@@
 
 
@@ -661,7 +683,9 @@ set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
 
-C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
+
+
+rem C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
 
 ###2021年11月10日1:25:08
