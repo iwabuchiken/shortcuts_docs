@@ -3,30 +3,26 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-2
-r-2-7~1 / なぜルベーグ積分を学ぶのか 
-
-偏微分方程式への応用の観点から <https://math-fun.net/20191030/3320/>
-
+r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
 #1
-	s: 収束定理 リーマン積分 https://duckduckgo.com/?q=リーマン積分+収束定理&ia=web
+.1 ルベーグ積分の最大の特
+	s: 可算集合　有理数　定理
 		docs
-			*#1~d-1 / リーマン積分 https://ja.wikipedia.org/wiki/リーマン積分
-				texts
-					#1
-					#2 定義（一次元の場合） https://ja.wikipedia.org/wiki/リーマン積分#定義（一次元の場合）
-					#3 リーマン和 https://ja.wikipedia.org/wiki/リーマン積分#リーマン和
-					#4 リーマン積分 https://ja.wikipedia.org/wiki/リーマン積分#リーマン積分
-					.1 リーマン可積分
-					.2 重要なことは、
-					==> ENOUGH
-			非有界区間に於ける広義リーマン積分の条件収束 http://www.ozawa.phys.waseda.ac.jp/pdf/conditional.pdf
-.1 しかし、ルベーグ積分を
-#2 偏微分方程式の解を一般的に求めるために https://math-fun.net/20191030/3320/#i
-.1 すべての現象が
-.2 そもそも、一般の
-	programming
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\76_physics\s-47\s-47.py
+			数学32 (有理数は可算集合か) https://ameblo.jp/invertible/entry-10746020703.html
+			集合の濃度と可算無限・非可算無限 https://manabitimes.jp/math/925
+#2 積分とはなにか，
+.1 なわち，積分とは
+	s: コンパクト集合
+ 		docs
+ 			コンパクト集合 https://wiis.info/math/euclidean-space/topology/compact-set/
+ 				<= good
+ 			位相空間論のコンパクト性についての例題 https://www.k-pmpstudy.com/entry/2019/02/03/topsCompact
+ 				<= also-good
+#3 1.2 区間上のリーマン積分 [:2]
+ 
+ 
+ 
+ 
  
  
  
