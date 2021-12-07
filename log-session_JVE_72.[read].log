@@ -282,8 +282,19 @@
 		
 		]11:54:12
 
-###
+###2021年12月7日12:53:33
 
+	>> (ko)
+		-->##d:20211203_114202
+		
+		n: "고진수 관광레저산업노조" [:2] / page
+		
+	(cn)
+		-->##d:20211203_114210
+		"另一数据显示" / page
+		
+		n: "客观而言，"
+		
 @@@
 
 
@@ -508,6 +519,7 @@ set stringof_session_id="article : (sp)"
 set stringof_session_id="article : (po),(ru)"
 -----------------------
 C:\WORKS_2\start_a.bat
+
 set stringof_session_id="article : (ko),(cn)"
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
