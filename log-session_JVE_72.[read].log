@@ -299,7 +299,14 @@
 
 
 ###
-
+	
+	>> (sp) -->##d:20211129_212413
+	
+		"Contra un proyecto "
+		
+		n: "Cada vacuna creada y aplicada, "
+		
+		]21:48:41
 
 
 
@@ -515,12 +522,13 @@ set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (po)"
 set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
-set stringof_session_id="article : (sp)"
+set stringof_session_id="article : (ko),(cn)"
 set stringof_session_id="article : (po),(ru)"
 -----------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (ko),(cn)"
+set stringof_session_id="article : (sp)"
+
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p

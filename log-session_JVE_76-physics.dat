@@ -4,23 +4,11 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
-#1
-.1 ルベーグ積分の最大の特
-	s: 可算集合　有理数　定理
-		docs
-			数学32 (有理数は可算集合か) https://ameblo.jp/invertible/entry-10746020703.html
-			集合の濃度と可算無限・非可算無限 https://manabitimes.jp/math/925
-#2 積分とはなにか，
-.1 なわち，積分とは
-	s: コンパクト集合
- 		docs
- 			コンパクト集合 https://wiis.info/math/euclidean-space/topology/compact-set/
- 				<= good
- 			位相空間論のコンパクト性についての例題 https://www.k-pmpstudy.com/entry/2019/02/03/topsCompact
- 				<= also-good
 #3 1.2 区間上のリーマン積分 [:2]
- 
- 
+.1 が与えられたとき，各
+	words
+		代表点集合
+.2 定義（リーマン可積分性
  
  
  
