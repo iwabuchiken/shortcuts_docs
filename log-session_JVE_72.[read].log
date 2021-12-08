@@ -295,7 +295,7 @@
 		
 		n: "客观而言，"
 		
-@@@
+
 
 
 ###
@@ -308,17 +308,20 @@
 		
 		]21:48:41
 
+###2021年12月8日13:28:38
 
-
+	>> (ko)
+		-->##d:20211203_114202
+		
+		"고진수 관광레저산업노조" [:2] / page
+	
+		n:
+			https://worknworld.kctu.org/news/articleView.html?idxno=403328		##d:20211208_135059
+	
 ###
 
 
-
-
-###
-
-
-
+@@@
 
 ###
 
@@ -358,6 +361,7 @@
 
 
 ##################
+: git
 =========================================
 ###
 taskkill /f /im javaw.exe
@@ -520,14 +524,15 @@ rem set stringof_project_id="read : %stringof_session_id:"=%"
 set stringof_session_id="article : (ru)"
 
 set stringof_session_id="article : (po)"
-set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (sp)"
 set stringof_session_id="article : (cn)"
 set stringof_session_id="article : (ko),(cn)"
 set stringof_session_id="article : (po),(ru)"
 -----------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (sp)"
+
+set stringof_session_id="article : (ko)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 

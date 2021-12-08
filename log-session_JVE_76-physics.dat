@@ -4,11 +4,13 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
-#3 1.2 区間上のリーマン積分 [:2]
-.1 が与えられたとき，各
-	words
-		代表点集合
-.2 定義（リーマン可積分性
+#3.2 定義（リーマン可積分性
+*.3 積分可能であるということは
+	related
+		#3.3~d-1 / 上界 https://ja.wikipedia.org/wiki/順序集合#上界
+.4 関数が「積分可能かどうか
+#4 リーマン可積分性の判定方法 [:2]
+ 
  
  
  
