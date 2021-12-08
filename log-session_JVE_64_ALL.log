@@ -716,14 +716,20 @@
 
 ]11:28:19
 
+###2021年12月8日16:39:57
+	
+	>> -->##id=39G2
+	
+	
+	http://www.museum.pref.yamanashi.jp/pdfdata/20200425komonjo_at_%20home.pdf
+	
+		読めない文字が多くて
+		
+
+
 ###
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -808,12 +814,15 @@ set stringof_session_id="137.2_shigetoki_rokuhara
 set stringof_session_id="138.1_ryoujin"
 set stringof_session_id="114_hirata"
 
+
 --------------------------
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_session_id="139.1_kaidou"
+
+set stringof_session_id="texts : id=39G2"
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
