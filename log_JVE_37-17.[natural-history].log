@@ -550,10 +550,52 @@ https://ko.wikipedia.org/wiki/페퍼민트
 			멘톨 https://ko.wikipedia.org/wiki/박하뇌
 			
 
+###2021年12月9日0:53:52
 
+	https://ja.wikipedia.org/wiki/カブ
+		春の七草の1つ
+		科 	: 	アブラナ科 Brassicaceae
+		属 	: 	アブラナ属 Brassica
+		栄養価
+			根の部分[...]水分が約94%
+			ダイコンの根の部分の栄養素とほぼ同じ
+			アミラーゼ（ジアスターゼ） / たくさん含まれている
+			刺激性辛味物質の元となっている / グルコシノレート
+			加熱調理して食べることによって / 肝臓の解毒作用 / 活性化させる
+			葉の部分
+				β-カロテン / 可食部100グラム (g) 中 / 2800ミリグラム (mg)
+			葉付き置くと / 根の部分の水分が蒸発
+			薬用
+				しもやけ / すりおろしたカブの塊根 / 患部に貼る
+			野沢菜（カブナ）
 
+]1:09:01
+
+###
 
 @@@
+
+###
+
+
+
+###
+
+
+
+###
+
+
+
+###
+
+
+
+###
+
+
+
+: git
 ================================
 
 
@@ -613,8 +655,20 @@ https://ko.wikipedia.org/wiki/페퍼민트
 
 
 
--------------------------------------- resources
-C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
+----------------------------------- resources
+###2021年12月9日1:09:47
+========================== closing : git
+
+C:\WORKS_2\start_a.bat
+
+set stringof_session_id="かぶ"
+
+set stringof_project_id="JVE_37-17 : nh : %stringof_session_id:"=%" 
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && r oj && git add . && git commit -m %stringof_project_id% && e && git push origin master
+
+
+rem C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:3_repo) periodical updates" && e && git push origin master
 
 C:\WORKS_2\a && r oj && git add . && git commit -m "(JVEMV6:41_econ:7_topics:5) periodical updates" && e && git push origin master
 
