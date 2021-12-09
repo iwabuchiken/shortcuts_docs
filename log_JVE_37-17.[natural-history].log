@@ -582,11 +582,32 @@ https://ko.wikipedia.org/wiki/페퍼민트
 	
 	]1:18:30
 	
+###2021年12月10日0:59:19
+
+	https://ja.wikipedia.org/wiki/ダイコン
+		科 	: 	アブラナ科 Brassicaceae
+		属 	: 	ダイコン属 Raphanus
+		葉はビタミンA
+		汁はビタミンCやジアスターゼ
+		春の七草の一つ「すずしろ」
+		消化酵素を含有
+		根の部分は両側一列ずつ二次根
+		仁徳天皇の歌に「於朋泥」（おほね）
+		一般に食べられるようになったのは江戸時代から
+		サキとよばれる先端部分は汁が少なく辛味
+	
+	n: comp.
+		maybe
+			ジアスターゼ
+	
+	]1:08:11
+	
+
+
 ###
+
 
 @@@
-
-###
 
 
 
@@ -673,6 +694,7 @@ https://ko.wikipedia.org/wiki/페퍼민트
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="かぶ"
+set stringof_session_id="大根"
 
 set stringof_project_id="JVE_37-17 : nh : %stringof_session_id:"=%" 
 
