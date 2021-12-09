@@ -338,6 +338,14 @@
 
 ###
 
+	>> -->##d:20211208_135059
+	
+		n: "조리부에서 일하고 있는 조종래조합원이 자신의 심경을"
+
+	]22:15:43
+	
+
+###
 
 @@@
 
@@ -367,13 +375,9 @@
 
 
 
-###
-
-
-
-
 
 ##################
+XXX
 : git
 =========================================
 ###
@@ -540,11 +544,13 @@ set stringof_session_id="article : (po)"
 set stringof_session_id="article : (sp)"
 set stringof_session_id="article : (cn)"
 set stringof_session_id="article : (ko),(cn)"
-set stringof_session_id="article : (ko)"
+
 -----------------------
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="article : (po),(ru)"
+
+set stringof_session_id="article : (ko)"
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
