@@ -4,15 +4,28 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
-#3.2 定義（リーマン可積分性
-*.3 積分可能であるということは
-	related
-		#3.3~d-1 / 上界 https://ja.wikipedia.org/wiki/順序集合#上界
-.4 関数が「積分可能かどうか
-#4 リーマン可積分性の判定方法 [:2]
-.1 さらに， [:1]
-.2 このとき，以下が
 #4.3 定理1.0（積分可能性の判定，
+#5 1.4 極限とリーマン積分 [:3]
+.1 一方， [:2]
+	words
+		各点収束
+	s: 各点収束 関数 https://duckduckgo.com/?q=各点収束+関数&ia=web
+		docs
+			#5.1~d-1 / 各点収束と一様収束の違いと具体例 https://manabitimes.jp/math/1099
+				texts
+					#1
+					#2 一様収束の定義と具体例
+			一様収束と各点収束の違いを4つの例とともに理解する https://mathlandscape.com/uniformly-pointwise-convergence/
+#.2 また，各
+	words
+		ディリクレ関数
+			docs
+				積分可能ではない関数の例: デ ィ リ ク レ
+Dirichlet関数 https://www.libe.nara-k.ac.jp/~yano/biseki2_2015/20151007_resume.pdf
+.3 例2（極限の
+				
+ 
+ 
  
  
  
