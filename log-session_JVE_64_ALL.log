@@ -836,15 +836,33 @@
 			
 	]12:04:43
 
+###2021年12月10日16:49:02
+
+	>> -->##id=39G2
+	
+	s: 古文書 翻刻
+		https://duckduckgo.com/?t=ffsb&q=古文書+翻刻&ia=web
+		
+		https://www.library.yonezawa.yamagata.jp/dg/honkoku.html	【翻刻（活字）表示の資料】
+		
+		古典籍資料（貴重書等）　解題・翻刻のある資料一覧 https://dl.ndl.go.jp/ja/kaidai.html
+		
+		https://dl.ndl.go.jp/info:ndljp/pid/1288414	足利将軍御教書
+			<== 翻刻あり
+		
+		https://dl.ndl.go.jp/ja/kaidai.html#idx4	和漢書－翻刻
+		
+	>> 
+		https://www.library.yonezawa.yamagata.jp/dg/GL034.html	##140-2
+
+	n: -->##140-2
+
+]18:01:34
+
 ###
 
 
 @@@
-
-
-###
-
-
 
 
 ###
@@ -936,11 +954,13 @@ C:\WORKS_2\start_a.bat
 
 set stringof_session_id="139.1_kaidou"
 
-set stringof_session_id="texts : id=39G2"
+
 
 set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_session_id="135-62.2_sanka"
+
+set stringof_session_id="140(texts) no.2"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
