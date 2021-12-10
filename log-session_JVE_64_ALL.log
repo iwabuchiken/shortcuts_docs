@@ -859,16 +859,45 @@
 
 ]18:01:34
 
+###2021年12月11日1:06:16
+
+	>> 135-62.2_sanka
+	
+		仕事歌 意味
+			https://ja.wikipedia.org/wiki/木遣
+			https://ja.wikipedia.org/wiki/労働歌#戦前の歌
+			https://ja.wikipedia.org/wiki/追分#追分節
+		
+		.59
+		漢字 手偏 島
+			https://kanji.jitenon.jp/kanjih/3714.html
+				うすの中にもち米などを入れてつく
+				
+		漢字 ごんべん 風
+			https://kanji.jitenon.jp/kanjij/4986.html
+				諷
+				そらで読む
+		
+		諷なす 意味
+		
+		漢字 草かんむり 律
+			葎
+			https://kanji.condb.link/1578/
+				アカネ科の植物のムグラ
+			https://kanji.jitenon.jp/kanjif/2973.html
+				クワ科の一年草
+			
+			https://duckduckgo.com/?q=ムグラ&iax=images&ia=images
+			
+		
+	n: any
+	
+	]1:55:37
+
 ###
 
 
 @@@
-
-
-###
-
-
-
 
 ###
 
@@ -948,19 +977,12 @@ set stringof_session_id="137.2_shigetoki_rokuhara
 set stringof_session_id="138.1_ryoujin"
 set stringof_session_id="114_hirata"
 
-
+set stringof_session_id="139.1_kaidou"
+set stringof_session_id="134_yamamoto_ieyasu"set stringof_session_id="140(texts) no.2"
 --------------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="139.1_kaidou"
-
-
-
-set stringof_session_id="134_yamamoto_ieyasu"
-
 set stringof_session_id="135-62.2_sanka"
-
-set stringof_session_id="140(texts) no.2"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
