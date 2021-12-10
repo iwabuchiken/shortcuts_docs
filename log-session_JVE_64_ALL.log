@@ -760,16 +760,86 @@
 		https://ja.wikipedia.org/wiki/徳川家康
 			在任1603年 - 1605年
 
+###2021年12月10日10:53:04
+
+	>> 135-62.2_sanka
+		
+		.58
+		
+		内題 意味
+		
+			https://kotobank.jp/word/内題-587217
+				本文巻首
+				特に本文第1行にある書名
+				江戸末期までは[...]内題がくわしかった
+		
+		*序文題 意味
+		
+		*unrelated		]11:36:57
+			傷　寒　論 https://web.archive.org/web/20040418215636/http://homepage3.nifty.com/kojindo/unicheck/uni_s_z.htm
+			『難経』の書名についての一考察 https://www.jstage.jst.go.jp/article/kampomed/70/2/70_175/_pdf
+			https://zh.wikipedia.org/zh-cn/神农本草经
+			玉石上品 / 神農本草經 卷一 上經 https://www.theqi.com/cmed/oldbook/sn_herb/
+			【岐黄之术】 > 中医本草 > 《神农本草经》 http://qihuangzhishu.com/104/8.htm
+			http://zhongyaocai360.com/zhongyao/dansha.html
+			http://cht.a-hospital.com/w/云母
+				功效作用 	安神鎮驚；止血斂瘡
+			https://cosmetic-ingredients.org/coloring-agent/マイカの成分効果と毒性/
+			
+		
+		板心 意味
+			古典籍の部位 https://www.library.pref.osaka.jp/site/osaka/kosho-bui.html
+				はんしん
+				袋綴じした版本の中央部分
+		
+		跋文 意味
+			https://kotobank.jp/word/跋文-603004
+				あとがき
+		
+		写本系 意味
+			https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12200336852
+				語り本系や読み本系
+				
+		伝本 意味
+			https://kotobank.jp/word/伝本-578962
+				現在まで伝わっている
+		
+		蒐 意味
+			https://dictionary.goo.ne.jp/word/kanji/蒐/
+				あかね。アカネ科の多年草
+		
+		*俗謡 意味		]11:57:49
+			https://kotobank.jp/word/俗謡-554111
+				民謡を都会化し
+		
+			https://ja.wikipedia.org/wiki/俗謡
+				民謡 / 本来あった地域を離れて \ 都市部に流入
+			
+			俗謡(ぞくよう)／俗曲(ぞっきょく)／流行歌(りゅうこうか)／歌謡曲(かようきょく) の類語・言い換え https://dictionary.goo.ne.jp/thsrs/11242/meaning/m0u/
+			
+			
+			https://dictionary.goo.ne.jp/word/俗曲/#jn-130790
+				短い
+				三味線声曲
+			
+			https://dictionary.goo.ne.jp/word/端唄/#jn-174555
+				三味線音楽の一種
+				江戸後期から幕末にかけて江戸で
+			
+			https://dictionary.goo.ne.jp/word/地歌/#jn-93455
+				土地の歌
+				
+				/三味線声曲の一種
+				上方 (かみがた) を中心
+				
+				/趣向をこらすことなく軽く詠んだ歌
+			
+	]12:04:43
+
 ###
 
 
 @@@
-
-
-
-###
-
-
 
 
 ###
@@ -869,6 +939,8 @@ set stringof_session_id="139.1_kaidou"
 set stringof_session_id="texts : id=39G2"
 
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="135-62.2_sanka"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
