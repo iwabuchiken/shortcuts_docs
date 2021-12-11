@@ -5,37 +5,18 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
 
-#5.3 例2（極限の
-	graph
-		https://www.desmos.com/calculator/k4h2l3nzgl
-	s: ネイピア数 テイラー展開 https://duckduckgo.com/?q=ネイピア数+テイラー展開&ia=web
-		docs
-			log xのn階微分とテイラー展開 https://manabitimes.jp/math/1180
-				<= want-to-read
-			第 5 章 テイラー級数展開 http://wwwa.pikara.ne.jp/yoshifumi/IA/IA-5.pdf
-				<= good : 証明あり
-				texts
-					#XX ex のマクローリン級数展開 /:1
-					#XX 5.3 解析接続(実領
-			e^xに関するメモ、テイラー展開 https://donsyoku.com/zakki/expx.html
-			テイラーの定理とその応用1 http://www7b.biglobe.ne.jp/~h-kuroda/pdf/hokudai2020/2020_C_slide6.pdf
-				<= want-to-read
-			テイラー展開・マクローリン展開はどう使うのか？関数をシンプルに考える近似のテクニック https://atarimae.biz/archives/10258
-	graph-desmos
-		https://www.desmos.com/calculator/lnithpx5gd
-		ガンマ関数 https://www.desmos.com/calculator/jl7cqoh1tn
-#5.4 途中の 
-	related
-		#5.4~d-1 / ガンマ関数 https://ja.wikipedia.org/wiki/ガンマ関数
-			texts
-				#s.1 実部が正となる複素数
-		#5.4~d-2 / リーマンゼータ関数 https://ja.wikipedia.org/wiki/リーマンゼータ関数
-			texts
-				#s.1 ガンマ関数を用いれば、
 #5.5 “ = ” の部分は
- 
- 
- 
+#6 1.5 ルベーグ積分のアイディア /:2
+	s: 極限の順序交 https://duckduckgo.com/?q=極限の順序交&ia=web
+		docs
+			極限操作（微分・積分・lim）の交換：定理と反例 https://www.mynote-jp.com/entry/interchange-of-limiting-operations
+				<= good
+				<= 証明あり
+			積分と極限の順序交換定理(アルゼラの定理)  https://motochans.blogspot.com/2020/07/blog-post.html
+				<= ok
+				<= 証明あり
+.1 1.6 演習問題 /:2
+#7 2.1 ルベーグ測度に期待される性質 /:2
  
  
  
