@@ -1034,9 +1034,68 @@
 				
 		
 		能 舞い方
+
+###2021年12月12日16:54:28
+	
+	>> 134_yamamoto_ieyasu
+	
+		.134
+		*武家諸法度 翻刻	]17:29:12
+		
+			https://duckduckgo.com/?q=武家諸法度+全文&ia=web
 			
+			https://trc-adeac.trc.co.jp/WJ11E0/WJJS06U/3420905100/3420905100200010/ht000030
+				武家諸法度〈大橋殿真筆〉　釈文
+					<== this
+				https://base5.nijl.ac.jp/infolib/meta_pub/cresult
+				
+				http://www.hh.em-net.ne.jp/~harry/komo_hatto_main.html
+					==> 現代語訳
+			
+		.137
+		漢字 巧 のまた
+		https://kanji.jitenon.jp/kanjim/6195.html
+			攷
+			音読み	コウ
+			訓読み	かんが（える）
+			たた（く）
+
+	>> ##140-3
+	
+	]18:08:10
+
+
+###
+
 
 @@@
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
 
 
 
@@ -1145,12 +1204,14 @@ set stringof_session_id="138.1_ryoujin"
 set stringof_session_id="114_hirata"
 
 set stringof_session_id="139.1_kaidou"
-set stringof_session_id="134_yamamoto_ieyasu"set stringof_session_id="140(texts) no.2"
+set stringof_session_id="134_yamamoto_ieyasu"sset stringof_session_id="140(texts) no.2"
+
 --------------------------
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="135-62.2_sanka"
 
+set stringof_session_id="140(texts) no.3"
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat

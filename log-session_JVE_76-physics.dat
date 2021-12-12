@@ -5,19 +5,9 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
 
-#5.5 “ = ” の部分は
-#6 1.5 ルベーグ積分のアイディア /:2
-	s: 極限の順序交 https://duckduckgo.com/?q=極限の順序交&ia=web
-		docs
-			極限操作（微分・積分・lim）の交換：定理と反例 https://www.mynote-jp.com/entry/interchange-of-limiting-operations
-				<= good
-				<= 証明あり
-			積分と極限の順序交換定理(アルゼラの定理)  https://motochans.blogspot.com/2020/07/blog-post.html
-				<= ok
-				<= 証明あり
-.1 1.6 演習問題 /:2
 #7 2.1 ルベーグ測度に期待される性質 /:2
- 
- 
- 
- 
+.1 前章で紹介した
+.2 2.2 ルベーグ外測度の /:3
+.3 定義（ルベーグ外測度）
+.4 ただし，inf は以下の
+#7.5 例1 たとえば
