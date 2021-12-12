@@ -1,0 +1,244 @@
+###2021年12月12日8:56:12
+	
+	>> JVE_59_medical
+	
+	*s: 中国草本学		]9:44:06
+	https://duckduckgo.com/?t=ffsb&q=中国草本学&ia=webhttps://kotobank.jp/dictionary/nipponica/1361/
+		https://kotobank.jp/word/本草学-632284
+			> 日本大百科全書(ニッポニカ)
+			ほんぞうがく
+			異物同名品
+			本草考察
+			正品	/w
+				s: 基源 意味
+			本草書
+			医方書 /w
+				s: 医方書 意味
+				https://duckduckgo.com/?q=医方書+意味&t=ffsb&ia=web
+				第 5章　医方書・本草書における地衣 https://square.umin.ac.jp/mayanagi/students/kubo/chap5.html
+			版本によってかなり内容を異にする
+				*https://kotobank.jp/word/古医方-493679
+			s: 校定本 意味
+				https://kotobank.jp/word/校定-496682
+					他の伝本・資料と比較
+					本来あるべき形を特定する
+				
+				https://dictionary.goo.ne.jp/word/校本/
+					こう‐ほん〔カウ‐〕
+					異本を校合 (きょうごう)
+					本文の異同を示した本
+					
+	n: https://kotobank.jp/word/本草-135115
+
+###2021年12月12日9:57:46
+
+	>> JVE_59_medical
+		
+		https://ja.wikipedia.org/wiki/赭鞭会
+		
+		https://ja.wikipedia.org/wiki/イチョウ#イチョウ葉の薬理効果
+			主要なフラボノイド
+				ビフラボン
+				フラボノール
+					フラボノール配糖体
+				フラボン
+			テルペノイド
+				ギンコライド
+				ビロバライド
+			アルキルフェノール類
+				ギンコール酸
+					ヒトの癌細胞に対する増殖抑制作用
+			生理作用
+				抗/酸化
+				血液凝固 / 抑制
+				神経 / 保護
+				抗/炎症
+				
+				血液/循環 / 改善
+				血圧/上昇 / 抑制
+				血糖/上昇 / 抑制
+				
+				フラボノイド類
+ 					活性酸素やフリーラジカル / 消去作用
+						脂質 / 過酸化
+						血小板 / 凝集
+						炎症/反応
+					血小板/凝集 / 阻害効果
+					炎症細胞からの活性酸素/産生 / 抑制
+		n:
+			1. 상기 각 것. 예로, 플라보노이드. 그들에 대해 조사 하자.
+
+###
+
+@@@
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+XXX
+: git
+===============================
+
+###2021年12月12日9:42:09
+=============================== projects
+
+JVE_59_medical	C:\WORKS_2\shortcuts_docs\log_sesion_JVE_59_medical.log
+
+
+###2021年12月12日9:09:40
+=============================== comments
+
+<= know-this
+<= lets-read
+<= want-to-read
+<= lets-read-again
+<= lets-read-links
+<= lets-read-after-this
+
+<= this
+
+<= also-good
+<= good
+<= 証明あり
+
+<= ok
+
+<= not-understood
+
+
+
+--------------------------------------
+
+
+-------------------------------------- DOCS (Materials)
+------------------------------- TOPICS
+
+-------------------------------------- SYMBOLS
+#	complete
+*	started reading
+:w	keywords
+:?	want to know
+:m	memos
+:#1	bookmark
+:ref	refered document
+
+-------------------------------------- resources
+
+
+###2021年11月19日15:44:13
+========================== folder
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books
+
+====== 2021年11月23日1:10:23
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read
+
+=================== file : list-of-books.txt
+
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
+
+###2021年11月30日16:43:22
+=================== file : batch file
+
+C:\WORKS_2\shortcuts_docs\start_log_JVE_64_ALL.bat
+
+###2021年11月9日0:35:58
+========================== url : cake
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=JVE+64%23&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年11月29日18:01:06
+
+lib
+
+190001550002
+makemeaning
+
+
+
+###2021年11月5日0:36:08
+========================== closing : git
+
+--------------------------
+C:\WORKS_2\start_a.bat
+
+
+set stringof_session_id="natural-history (ns)"
+
+set stringof_session_id="medical"
+set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+
+
+
+rem C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
+
+
+###2021年11月10日1:25:08
+========================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
