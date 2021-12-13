@@ -1065,17 +1065,102 @@
 	]18:08:10
 
 
+###2021年12月13日10:45:43
+	
+	>> ##140-3
+	
+	n:
+		p.2
+	
+	]10:57:36
+
+	>> 134_yamamoto_ieyasu
+		
+		.138
+		
+		綺語 意味
+			https://dictionary.goo.ne.jp/word/綺語_(きご)/
+				/仏語。
+				十悪の一。
+				真実に反して
+				/小説・詩文の美辞麗句
+				きぎょ
+				related
+					https://kotobank.jp/word/十悪-526226
+		専要 意味
+			https://dictionary.goo.ne.jp/word/専要/
+				最も大事
+		
+		大納言
+			https://ja.wikipedia.org/wiki/大納言
+				官職のひとつ
+				四等官の次官（すけ）
+				官位相当 / 三品・四品または正三位
+				https://ja.wikipedia.org/wiki/官位相当制
+					位階と官職との間[...]相当関係
+					官人はまず
+						位階によって序列化
+						位階に応じた官職
+						
+				https://ja.wikipedia.org/wiki/位階	[11:26:09
+					個人の序列
+						地位
+						身分の序列
+						等級
+						後には、[...]栄典の一
+						位階を授与することを[...]叙位（じょい）
+		裳 読み方
+			https://dictionary.goo.ne.jp/word/裳_(も)/
+				女房の装束[...]腰部から下の後方
+				男子の礼服[...]表袴 (うえのはかま) の上
+		
+		禁中並びに公家諸法度
+		https://ja.wikipedia.org/wiki/禁中並公家諸法度#各条の内容
+			https://ja.wikipedia.org/wiki/僧正
+				官職（僧官）の一つ
+				僧と尼を統括
+				推古天皇32年（624年）4月13日に / 僧正・僧都と法頭を / 任ずることと
+				
+			https://ja.wikipedia.org/wiki/院家
+				出身身分に由来する / 僧侶の身分
+				皇族及び貴族身分 / 出身
+			
+			https://ja.wikipedia.org/wiki/僧綱
+				そうごう
+				日本における[...]僧官の職
+				624年に設置
+				平安遷都後は西寺に
+				819年には僧綱所の定員
+					僧正1名
+					大僧都1名
+					小僧都1名
+					律師4名
+			s: 僧都 意味
+				https://kotobank.jp/word/僧都-89481
+					僧正に / 次いで
+				
+				https://ja.wikipedia.org/wiki/和尚
+					敬称
+						呉音:わじょう
+						漢音:かしょう、
+						唐音:おしょう
+						梵: upādhyāya
+					upādhyāya の俗語形を音写
+					日常親しく教えを受けるグル
+					鑑真に対して / 「大和尚」の号
+		
+		https://ja.wikipedia.org/wiki/慶長		[12:07:58
+			1596年から1615年
+			文禄5年10月27日（グレゴリオ暦1596年12月16日）
+			慶長20年7月13日（グレゴリオ暦1615年9月5日） 元和に
+	
+		n: cont.
+	]12:12:16
+	
 ###
 
 
 @@@
-
-
-
-###
-
-
-
 
 
 
@@ -1172,6 +1257,10 @@ C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read
 
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
 
+
+=================== file : list-of-texts
+C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\140_wasendulo\list-of-texts.txt
+
 ###2021年11月30日16:43:22
 =================== file : batch file
 
@@ -1204,7 +1293,8 @@ set stringof_session_id="138.1_ryoujin"
 set stringof_session_id="114_hirata"
 
 set stringof_session_id="139.1_kaidou"
-set stringof_session_id="134_yamamoto_ieyasu"sset stringof_session_id="140(texts) no.2"
+
+set stringof_session_id="140(texts) no.2"
 
 --------------------------
 C:\WORKS_2\start_a.bat
@@ -1212,6 +1302,9 @@ C:\WORKS_2\start_a.bat
 set stringof_session_id="135-62.2_sanka"
 
 set stringof_session_id="140(texts) no.3"
+
+set stringof_session_id="134_yamamoto_ieyasu"
+
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
