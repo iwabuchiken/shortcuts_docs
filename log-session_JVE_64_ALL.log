@@ -1157,8 +1157,74 @@
 		n: cont.
 	]12:12:16
 	
-###
+###2021年12月13日17:00:51
 
+	>> 134_yamamoto_ieyasu
+		
+		.142
+		
+		宗論意味
+			https://ja.wikipedia.org/wiki/宗論
+				しゅうろん
+				法論に同じ
+			https://ja.wikipedia.org/wiki/宗論_(落語)
+				大正期
+				益田太郎冠者
+			https://ja.wikipedia.org/wiki/宗論_(狂言)
+				法華僧と浄土僧
+			
+			https://kotobank.jp/word/宗論-167848
+				特定の経典をとって宗旨の骨格
+				法義を確立
+				釈論(しゃくろん)に対して
+				/宗派間[...]教義上の / 論争
+			
+			https://ja.wikipedia.org/wiki/法論
+				教義の異なる宗派の間で[..]論争
+				
+				
+		法談
+		法談 仏教
+			https://dictionary.goo.ne.jp/word/法談/
+				仏法の要義を / 説き聞かせる
+			
+			https://dictionary.goo.ne.jp/word/法話/
+				仏法に関する / 話
+			
+			https://dictionary.goo.ne.jp/word/要義/
+				大切な / 意味
+			
+			https://kotobank.jp/word/要義-652842
+				物事の根本となる / ことわり
+				
+		
+		宗論 狂言
+			https://www.youtube.com/watch?v=c-5ku-pCMkg
+		
+		.148
+		
+		浄土宗諸法度
+		
+			http://jodoshuzensho.jp/daijiten/index.php/浄土宗法度
+				元和元年（一六一五）
+				三十五箇条法度
+				に出された
+					知恩院
+					増上寺
+					伝通院
+		
+		~浄土宗法度 全文
+		
+		n: cont.
+		
+		]18:07:36
+	
+	>> 140-4		[18:01:00
+	
+		n: "与地頭代"
+		
+		]18:07:21
+		
 
 @@@
 
@@ -1303,7 +1369,10 @@ set stringof_session_id="135-62.2_sanka"
 
 set stringof_session_id="140(texts) no.3"
 
+
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
