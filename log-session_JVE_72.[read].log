@@ -380,15 +380,56 @@
 	
 	]21:58:18
 
+###2021年12月13日21:03:01
+
+	(po)
+	>> https://pl.sputniknews.com/20211212/niemcy-musza-sie-zmierzyc-z-tematem-reparacji-wojennych-dla-polski-16756609.html
+		##d:20211213_210358
+		
+		n: "Dobrze się stało," / page
+		
+		]21:09:41
+	
+	(en)
+	>> https://blackagendareport.com/black-alliance-peace-condemns-trial-black-activist-dedan-waciuri-violation-human-rights
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211213_211218_396330.txt
+		
+		n: any
+		
+		]21:23:22
+	
+	>> https://www.mintpressnews.com/gassing-arabs-diseases-israel-racism/279209/
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211213_212459_736027.txt
+		
+		n: "If he had walked around" / pg
+		
+		]21:31:55
+	
+	>> https://www.rt.com/russia/543018-explosion-at-russian-convent-school/
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211213_213938_772492.txt
+		
+	(ru)
+	>> https://russian.rt.com/russia/news/937286-deti-reklama-fastfud
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211213_214950_963273.txt
+		
+		n: "В обращении законодатель" / pg
+		
+		]21:54:03
+
+	(ko)
+	>> https://worknworld.kctu.org/news/articleView.html?idxno=404665	##d:20211213_215502
+		
+		n: "쌀값은 또 다시 폭락했다. 현재" / pg
+		
+		]22:08:00
+
 ###
+
 
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -607,7 +648,7 @@ C:\WORKS_2\start_a.bat
 
 set stringof_session_id="article : (po),(ru)"
 
-set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (ko) & others"
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
