@@ -1224,23 +1224,17 @@
 		n: "与地頭代"
 		
 		]18:07:21
-		
+
+
+###2021年12月14日17:54:01
+
+	>> 134_yamamoto_ieyasu
+	
+
+###
+
 
 @@@
-
-
-
-###
-
-
-
-
-
-
-###
-
-
-
 
 
 
@@ -1369,10 +1363,9 @@ set stringof_session_id="135-62.2_sanka"
 
 set stringof_session_id="140(texts) no.3"
 
+set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 
 set stringof_session_id="134_yamamoto_ieyasu"
-
-set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
