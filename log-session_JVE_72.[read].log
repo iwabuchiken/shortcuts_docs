@@ -426,8 +426,15 @@
 		
 		]22:08:00
 
-###
+###2021年12月14日13:52:27
 
+	(cn)
+	>> https://oversea.huanqiu.com/article/45ykrYf8shj
+	
+	(en)
+	>> https://www.presstv.ir/Detail/2021/12/13/672602/Coronavirus-Omicron-variant-vaccines-antibody-scientists-study
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211214_140658_529081.txt
 
 @@@
 
@@ -546,6 +553,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.ba
 //sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
 
 ###process : spanish texts
+rem #process : spanish texts
 start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
 
 ---- 2021年11月29日21:36:17 : steps

@@ -132,15 +132,67 @@
 		
 		]14:21:30
 
+###2021年12月14日15:42:15
+	
+	>> JVE_37-17_natural-history
+
+	https://ja.wikipedia.org/wiki/歴史哲学
+		
+		#1
+		/歴史には過去の
+			事実
+			叙述
+		事実
+			認知 / されない事実、及び、
+			誤って / 認知される / 過去の事実
+		
+		/歴史の叙述
+			史料類の[...]
+				解釈と
+				抽出、そして、
+				分析と
+				総合を
+		#.1  しかし、この過程において
+			/何を / 価値基準と / 設定するのか
+			/価値基準
+				どのような
+				妥当性
+	
+	*https://zh.wikipedia.org/zh-cn/历史哲学
+		
+		#1
+			/历史
+				模式
+				意义、
+			/历史学的
+				性质
+				方法
+			/历史写作的
+				结构
+				规律
+		 .2
+		 	/分为三类
+		 		思辨的历史哲学（spaculative philosophy of history）
+		 		分析的历史哲学（或称批判的历史哲学，critical philosophy of history）
+		 		叙事的历史哲学（narritive philosophy of history）
+		related
+			李幼蒸：简述历史哲学和历史理论的区别 https://www.aisixiang.com/data/21992.html
+				<= want-to-read
+			人民史观 https://zh.wikipedia.org/zh-cn/人民史观
+				<= lets-read
+	
+	https://ar.wikipedia.org/wiki/صيرورة	##d:20211214_162240
+	
+		صيرورة[s^ayruwra:becomeing 
+		الصيرورة هو[huwa:it مفهوم[mafhuwm:concept فلسفي[filasafiyyu يتعلق[yataAAlaq:related  في علم[AAlam:knowledge الفلسفة[filasafiy بالمفاهيم[bi-l-mafaahiym:with-concepts الوجودية[al-wudhuwdiy،
+	
+	n:
+		##d:20211214_162240 --> cont.
+
+]16:22:59
+
+
 ###
-
-@@@
-
-
-
-
-###
-
 
 
 
@@ -260,7 +312,12 @@ C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
 ###2021年11月30日16:43:22
 =================== file : batch file
 
+
 C:\WORKS_2\shortcuts_docs\start_log_JVE_64_ALL.bat
+
+###2021年12月14日15:44:19
+=================== file : log file
+C:\WORKS_2\shortcuts_docs\log_JVE_37-17_natural-history.log
 
 ###2021年11月9日0:35:58
 ========================== url : cake
@@ -285,6 +342,8 @@ C:\WORKS_2\start_a.bat
 set stringof_session_id="natural-history (ns)"
 
 set stringof_session_id="medical"
+
+set stringof_session_id="JVE_37-17_natural-history"
 set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat

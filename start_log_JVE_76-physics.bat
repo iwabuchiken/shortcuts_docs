@@ -128,12 +128,13 @@ rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat_trans%
 
 rem start "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
-set fpath_trans_sentences="C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
+rem "fpath_trans_sentences" --> c/o : 2021年12月14日12:13:59
+rem set fpath_trans_sentences="C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
-echo opening files...
-echo %fpath_trans_sentences%
+rem echo opening files...
+rem echo %fpath_trans_sentences%
 
-%fpath_trans_sentences%
+rem %fpath_trans_sentences%
 
 rem "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
 
@@ -167,6 +168,7 @@ REM =================================
 :end
 
 rem pause
+
 
 
 

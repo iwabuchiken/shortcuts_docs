@@ -5,61 +5,27 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
 
-#7.5 例1 たとえば
-.6 例4 任意の
-.7 命題 2.1 (外測度の性質
-	related
-		르베그_측도 https://ko.wikipedia.org/wiki/르베그_측도
-			texts
-.8 (2) ある j が存在し
-.9 すべての i
-.10 ものが存在する．とくに
+#7.10 ものが存在する．とくに
  
-r-2-8~1 / ラグランジュ未定乗数法： 
 
-解析力学とのつながり / takun-physics <https://takun-physics.net/732/>
+r-2-8~2 / ラグランジュの未定乗数法　～制約条件付きの最大最小を求める秘密兵器～ https://stchopin.hatenablog.com/entry/2021/09/10/230057
+	==>r-2-8~2 /
+
+#3 2. ラグランジュの未定乗数法
+.1
+.2 等高線と登山道が接するという
+	words
+		共通の接線（紫線）
+.3 共通の接線を持つということは、
+	memo
+		接点における
+			「等高線の / 法線ベクトル」と
+			「登山道の / 法線ベクトル」が
+			同じ向き（あるいは逆向き）に / なる
+*.4 これを式にすると、
+.5 先ほどの偏微分の知見
+#4 この問題を、今回
  
-#1
-#2 ポテンシャルエネルギー最小の条件は
-==> DROP : 説明が、私の今の段階に、合致していない。내용이 내 지금의 단계와 저합하지 않다.
-
-work
-	s: ラグランジュ未定乗数法
-		docs
-			r-2-8~2 / ラグランジュの未定乗数法　～制約条件付きの最大最小を求める秘密兵器～ https://stchopin.hatenablog.com/entry/2021/09/10/230057
-				==>r-2-8~2 /
-				texts
-					#1
-						graph-3d
-							https://www.math3d.org/3wdGPfLOz
-					*#2 ③をみたす(x,y)の
-					#.1 これを使って改めて
-					#.2 そして、平面αの
-						s: 平面 法線ベクトル
-							docs
-								#2.2~d-1 / 空間での平面と法線ベクトル https://math.keicode.com/vector-calculus/surface-normal-in-space.php
-									texts
-										#1
-										==> HALT : change resource
-								*#2.2~d-2 / 平面の法線ベクトルの求め方 / math-fun https://math-fun.net/20210117/9183/
-									texts
-										#1
-										#.1 法線ベクトルを /:3
-										#.2 平面上の基準となる
-										*#.3 平面上の位置ベクトル
-										#.4 逆に、ベクトル
-										*#.5 その平面上の点を
-										#2 ここまでは平面を
-										==> ENOUGH : good material. let's move back
-					*#2.3 以上を総合すると、
-					#3 2. ラグランジュの未定乗数法
-					 
-			https://math-note.xyz/calculus/method-of-lagrange-multiplier/
-			https://linky-juku.com/method-of-lagrange-multiplier/
-			https://www.yunabe.jp/docs/lagrange_multiplier.html
-			http://hooktail.sub.jp/mathInPhys/lagrangeUndetermin/index.pdf
-				<= lets-read
-			
  
  
  
