@@ -1229,19 +1229,21 @@
 ###2021年12月14日17:54:01
 
 	>> 134_yamamoto_ieyasu
+
+###2021年12月15日0:27:19
 	
+	>> 140-4		[0:35:06
+	
+		"与地頭代"
+		
+		n: "二十五日両方"
+		
+		]0:56:53
 
 ###
 
 
 @@@
-
-
-
-###
-
-
-
 
 
 
@@ -1321,6 +1323,10 @@ C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
 =================== file : list-of-texts
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\140_wasendulo\list-of-texts.txt
 
+=================== url : 64# 140
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=64%23+140&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+
 ###2021年11月30日16:43:22
 =================== file : batch file
 
@@ -1355,18 +1361,18 @@ set stringof_session_id="114_hirata"
 set stringof_session_id="139.1_kaidou"
 
 set stringof_session_id="140(texts) no.2"
+set stringof_session_id="140(texts) no.3"
 
 --------------------------
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="135-62.2_sanka"
 
-set stringof_session_id="140(texts) no.3"
-
 set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 
 set stringof_session_id="134_yamamoto_ieyasu"
 
+set stringof_session_id="140-3"
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
