@@ -436,7 +436,7 @@
 	
 		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211214_140658_529081.txt
 
-@@@
+
 
 
 ###2021年12月14日21:36:16
@@ -461,16 +461,22 @@
 		
 		]21:05:53
 
+###2021年12月17日21:35:21
+
+	(ko)
+	>> -->##d:20211213_215502
+		
+		"쌀값은 또 다시 폭락했다. 현재" / pg
+
+		n: "코로나19 방역 실패로"
+		
+	]22:05:02
+	
+
 ###
 
 
-
-
-
-###
-
-
-
+@@@
 
 
 ###
@@ -667,6 +673,9 @@ C:\WORKS_2\start_a.bat
 set stringof_session_id="article : (po),(ru)"
 
 set stringof_session_id="article : (ko) & others"
+
+set stringof_session_id="article : (ko)"
+
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
