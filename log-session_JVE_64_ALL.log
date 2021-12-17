@@ -312,24 +312,81 @@
 			左大臣・右大臣の / 代理
 			内大臣の / 唐名
 	
+###2021年12月16日17:49:14
+
+	>> 142_azuma	[
+	
+
+
+###2021年12月17日13:13:22
+
+	>> 142_azuma	[
+	
+		pp.1
+		慶長 https://ja.wikipedia.org/wiki/慶長
+			1596年から1615年
+			10（1605）年
+			    4月16日 - 徳川秀忠 / 2代将軍
+		
+		漢字 車偏 口 耳
+		https://duckduckgo.com/?q=漢字+車偏+口+耳&ia=web
+			https://www.kanjipedia.jp/kanji/0003149900
+				シュウ 
+				①あつめる。あつまる。
+				
+		旧輯 意味
+		
+		寛文 https://ja.wikipedia.org/wiki/寛文
+			かんぶん
+			『荀子』 / 致士篇
+			1661年から1673年
+			徳川家綱
+			死去
+				寛文6年（1666年） / 千姫
+		
+		寛永 https://ja.wikipedia.org/wiki/寛永
+			1624年から1645年
+			元和の後、正保
+			『毛詩朱氏注』 / 「寛広、永長」
+			14年 島原の乱
+			死去
+				2年 毛利輝元（享年72）
+				9年 徳川秀忠
+		
+		漢字 乃
+		https://kanji.jitenon.jp/kanjif/2697.html
+			すなわ（ち）
+		
+		::2
+		
+		鳥糸欄 意味
+		漢字 糸 糸
+			絲 https://kanji.jitenon.jp/kanjil/5909.html
+				よりいと。きぬいと
+		
+		鳥絲欄 意味
+		https://www.weblio.jp/content/鳥絲欄
+			墨や薄墨で引かれた罫
+		
+		罫 意味
+		https://duckduckgo.com/?q=罫+意味&iax=images&ia=images
+			https://dictionary.goo.ne.jp/word/罫_(けい)/
+			https://dictionary.goo.ne.jp/img/daijisen/ref/103069.jpg
+				/一定の間隔で引いた線
+				/ 碁盤 (ごばん) など[...]縦横の筋
+				/約物の一
+			
+			https://dictionary.goo.ne.jp/word/約物/#jn-221549
+				文字・数字以外
+		
+		n: cont.
+		
+		]15:14:00
+
 ###
 
 
 @@@
-
-
-
-###
-
-
-
-
-
-
-###
-
-
-
 
 
 
@@ -466,6 +523,8 @@ set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_session_id="140-3"
 
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
+
+set stringof_session_id="142_azuma"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
