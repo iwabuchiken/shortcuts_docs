@@ -197,20 +197,32 @@
 	>> JVE_59_medical
 
 		https://duckduckgo.com/?q=傷寒論&ia=web
+###2021年12月18日11:09:12
+
+	>> JVE_59_medical : 9.2_頭部
 		
+		s: 頭皮 血管
+		https://duckduckgo.com/?q=頭骨+血管&ia=web
+		s: 頭蓋骨　血管
+		s: 頭蓋底
+			頭蓋底 https://ja.ncmhcso.org/schaedelbasis-3725
+				頭蓋骨 / 下部
+				12の入り口
+				内側と外側
+					内側 / 3つの頭蓋骨ピット
+			
+			https://note.com/anatomic_study/n/nbebf55d3597b
+				<= good
 		
+		n: any
+	
+	]11:32:15
+	
 
 ###
 
 
-
-
-
-
-###
-
-
-
+@@@
 
 
 
@@ -345,7 +357,11 @@ set stringof_session_id="natural-history (ns)"
 
 set stringof_session_id="medical"
 
+
 set stringof_session_id="JVE_37-17_natural-history"
+
+set stringof_session_id="JVE_59_medical : 9.2_頭部"
+
 set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
