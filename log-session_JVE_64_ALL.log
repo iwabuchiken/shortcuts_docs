@@ -385,15 +385,77 @@
 
 ###
 
+	>> 140-4		[
+	
+		"之處、於地頭"
+		https://dl.ndl.go.jp/info:ndljp/pid/1288412/3
+		
+		n: "所詮云所務云"
+	
+	]14:13:29
 
-@@@
-
-
-
+	>> 143_minshuu	[14:17:09
+	
+		*s: 国会図書館 古文書
+			==> see C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\140_wasendulo\list-of-texts.txt -->##mark:20211218_142350
+		
+		s: 閉伊　岩手県
+			https://ja.wikipedia.org/wiki/閉伊郡
+				へいぐん
+			https://ja.wikipedia.org/wiki/陸中国
+				りくちゅうのくに
+		
+		漢字 にんべん 青
+			https://kanji.jitenon.jp/kanjig/3110.html
+				つらつら
+				倩
+				つくづく。
+				よくよく。
+		
+		惟 意味
+			https://kotobank.jp/word/惟-429922
+				>デジタル大辞泉
+				おも‐・みる
+				よく考える
+				
+				https://kotobank.jp/word/思見・惟-2018061#E7.B2.BE.E9.81.B8.E7.89.88.20.E6.97.A5.E6.9C.AC.E5.9B.BD.E8.AA.9E.E5.A4.A7.E8.BE.9E.E5.85.B8
+					>日本国語大辞典
+					いろいろと思い巡らす
+					過去、未来の物事など[...]想像する
+		
+		鑑みる 意味
+			https://dictionary.goo.ne.jp/word/鑑みる_(かんがみる)/#jn-47666
+		
+		南部藩 利義 としとも
+			https://ja.wikipedia.org/wiki/南部利義
+				なんぶ としとも
+				隠居後に利義
+				第13代藩主
+				生誕	文政6年12月12日（1824年1月12日）
+				死没	明治21年（1888年）8月21日
+				三閉伊一揆（第一次）の責任を問われた父・利済
+				父の悪政と奢りを戒めて以降、利済と険悪
+		
+		遂に 意味
+			https://www.weblio.jp/content/遂に
+			https://manapedia.jp/text/4209
+		
+		南部藩 利謹 としのり
+			https://ja.wikipedia.org/wiki/南部利謹
+				8代藩主・南部利雄（としかつ）の長男
+				としのり
+			
+			https://ja.wikipedia.org/wiki/南部利済 としただ
+				としただ
+				第12代藩主
+				利謹[...]の次男
+		
+		]15:29:05
+		
 ###
 
 
-
+@@@
 
 
 
@@ -525,6 +587,10 @@ set stringof_session_id="140-3"
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 
 set stringof_session_id="142_azuma"
+
+set stringof_session_id="143_minshuu"
+
+set stringof_session_id="143_minshuu / 140-4"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
