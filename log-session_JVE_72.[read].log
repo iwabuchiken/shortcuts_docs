@@ -473,10 +473,60 @@
 	]22:05:02
 	
 
+###2021年12月18日9:21:42
+
+	(cn)
+	*>> https://tech.huanqiu.com/article/461HglwbOhD
+		我科学家研发二氧化碳高效转化新机制
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211218_092523_884459.txt
+		
+		words
+			固态电解质
+	
+	*>> https://world.huanqiu.com/article/45y42mCVFj0
+	
+	*>> https://oversea.huanqiu.com/article/45ykrYf8shj
+	
+		外媒：中国举行国家公祭日悼念活动，各界代表向南京大屠杀死难者默哀
+		
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211218_094413_228301.txt
+			
+
 ###
 
 
 @@@
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
 
 
 ###
@@ -598,6 +648,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-readi
 rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
 
 #process texts : chinese
+rem #process texts : chinese
 start  C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
 
 ###2021年6月20日17:09:35
@@ -664,7 +715,7 @@ set stringof_session_id="article : (ru)"
 
 set stringof_session_id="article : (po)"
 set stringof_session_id="article : (sp)"
-set stringof_session_id="article : (cn)"
+
 set stringof_session_id="article : (ko),(cn)"
 
 -----------------------
@@ -676,6 +727,7 @@ set stringof_session_id="article : (ko) & others"
 
 set stringof_session_id="article : (ko)"
 
+set stringof_session_id="article : (cn)"
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p

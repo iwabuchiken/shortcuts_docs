@@ -5,29 +5,11 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 
 r-2-7~2 / ルベーグ積分の基礎のキソ <https://www1.econ.hit-u.ac.jp/kawahira/courses/lebesgue.pdf>
 
-#8.1 基本的な事実として，以下を
-	related
-		集合の被覆 https://ja.wikipedia.org/wiki/集合の被覆
-			memo
-				部分集合の / 族
-.2 （閉区間）として
-.3 を示そう．再び
-.4 はコンパクトなので
-*.5 いま，必要なら
-.6 あることに注意 /:1
-	s: ハイネ・ボレルの定理 https://duckduckgo.com/?q=ハイネ・ボレルの定理&ia=web
-		docs
-			Heine-Borelの被覆定理 https://jsciencer.com/unimath/bisekibun/2125/
-			ハイネ・ボレル（Heine-Borel）の被覆定理【証明】 https://kaikiblog.com/heine-borel-covering-theorem/
-			ハイネ=ボレルの定理 https://kotobank.jp/word/ハイネ=ボレルの定理-1390190
-	graph-desmos
-		\sum_{n=1}^{a}\left(\frac{3}{2^{n}}\right)
-			https://www.desmos.com/calculator/9l8ywdzrt3
-	solver
-		symbolab
-			\sum _{n=1}^{\infty \:}\frac{3}{2^n} https://www.symbolab.com/solver/derivative-calculator/%5Cleft(%5Csum_%7Bn%3D1%7D%5E%7B%5Cinfty%7D%5Cleft(%5Cfrac%7B3%7D%7B2%5E%7Bn%7D%7D%5Cright)%20%5Cright)?or=input
-			
-			
-		
+#9 2.3 可測集合と
+ 
+ 
+ 
+ 
+ 
  
  
