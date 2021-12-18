@@ -500,16 +500,28 @@
 		
 		]14:20:21
 
+###2021年12月18日21:37:18
+
+	(po)
+	>> https://pl.sputniknews.com/20211213/burza-wokol-warszawskiego-ronda-my-tej-wojny-nie-rozpoczynalismy-ale-my-ja-zakonczymy-16767527.html
+	
+		n: "Czy to prezydent Trzaskowski " / pg
+		
+	]21:48:30
+	
+	(ru)
+	>> https://russian.rt.com/science/article/939118-falkov-intervyu-obrazovanie
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211218_214932_370281.txt
+		
+		n: "Валерий Николаевич, недавно " / pg
+	
+	]21:57:49
+
 ###
 
 
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -722,13 +734,14 @@ set stringof_session_id="article : (ko),(cn)"
 -----------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="article : (po),(ru)"
-
 set stringof_session_id="article : (ko) & others"
 
 set stringof_session_id="article : (ko)"
 
 set stringof_session_id="article : (cn)"
+
+set stringof_session_id="article : (po),(ru)"
+
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
