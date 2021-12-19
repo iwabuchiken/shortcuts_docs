@@ -547,6 +547,28 @@
 
 	]14:27:29
 
+	>> 143_minshuu	[15:40:45
+	
+		.11
+		肝煎り
+		https://ja.wikipedia.org/wiki/庄屋
+			東北地方ではもっぱら肝煎
+			「肝入」と書くことも
+			w:
+				「惣代機能」
+		
+		s: 平田村 南部藩
+		https://duckduckgo.com/?q=平田村+南部藩&iax=images&ia=images
+			平田 --> へいた
+				https://blogs.yahoo.co.jp/mtkabuto1005/60235448.html (link cannot be reached)
+			
+			https://ja.wikipedia.org/wiki/気仙道
+				閉伊郡平田村（現 釜石市）
+				
+		n: cont
+	
+	]16:11:29
+
 ###
 
 
@@ -660,7 +682,7 @@ set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 
 set stringof_session_id="142_azuma"
 
-set stringof_session_id="143_minshuu"
+
 
 set stringof_session_id="143_minshuu / 140-4"
 
@@ -669,9 +691,12 @@ set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 
+set stringof_session_id="143_minshuu"
+
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
-C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
+
 
 
 
