@@ -3,21 +3,41 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-r-8-1~2 / 接線，主法線，従法線 / hooktail.sub.jp <http://hooktail.sub.jp/vectoranalysis/FrenetFrame/>
+r-4-1~2 / ド・ブロイ波 <https://eman-physics.net/quantum/debroglie.html>
 
 #1
 .1 
+.2 これらは粒子性の
+.3 この関係を光
 	words
-		弧長パラメータ
-.2 このとき，加速度
-.3 物理的な意味を
-.4 この意味で， 
-.5 と主法線ベクトル
-.6 次式を満たす向き
- 
- 
- 
- 
+		物質波
+	related
+		ド・ブロイ波 https://ja.wikipedia.org/wiki/ド・ブロイ波
+			memos
+				1924年
+#2 電子は粒子だと
+#3 それで結局、
+.1 
+.2 こういったはっきり
+.3 ド・ブロイ波が何
+.4 奇妙なことに,
+.5 モデルより
+.6 「もはやミクロの
+.7 とにかくこれ
+#4 さて,ド・ブロイ波
+.1 
+.2 周波数と波長を掛け
+	memos
+		ド・ブロイ波の速度は / 光の速度には / ならない
+.3 しかし,まだ
+	words
+		「うなり」
+.4 二つの周波数の和の
+	memos
+		ド・ブロイ波の群速度は / 物質の速度と / 同じ
+.5 ということは,
+.6 しかし夢を
+.7 電磁波とド・ブロイ波
  
  
  

@@ -478,23 +478,79 @@
 
 ]1:37:44
 
+###2021年12月19日8:54:09
+
+	>> 143_minshuu	[
+	
+		.11
+		
+		嘉永６年
+		https://ja.wikipedia.org/wiki/嘉永
+			1848年から1855年
+			安政の前
+			嘉永六年（癸丑） / グレゴリオ暦 	1853/2/8
+			出来事
+				嘉永6年（1853年） / ペリー提督
+			
+			https://ja.wikipedia.org/wiki/癸丑
+				みずのとうし、きすいのうし、きちゅう
+		
+		n: cont
+	
+	]9:18:01
+
+###2021年12月19日13:08:58
+
+	>> 140-4		[
+	
+		https://dl.ndl.go.jp/info:ndljp/pid/1288412/3
+		
+		"所詮云所務云"
+		
+		言詮 意味
+			https://dictionary.goo.ne.jp/word/言詮/
+				げん‐せん
+				言葉で説明すること
+				その言葉
+		
+			https://dictionary.goo.ne.jp/word/kanji/詮/
+				/あきらかにする
+				/なすすべ
+			
+			https://kotobank.jp/word/詮-549220
+				あれこれ考えたり[..]行きついたところ
+				ある行為に / 値するだけの / しるし
+		
+		n: "一御代"
+	
+	]13:30:57
+	
+	>> 
+
+	>> 134_yamamoto_ieyasu	[13:38:54
+	
+		.187
+		https://ja.wikipedia.org/wiki/東福寺
+			
+			京都市東山区
+		
+		https://ja.wikipedia.org/wiki/南禅寺
+			
+			京都市左京区
+		
+		https://ja.wikipedia.org/wiki/直江兼続
+			
+			生誕	永禄3年（1560年）
+			死没	元和5年12月19日（1620年1月23日）
+			天正8年（1580年）から、景勝への取次役など
+			同年8月15日（9月23日）[...]景勝印判状 / 奏者
+
+	]14:27:29
+
 ###
 
 
 @@@
-
-
-###
-
-
-
-
-
-
-###
-
-
-
 
 
 ###
@@ -598,9 +654,6 @@ set stringof_session_id="135-62.2_sanka"
 
 set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 
-
-
-
 set stringof_session_id="140-3"
 
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
@@ -613,6 +666,8 @@ set stringof_session_id="143_minshuu / 140-4"
 
 ------------------------------
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
