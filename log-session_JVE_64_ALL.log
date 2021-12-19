@@ -1,3 +1,5 @@
+C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
+
 ###2021年12月13日10:45:43
 	
 	>> ##140-3
@@ -569,6 +571,26 @@
 	
 	]16:11:29
 
+	[0:10:08
+	
+	>> 90_oritaku
+		
+		.254
+		
+		https://ja.wikipedia.org/wiki/近衛信尹
+		
+			のぶただ
+			近衛前久の子
+			近衛家18代当主
+			諡号	三藐院[さんみゃくいん
+			加冠の役[...]織田信長
+		
+		https://ja.wikipedia.org/wiki/天正
+			
+			ユリウス暦1573年[...]グレゴリオ暦1593
+			
+	]1:23:37
+
 ###
 
 
@@ -654,7 +676,7 @@ makemeaning
 ###2021年11月5日0:36:08
 ========================== closing : git
 
-set stringof_session_id="90_oritaku"
+
 set stringof_session_id="136.1_rice"
 
 
@@ -673,25 +695,16 @@ set stringof_session_id="140(texts) no.3"
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="135-62.2_sanka"
-
 set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
-
 set stringof_session_id="140-3"
-
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
-
 set stringof_session_id="142_azuma"
-
-
-
-set stringof_session_id="143_minshuu / 140-4"
+set stringof_session_id="134_yamamoto_ieyasu"
+set stringof_session_id="134_yamamoto_ieyasu / 140-4"
+set stringof_session_id="143_minshuu"
 
 ------------------------------
-set stringof_session_id="134_yamamoto_ieyasu"
-
-set stringof_session_id="134_yamamoto_ieyasu / 140-4"
-
-set stringof_session_id="143_minshuu"
+set stringof_session_id="90_oritaku"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
