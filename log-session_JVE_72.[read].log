@@ -518,9 +518,35 @@
 	
 	]21:57:49
 
-###
+###2021年12月19日21:15:07
 
-
+	(po)
+	>> https://pl.sputniknews.com/20211202/reparacje-wojenne-od-niemiec-dla-polski-naszym-obowiazkiem-jest-o-te-straty-sie-upominac-16683239.html
+	
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211219_211640_322278.txt
+		
+		n : Jak zaznaczył Morawiecki, 
+	
+	]21:22:18
+	
+	(ru)
+	>> https://russian.rt.com/science/article/937351-pyotr-chumakov-intervyu-virusy
+	
+		n:  С самого начала 
+		
+	]21:34:54
+	
+	(sp)
+	>> https://www.granma.cu/pensar-en-qr/2021-12-17/cuba-rechaza-nuevas-maniobras-injerencistas-del-parlamento-europeo-17-12-2021-21-12-21
+	
+		n: Su empeño en proteger
+	
+	]21:41:30
+	
+	(ko)
+	>> https://www.yna.co.kr/view/AKR20211218056800073?section=politics/all&site=major_news01
+	
+		n: 역시 야마카와의
 @@@
 
 
@@ -741,6 +767,8 @@ set stringof_session_id="article : (ko)"
 set stringof_session_id="article : (cn)"
 
 set stringof_session_id="article : (po),(ru)"
+
+set stringof_session_id="article : (MANY)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
