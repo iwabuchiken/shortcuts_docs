@@ -246,17 +246,38 @@ s-20211011_143015
 
 ]13:10:05
 
+###2021年12月20日8:43:42
+>>s-16
+
+	>> 台湾
+
+		https://take-profit.org/en/statistics/balance-of-trade/taiwan/
+		https://tradingeconomics.com/taiwan/inflation-cpi
+
+		([a-zA-Z]+?)\t([a-zA-Z]+)	$1 $2
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching\s-16_taiwan
+		
+			輸出 (share among top 90 %)
+			china	30
+			us		15
+			hk		14
+			jp		7
+			nether	1.8
+		
+		https://tradingeconomics.com/taiwan/gdp-from-services
+		
+		n:
+			1. population stats
+			2. any
+	
+	]8:55:33
+	
 
 ###
+
 
 @@@
-
-
-
-###
-
-
-
 
 
 ###
@@ -309,7 +330,7 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\41_economics\12_economy-watching
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="japanse dams (in-farsi)"
+set stringof_session_id="taiwan econ"
 
 set stringof_project_id="JVE_41#12_watching : %stringof_session_id:"=%" 
 
