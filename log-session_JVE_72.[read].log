@@ -547,19 +547,19 @@
 	>> https://www.yna.co.kr/view/AKR20211218056800073?section=politics/all&site=major_news01
 	
 		n: 역시 야마카와의
+
+###2021年12月20日21:37:26
+
+	(ko)
+	>> https://www.yna.co.kr/view/AKR20211125083600061?section=society/all&site=major_news01
+		n: 경찰은 의왕 6개 중대, 
+	
+	]22:02:04
+	
+###
+
+
 @@@
-
-
-###
-
-
-
-
-
-###
-
-
-
 
 
 ###
@@ -762,13 +762,15 @@ C:\WORKS_2\start_a.bat
 
 set stringof_session_id="article : (ko) & others"
 
-set stringof_session_id="article : (ko)"
+
 
 set stringof_session_id="article : (cn)"
 
 set stringof_session_id="article : (po),(ru)"
 
 set stringof_session_id="article : (MANY)"
+
+set stringof_session_id="article : (ko)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
