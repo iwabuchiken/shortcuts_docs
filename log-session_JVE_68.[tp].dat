@@ -3,10 +3,44 @@
 
 -----------------------------
 
-r-7-2~7 / 2.3 Existence proofs <https://www.whitman.edu/mathematics/higher_math_online/section02.03.html>
+r-7-10~1 / 複素微分 (eman) <https://eman-physics.net/math/imaginary02.html>
 
-#9.5 Ex 2.3.5 (
-#9.6 Ex 2.3.8 (
+#1
+.1 何も難しい
+.2 変数と値の
+.3 せめて有限個
+.4 この調子で
+.5 うーん,
+#2 微分の定義 /:1
+.1 変化の比を知りたい
+	memos
+		各点での関数f(x)の変化率を意味
+#3 さて,形式的に
+.1 話をもう
+.2 この時,微小変化
+.3 これと同じよう
+*.4 (1) 式とほとんど
+.5 実数の場合には
+.6 よっぽどの偶然が
+.7 ではこれから,
+#4 コーシー・リーマンの関係式 /:1
+.1 次に,f(z)
+.2 なるほど,
+.3 さあ,残る
+.4 先ほど /:2
+#5 これで準備は
+	previous-note
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/49950
+			search http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68%23+7-10%7E1&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+.1 左辺の実部と
+.2 意外と単純な
+.3 要するに, /:1
+#5.4 この (5) 式
+.5 また,(5) 式の
+#5.6 この二つの式を
+#6 正則な関数 /:1
+ 
+ 
  
  
  

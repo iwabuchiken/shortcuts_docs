@@ -591,14 +591,86 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 			
 	]1:23:37
 
+###2021年12月20日16:57:58
+
+	>> 134_yamamoto_ieyasu	[
+		
+		.194
+		
+		醍醐 花見
+		https://ja.wikipedia.org/wiki/醍醐の花見
+			慶長3年3月15日（1598年4月20日
+		
+			https://ja.wikipedia.org/wiki/三宝院
+				門跡寺院
+				醍醐寺の塔頭
+				本坊的
+				醍醐寺座主を兼ね
+				永久3年（1115年）[...]開き
+			
+			https://ja.wikipedia.org/wiki/豊臣秀吉
+				生誕	天文6年2月6日（ユリウス暦1537年3月17日、先発グレゴリオ暦1537年3月27日）（『関白任官記』、『豊国大明神臨時御祭礼記録』）[1][注釈 1]
+				死没	慶長3年8月18日（グレゴリオ暦1598年9月18日）
+				
+				文禄元年（1592年）3月[...]16万[...]出兵し
+				慶長2年（1597年）[...]14万人[...]再度出兵
+				
+			https://ja.wikipedia.org/wiki/名護屋城
+				瓜畑で仮装大会
+		
+		https://duckduckgo.com/?q=翻刻+秀吉&ia=web
+			https://japanesehistorybasedonarchives.hatenablog.com/entry/20210109/1610176167
+				天正13年12月20日佐野宗綱宛豊臣秀吉判物写
+				<= want-to-read
+			
+			https://shoryobu.kunaicho.go.jp/Toshoryo/Viewer/1000504090000/9359a08378f4476098c85b0a62ef74f6
+				<= want-to-read
+	
+
 ###
 
 
 @@@
 
 
+
 ###
 
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
 
 
 
@@ -671,6 +743,27 @@ lib
 190001550002
 makemeaning
 
+###2021年12月20日17:35:31
+=============================== comments
+
+<= know-this
+<= lets-read
+<= want-to-read
+<= lets-read-again
+<= lets-read-links
+<= lets-read-after-this
+
+<= this
+
+<= also-good
+<= good
+<= 証明あり
+
+<= ok
+
+<= not-understood
+
+
 
 
 ###2021年11月5日0:36:08
@@ -699,12 +792,13 @@ set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 set stringof_session_id="140-3"
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 set stringof_session_id="142_azuma"
-set stringof_session_id="134_yamamoto_ieyasu"
+
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 set stringof_session_id="143_minshuu"
-
-------------------------------
 set stringof_session_id="90_oritaku"
+------------------------------
+
+set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
