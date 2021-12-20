@@ -626,6 +626,15 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 			https://shoryobu.kunaicho.go.jp/Toshoryo/Viewer/1000504090000/9359a08378f4476098c85b0a62ef74f6
 				<= want-to-read
 	
+	[1:14:47
+	
+	>> 140-4		[
+	
+		*"一御代"
+		
+		n: 、以前
+	
+	]1:26:59
 
 ###
 
@@ -790,6 +799,7 @@ C:\WORKS_2\start_a.bat
 set stringof_session_id="135-62.2_sanka"
 set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
 set stringof_session_id="140-3"
+
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 set stringof_session_id="142_azuma"
 
@@ -799,6 +809,8 @@ set stringof_session_id="90_oritaku"
 ------------------------------
 
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="140-4"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
