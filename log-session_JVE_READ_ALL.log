@@ -288,11 +288,83 @@
 		n: 日本は、プラスチックの
 
 	]8:58:45
-
+	
+	[11:19:54
+	
+	>> JVE_59_medical : 音楽と脳科学
+	
+	https://duckduckgo.com/?q=音楽+生理学&ia=web
+		音 楽 の 生 体 に及 ぼ す 影 響	:d-1 https://www.jstage.jst.go.jp/article/souonseigyo1977/11/3/11_3_112/_pdf/-char/ja
+		音楽と脳科学 http://www.kecl.ntt.co.jp/people/terashima.hiroki/paper/terashima2016music.pdf
+			#1
+			#.1 ヒトで比較的信頼性
+				memos
+					fMRI
+						血流量を観測する手法（fMRI）
+						空間解像度 / ミリメートルオーダー
+						時間解像度 / 秒オーダー
+			.2 一方，動物を
+				words
+					行列分解
+					スパースコーディング
+					ピッチ | 音楽を構成する要素
+			#2 私たちの神経細胞は，
+			.1 McDermott らは行
+				memos
+					自然音刺激セット
+					聴覚関連領域 / 10,000 個以上に分割
+					ボクセル | 3 次元メッシュの 1 つ 1 つ
+					
+			 n: #2 私たちの神経細胞は，
+	
+	]11:39:28
+	
 ###
 
 
 @@@
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
 
 
 
@@ -419,7 +491,11 @@ set stringof_session_id="JVE_37-17_natural-history"
 
 set stringof_session_id="JVE_59_medical : 9.2_頭部"
 
+
 set stringof_session_id="JVE_75_science-research"
+
+set stringof_session_id="JVE_59_medical : 音楽と脳科学"
+
 set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
