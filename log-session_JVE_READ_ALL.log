@@ -242,17 +242,57 @@
 	
 	]8:52:47
 
+###2021年12月21日8:24:24
+	
+	>> 75_science-research
+
+		s-5 / g-4
+		
+		*https://zh.wikipedia.org/zh-cn/環境科技
+		
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211221_083300_578202.txt
+			
+			C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20211221_083741_841780.txt
+			
+			]8:48:44
+		
+		https://ja.wikipedia.org/wiki/合成樹脂#環境への影響
+			
+			#1
+				年間生産量
+					1950年の200万トン
+					2015年には[...]4億700万トン
+						約200倍
+				2018年[...]世界の海に[...]1億5,000万トン
+				
+				年間800万トン / 新たに
+			#2
+				漂流・漂着ごみの影響
+					92%がプラスチック
+				体内に摂取している個体の比率
+					ウミガメで52%、
+					海鳥で90%
+			
+			#3
+				マイクロプラスチック
+					直径5ミリ以下
+					有害物質を吸着
+					大気中にも
+			#4
+				太平洋ゴミベルト
+			#5
+				流入量 / 1000万トン超
+				海面上 / 44万
+				低温では / 分解が進まない
+		
+		n: 日本は、プラスチックの
+
+	]8:58:45
+
 ###
 
 
 @@@
-
-
-
-###
-
-
-
 
 
 
@@ -374,8 +414,12 @@ set stringof_session_id="medical"
 
 set stringof_session_id="JVE_37-17_natural-history"
 
+--------------------------------
+
+
 set stringof_session_id="JVE_59_medical : 9.2_頭部"
 
+set stringof_session_id="JVE_75_science-research"
 set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
