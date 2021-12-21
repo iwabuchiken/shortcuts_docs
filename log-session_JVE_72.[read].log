@@ -556,16 +556,27 @@
 	
 	]22:02:04
 	
+###2021年12月21日21:41:59
+
+	(ko)
+	>> https://www.yna.co.kr/view/AKR20211106034800073?section=international/all&site=major_news01
+	
+		n: 강 단장은
+	
+	]22:02:44
+	
+	(cn)
+	>> https://finance.huanqiu.com/article/462CIRo610J
+		
+		n: 日常用品
+	
+	]22:09:58
+
+
 ###
 
 
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -755,7 +766,7 @@ set stringof_session_id="article : (ru)"
 set stringof_session_id="article : (po)"
 set stringof_session_id="article : (sp)"
 
-set stringof_session_id="article : (ko),(cn)"
+
 
 -----------------------
 C:\WORKS_2\start_a.bat
@@ -771,6 +782,8 @@ set stringof_session_id="article : (po),(ru)"
 set stringof_session_id="article : (MANY)"
 
 set stringof_session_id="article : (ko)"
+
+set stringof_session_id="article : (ko),(cn)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
