@@ -647,18 +647,28 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		https://dl.ndl.go.jp/info:ndljp/pid/1288412/5
 	
 	]15:26:17
+
+###2021年12月23日0:33:32
+
+	>> 140-4		[
+	
+		不及異儀
+		
+		n: comp		]0:43:14
+	
+	>> 140-5		[0:49:05
+	
+		https://dl.ndl.go.jp/info:ndljp/pid/1286874
+		
+		方勢 多分
+		
+		n: 三条町屋		]1:04:33
 	
 
 ###
 
 
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -816,7 +826,7 @@ set stringof_session_id="134_yamamoto_ieyasu"
 
 ------------------------------
 
-set stringof_session_id="140-4"
+set stringof_session_id="140-4 / 140-5"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
