@@ -684,7 +684,40 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		
 		n: 參石餘		]9:10:52
 
+		>> 143_minshuu	[11:32:54
 		
+		.12
+		
+		罷る 意味
+			https://kobun.weblio.jp/content/罷る
+				まか・る
+				謙譲・丁寧
+			
+			https://kotobank.jp/word/罷る-633446
+  				支配者の命によって行動する / 原義
+  			related
+  				https://ja.wikipedia.org/wiki/山上憶良#作品
+  		
+  		.13
+  		
+  		諸夫
+  		
+  		遠野弥六郎 https://duckduckgo.com/?q=遠野弥六郎&ia=web
+  		
+  			https://www.komonjokan.net/cgi-bin/komon/kirokukan/kirokukan_view.cgi?mode=details&code_no=54236
+  				重臣三家の筆頭
+  				八戸南部家
+  			
+  			https://mitinoku.biz/?p=4381
+  		
+  		https://ja.wikipedia.org/wiki/別当
+  		
+  		別当 神社
+  		https://ja.wikipedia.org/wiki/別当#民間
+  			神宮寺[...]その寺務 / 司るもの
+  			
+  		n: cont		]12:12:17
+
 @@@
 
 ###
@@ -840,9 +873,13 @@ set stringof_session_id="143_minshuu"
 set stringof_session_id="90_oritaku"
 set stringof_session_id="134_yamamoto_ieyasu"
 
+
+
 ------------------------------
 
 set stringof_session_id="140-4 / 140-5"
+
+set stringof_session_id="143_minshuu"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
