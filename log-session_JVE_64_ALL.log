@@ -717,6 +717,25 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
   			神宮寺[...]その寺務 / 司るもの
   			
   		n: cont		]12:12:17
+	
+	[15:44:51
+	
+	>> 134_yamamoto_ieyasu	[
+	
+		.218
+		https://ja.wikipedia.org/wiki/織田信雄
+		
+		
+		成敗 意味
+		https://dictionary.goo.ne.jp/word/成敗_(せいばい)/
+			執政
+		
+		如在 意味
+		https://dictionary.goo.ne.jp/word/如才/
+			手抜かり
+		
+		]16:07:30
+
 
 @@@
 
@@ -869,10 +888,9 @@ set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 set stringof_session_id="142_azuma"
 
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
+
 set stringof_session_id="143_minshuu"
 set stringof_session_id="90_oritaku"
-set stringof_session_id="134_yamamoto_ieyasu"
-
 
 
 ------------------------------
@@ -880,6 +898,8 @@ set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_session_id="140-4 / 140-5"
 
 set stringof_session_id="143_minshuu"
+
+set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 

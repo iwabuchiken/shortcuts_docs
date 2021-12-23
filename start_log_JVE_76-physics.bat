@@ -75,11 +75,13 @@ rem : 2021年3月14日15:49:09
 echo starting... freemind
 
 set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\76_physics\76_physics.mm"
+set fpath_freemind_math="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm"
 
 echo "starting freemind... " %fpath_freemind%
 
 rem start 
 "%fpath_freemind%"
+"%fpath_freemind_math%"
 
 echo "start freemind... complete"
 
@@ -168,6 +170,7 @@ REM =================================
 :end
 
 rem pause
+
 
 
 
