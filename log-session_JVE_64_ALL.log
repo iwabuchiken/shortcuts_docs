@@ -737,18 +737,40 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		]16:07:30
 
 
+###2021年12月25日15:43:32
+
+	>> 140-5		[
+	
+		f: 參石餘		
+		s: 任當 意味
+			任当 意味
+		
+		s: 信濃兵部丞 信長
+			https://sengoku-his.com/475
+				真田兵部丞昌輝
+				幸綱（幸隆とも）の[...]次子
+				
+			http://kitabatake.world.coocan.jp/sengokukani2.html
+		
+		s: 信長 東寺 禁制
+		
+		n: comp
+		
+			140-6 https://dl.ndl.go.jp/info:ndljp/pid/1288414/4
+		
+		s: 古文書 翻刻
+		https://duckduckgo.com/?q=古文書+翻刻&ia=web
+			https://honkoku.org/
+		
+		n: 140-7.1
+			https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/1/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
+	
+	]17:32:07
+
+###
+
+
 @@@
-
-###
-
-
-
-
-
-###
-
-
-
 
 
 ###
@@ -897,9 +919,12 @@ set stringof_session_id="90_oritaku"
 
 set stringof_session_id="140-4 / 140-5"
 
+
 set stringof_session_id="143_minshuu"
 
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="140-5"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 

@@ -79,9 +79,13 @@ set fpath_freemind_math="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_t
 
 echo "starting freemind... " %fpath_freemind%
 
+rem : new : 2021年12月23日16:16:51
+C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%"
+
 rem start 
-"%fpath_freemind%"
-"%fpath_freemind_math%"
+rem : c/o : 2021年12月23日16:16:51
+rem "%fpath_freemind%"
+rem "%fpath_freemind_math%"
 
 echo "start freemind... complete"
 
@@ -170,6 +174,9 @@ REM =================================
 :end
 
 rem pause
+
+
+
 
 
 
