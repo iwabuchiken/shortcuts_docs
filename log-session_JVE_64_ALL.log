@@ -778,13 +778,35 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 	>> 140-7.1		[
 	
 		https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/1/
-		https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/3/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
+		https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/3/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780	##d:140-7.1
+		
 			s: 妙勢 意味
 		
 		n: 兼而御究
 	
 	]9:16:56
 	
+	>> 140-7.1		[16:47:04
+	
+		f: 兼而御究
+		
+		n: https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/4/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780		##d:140-7.1-p.4
+	
+	>> 134_yamamoto_ieyasu	[17:22:00
+		
+		https://ja.wikipedia.org/wiki/増田長盛
+		
+			豊臣政権五奉行
+			天正元年（1573年）、28歳[...]羽柴秀吉[...]に召し出され
+			
+			https://ja.wikipedia.org/wiki/小牧長久手
+			
+				天正12年（1584年） / 3月から11月
+			
+			@التاريخ a'taariyx
+				天正10年（1582年）3月	武田勝頼を滅ぼし
+				6月		本能寺の変
+		
 @@@
 
 
@@ -942,6 +964,8 @@ set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_session_id="140-5"
 
 set stringof_session_id="140-7.1"
+
+set stringof_session_id="140-7.1 a.o."
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
