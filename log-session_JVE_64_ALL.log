@@ -766,10 +766,25 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 			https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/1/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
 	
 	]17:32:07
+	
+	[1:04:45
+	
+	>> 134_yamamoto_ieyasu	[1:05:08
+	
+	]1:25:35
+	
+###2021年12月26日8:39:39
 
-###
-
-
+	>> 140-7.1		[
+	
+		https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/1/
+		https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/3/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
+			s: 妙勢 意味
+		
+		n: 兼而御究
+	
+	]9:16:56
+	
 @@@
 
 
@@ -925,6 +940,8 @@ set stringof_session_id="143_minshuu"
 set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_session_id="140-5"
+
+set stringof_session_id="140-7.1"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
