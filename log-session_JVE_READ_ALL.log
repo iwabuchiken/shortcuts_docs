@@ -323,24 +323,35 @@
 	
 	傷寒論 解説
 	https://duckduckgo.com/?q=傷寒論+解説&ia=web
+
+
+###2021年12月28日8:19:08
+
+	>> JVE_59_medical : 解毒
 	
-	
+		https://ja.wikipedia.org/wiki/デトックス
+			毒とは
+				薬物や
+				アルコール
+			
+			薬物中毒 / 解毒剤
+			薬物依存症 / 離脱
+			
+		
+		s: 解毒 方法 https://duckduckgo.com/?q=解毒+方法&ia=web
+			docs
+				解毒（デトックス）を極める / HISAKOの美容通信 http://bihadahime.com/report/biyoutuusinn201708.html	:d-1 ##d:20211228_084307
+					<= ok
+				【ワクチン解毒方法】 https://www.aboutnursingschools.com/detoxification/	:d-2 ##d:20211228_084324
+				体の毒素を解毒する http://aurin.jp/jiyouhou/iroironabiyouki/kenkou/karadanodokuso.htm		:d-3 ##d:20211228_084340
+
+		n: read:d-1		]8:44:04
+
+
+###
+
 
 @@@
-
-
-
-###
-
-
-
-
-
-
-###
-
-
-
 
 
 
@@ -444,10 +455,22 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_41_economics_12_watching.log
 ###2021年11月19日15:44:13
 ========================== folder
 
+
+###2021年12月28日8:25:40
+======================	photo-books
 C:\WORKS_2\WS\WS_Cake_IFM11\photo-books
 
-====== 2021年11月23日1:10:23
+
+###2021年11月23日1:10:23
+========================	64_read
 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read
+
+
+###2021年12月28日8:24:24
+======================	59_medical
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\59_medical
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\59_medical\59_medical.mm
 
 =================== file : list-of-books.txt
 
@@ -476,7 +499,7 @@ makemeaning
 
 
 
-###2021年11月5日0:36:08
+###2021年11月5日0:36:08		/ XXX
 ========================== closing : git
 
 --------------------------
@@ -499,6 +522,8 @@ set stringof_session_id="JVE_59_medical : 9.2_頭部"
 set stringof_session_id="JVE_75_science-research"
 
 set stringof_session_id="JVE_59_medical : 音楽と脳科学"
+
+set stringof_session_id="JVE_59_medical : 解毒"
 
 set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
 
