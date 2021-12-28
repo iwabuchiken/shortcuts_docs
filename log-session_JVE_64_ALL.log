@@ -831,8 +831,34 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		.235
 		https://upload.wikimedia.org/wikipedia/commons/0/05/Sekigahara.png	『日本戦史関ヶ原役』に拠る関ヶ原布陣図
 		
+
+###2021年12月28日8:48:35
+	
+	>> 140-7.1		[8:48:49
 		
+		f: https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/5/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
+		
+		n: 兼而御究
+		
+		]9:09:23
+		
+
+###
+
+
 @@@
+
+
+###
+
+
+
+
+
+###
+
+
+
 
 
 ###
@@ -937,7 +963,7 @@ makemeaning
 
 
 
-###2021年11月5日0:36:08
+###2021年11月5日0:36:08		/ XXX
 ========================== closing : git
 
 
@@ -980,11 +1006,11 @@ set stringof_session_id="143_minshuu"
 
 set stringof_session_id="140-5"
 
-set stringof_session_id="140-7.1"
-
 set stringof_session_id="140-7.1 a.o."
 
 set stringof_session_id="134_yamamoto_ieyasu"
+
+set stringof_session_id="140-7.1"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
