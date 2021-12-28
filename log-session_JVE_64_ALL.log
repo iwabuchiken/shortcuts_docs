@@ -487,12 +487,13 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		.11
 		
 		嘉永６年
-		https://ja.wikipedia.org/wiki/嘉永
+		https://ja.wikipedia.org/wiki/嘉永	##d:20211228_121103
 			1848年から1855年
 			安政の前
 			嘉永六年（癸丑） / グレゴリオ暦 	1853/2/8
 			出来事
 				嘉永6年（1853年） / ペリー提督
+				7年（1854年）3月3日（3月31日） / 日米和親条約
 			
 			https://ja.wikipedia.org/wiki/癸丑
 				みずのとうし、きすいのうし、きちゅう
@@ -836,18 +837,58 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 	
 	>> 140-7.1		[8:48:49
 		
-		f: https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/5/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
+		f: https://honkoku.org/app/#/transcription/6FB516A055352014BE445FDBC1A5706F/5/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780		##d:20211228_164448
 		
 		n: 兼而御究
 		
 		]9:09:23
 		
-
-###
-
+	>> 143_minshuu	[11:38:43
+	
+		.14
+		閉伊郡小友村
+			https://www.openstreetmap.org/?mlat=39.27133&mlon=141.41983&zoom=12#map=12/39.2931/141.4440
+			
+		強訴 意味
+			https://dictionary.goo.ne.jp/word/強訴/
+		
+		小屋頭 意味
+		https://ja.wikipedia.org/wiki/非人
+			
+			非人小屋頭と言われる親方に
+		
+		栗林村 岩手県
+			https://ja.wikipedia.org/wiki/栗橋村
+			https://www.openstreetmap.org/?mlat=39.35958&mlon=141.76817&zoom=12#map=11/39.3162/141.6540
+		
+		嘉永
+		嘉永６年
+		https://ja.wikipedia.org/wiki/嘉永
+			1848年から1855年
+			-->##d:20211228_121103
+			
+	>> 140-7.1		[16:44:26
+		
+		-->##d:20211228_164448
+		
+		f: 兼而御究
+		
+		n: 無住ニ而
+		
+		]17:17:52
+	
+	>> 134_yamamoto_ieyasu	[17:39:51
+	
+		https://ja.wikipedia.org/wiki/佐和山城
+		https://www.openstreetmap.org/?mlat=35.2795&mlon=136.268925&zoom=13#map=14/35.2806/136.2589
+		
+		]17:59:32
 
 @@@
 
+
+###
+	
 
 ###
 
@@ -1008,9 +1049,11 @@ set stringof_session_id="140-5"
 
 set stringof_session_id="140-7.1 a.o."
 
-set stringof_session_id="134_yamamoto_ieyasu"
+
 
 set stringof_session_id="140-7.1"
+
+set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
