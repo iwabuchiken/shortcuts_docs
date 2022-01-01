@@ -347,14 +347,59 @@
 
 		n: read:d-1		]8:44:04
 
+###2022年1月2日1:09:58
 
+	>>
+	https://duckduckgo.com/?q=漢方+鉱物&ia=web		
+		docs
+			https://www.kanpodo.co.jp/archives/2363
+	s: https://duckduckgo.com/?t=ffsb&q=磁鉄鉱+薬効&ia=web
+		docs
+			http://kampoguide.com/syoyaku/jiseki.html
+			http://www.sm-sun.com/family/syouyaku/syou-sa/jiseki.htm
+			
+	
+	>>
+	-->##d:20211228_084307
+		
+		#1 毒素（化学物質）[...]代謝障害
+			s: 代謝障害 https://duckduckgo.com/?q=代謝障害&ia=web
+				docs
+					代謝障害 / wiki https://ja.wikibooks.org/wiki/病理学/代謝障害
+					代謝とは何か／代謝異常とは http://health.ymdat.com/taisya.html	##d:20220102_012432
+						<= lets-read
+			memos
+				直接的なもの
+					酸化 / ストレス
+					炎症
+					細胞 / 障害
+					ホルモン / 異常
+					血栓 / 形成
+				間接的なもの
+					ミトコンドリア / ダメージ
+					免疫 / 異常
+					栄養 / 障害
+					中枢神経 / 障害
+		#2 解毒の経路に関与
+			memos
+				臓器
+					①肝臓
+					②腎臓
+					③腸管
+					④皮膚
+		#3 肝臓は、解毒経路
+		
+		n: -->##d:20220102_012432,-->##d:20211228_084307
+		
+		]1:25:22
+		
 ###
+
 
 
 @@@
 
 
-
 ###
 
 
@@ -369,14 +414,7 @@
 
 
 
-###
-
-
-
-
-
-
-###
+###		--last-3
 
 
 
