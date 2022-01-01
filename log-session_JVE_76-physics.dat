@@ -3,30 +3,39 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-s-140
+s-144
 
-r-9-1~6 / 対数関数の解析接続 <https://eman-physics.net/math/imaginary08.html>
-
-#1
-.1 初めに 1:/
-#2 第 1 段階
-.1 次に 2:/
-.2 さあ,次に
-.3 では 
-.4 さあ,困った
-.5 さて,私が
-#3 計算結果の列挙
-#4 解決編
-.1 解析接続のため
-.2 気持ちが
-.3 結果が
-.4 これが欲し
-#5 検算
- 
- 
-r-9-1~7 / 特異点 <https://eman-physics.net/math/imaginary09.html>
+r-9-1~10.2 / 変数分離形 <https://eman-physics.net/math/differential02.html>
 
 #1
+.1 とりあえず書いて
+.2 これを見て
+#2 変数分離形か
+.1 しかしこれと
+.2 もう少し 2:/
+.3 簡単な例
+.4 次のような 4:/
+.5 テキトウに
+#3 解き方
+.1 この形に
+.2 とにかくこれで
+#4 具体例 その1
+#5 具体例 その2
+#6 なぜこんな
+.1 右辺の分母
+.2 よく見ると
+.3 これが先ほど
+#7 関数を 3:/
+ 
+ 
+ 
+r-9-1~10.3 / 同次形 <https://eman-physics.net/math/differential03.html>
+
+#1
+ 
+ 
+ 
+ 
  
  
  
