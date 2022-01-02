@@ -1041,10 +1041,25 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		
 		]
 
-###
+###2022年1月2日14:36:15
 
+	>> 140-7.2		[
+		
+		-->##d:2021年12月31日12:39:21
+		
+		f: 問屋共惣割賦
+		
+		n: https://honkoku.org/app/#/transcription/D42F44217D6ECF721D7631641F95F7A8/3/?ref=%2Fprojects%2Fkhirin%2Fcollections%2FD3172A13390F84A11F741B1EB50BC780	一他国へ	##d:2022年1月2日14:58:54
+		
+		]14:58:59
+
+	>> 134_yamamoto_ieyasu	[16:42:39
+		
+		.250
+		https://duckduckgo.com/?q=吉川文書+翻刻&ia=web
+		
+		
 @@@
-
 
 ###
 
@@ -1233,10 +1248,9 @@ set stringof_session_id="140-7.1 a.o."
 
 set stringof_session_id="140-7.1"
 
+set stringof_session_id="140-7.2"
 
 set stringof_session_id="134_yamamoto_ieyasu"
-
-set stringof_session_id="140-7.2"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
