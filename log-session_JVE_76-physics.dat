@@ -11,20 +11,29 @@ r-9-1~11.1 / ユニタリ行列 <https://eman-physics.net/math/linear15.html>
 #2 エルミート行列の性質
 .1 エルミート行列は,
 #3 エルミート行列の固有値は 2:/
-SEG : r-9-1~11.2
+*SEG : r-9-1~11.2
 	20220103_091044/
- 
+	/20220103_155333
+SEG / r-9-1~11.4 / 二次形式
+	20220103_155718/
 
-r-9-1~11.2 / 対角化 <https://eman-physics.net/math/linear10.html>
+
+r-9-1~11.4 / 二次形式 <https://eman-physics.net/math/linear11.html>
 
 #1
-.1 もしここで
-.2 なぜこんな
-#2 教科書の表記に
-#3 対角化 3:/
-.1 2 次の変換行列を
-SEG : r-9-1~11.3
-	20220103_091053/
-	/20220103_105127
+.1 ほらほら,
+#2 主軸変換 1:/
+#2.1 この変換の
+	graph-desmos
+		https://www.desmos.com/calculator/1gxmw8rart
+	unrelated
+		graph-desmos
+			y = x√(x) https://www.desmos.com/calculator/lqtvsggsle
  
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
