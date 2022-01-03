@@ -1057,15 +1057,19 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		
 		.250
 		https://duckduckgo.com/?q=吉川文書+翻刻&ia=web
-		
-		
-@@@
+
 
 ###
 
+	>> 140-7.2		[
+		
+		-->##d:2022年1月2日14:58:54
+		
+		n: 外に水上賃
+		
+		]14:39:37
 
-
-
+@@@
 
 ###
 
@@ -1202,9 +1206,7 @@ makemeaning
 ###2021年11月5日0:36:08		/ XXX
 ========================== closing : git
 
-
 set stringof_session_id="136.1_rice"
-
 
 set stringof_session_id="137.1_ikki"
 set stringof_session_id="137.2_shigetoki_rokuhara
@@ -1214,15 +1216,10 @@ set stringof_session_id="114_hirata"
 
 set stringof_session_id="139.1_kaidou"
 
-set stringof_session_id="140(texts) no.2"
-set stringof_session_id="140(texts) no.3"
-
 --------------------------
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="135-62.2_sanka"
-set stringof_session_id="134_yamamoto_ieyasu / 140(texts)-4"
-set stringof_session_id="140-3"
 
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 set stringof_session_id="142_azuma"
@@ -1232,25 +1229,13 @@ set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 set stringof_session_id="143_minshuu"
 set stringof_session_id="90_oritaku"
 
-
 ------------------------------
-
-set stringof_session_id="140-4 / 140-5"
-
 
 set stringof_session_id="143_minshuu"
 
-set stringof_session_id="140-5"
-
-set stringof_session_id="140-7.1 a.o."
-
-
-
-set stringof_session_id="140-7.1"
+set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_session_id="140-7.2"
-
-set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
@@ -1262,8 +1247,25 @@ C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_pro
 rem C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
 
+
 ###2021年11月10日1:25:08
 ========================== closing : apps
 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+###2022年1月3日14:40:15
+========================== storage
+
+set stringof_session_id="140-5"
+
+set stringof_session_id="140-7.1 a.o."
+
+set stringof_session_id="140-7.1"
+
+set stringof_session_id="140(texts) no.2"
+set stringof_session_id="140(texts) no.3"
+
+set stringof_session_id="140-3"
+
+set stringof_session_id="140-4 / 140-5"
 
