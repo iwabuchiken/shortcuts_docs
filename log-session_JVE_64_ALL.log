@@ -1087,13 +1087,41 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		n: 銀に相成り
 		
 		]17:57:01
+
+
+###2022年1月4日17:05:31
+
+	>> 140-7.2		[17:26:13
+
+		f: 銀に相成り
+		
+		n: 市ゟ四日目
+		
+		]17:34:43
+
+	>> 134_yamamoto_ieyasu	[17:37:56
+	
+		.253
+		
+		https://ja.wikipedia.org/wiki/立花宗茂
+			生誕	永禄10年8月18日[注 1]（1567年9月20日）
+			死没	寛永19年11月25日（1643年1月15日）
+			筑後国柳河藩初代藩主
+			https://ja.wikipedia.org/wiki/柳川市
+			大友氏の一族
+			豊後・国東郡筧（大分県豊後高田市）[...]生まれたとされる
+		
+		https://ja.wikipedia.org/wiki/鍋島勝茂
+			肥前佐賀藩主
+			https://ja.wikipedia.org/wiki/佐賀藩
+				石高は35万7千石
+				龍造寺家、後に鍋島家
+			
+			鍋島直茂の長男
+		
+		]17:58:57
+
 @@@
-
-###
-
-
-
-
 
 ###
 
@@ -1257,6 +1285,11 @@ set stringof_session_id="140-7.2"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
+rem XXX
+
+set stringof_session_id="140-7.2 / 134_yamamoto_ieyasu"
+
+
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
 
@@ -1264,12 +1297,6 @@ C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_pro
 
 rem C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
-
-
-###2021年11月10日1:25:08
-========================== closing : apps
-
-C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
 
 ###2022年1月3日14:40:15
 ========================== storage
@@ -1286,4 +1313,11 @@ set stringof_session_id="140(texts) no.3"
 set stringof_session_id="140-3"
 
 set stringof_session_id="140-4 / 140-5"
+
+
+
+###2021年11月10日1:25:08
+========================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
 

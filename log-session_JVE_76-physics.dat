@@ -29,11 +29,32 @@ r-9-1~11.4 / 二次形式 <https://eman-physics.net/math/linear11.html>
 	unrelated
 		graph-desmos
 			y = x√(x) https://www.desmos.com/calculator/lqtvsggsle
- 
- 
- 
- 
- 
+.2 ここでは例として
+	graph-desoms
+		楕円 https://www.desmos.com/calculator/uwduvbz20m
+	calc-symbo
+		楕円の、対角化 https://www.symbolab.com/solver/equation-calculator/2\cdot x^{2}+3\cdot y^{2}=4?or=input
+	graph-desoms
+		#2.1~g-1 / https://www.desmos.com/calculator/ekuphy7woq
+.3 それで,このように
+#3 変換の手順
+.1 しかし別の
+*.2 結局のところ,
+.3 これが何を
+.4 つまり,(1) 式の
+#4 対称行列の面白い性質
+.1 例えばここで
+.2 さて,行列
+.3 この定理を
+.4 ここで実対称行列
+.5 元の話題に
+#5 グラム・シュミットの直交化法 1:/
+.1 これを使えば
+.2 まず,最初
+#6 実対称行列は必ず対角化できる 1:/
+.1 後で複素数の
+.2 そう言えば,
+#7 注意書きなど
  
  
  
