@@ -359,7 +359,7 @@
 			http://www.sm-sun.com/family/syouyaku/syou-sa/jiseki.htm
 			
 	
-	>>
+	>> JVE_59_medical : 解毒
 	-->##d:20211228_084307
 		
 		#1 毒素（化学物質）[...]代謝障害
@@ -388,15 +388,37 @@
 					③腸管
 					④皮膚
 		#3 肝臓は、解毒経路
+		[20220106_011134
+		.1 Toxinと呼ばれるもの
+			memos
+				endotoxins
+					代謝の最終産物
+					細胞内毒素等
+				extotoxins
+					農薬、
+					食品添加物
+				脂溶性の毒物 /.. 肝臓 / 水溶性の物質に変換
+				Phase1
+					中間体（intermadiates）
+				Phase2
+					抱合
+		#4 腎臓の段階で、 ]20220106_011432
+		
 		
 		n: -->##d:20220102_012432,-->##d:20211228_084307
 		
 		]1:25:22
 		
-###
+###2022年1月6日1:00:00
 
-
-
+	>> JVE_59_medical : 解毒
+		
+		-->##d:20220102_012432,-->##d:20211228_084307
+		
+		n: -->##d:20211228_084307	]20220106_011432
+		
+		]1:15:08
+		
 @@@
 
 
@@ -408,6 +430,48 @@
 
 
 ###
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
 
 
 
@@ -561,8 +625,10 @@ set stringof_session_id="JVE_75_science-research"
 
 set stringof_session_id="JVE_59_medical : 音楽と脳科学"
 
-set stringof_session_id="JVE_59_medical : 解毒"
 
+rem --------------------------
+
+set stringof_session_id="JVE_59_medical : 解毒"
 set stringof_project_id="JVE_READ_ALL : %stringof_session_id:"=%" 
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
