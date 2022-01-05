@@ -1121,13 +1121,63 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		
 		]17:58:57
 
+###2022年1月5日14:01:35
+
+	>> 140-7.2		[14:01:54
+
+		f: 市ゟ四日目
+		
+		n: 相渡候義に
+		https://honkoku.org/app/#/transcription/D42F44217D6ECF721D7631641F95F7A8/4/?ref=%2Fprojects%2Fkhirin%2Fcollections%2FD3172A13390F84A11F741B1EB50BC780
+		
+		]:
+
+
+	[16:37:01
+	>> 134_yamamoto_ieyasu	[
+	
+	https://ja.wikipedia.org/wiki/黒田孝高
+		
+		よしたか
+		生誕	天文15年11月29日（1546年12月22日）
+		（グレゴリオ暦1547年1月1日）
+		死没	慶長9年3月20日（1604年4月19日）[1]
+	
+	https://ja.wikipedia.org/wiki/加藤清正
+		
+		生誕	永禄5年6月24日（1562年7月25日）
+		死没	慶長16年6月24日（1611年8月2日）
+		天正16年（1588年）に[...]肥後北半国19万5,000石を与えられ
+		
+	https://ja.wikipedia.org/wiki/小西行長
+	
+		https://ja.wikipedia.org/wiki/宇土城
+		https://ja.wikipedia.org/wiki/宇喜多直家
+			
+			天正7年（1579年）[...]6月前後[...]信長に臣従
+		
+		https://ja.wikipedia.org/wiki/毛利元就
+		
+			生誕	明応6年3月14日[1]（1497年4月16日）　　
+			死没	元亀2年6月14日[1]（1571年7月6日）
+		
+		https://ja.wikipedia.org/wiki/関ヶ原の戦い
+		
+			年月日：慶長5年9月15日（1600年10月21日）
+			
+			9月16日には[...]佐和山城攻略
+		
+		https://ja.wikipedia.org/wiki/井伊直政
+		
+			生誕	永禄4年2月19日（1561年3月4日）
+			死没	慶長7年2月1日（1602年3月24日）
+			今川氏の家臣である / 井伊直親の / 嫡男
+			幼名は虎松
+			父・直親
+			父・直親は、[...]永禄5年（1562年）[...]今川氏真に誅殺
+			当主である / 井伊直盛（虎松の父・直親の従兄で養父）[...]桶狭間の戦いで / 戦死
+
 @@@
-
-###
-
-
-
-
 
 ###
 
@@ -1285,10 +1335,11 @@ set stringof_session_id="140-7.2"
 
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
-rem XXX
-
 set stringof_session_id="140-7.2 / 134_yamamoto_ieyasu"
 
+rem ------------------------XXX
+
+set stringof_session_id="134_yamamoto_ieyasu"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
