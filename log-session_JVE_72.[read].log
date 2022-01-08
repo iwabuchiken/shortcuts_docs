@@ -778,8 +778,13 @@
 		 	首先[...]不能[...]中国传统的腐败
 		 	不能 /.. 社会主义的 / 问题
  		 	已经 /.. 全球市场之中
-		  .3 在这样的历史条件下 ]20220105_215759
-		 
+		# .3 在这样的历史条件下 ]20220105_215759
+		 .4 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220108_221813_082962.txt
+		 	[20220108_221834
+		  	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220108_222346_013849.txt
+		 #9 当代中国思想界放弃 ]20220108_222554
+		 	
+		  
 			
 			]21:51:34
 	
@@ -851,13 +856,29 @@
 		
 		]21:58:12
 
+
+###2022年1月8日21:53:17
+
+	(ko)	[
+	
+	-->##d:20220103_215800
+		
+		f: 항공운송 산업이 시작된 1:/
+		
+		n: http://nodong.org/statement/7802995
+			##d:20220108_221232
+		
+		]22:12:37
+
+	(cn)	[
+	
+	-->##d:20220102_215144
+
+		f: ]20220105_215759
+		n: ]20220108_222554
+		
+		]22:26:18
 @@@
-
-
-###
-
-
-
 
 ###
 
@@ -979,10 +1000,10 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-readi
 6. new "out" file
 	1. read
 
-
----- 2021年11月15日13:18:07
+21年11月15日13:18:07
 ([^\.])$	$1.
-([^\。])$	$1。
+([^
+---- 20\。])$	$1。
 
 rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
 
@@ -1041,7 +1062,7 @@ library
 makemeaning
 
 
-###2021年6月18日10:35:18
+###2021年6月18日10:35:18 / XXX
 ========================= closing : git
 
 ###2021年6月28日1:00:31
@@ -1072,6 +1093,7 @@ set stringof_session_id="article : (MANY)"
 
 set stringof_session_id="article : (ko)"
 
+rem --------------------------
 set stringof_session_id="article : (ko),(cn)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
