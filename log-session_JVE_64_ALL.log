@@ -590,6 +590,7 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		https://ja.wikipedia.org/wiki/天正
 			
 			ユリウス暦1573年[...]グレゴリオ暦1593
+			天正20年12月8日	グレゴリオ暦1593年[1]（ユリウス暦1592年
 			
 	]1:23:37
 
@@ -1210,12 +1211,45 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		https://duckduckgo.com/?q=秀吉+キリスト教+殉教&ia=web
 		
 		]18:00:46
+
+	[1:11:35
+	>> 134_yamamoto_ieyasu	[
+	
+		]1:28:13
+
+
+
+###2022年1月9日9:03:13
+
+	>> 140-7.2		[17:01:02
+
+		https://honkoku.org/app/#/transcription/D42F44217D6ECF721D7631641F95F7A8/5/?ref=%2Fprojects%2Fkhirin%2Fcollections%2FD3172A13390F84A11F741B1EB50BC780
+		
+		f: 一葉煙草壱斤
+		
+		n: 一杜秤懸方
+		
+		]9:34:36
+	
+	>> 90_oritaku	[11:43:13
+	
+		https://ja.wikipedia.org/wiki/延暦寺
+		
+			延暦7年（788年）
+			「延暦寺」とは単独の堂宇の名称 / ではなく
+			https://kotobank.jp/word/堂宇-579547
+				堂ののき
+				堂の建物
+				「宇」は / 軒(のき)の意
+				https://kotobank.jp/word/堂-579421
+					土台の上に[...]建物
+					客に接したり、[...]ついていう
+					多人数が / 集会する / 建物
+				https://www.chinesewords.org/dict/74989-184.html 堂宇詞語解釋 / 堂宇是什麽意思
+					-yu3
+					頂棚[-peng2:ceiling
+
 @@@
-
-
-###
-
-
 
 
 
@@ -1357,7 +1391,7 @@ set stringof_session_id="142_azuma"
 set stringof_session_id="134_yamamoto_ieyasu / 140-4"
 
 set stringof_session_id="143_minshuu"
-set stringof_session_id="90_oritaku"
+
 
 ------------------------------
 
@@ -1371,9 +1405,11 @@ set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%"
 
 set stringof_session_id="140-7.2 / 134_yamamoto_ieyasu"
 
+set stringof_session_id="134_yamamoto_ieyasu"
+
 rem ------------------------XXX
 
-set stringof_session_id="134_yamamoto_ieyasu"
+set stringof_session_id="90_oritaku"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
