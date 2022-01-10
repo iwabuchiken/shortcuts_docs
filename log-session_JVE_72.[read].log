@@ -943,6 +943,38 @@
 		
 		]10:02:39
 
+	(ko)
+	(ko)	[
+	
+		http://nodong.org/statement/7802995		
+			##d:20220108_221232
+		
+		f: 이미 유엔, ILO, 국제엠네스티
+		n: 헌법은 모든 
+		
+		]21:31:57
+
+	(cn)	[
+	
+		https://www.aisixiang.com/data/689-2.html	
+			]20220109_214246
+		#1
+		#2 然而，在寻求现代化的 ##m:20220110_214559
+		
+		n: -->##m:20220110_214559
+		
+		]21:46:16
+		
+		https://www.aisixiang.com/data/search.php?keyWords=%B3%D6%D0%F8%D0%D4&searchfield=subject
+			https://www.aisixiang.com/data/41463.html		王一江：要追求可持续性发展的政府
+	
+	(po)
+	https://pl.sputniknews.com/20211219/polski-zolnierz-ktory-zbiegl-na-bialorus-przyznaje-sie-do-zabijania-migrantow---wideo-16817982.html
+	
+		n: Prokuratura Rejonowa w Białymstoku 
+		
+		]22:01:04
+
 @@@
 
 
@@ -1184,9 +1216,11 @@ set stringof_session_id="article : (po),(ru)"
 set stringof_session_id="article : (MANY)"
 
 set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (ko),(cn)"
 
 rem --------------------------
-set stringof_session_id="article : (ko),(cn)"
+set stringof_session_id="articles"
+
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
