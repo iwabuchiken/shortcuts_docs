@@ -3,21 +3,28 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-s-146
+s-152
 
-r-9-1~11.1 / ユニタリ行列 <https://eman-physics.net/math/linear15.html>
+r-9-1~10.5 / 完全形 <https://eman-physics.net/math/differential05.html>
 
-#11 反エルミート行列の性質
-.1 しかしこれまでに
-#12 性質のまとめ
-.1 固有ベクトルから二つ 2:/
+#1
+.1 これが変数分離形でも
+	words
+		完全形 [2022年1月10日16:39:23
+.2 このことの
+#2 数学的背景
+.1 ところで,
+.2 (4) 式を解くために
+#2.3 今の説明が
  
  
  
  
  
  
-
+ 
+ 
+ 
 
 
 
