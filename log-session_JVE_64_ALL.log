@@ -1320,9 +1320,65 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		https://www.kanazawabunko.pref.kanagawa.jp/bunko/viewer/logon.jsp
 		
 		]1:13:01
+
+###
+
+	>> 140-7.2		[
+
+		f: https://honkoku.org/app/#/transcription/D42F44217D6ECF721D7631641F95F7A8/7/?ref=/projects/khirin/collections/D3172A13390F84A11F741B1EB50BC780
+		
+		f: 右之通天保九
+		
+		n: https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/2/
+			7.3 和田村操芝居不合書控
+			
+			申上覚
+		
+		]23:51:47
+
+	[1:16:44
 	
+	>> 90_oritaku	[
 	
+		名乗 意味
+		https://kotobank.jp/word/名乗-1572475
+			幼名・通称にかえてつける実名または本名
+
+###
+
+
 @@@
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
 
 ###
 
@@ -1471,10 +1527,11 @@ set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%"
 set stringof_session_id="140-7.2 / 134_yamamoto_ieyasu"
 
 
-set stringof_session_id="90_oritaku"
+
+set stringof_session_id="134_yamamoto_ieyasu"
 
 rem ------------------------XXX
-set stringof_session_id="134_yamamoto_ieyasu"
+set stringof_session_id="90_oritaku"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
