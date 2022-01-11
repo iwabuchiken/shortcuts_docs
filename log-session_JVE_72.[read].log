@@ -960,6 +960,8 @@
 			]20220109_214246
 		#1
 		#2 然而，在寻求现代化的 ##m:20220110_214559
+		#3 当代中国社会的改革所 ##:20220111_222555
+		
 		
 		n: -->##m:20220110_214559
 		
@@ -974,16 +976,35 @@
 		n: Prokuratura Rejonowa w Białymstoku 
 		
 		]22:01:04
+	
+	[1:16:45
+	https://blackagendareport.com/dont-look-reflects-cynicism-capitalist-decay-better-and-worse
+		
+		n: The film obviously 
+		
 
+###2022年1月11日12:33:02
+
+	https://www.presstv.ir/Detail/2022/01/10/674481/Iran-provides-vulnerable-Afghans-with-humanitarian-aid-amid-harsh-winter
+
+
+	[21:33:22
+	(ko)
+		-->##d:20220108_221232
+		
+		f: 헌법은 모든 
+		n: http://nodong.org/statement/7803138
+			##:20220111_221458
+		
+		]22:15:03
+	
+	(cn)
+		-->20220109_214246
+		
+		n: -->##:20220111_222555
+		
+		
 @@@
-
-
-
-###
-
-
-
-
 
 
 ###
@@ -1220,7 +1241,6 @@ set stringof_session_id="article : (ko),(cn)"
 
 rem --------------------------
 set stringof_session_id="articles"
-
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
