@@ -1363,26 +1363,39 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		
 		]17:31:59
 
+###2022年1月13日17:50:26
+
+	>> 140-7.3		[17:50:42
+	
+		-->##:20220112_171903
+		
+		f: 一上鮎喰往
+		
+		n: https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/3/
+		
+			弘化三未年
+		
+		]17:51:51
+
+###2022年1月16日1:46:37
+
+	>> 140-7.3		[
+	
+		-->##:20220112_171903
+		
+		f: https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/3/
+		
+			弘化三未年
+		
+		n: 破損仕居申所
+		
+		]17:51:51
+
+###
+
+
 
 @@@
-
-
-###
-
-
-
-
-
-###
-
-
-
-
-
-###
-
-
-
 
 
 ###
@@ -1539,16 +1552,18 @@ set stringof_session_id="134_yamamoto_ieyasu"
 
 set stringof_session_id="140-7.2"
 
+
 set stringof_project_id="JVE_64_bk : %stringof_session_id:"=%" 
 
 set stringof_session_id="140-7.2 / 134_yamamoto_ieyasu"
 
-
+set stringof_session_id="90_oritaku"
 
 set stringof_session_id="134_yamamoto_ieyasu"
 
 rem ------------------------XXX
-set stringof_session_id="90_oritaku"
+
+set stringof_session_id="140-7.3"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
