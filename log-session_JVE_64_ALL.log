@@ -1383,7 +1383,7 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 	
 		-->##:20220112_171903
 		
-		f: https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/3/
+		f: https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/3/	##:20220116_142622
 		
 			弘化三未年
 		
@@ -1391,11 +1391,92 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		
 		]17:51:51
 
+###2022年1月16日14:08:15
+
+	>> 140-7.3		[
+		
+		-->##:20220116_142622
+		
+		f: 破損仕居申所
+		n: ゟ毎夜灯明
+	
+	]14:26:13
+
+	>> 134_yamamoto_ieyasu	[17:08:13
+	
+		清韓
+		https://ja.wikipedia.org/wiki/文英清韓
+		https://ja.wikipedia.org/wiki/細川忠興
+		https://ja.wikipedia.org/wiki/島津義弘
+		https://ja.wikipedia.org/wiki/細川興元
+	]17:38:50
+
+###2022年1月17日1:20:36
+
+	>> 134_yamamoto_ieyasu	[1:41:39
+
+###2022年1月17日14:31:41
+
+	>> 140-7.3		[
+		
+		-->##:20220116_142622
+		
+		f: ゟ毎夜灯明
+		n: 取都諸人助勢
+	
+	]14:59:14
+	
+	>> 134_yamamoto_ieyasu	[17:15:04
+		
+		.395
+		
+		鷺坂善右衛門
+		浅野幸長
+		https://ja.wikipedia.org/wiki/浅野幸長
+			生誕	天正4年（1576年）
+			死没	慶長18年8月25日（1613年10月9日）	
+		
+			浅野長晟
+				https://kanji.jitenon.jp/kanjih/3907.html
+			
+			https://ja.wikipedia.org/wiki/前田利常
+				前田利家の庶子（四男）
+				母は側室の千代保（寿福院）
+				生誕	文禄2年11月25日（1594年1月16日）
+				死没	万治元年10月12日（1658年11月7日）[1]
+				加賀前田家3代。
+			
+			https://ja.wikipedia.org/wiki/前田利政
+				前田利家の次男、
+				母はまつ。
+				生誕	天正6年（1578年）
+				死没	寛永10年7月14日（1633年8月18日）
+			
+			https://ja.wikipedia.org/wiki/前田利長
+				加賀前田家2代
+				生誕	永禄5年1月12日（1562年2月15日）
+				死没	慶長19年5月20日（1614年6月27日）[1]
+			
+			https://ja.wikipedia.org/wiki/蜂須賀正勝
+				通称は小六（ころく）
+				生誕	大永6年（1526年）
+				死没	天正14年5月22日（1586年7月8日）
+				尾張国海東郡蜂須賀郷
+				天文22年（1553年）[...]斎藤道三に近侍
+				
+@@@
+
+
 ###
 
 
 
-@@@
+
+
+###
+
+
+
 
 
 ###
@@ -1561,9 +1642,11 @@ set stringof_session_id="90_oritaku"
 
 set stringof_session_id="134_yamamoto_ieyasu"
 
+set stringof_session_id="140-7.3"
+
 rem ------------------------XXX
 
-set stringof_session_id="140-7.3"
+set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
