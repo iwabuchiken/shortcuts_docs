@@ -1,0 +1,21 @@
+###2022年1月21日1:14:05
+
+	*1. C:\WORKS_2\WS\WS_Cake_IFM11\commands\2-0_edit_memos.9-0.bat
+	
+		]1:23:38
+	
+	*1-2) ------------------ open : sakura file
+		
+		]1:25:39
+		
+	*2. REM #insert data ------------------
+	
+		]1:26:20
+	
+	validate
+		sqlite viewer
+		==> OK		]1:26:49
+
+	n: comp
+	
+]1:30:03
