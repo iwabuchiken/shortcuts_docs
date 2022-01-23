@@ -368,18 +368,26 @@
 	
 	]18:56:56
 	
+###2022年1月23日18:08:23
+
+	>> rev
+		2022-01-21_18-11-34_000.mp4
+			.15~ melo:B
+		==> r=1##
+		]18:15:59
+	
+	>> rev		[18:19:35
+		2022-01-21_18-29-38_000.mp4
+		r=2,3
+		]18:25:48
+	
+
+
 ###
 
 
 
 @@@
-
-
-###
-
-
-
-
 
 
 ###
@@ -447,12 +455,16 @@ rem set stringof_session_id="reviewing"
 set stringof_session_id="play" 
 
 
+set stringof_project_id="JVE_46.[15_jp-flute] : %stringof_session_id:"=%" 
+
 -------------------------------
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="practice" 
 
-set stringof_project_id="JVE_46.[15_jp-flute] : %stringof_session_id:"=%" 
+set stringof_project_id="JVE_46_jp-flute: shino,shaku : %stringof_session_id:"=%" 
+
+
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
 
