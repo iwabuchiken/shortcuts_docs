@@ -1691,13 +1691,23 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 			強者をくじき、弱者を助ける
 			義理堅い人。
 
-
-@@@
+	>> 126_mooshi	[1:14:06
+		
+		https://ja.wikipedia.org/wiki/禹
+		
+		
+		https://ja.wikipedia.org/wiki/舜
+		
+		
+		https://ja.wikipedia.org/wiki/堯
+	
+		]1:48:56
 
 ###
 
 
 
+@@@
 
 
 ###
@@ -1862,10 +1872,11 @@ set stringof_session_id="140-7.3"
 
 set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
+set stringof_session_id="145_yamamoto_rongo"
 
 rem ------------------------XXX
 
-set stringof_session_id="145_yamamoto_rongo"
+set stringof_session_id="145_yamamoto_rongo / 126_mooshi"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
