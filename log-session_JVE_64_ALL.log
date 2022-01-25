@@ -1663,18 +1663,36 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		n: 名東郡
 			https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/6/
 
+
+###2022年1月24日15:49:16
+
+	>> 140-7.3		[
+		
+		-->##:20220116_142622
+		
+		f: 名東郡
+		n: 右村方之義
+		
+		https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/8/
+		
+		]16:10:29
+
+###2022年1月25日17:08:10
+
+	>> 145_yamamoto_rongo
+		
+		.41
+		漢字 にんべん 挟
+		https://kanji.jitenon.jp/kanjie/2312.html
+			侠
+			音読み	キョウ
+			訓読み	おとこだて
+			きゃん
+			強者をくじき、弱者を助ける
+			義理堅い人。
+
+
 @@@
-###
-
-
-
-
-
-###
-
-
-
-
 
 ###
 
@@ -1843,10 +1861,11 @@ set stringof_session_id="140-7.3"
 
 
 set stringof_session_id="134_yamamoto_ieyasu"
+set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
 
 rem ------------------------XXX
 
-set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
+set stringof_session_id="145_yamamoto_rongo"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
