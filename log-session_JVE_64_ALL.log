@@ -1703,17 +1703,64 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 	
 		]1:48:56
 
-###
+###2022年1月26日15:28:07
+	
+	
+	.48
 
+###2022年1月27日13:05:16
 
-
+	>> 3_hachiitsu
+		
+		漢字 木編 亘
+		https://duckduckgo.com/?q=漢字+木編+亘&ia=web
+			https://kanji.condb.link/69/
+			
+		https://ja.wikipedia.org/wiki/三桓氏
+		
+		https://zh.wikipedia.org/zh-cn/三桓
+			三桓[huan2,卿[qing,孟[meng4,滥觞[lan4shang1,嫡长子[di2i*,庶[shu4,谥[shi4,仲[zhong4,僖[cheng2
+		
+		漢字 音 召
+			韶
+			
+		韶楽[shao2-
+			三月不知肉味　https://new.qq.com/omn/20211013/20211013A0CRED00.html
+			
+		https://ctext.org/analects/ba-yi/zh
+		
+			八佾[-yi4
+			哉[zai1,奢[she1,儉[jian3,喪[sang4
+		
+		]13:49:21
+	
+	>> 145_yamamoto_rongo
+	
+		]14:34:11
+	
+	>> 140-7.3		[14:37:13
+		
+		-->##:20220116_142622
+		
+		f: 右村方之義
+		
+		https://honkoku.org/app/#/transcription/4F822CFAD188526AD31AF4804FBFBF0E/8/
+		
+		n:
+		https://honkoku.org/app/#/transcription/9A7D355DDE8716EE340DB2ACBCF8E41A/1/
+		
+		]15:02:45
+	
+	>> 140-7.4		[16:36:43
+	
+		f:
+		https://honkoku.org/app/#/transcription/9A7D355DDE8716EE340DB2ACBCF8E41A/1/
+		
+		n: 諸事無手抜
+		
+		]16:55:02
+	
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -1873,10 +1920,11 @@ set stringof_session_id="140-7.3"
 set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
 set stringof_session_id="145_yamamoto_rongo"
+set stringof_session_id="145_yamamoto_rongo / 126_mooshi"
 
 rem ------------------------XXX
 
-set stringof_session_id="145_yamamoto_rongo / 126_mooshi"
+set stringof_session_id="140-7.4"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
