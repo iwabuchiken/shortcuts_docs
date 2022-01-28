@@ -8,7 +8,32 @@ s-166
 r-9-2~1.12 / 原子の構造 <https://eman-physics.net/quantum/atom.html>
 
 
-#1
+#3.2 つまり,両辺は
+.3 次に,今
+#4 ここで, 1:/
+.1 やはり同じ
+.2 するとこの
+.3 ついでだから
+#5 方向の依存性 1:/
+.1 ##
+.2 ところで 1:/
+.3 身の回りには
+*.4 ちなみに,
+#6 方向の依存性 2
+.1 ##
+	graph-des
+		ERJM https://www.desmos.com/calculator/yn9abikxsg
+	related
+		定数係数の非同次線型／一般解・特殊解 https://batapara.com/archives/inhomogeneous-linear-differential-equations-2.html/
+*.2 式の複雑さ
+	
+		TTA7 : ルジャンドル多項式
+			P_l(x) https://www.desmos.com/calculator/fk4ey8dwed
+			whole formula https://www.desmos.com/calculator/aoflb8iyml
+.3 このような解
+	related
+		球面調和関数 https://www.desmos.com/calculator/91vthauqlh
+#7 動径方向の解
  
  
  

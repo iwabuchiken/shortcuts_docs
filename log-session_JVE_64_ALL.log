@@ -1759,8 +1759,70 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		n: 諸事無手抜
 		
 		]16:55:02
+
+###2022年1月28日16:49:24
+
+	>> 3_hachiitsu
 	
+		漢字 にんべん 口 川
+		https://www.okjiten.jp/kanji2223.html
+			侃
+			音読み：「カン」
+			訓読み：「たの(しむ)」、「つよ(い)」、「ただし」、「あきら」
+			「正しく強い」
+		
+		https://life-freedom888.com/ninben-hou/
+		
+		https://dictionary.goo.ne.jp/word/千歳_(せんざい)/
+		https://www.starman.biz/kazuosasaki_blog-people/people/chinawisdom/pg219.html
+		
+		夷狄[yi2di2,冉[ran3,弗[fu2,嗚[wu1
+		揖[yi1
+		
+		]17:31:26
+
+
+###
+
+
+
 @@@
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+###
+
+
+
 
 
 ###
@@ -1921,10 +1983,11 @@ set stringof_session_id="134_yamamoto_ieyasu"
 set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
 set stringof_session_id="145_yamamoto_rongo"
 set stringof_session_id="145_yamamoto_rongo / 126_mooshi"
+set stringof_session_id="140-7.4"
 
 rem ------------------------XXX
 
-set stringof_session_id="140-7.4"
+set stringof_session_id="3_hachiitsu"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
