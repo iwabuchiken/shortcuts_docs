@@ -1782,17 +1782,41 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 		]17:31:26
 
 
+###2022年1月30日1:31:17
+
+	>> 147.1_shuunan
+	
+		.16
+		s: ctext 詩経
+		https://ctext.org/book-of-poetry/zh
+		https://ctext.org/book-of-poetry/odes-of-zhou-and-the-south/zh
+		
+		ミサゴ
+			https://ja.wikipedia.org/wiki/ミサゴ
+		漢字 食 選
+			https://kanji.jitenon.jp/kanjik/5295.html
+				饌
+				音読み	サン
+				セン
+				訓読み	そなえもの
+				そな（える）
+		
+		https://ja.wikipedia.org/wiki/アサザ
+		
+		https://ja.wikipedia.org/wiki/詩経#毛伝
+		
+		馬瑞辰 [-rui4chen2
+		https://zh.wikipedia.org/zh-cn/馬瑞辰
+			清朝学者。 
+			1782年－1853年
+	
+		]2:17:15
+
 ###
 
 
 
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -1984,10 +2008,11 @@ set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
 set stringof_session_id="145_yamamoto_rongo"
 set stringof_session_id="145_yamamoto_rongo / 126_mooshi"
 set stringof_session_id="140-7.4"
+set stringof_session_id="3_hachiitsu"
 
 rem ------------------------XXX
 
-set stringof_session_id="3_hachiitsu"
+set stringof_session_id="147.1_shuunan"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
