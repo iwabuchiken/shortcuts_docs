@@ -28,7 +28,9 @@ set dpath_batch=C:\WORKS_2\shortcuts_docs
 
 set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 
-set fname_log="log-session_JVE_76-physics.log"
+set fname_log="log-session_JVE_68_tp.log"
+rem set fname_log="log-session_JVE_76-physics.log"
+
 set fpath_log="%dpath_batch%\%fname_log:"=%"
 
 set fname_dat="log-session_JVE_76-physics.dat"
@@ -174,6 +176,10 @@ REM =================================
 :end
 
 rem pause
+
+
+
+
 
 
 

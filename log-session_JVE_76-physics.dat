@@ -5,37 +5,48 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 
 s-166
 
-r-9-2~1.12 / 原子の構造 <https://eman-physics.net/quantum/atom.html>
+r-9-2~2.3 / ユニタリ変換 <https://eman-physics.net/quantum/unitary.html>
 
-
-#3.2 つまり,両辺は
-.3 次に,今
-#4 ここで, 1:/
-.1 やはり同じ
-.2 するとこの
-.3 ついでだから
-#5 方向の依存性 1:/
-.1 ##
-.2 ところで 1:/
-.3 身の回りには
-*.4 ちなみに,
-#6 方向の依存性 2
-.1 ##
-	graph-des
-		ERJM https://www.desmos.com/calculator/yn9abikxsg
-	related
-		定数係数の非同次線型／一般解・特殊解 https://batapara.com/archives/inhomogeneous-linear-differential-equations-2.html/
-*.2 式の複雑さ
-	
-		TTA7 : ルジャンドル多項式
-			P_l(x) https://www.desmos.com/calculator/fk4ey8dwed
-			whole formula https://www.desmos.com/calculator/aoflb8iyml
-.3 このような解
-	related
-		球面調和関数 https://www.desmos.com/calculator/91vthauqlh
-#7 動径方向の解
- 
- 
+#1
+.1 しかし,ある状態を
+.2 それは波動関数
+#2 ベクトルだけの理論体系
+.1 ところでこの
+.2 これらも同じ
+.3 これらの係数を
+.4 これでようやく
+.5 とにかくこれで
+#3 基底ベクトルの回転
+.1 
+.2 どんな基底ベクトル 2]
+.3 つまり,抽象的な
+#4 ここでちょっと
+.1 互いに直交する
+.2 そういう変換
+.3 ベクトルの変換
+.4 実際,次の
+	cacl : matrix
+		matrixcalc.org https://matrixcalc.org/en/
+			==> steps shown
+		https://www.symbolab.com/solver/matrix-calculator
+.5 基底ベクトルを 1]
+#5 変換後もそれ
+*.1 次のような 3]
+	memos
+		変換後も[...]内積の値が 
+		/ 変化しない[...]変換
+*.2 この行列を「ユニタリ行列」
+*.3 これは直交変換を
+*.4 なぜこの行列
+*.5 つまり,変換
+*.6 ちなみに直交
+#6 ここまでは
+.1 もし気になる
+.2 しかし最近は
+.3 上の方では
+.4 これらは複素
+.5 つまり,別の
+#7 基底変換
  
  
  

@@ -1,0 +1,308 @@
+###2021年4月11日11:42:43
+
+
+###2021年7月9日14:12:08
+
+	
+	https://www.headboost.jp/definition-of-determinant/	行列式とは？意味と定義・求め方・性質を徹底解説	<== good
+	https://www1.doshisha.ac.jp/~bukka/lecture/quantum/pc4/pc4_a05.html	:d-1	<== 公式
+	
+###2021年7月16日16:01:49
+
+
+>>> programming
+	r-4-1~4 / ウェッジ積の座標変換 <http://hooktail.sub.jp/differentialforms/ExteriorTrans/>	
+	#1
+	1. new file
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-41~\s_41.py
+		1. codes
+		2. test ==> OK	]16:10:13
+	2. coding
+		test ==> OK		]16:28:56
+(a_i^1)*(a_j^1)(e->_1∧e->_1)+(a_i^1)*(a_j^2)(e->_1∧e->_2)+(a_i^1)*(a_j^3)(e->_1∧e->_3)+(a_i^2)*(a_j^1)(e->_2∧e->_1)+(a_i^2)*(a_j^2)(e->_2∧e->_2)+(a_i^2)*(a_j^3)(e->_2∧e->_3)+(a_i^3)*(a_j^1)(e->_3∧e->_1)+(a_i^3)*(a_j^2)(e->_3∧e->_2)+(a_i^3)*(a_j^3)(e->_3∧e->_3)
+	
+	]2021年7月16日
+
+
+###2021年7月24日14:14:55
+
+>> s-48
+	
+	search :
+		python solver
+		
+	
+
+
+###
+s-50
+
+>>> programming
+	組み紐群
+	
+	1. new file
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-50~\s_50.py
+		1. mkdir
+		2. DUP
+		3. TEST --> OK		]13:10:20
+	2. coding
+			==> tsp()
+		1. code : tsp()
+		2. test --> OK		]13:24:06
+	*3. code : validation
+		#code:20210728_132355
+		1. code : #code:20210728_132436
+		==> OK		]13:25:48
+		2. tsp() --> exec once
+			#code:20210728_132743
+			==> OK		]13:29:06
+		3. tsp --> actually tsp
+			#code:20210728_132935
+			==> OK		]13:35:04
+	*4. coding : multi tsp
+		1. new func --> test_2_Multiple_Tsp
+		==> OK		]13:53:34
+	
+	==> COMP.		]13:54:19
+		
+
+###2021年7月28日23:46:54
+
+
+	search
+	集合論 入門
+	https://3g2upl4pq6kufc4m.onion/?q=集合論+入門+site:booklive.jp&ia=web
+	集合と実数 http://sss.sci.ibaraki.ac.jp/teaching/set/set.pdf
+		<= lets-read
+	位相入門 https://pc1.math.gakushuin.ac.jp/~kawasaki/HTML-isou-nyuumon-enshuu/12isou-nyuumon-text.pdf
+		<= 解答、あり
+	https://language-and-engineering.hatenablog.jp/entry/20140628/SetAndTopologyPDFLectureNotes
+	意外と位相に関係あるメモ http://www.netlaputa.ne.jp/~hijk/memo/topology.html#AHausdorffSpace
+	
+>>>
+	search
+	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q=群論+入門&t=h_&ia=web
+	http://sss.sci.ibaraki.ac.jp/teaching/group/gr2008.pdf
+	物理における群論入門 http://physmathseminar.web.fc2.com/PDF/group_phys.pdf
+		<= lets-read
+	群論入門 https://math.cs.kitami-it.ac.jp/~kabaya/misc/2017/kabaya_2.pdf
+		<= lets-read : has prooves
+	
+
+###2021年9月18日17:49:40
+
+
+	search : 半物質
+
+
+###2021年10月4日17:34:24
+@@@
+	s: integral substitution rule
+	
+
+###2022年2月1日9:38:34
+
+	>> A71Q
+		
+		graph : SJQI : https://www.desmos.com/calculator/2kgijhqxkh
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###
+
+
+
+
+###2021年6月3日19:25:01
+
+#process texts : korean
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+
+###2021年6月7日8:57:37
+
+#trans : korean, english
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+================== labels : directives for map
+
+###2021年8月2日15:05:51
+================== labels : doc id for --> related docs
+
+r-1-2.A-1	2021年8月2日15:06:18
+r-1-2.A-2	2021年8月2日15:10:31
+r-1-2.A-3	2021年8月2日15:29:26
+r-1-2.A-4	2021年8月2日15:34:29
+r-1-2.A-4	2021年8月2日18:02:02
+
+###2021年6月8日9:56:28
+
+<= know-this
+<= lets-read
+<= want-to-read
+<= lets-read-again
+<= lets-read-links
+
+<= this
+
+<= also-good
+<= good
+<= 証明あり
+
+###2021年9月27日17:20:19
+<= terrible
+
+<= ok
+
+<= not-understood
+
+
+=> ENOUGH
+=> NEXT
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+taskkill /f /im tor.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+###2021年6月8日14:34:10
+
+memo images : url
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年9月21日14:22:33
+
+======================== url : search origs
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68#+q+open&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+
+###2021年6月12日17:36:28
+
+freemind
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm
+
+
+
+
+###2021年6月20日13:48:41
+
+190001550002
+makemeaning
+
+###2021年7月14日13:55:22
+=================== url : memos
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年9月2日14:09:48
+=================== url : tools
+--- 3D graph
+<https://www.math3d.org/>
+
+--- 2D graph
+graphing <https://www.desmos.com/calculator>
+
+--- derivative
+Derivative Calculator <https://www.symbolab.com/solver/derivative-calculator/>
+
+rem : batch : firefox
+C:\WORKS_2\shortcuts_docs\start_log_JVE_68-tp_tools-url.bat
+
+--- solver	: 2021年10月4日13:48:43
+https://www.mathway.com/trigonometry
+
+
+###2021年6月30日11:11:01
+
+git --> works
+
+C:\WORKS_2\Utils\commands\push_WORKS.bat
+
+
+###2021年6月23日17:03:51
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+
+###2021年9月25日14:00:43
+=================== console : c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
+C:\WORKS_2\start_a.bat
+
+
+###2021年10月30日15:05:30
+================= open file : programming.log
+
+C:\WORKS_2\shortcuts_docs\log-session_JVE_68_tp_programming.log
+
+
+###2021年7月1日13:21:50
+=================== time label
+
+C:\WORKS_2\t.bat
+
+
+###2021年7月1日13:21:50
+=================== c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
+
+###2021年7月28日14:11:43
+==================== close : git
+
+set stringof_message="JVE_68.[tp_v-2.0]"
+
+C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+
+==================== close : apps
+
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_68.[tp_v-2.0].bat
+
+taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
+

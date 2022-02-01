@@ -118,6 +118,8 @@
 			###2021年12月28日0:49:40
 			#DELETE FROM images WHERE id >= 51176;
 			
+			###2022年2月1日0:48:20
+			#DELETE FROM images WHERE id >= 51744;
 			
 			@@@
 			

@@ -15,7 +15,7 @@ rem : arabic - english
 set url_trans_ar_en="https://translate.google.co.jp/?hl=en&sl=hi&tl=en&op=translate"
 
 rem : wiki
-set url_trans_wiki_hindi="https://ja.wikipedia.org/wiki/ヒンディー語"
+set url_trans_wiki_hindi="https://ja.wikipedia.org/wiki/ヒンディー語#文字"
 
 
 

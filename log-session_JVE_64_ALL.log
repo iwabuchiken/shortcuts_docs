@@ -1812,35 +1812,87 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_64_ALL.log
 	
 		]2:17:15
 
+###2022年1月30日15:53:59
+
+
+###2022年1月31日0:39:48
+
+	>> 59_medical_14-dyslexia
+		
+		https://duckduckgo.com/?q=学習障害&ia=web
+			https://www.e-healthnet.mhlw.go.jp/information/heart/k-03-004.html
+			https://junior.litalico.jp/about/hattatsu/news/detail/ld006/
+		
+		https://duckduckgo.com/?q=ディスレクシア+大人&ia=web
+			https://sawaruglyph.com/adult/
+			https://www.cognifit.com/ja/what-is-dyslexia
+			
+###2022年1月31日17:27:35
+
+	>> 145_yamamoto_rongo
+
+
+###2022年2月1日16:46:12
+
+	>> 140-7.4		[16:46:39
+	
+		f:
+		https://honkoku.org/app/#/transcription/9A7D355DDE8716EE340DB2ACBCF8E41A/1/
+		
+		: 諸事無手抜
+		n: 之運申達候
+	
+	]17:06:00
+	
+	[17:07:15
+	>> 3_hachiitsu
+	
+		.70
+		欝鬯
+			https://duckduckgo.com/?q=欝鬯+意味&ia=web
+			https://dic.nicovideo.jp/a/鬯
+				ウコンを漬けて作った / 匂い酒
+				音読み / はチョウ（漢音）、
+				訓読みは、 / においざけ、のびる。
+		漢字 凶 ヒ
+			鬯 https://www.qhanzi.com/index.ja.html
+			鬱という漢字 https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13241264258
+		
+		欝金草
+		https://duckduckgo.com/?q=欝金草&ia=web
+		
+		社稷 she4ji4
+		https://zh.wikipedia.org/zh-cn/社稷
+		
+			“社”[...]土地之神
+			“稷[ji4”[...]谷物之神
+			代指“国家”
+	
+	]17:45:30 (-10)
+
+	[1:02:25
+	>> 3_hachiitsu
+	
+		.71
+		昭穆 zhao1mu4
+		https://zh.wikipedia.org/zh-cn/昭穆制度
+			昭穆[zhao1mu4,祠堂[ci2-,宗庙[zong1miao4,祭祀[ji4si4,诸侯[zhu1hou2,亲疏贵贱[-shu1-jian4,摆放[bai3-,坟地[fen2-
+		
+		https://kotobank.jp/word/昭穆-533346
+		
+		漢字 しめすへん 帝
+		https://kanji.jitenon.jp/kanjiv/10808.html
+			禘
+			音読み	テイ
+			https://zh.wikipedia.org/zh-cn/祼礼
+	
+	]1:36:07
+
 ###
 
 
 
 @@@
-
-
-###
-
-
-
-
-
-###
-
-
-
-
-
-###
-
-
-
-
-
-###
-
-
-
 
 
 ###
@@ -2008,11 +2060,13 @@ set stringof_session_id="140-7.3 / 134_yamamoto_ieyasu"
 set stringof_session_id="145_yamamoto_rongo"
 set stringof_session_id="145_yamamoto_rongo / 126_mooshi"
 set stringof_session_id="140-7.4"
-set stringof_session_id="3_hachiitsu"
+
+set stringof_session_id="147.1_shuunan"
 
 rem ------------------------XXX
 
-set stringof_session_id="147.1_shuunan"
+
+set stringof_session_id="3_hachiitsu"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
