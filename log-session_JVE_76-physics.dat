@@ -3,12 +3,14 @@
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
 -----------------------------
 
-s-172
+^(\d )	.$1
 
-r-9-2~2.4 / 座標表示 <https://eman-physics.net/quantum/zahyo.html>
+s-173
+
+r-9-2~2.5 / 運動量表示 <https://eman-physics.net/quantum/undoryo.html>
 
 
- 
+#1
  
  
  
