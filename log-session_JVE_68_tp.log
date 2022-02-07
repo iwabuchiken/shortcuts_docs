@@ -172,6 +172,7 @@ r-1-2.A-4	2021年8月2日18:02:02
 <= also-good
 <= good
 <= 証明あり
+<= 解説：分かりやすい。割と。
 
 ###2021年9月27日17:20:19
 <= terrible
@@ -242,6 +243,9 @@ graphing <https://www.desmos.com/calculator>
 
 --- derivative
 Derivative Calculator <https://www.symbolab.com/solver/derivative-calculator/>
+
+--- matrix calc : 2022年2月6日12:06:47
+https://www.symbolab.com/solver/matrix-calculator
 
 rem : batch : firefox
 C:\WORKS_2\shortcuts_docs\start_log_JVE_68-tp_tools-url.bat

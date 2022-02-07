@@ -1,0 +1,14 @@
+###2022年2月7日9:50:29
+
+	do
+	#1. copy files (backup) : in : c03e04e8d61d8a095264d5185581c27c280c4b2a
+		to : tmp.20220207_095311
+	2. git --> roll back to : 7f7629a8b435b0b953c133aef855ba1e0330cfd4
+#git reset --hard ce29945eac33680f185f410c8f34111ff20c8354
+git reset --hard 7f7629a8b435b0b953c133aef855ba1e0330cfd4
+	3. copy back files
+	4. git add, commit, itd.
+	
+	n: comp.
+	
+]10:04:24
