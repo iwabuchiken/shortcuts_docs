@@ -449,15 +449,64 @@
 		
 		kan : 3-4-6	[18:28:46
 
-###
+###2022年2月7日18:00:22
 
+((\[|\])).+	$1
+
+	*>>
+		VID_20220207_180629.short.avi
+	
+	*>> good-sequence	[18:32:35
+		r=1
+		7-3`-4`-7`-4`
+		A-D-E
+	  P:L5-L7f-1
+			k=4`
+	
+	~>> prac
+		multiple notes, quick play
+		
+		3-5-6		]
+		5-6-5-3
+		6-5-3		[
+		3-4-0		[
+			h-0:open->5;6;7,only.
+	
+	~>> prac
+		multi
+		
+		kan : 3-4-6	[
+	
+	]19:03:14
+
+###2022年2月8日12:52:25
+
+	>> 
+		transition : 
+			3->0 : otsu
+			
+			4-1-0-4
+			finger:
+				hole	finger-on
+				4		1,4
+		
+		transt
+			6-7-0 : kan		[13:13:27
+		
+	>>
+		dai-kan		[13:20:11
+			hole : 4
+			hole : 3	[13:22:22
+		
+		sub-training
+			hole : 4, kan. 
+				pitch : 4 <-> 4h1(q1)
+						4 <-> 4.Lq1 (4 minus q1)
+					q1 : q1, q2(h),q3,q4(next pitch)
+	
+	]13:26:29
 
 @@@
-
-
-###
-
-
 
 
 
@@ -506,6 +555,16 @@ https://www.onikko-shop.com/blog/blowing-how-shinobue/ "●大甲音（高音）
 
 C:\WORKS_2\shortcuts_docs\log_jap-flute_bamboo.log
 
+###2022年2月7日18:07:05
+====================== steps : sound file in.
+1. rec
+2. to PC
+3. tmp dir
+	rename
+3. avidemux --> 
+	open
+	crop
+	
 
 
 ###2021年7月7日10:50:31
@@ -520,13 +579,16 @@ set stringof_session_id="play"
 
 set stringof_project_id="JVE_46.[15_jp-flute] : %stringof_session_id:"=%" 
 
+set stringof_session_id="practice" 
+set stringof_session_id="practice : shino,shaku" 
+set stringof_project_id="JVE_46_jp-flute: shino,shaku : %stringof_session_id:"=%" 
+
 -------------------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="practice" 
+set stringof_session_id="practice : shino" 
 
-set stringof_project_id="JVE_46_jp-flute: shino,shaku : %stringof_session_id:"=%" 
-
+set stringof_project_id="JVE_46_jp-flute : %stringof_session_id:"=%" 
 
 C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
