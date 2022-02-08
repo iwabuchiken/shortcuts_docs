@@ -185,7 +185,37 @@
 
 ]8:56:44
 
-###
+###2022年2月8日22:38:10
+
+	s-20220208_223623
+	
+	canvas : 400 x 400
+	
+	new layer
+		L-1
+		paint
+			https://ja.wikipedia.org/wiki/茜色
+			air brush, size:100,b13546
+		L-2
+		paint
+			https://ja.wikipedia.org/wiki/菫色
+			air brush, size:100, 705DA8
+	
+	save file
+		proj_20220208_223623_1.xcf
+	
+	*export image (m1)
+		20220208_223623_1_imag-1.png
+	
+	m1 --> to 壁紙
+		current : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\5_free-painting\2_fuujin
+		
+		to : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art\s-20220208_223623\20220208_223623_1_imag-1.png
+	
+	n:
+		1. let's draw --> 3-D image.
+	
+	]22:50:42
 
 @@@
 
@@ -271,9 +301,14 @@ C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\46 Art\6_visual-arts\8_japane
 ###2021年11月5日0:36:08
 ========================== closing : git
 
+set message="(log_JVE_46-6-8_japanese-art) periodical updates / bk : 132_doukyou"
+
 C:\WORKS_2\start_a.bat
 
-set message="(log_JVE_46-6-8_japanese-art) periodical updates / bk : 132_doukyou"
+rem ----------------------------------------------
+
+set message="(log_JVE_46-6-8_japanese-art) periodical updates"
+
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %message% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat
 
 
