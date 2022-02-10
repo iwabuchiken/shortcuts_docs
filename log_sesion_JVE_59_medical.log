@@ -54,7 +54,15 @@
 		n: https://es.wikipedia.org/wiki/Estrés#Fisiopatología
 		
 
-###
+###2022年2月11日1:40:27
+	
+	id=MYE4
+		
+	https://duckduckgo.com/?q=足裏+ツボ+反射&iax=images&ia=images
+	
+		http://www.ease2006.com/blog/まめ知識/easeの足ツボの施術は若石健康法で反射区を刺激し/
+			:d-1
+
 
 @@@
 
@@ -142,6 +150,10 @@ C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading
 C:\WORKS_2\start_a.bat
 
 set stringof_specific="(sp) stress"
+
+rem -------------------------------
+
+set stringof_specific="id=MYE4 : 足裏。ツボ"
 
 set stringof_message="(shortcuts) JVE_59_medical : %stringof_specific:"=%"
 
