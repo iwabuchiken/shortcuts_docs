@@ -1261,9 +1261,16 @@
 @@@
 
 
-###
+###2022年2月10日17:23:38
 
-
+	(ko)
+	https://www.newnojum.org/introduce/greeting.php
+		related
+		https://www.susansijang.co.kr/nsis/miw/intro
+		
+		n: 민주노련은 빈민운동을 
+	
+	]17:39:11
 
 
 
@@ -1501,11 +1508,13 @@ set stringof_session_id="article : (po),(ru)"
 
 set stringof_session_id="article : (MANY)"
 
-set stringof_session_id="article : (ko)"
+
 set stringof_session_id="article : (ko),(cn)"
+set stringof_session_id="articles"
 
 rem --------------------------
-set stringof_session_id="articles"
+
+set stringof_session_id="article : (ko)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
