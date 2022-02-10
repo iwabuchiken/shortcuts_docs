@@ -1953,13 +1953,36 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 		https://kotobank.jp/word/轅-587593
 			ながえ
 
+
+
+
+###2022年2月10日14:50:14
+
+	>> 儒教
+		
+		https://ja.wikipedia.org/wiki/五常
+			https://ja.wikipedia.org/wiki/四端説
+				#４つ
+					惻隠（そくいん）、
+					羞悪（しゅうお）または廉恥（れんち）、
+					辞譲（じじょう）、
+					是非（ぜひ）
+				人間には誰でも「四端（したん）」の心
+				四つの端緒、きざし
+				仁・義・礼・智[...]4つの徳
+				
+				四徳の芽生えこそが四端
+				
+				https://ja.wikipedia.org/wiki/丈夫#儒教における大丈夫
+					
+					words
+						縦横家
+		n: any
+	
+	]15:00:53
+
+
 @@@
-
-
-###
-
-
-
 
 
 ###
@@ -2136,10 +2159,11 @@ set stringof_session_id="140-7.4"
 
 set stringof_session_id="147.1_shuunan"
 set stringof_session_id="3_hachiitsu"
+set stringof_session_id="145_yamamoto_rongo"
 
 rem ------------------------XXX
 
-set stringof_session_id="145_yamamoto_rongo"
+set stringof_session_id="any : 儒教"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
