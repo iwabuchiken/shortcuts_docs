@@ -64,13 +64,20 @@
 			:d-1
 
 
+
+
+
+###2022年2月11日16:37:43
+
+	>> id_CQF0
+		
+		C:\WORKS_2\shortcuts_docs\log_sesion_JVE_59_medical.id_CQF0.log
+		 
+		n: #3
+		
+	]16:57:55
+
 @@@
-
-
-###
-
-
-
 
 ###
 
@@ -145,15 +152,16 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-readi
 C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading
 
 ###2021年11月28日9:45:36
-================================ close : git
+============================== close : git XXX
 
 C:\WORKS_2\start_a.bat
 
 set stringof_specific="(sp) stress"
+set stringof_specific="id=MYE4 : 足裏。ツボ"
 
 rem -------------------------------
 
-set stringof_specific="id=MYE4 : 足裏。ツボ"
+set stringof_specific="id_CQF0 : 감정_전이"
 
 set stringof_message="(shortcuts) JVE_59_medical : %stringof_specific:"=%"
 
