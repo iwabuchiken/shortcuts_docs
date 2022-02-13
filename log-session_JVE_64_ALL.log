@@ -1981,19 +1981,22 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 	
 	]15:00:53
 
+###2022年2月13日17:19:37
+
+	>> 145_yamamoto_rongo
+	
+		.241
+		漢字 木へん 告
+			https://kanji.condb.link/89/
+			音読み：コク 
+			訓読み：てかせ、しばる、みだす
+	
+
+###
+
+
 
 @@@
-
-
-###
-
-
-
-
-
-###
-
-
 
 
 
@@ -2160,10 +2163,11 @@ set stringof_session_id="140-7.4"
 set stringof_session_id="147.1_shuunan"
 set stringof_session_id="3_hachiitsu"
 set stringof_session_id="145_yamamoto_rongo"
+set stringof_session_id="any : 儒教"
 
 rem ------------------------XXX
 
-set stringof_session_id="any : 儒教"
+set stringof_session_id="145_yamamoto_rongo"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
