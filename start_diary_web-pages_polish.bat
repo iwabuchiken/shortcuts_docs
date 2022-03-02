@@ -14,8 +14,13 @@ set url_trans_en_pl="https://translate.google.co.jp/?hl=ja#view=home&op=translat
 rem : 2021年2月24日10:58:03
 set url_polish_grammar="https://ja.wikipedia.org/wiki/ポーランド語#格変化"
 
+rem : 2022年2月15日14:08:55
+set url_rsc_1="https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/skymap.cgi"
 
-set list_of_url=%url_trans_ja_ko% %url_trans_ko_ja% %url_trans_en_pl% %url_trans_pl_en% %url_trans_vi_en% %url_trans_en_vi% %url_forvo_persian% %url_polish_grammar% %url_random_number%
+rem : 2022年2月15日14:09:00
+set url_rsc_2="https://www.benri.jp/calendar/moon "
+
+set list_of_url=%url_trans_ja_ko% %url_trans_ko_ja% %url_trans_en_pl% %url_trans_pl_en% %url_trans_vi_en% %url_trans_en_vi% %url_forvo_persian% %url_polish_grammar% %url_random_number% %url_rsc_1% %url_rsc_2%
 
 rem : launch
 rem launcher.exe  %list_of_url%

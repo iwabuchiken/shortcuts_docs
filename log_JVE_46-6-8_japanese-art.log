@@ -222,21 +222,59 @@
 	s: 水干
 	https://duckduckgo.com/?q=水干+着方&iar=images&iax=images&ia=images
 	
+
+###2022年3月2日14:53:41
+
+	>> gimp
+		
+		new xcf
+			400 x 400
+		new layer : L-1
+			air brush
+				b13546
+				渦巻き　右巻き
+				ポイント
+					枠外に、わざとはみ出る
+			]14:56:11
+			
+		new layer : L-2		[14:56:14
+			brush
+				705DA8
+				韮色
+				渦巻き
+					３回転
+					右巻き
+					外から、中心へ
+					一辺、90-100 px
+					13 pieces
+					overlapp : 2-3 rings, 1-2 overlaps
+		
+		2. ouput
+			s-20220302_144704_out_1.png
+			(C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art\s-20220302_144704)
+			
+			]15:01:13
 	
+	*2. output image --> 壁紙
+		
+		]15:06:02
 	
+	n: 
+		ガウスぼかし
+			半径	１７
+			原レイヤー (n1) を複製 (n2)
+			n2 に、ぼかし
+			n2 と n1 を、重ねて表示
+			
+	]15:07:21
+	
+
+###
+
+
+
+
 @@@
-
-
-
-###
-
-
-
-
-
-###
-
-
 
 
 ###
