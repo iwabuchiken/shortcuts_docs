@@ -269,13 +269,40 @@
 	]15:07:21
 	
 
-###
+###2022年3月3日14:17:46
 
-
-
+	>> gimp
+		new xcf
+			400 x 400
+		new layer : L-1
+			air-brush
+				size : 20
+			curve
+				river-like
+				2 curved-lines
+			color : b13546 : akane
+		save file
+			s-20220303_141956.xcf
+			(C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art\s-20220302_144704)
+		
+		new layer : L-2
+			air-brush
+				size : 20
+			curve
+				river-like
+				2 curved-lines
+			color : 705DA8 : sumire
+		*save file
+		
+		save image		[14:22:43
+			s-20220303_141956_out_1.png
+			--> wallpater setting
+				右クリック > 個人設定 > デスクトップの背景 > 参照
+				choose image
+				 > 変更の保存
+	]14:25:37
 
 @@@
-
 
 ###
 
