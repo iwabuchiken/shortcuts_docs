@@ -51,15 +51,67 @@ r-11-1~1 / Configuration_(geometry) / wiki <https://en.wikipedia.org/wiki/Config
 
 #1
 	related
-		#1~d-1 / Incidence_(geometry) / wi https://en.wikipedia.org/wiki/Incidence_(geometry)
+		*#1~d-1 / Incidence_(geometry) / wi https://en.wikipedia.org/wiki/Incidence_(geometry)
 			texts
 				#1
-				 
-				 
-				 
-				 
-				 
-				 
+					words
+						#1~d-2 / Heterogeneous_relation https://en.wikipedia.org/wiki/Binary_relation#Heterogeneous_relation
+							#1
+								memos
+									A and B are distinct
+									a rectangular relation
+								words
+									*#1~d-3 / Cartesian_product https://en.wikipedia.org/wiki/Cartesian_product
+										#1
+											memos
+												ordered pairs
+											words
+												*set-builder notation https://en.wikipedia.org/wiki/Set-builder_notation
+													#1 
+														words
+															mathematical notation https://en.wikipedia.org/wiki/Mathematical_notation
+																*數學符號 https://zh.wikipedia.org/zh-cn/數學符號
+														memos
+															a mathematical notation
+															enumerating its elements
+															stating the properties
+															
+													
+					memos
+						the pair (P, l) is called a flag
+				1 There are many expressions 
+					memos
+						does not have the additional connotations
+				2 When one type of object 
+					words
+						contianment https://en.wikipedia.org/wiki/Subset
+							related
+								Subsumptive_containment_hierarchy / wi https://en.wikipedia.org/wiki/Hierarchy#Subsumptive_containment_hierarchy
+				3 Statements such as 2]
+					words
+						incidence propositions
+				4 Historically, projective geometry 
+				5 From the point 
+					words
+						 synthetic geometry https://en.wikipedia.org/wiki/Synthetic_geometry
+				#2 In contrast, the 
+					words
+						analytic approach https://en.wikipedia.org/wiki/Analytic_geometry
+						homogeneous co-ordinates https://en.wikipedia.org/wiki/Homogeneous_coordinates
+				1 The propositions of incidence are 
+					words
+						Vector_space / wi https://en.wikipedia.org/wiki/Vector_space
+#2 Although certain specific configurations 
+
+
+
+
+
+
+
+
+
+
 		
  
  
@@ -67,4 +119,49 @@ r-11-1~1 / Configuration_(geometry) / wiki <https://en.wikipedia.org/wiki/Config
  
  
  
- 
+#1
+    words
+        #1~d-2 / Heterogeneous_relation https://en.wikipedia.org/wiki/Binary_relation#Heterogeneous_relation <https://en.wikipedia.org/wiki/Binary_relation#Heterogeneous_relation>
+            #1
+                memos
+                    A and B are distinct
+                    a rectangular relation
+                words
+                    *#1~d-3 / Cartesian_product https://en.wikipedia.org/wiki/Cartesian_product <https://en.wikipedia.org/wiki/Cartesian_product>
+                        #1
+                            memos
+                                ordered pairs
+                            words
+                                *set-builder notation https://en.wikipedia.org/wiki/Set-builder_notation <https://en.wikipedia.org/wiki/Set-builder_notation>
+                                    #1
+                                        words
+                                            mathematical notation https://en.wikipedia.org/wiki/Mathematical_notation <https://en.wikipedia.org/wiki/Mathematical_notation>
+                                                *數學符號 https://zh.wikipedia.org/zh-cn/數學符號 <https://zh.wikipedia.org/zh-cn/數學符號>
+                                        memos
+                                            a mathematical notation
+                                            enumerating its elements
+                                            stating the properties
+    memos
+        the pair (P, l) is called a flag
+.1 There are many expressions
+    memos
+        does not have the additional connotations
+.2 When one type of object
+    words
+        contianment https://en.wikipedia.org/wiki/Subset <https://en.wikipedia.org/wiki/Subset>
+            related
+                Subsumptive_containment_hierarchy / wi https://en.wikipedia.org/wiki/Hierarchy#Subsumptive_containment_hierarchy <https://en.wikipedia.org/wiki/Hierarchy#Subsumptive_containment_hierarchy>
+.3 Statements such as 2]
+    words
+        incidence propositions
+.4 Historically, projective geometry
+.5 From the point
+    words
+        synthetic geometry https://en.wikipedia.org/wiki/Synthetic_geometry <https://en.wikipedia.org/wiki/Synthetic_geometry>
+#2 In contrast, the
+    words
+        analytic approach https://en.wikipedia.org/wiki/Analytic_geometry <https://en.wikipedia.org/wiki/Analytic_geometry>
+        homogeneous co-ordinates https://en.wikipedia.org/wiki/Homogeneous_coordinates <https://en.wikipedia.org/wiki/Homogeneous_coordinates>
+.1 The propositions of incidence are
+    words
+        Vector_space / wi https://en.wikipedia.org/wiki/Vector_space <https://en.wikipedia.org/wiki/Vector_space>

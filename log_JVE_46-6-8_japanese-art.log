@@ -302,12 +302,36 @@
 				 > 変更の保存
 	]14:25:37
 
+
+
+###2022年3月4日17:28:11
+
+	>> gimp
+		new xcf
+			400 x 400
+		new layer : L-1
+			air-brush
+				size : 20
+			draw : 
+				circle
+				r : 85 px
+			col : b13546 : akane
+			選択範囲の境界線を描画
+				線スタイル	描画色
+				アンチエイリアス	チェック
+				線の幅	6 px
+			*選択	解除
+			save file
+				]17:36:28
+		
+		n:
+			1. 今回のlayer --> save image
+				--> wall
+			
+			2. 丸。３つで、三角形。あるいは、ほかの配列。
+		
+		]17:51:46
 @@@
-
-###
-
-
-
 
 
 ###
@@ -377,7 +401,9 @@ set message="(log_JVE_46-6-8_japanese-art) periodical updates / bk : 132_doukyou
 
 C:\WORKS_2\start_a.bat
 
-rem ----------------------------------------------
+rem --------------------------------- close
+
+C:\WORKS_2\start_a.bat
 
 set message="(log_JVE_46-6-8_japanese-art) periodical updates"
 
