@@ -8,7 +8,7 @@ s-183
 
 (^|\t*)(\**\d )	.$1
 ^(\**\d )	.$1
-\t+(\**\d )	.$1
+###\t+(\**\d )	.$1
 (\t+)(\**\d )	$1.$2
 ^(\d )	.$1
 
@@ -27,141 +27,33 @@ r-9-2~3.2 / 量子数の意味 <https://eman-physics.net/quantum/numbers.html>
 
 #1
  
- 
- 
-回転系上の運動方程式 <https://www.se.fukuoka-u.ac.jp/iwayama/teach/gfd/2011/chap7.pdf>
 
-
-#1
- 
- 
  
 r-6-3~1.2 / 回転系上の運動方程式 <https://www.se.fukuoka-u.ac.jp/iwayama/teach/gfd/2011/chap7.pdf>
 
-	 
 
-r-11-1~1.3 / Equivalence_class / wi <https://en.wikipedia.org/wiki/Equivalence_class>
-
-
+read-2
+#1.2 一方, 回転座標系で
+#1.3 もし高校数学で
  
- 
- 
-r-11-1~1 / Configuration_(geometry) / wiki <https://en.wikipedia.org/wiki/Configuration_(geometry)>
 
+
+
+r-8-1~6.1 / #1.2~d-2 / ロドリゲスの回転公式 / kanazawa-it.ac.jp <https://w3e.kanazawa-it.ac.jp/math/physics/category/physical_math/linear_algebra/henkan-tex.cgi?target=/math/physics/category/physical_math/linear_algebra/rodrigues_rotation_formula.html>
 
 #1
+#2 【 導出 】
+.1 したがって，
 	related
-		*#1~d-1 / Incidence_(geometry) / wi https://en.wikipedia.org/wiki/Incidence_(geometry)
-			texts
-				#1
-					words
-						#1~d-2 / Heterogeneous_relation https://en.wikipedia.org/wiki/Binary_relation#Heterogeneous_relation
-							#1
-								memos
-									A and B are distinct
-									a rectangular relation
-								words
-									*#1~d-3 / Cartesian_product https://en.wikipedia.org/wiki/Cartesian_product
-										#1
-											memos
-												ordered pairs
-											words
-												*set-builder notation https://en.wikipedia.org/wiki/Set-builder_notation
-													#1 
-														words
-															mathematical notation https://en.wikipedia.org/wiki/Mathematical_notation
-																*數學符號 https://zh.wikipedia.org/zh-cn/數學符號
-														memos
-															a mathematical notation
-															enumerating its elements
-															stating the properties
-															
-													
-					memos
-						the pair (P, l) is called a flag
-				1 There are many expressions 
-					memos
-						does not have the additional connotations
-				2 When one type of object 
-					words
-						contianment https://en.wikipedia.org/wiki/Subset
-							related
-								Subsumptive_containment_hierarchy / wi https://en.wikipedia.org/wiki/Hierarchy#Subsumptive_containment_hierarchy
-				3 Statements such as 2]
-					words
-						incidence propositions
-				4 Historically, projective geometry 
-				5 From the point 
-					words
-						 synthetic geometry https://en.wikipedia.org/wiki/Synthetic_geometry
-				#2 In contrast, the 
-					words
-						analytic approach https://en.wikipedia.org/wiki/Analytic_geometry
-						homogeneous co-ordinates https://en.wikipedia.org/wiki/Homogeneous_coordinates
-				1 The propositions of incidence are 
-					words
-						Vector_space / wi https://en.wikipedia.org/wiki/Vector_space
-#2 Although certain specific configurations 
-
-
-
-
-
-
-
-
-
-
-		
+		s: 非直交座標 https://duckduckgo.com/?q=非直交座標&ia=web
+			docs
+				斜交座標系 https://qiita.com/wsuzume/items/b5b702b99250f466c784
+				非慣性基準座標と「みかけの」力  (コリオリ力が) http://www.rain.hyarc.nagoya-u.ac.jp/~satoki/main/Meteo/Book_trans/Holton_semi/resume-01_5-01_6.pdf
+related
+	#2~d-1 / ロドリゲスの回転公式の表現行列 / kanazawa-it.ac.jp https://w3e.kanazawa-it.ac.jp/math/physics/category/physical_math/linear_algebra/henkan-tex.cgi?target=/math/physics/category/physical_math/linear_algebra/rodrigues_rotation_matrix.html
+	
  
  
  
  
  
- 
-#1
-    words
-        #1~d-2 / Heterogeneous_relation https://en.wikipedia.org/wiki/Binary_relation#Heterogeneous_relation <https://en.wikipedia.org/wiki/Binary_relation#Heterogeneous_relation>
-            #1
-                memos
-                    A and B are distinct
-                    a rectangular relation
-                words
-                    *#1~d-3 / Cartesian_product https://en.wikipedia.org/wiki/Cartesian_product <https://en.wikipedia.org/wiki/Cartesian_product>
-                        #1
-                            memos
-                                ordered pairs
-                            words
-                                *set-builder notation https://en.wikipedia.org/wiki/Set-builder_notation <https://en.wikipedia.org/wiki/Set-builder_notation>
-                                    #1
-                                        words
-                                            mathematical notation https://en.wikipedia.org/wiki/Mathematical_notation <https://en.wikipedia.org/wiki/Mathematical_notation>
-                                                *數學符號 https://zh.wikipedia.org/zh-cn/數學符號 <https://zh.wikipedia.org/zh-cn/數學符號>
-                                        memos
-                                            a mathematical notation
-                                            enumerating its elements
-                                            stating the properties
-    memos
-        the pair (P, l) is called a flag
-.1 There are many expressions
-    memos
-        does not have the additional connotations
-.2 When one type of object
-    words
-        contianment https://en.wikipedia.org/wiki/Subset <https://en.wikipedia.org/wiki/Subset>
-            related
-                Subsumptive_containment_hierarchy / wi https://en.wikipedia.org/wiki/Hierarchy#Subsumptive_containment_hierarchy <https://en.wikipedia.org/wiki/Hierarchy#Subsumptive_containment_hierarchy>
-.3 Statements such as 2]
-    words
-        incidence propositions
-.4 Historically, projective geometry
-.5 From the point
-    words
-        synthetic geometry https://en.wikipedia.org/wiki/Synthetic_geometry <https://en.wikipedia.org/wiki/Synthetic_geometry>
-#2 In contrast, the
-    words
-        analytic approach https://en.wikipedia.org/wiki/Analytic_geometry <https://en.wikipedia.org/wiki/Analytic_geometry>
-        homogeneous co-ordinates https://en.wikipedia.org/wiki/Homogeneous_coordinates <https://en.wikipedia.org/wiki/Homogeneous_coordinates>
-.1 The propositions of incidence are
-    words
-        Vector_space / wi https://en.wikipedia.org/wiki/Vector_space <https://en.wikipedia.org/wiki/Vector_space>

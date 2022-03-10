@@ -2431,12 +2431,142 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 	
 	]17:27:27
 
+###2022年3月9日16:57:21
+
+	>> 155_96_yamamoto_teiougaku
+		
+		https://zh.wikipedia.org/zh-cn/贞观政要
+		https://zh.wikipedia.org/zh-cn/吳兢
+			wu2jing1
+			670年－749年
+			https://ja.wikipedia.org/wiki/天智天皇
+				626年〈推古天皇34年〉- 
+				672年1月7日〈天智天皇10年12月3日〉
+				第38代
+				在位:
+					668年2月20日〈天智天皇7年1月3日〉- 
+					672年1月7日〈天智天皇10年12月3日〉
+			https://ja.wikipedia.org/wiki/遣唐使
+					618年に隋が滅び唐が建った
+			https://ja.wikipedia.org/wiki/武則天
+			https://zh.wikipedia.org/zh-cn/武则天
+				武曌[-zhao4
+				624年2月17日－705年11月26日
+
+###2022年3月10日13:33:49
+
+	>> 156_1.1_kagura_uta
+	
+	.9
+	https://ja.wikipedia.org/wiki/歌垣
+		
+		https://ja.wikipedia.org/wiki/歌垣山
+		
+	
+	https://duckduckgo.com/?q=総角+髪型&iax=images&ia=images&iai=https://stat.ameba.jp/user_images/20180207/08/sato-kick/c8/21/j/o0222022514126804489.jpg
+	https://kotobank.jp/word/総角-551908
+	https://ameblo.jp/sato-kick/entry-12350781362.html
+	
+	
+	https://dictionary.goo.ne.jp/word/興宴/
+		きょうえん
+		
+	https://dictionary.goo.ne.jp/thsrs/3585/meaning/m0u/
+		楽しむ／興じる の使い分け
+		興じる	気分が盛り上がる
+		楽しむ	味わう
+		https://dictionary.goo.ne.jp/word/宴遊/#jn-26971
+			酒宴を開いて
+				楽しむ
+		
+		https://dictionary.goo.ne.jp/thsrs/5967/meaning/m0u/酒宴/
+			酒を飲んで
+				楽しむ
+			酒宴／酒盛り の使い分け
+			酒宴	事前に計画して
+		
+		.10
+		
+		https://duckduckgo.com/?q=田水葱+意味&ia=web
+		https://dictionary.goo.ne.jp/word/なぎ/
+		https://dictionary.goo.ne.jp/word/水葵/#jn-211512
+		https://dictionary.goo.ne.jp/leaf/dialect/663/m0u/
+			たなぎねこ (栃木の方言)
+		https://kotobank.jp/word/吾子女-195568
+		https://ja.wikipedia.org/wiki/コナギ#人間との関係
+			江戸時代頃までは食用
+		
+		.11
+		くぐつめ 意味
+		https://kotobank.jp/word/傀儡女-249479
+		https://duckduckgo.com/?q=綾い笠+意味&iax=images&ia=images
+		
+			https://ja.wikipedia.org/wiki/紬
+				くず繭を綿状にして
+				平織り
+				耐久性
+				野良着
+				光沢を持たない
+			
+			https://ja.wikipedia.org/wiki/ちりめん
+				平織り
+				生地の表面にシボ
+				緯糸として、強い撚り
+					https://dictionary.goo.ne.jp/word/横糸/#jn-227235
+						よこ‐いと【横糸／▽緯／▽緯糸】
+		
+		.13
+		https://duckduckgo.com/?q=景物+意味&ia=web
+			https://dictionary.goo.ne.jp/word/景物/#jn-67063
+				けい‐ぶつ
+				四季折々の[...]事物
+				
+			https://kobun.weblio.jp/content/景物
+				自然の風物
+				衣装・飲食物
+			
+			unrelated
+				https://dictionary.goo.ne.jp/word/襲の色目/#jn-40177
+		
+		https://dictionary.goo.ne.jp/word/砧/
 
 @@@
 
 
+###
+
+
+
+
+
+
 
 ###
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+###
+
 
 
 
@@ -2463,7 +2593,11 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 
 
 
+
+
 ###
+
+
 
 
 
@@ -2615,10 +2749,13 @@ set stringof_session_id="147.1_shuunan"
 set stringof_session_id="3_hachiitsu"
 set stringof_session_id="145_yamamoto_rongo"
 set stringof_session_id="any : 儒教"
+set stringof_session_id="145_yamamoto_rongo"
 
 rem ------------------------XXX
 
-set stringof_session_id="145_yamamoto_rongo"
+C:\WORKS_2\start_a.bat
+
+set stringof_session_id="156_1.1_kagura_uta"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
