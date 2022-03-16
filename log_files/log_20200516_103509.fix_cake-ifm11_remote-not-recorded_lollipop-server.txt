@@ -134,6 +134,9 @@
 			###XXX
 			#DELETE FROM images WHERE id >= 52214;
 			
+			###2022年3月13日9:54:27
+			#DELETE FROM images WHERE id >= 52291;
+			
 			@@@
 			
 			###XXX
