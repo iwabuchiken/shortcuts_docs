@@ -34,7 +34,7 @@ REM 	batch file
 REM 	2022”N3ŒŽ15“ú10:55:55
 REM =================================
 rem C:\WORKS_2\Programs\sakura\sakura.exe C:\WORKS_2\shortcuts_docs\start_lang_ancient_greek.bat
-C:\WORKS_2\Programs\sakura\sakura.exe C:\WORKS_2\shortcuts_docs\start_lang_ancient_greek.bat
+rem C:\WORKS_2\Programs\sakura\sakura.exe C:\WORKS_2\shortcuts_docs\start_lang_ancient_greek.bat
 
 pause
 rem exit

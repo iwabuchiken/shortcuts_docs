@@ -9,55 +9,12 @@ s-183
 (^|\t*)(\**\d )	.$1
 ^(\**\d )	.$1
 ###\t+(\**\d )	.$1
-(\t+)(\**\d )	$1.$2
-^(\d )	.$1
+(\t+)(\**\d )	
 
+r-8-1~4.6 / ベクトルの成分表示と座標変換 / sky-engin <https://www.sky-engin.jp/blog/vector-components-and-transformation/#toc3>
 
-browse
-	#1.2~d-1 / 3次元の回転行列 / wi <https://ja.wikipedia.org/wiki/回転行列#3次元の回転行列>
-	
-	r-6-3~1.2 / 回転系上の運動方程式 <https://www.se.fukuoka-u.ac.jp/iwayama/teach/gfd/2011/chap7.pdf>
+#4.1 上図に示されて
 
-read-2
-#5 7.5 球座標系での運動方程式
-	words
-		Eulerの運動方程式
-		Lagrange微分
-	SEG 20220319_144508
-		r-8-1~4.1 / 剛体の回転運動を支配するオイラーの運動方程式 / sky-engin <https://www.sky-engin.jp/blog/eulers-equations-of-motion/>
-		SEG
-			r-8-1~4.6 / ベクトルの成分表示と座標変換 / sky-engin https://www.sky-engin.jp/blog/vector-components-and-transformation/#toc3
-				#1
-				#2 座標系の 
-				#3 ここで、上付き
-					words
-						チルダ行列 https://ja.wikipedia.org/wiki/交代行列
-				#4 ベクトル成分表示の座標変換 2]
-				1 上図に示されて
-					words
-						正規直交性
-							docs
-								r-8-1~4.7 / 直交行列 ～ 公式と性質 ～ / risalc https://www.risalc.info/src/orthogonal-matrix-properties.html
-									#1
-									#2 直交行列の逆行列
-									#3 直交行列の行列式
-										related
-											r-8-1~4.8 / 行列の積の行列式 / risalc https://www.risalc.info/src/determinant-product.html
-												#1
-													s: 行列式 https://cse.google.com/cse?cx=000618226636851745457:2qrpgerdwic&ie=UTF-8&q=行列式&sa=Search&siteurl=www.risalc.info/src/orthogonal-matrix-properties.html&ref=duckduckgo.com/&ss=3300j1730000j15
-														docs
-															r-8-1~4.9 / 行列式は固有値の積に等しい / risalc https://risalc.info/src/determinant-eigenvalue-product.html
-															r-8-1~4.10 / 行列式の定義   ～具体例による解説～ / risalc https://risalc.info/src/determinant-def.html
-									 
-								https://ja.wikipedia.org/wiki/直交行列
-								
-								
-				 
-				 
-				 
-	
- 
- 
  
  
  

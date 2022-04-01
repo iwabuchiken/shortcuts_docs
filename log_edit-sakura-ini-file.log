@@ -1,0 +1,89 @@
+﻿2021年5月24日11:02:55
+
+	add : RxKey[004]=RK7,/.+\/\//k
+		ref : setup_20210523_135401.ini
+	
+	modify : C[RK7]=
+		from :	C[RK7]=0,0,ff0000,f0fbff,0
+		to :	C[RK7]=1,0,ff8080,f0fbff,0
+		chage-id :	20210524_110630
+	
+	current color setup --> export
+		setup_color_basic.col (C:\Users\iwabuchiken\AppData\Roaming\sakura)
+	
+	exported col file
+		#1. change name
+			to : setup_color_basic.col
+		#2. edit
+			C[RK7]=
+		3. import the new file
+			==> ok (changed)
+	
+	regex_keywords_basic.rkw
+			==> edit
+		1. add : RxKey[004]=RK7,/.+\/\//k
+		2. import file
+			current --> 4 entries
+			after --> 5 (ok)
+	
+	setup
+		==> window "タイプ別設定" > tab "カラー" > "正規表現キーワード7" > checkbox "色分け/表示" --> check
+		==> ok
+
+::]2021年5月24日11:22:31
+
+###2021年5月24日12:04:26
+
+	#1. font size --> change
+		1. edit --> ini file
+			#1. open file : sakura.ini
+			#2. search "txt,"
+				==> id=20210524_120555
+			#3. add a new extenstion string --> "dat"
+		2. edit : font size
+			#1. search : "14"
+				==> "nPointSize=140"
+			#2. change
+				--> to : 160
+::]12:09:31
+
+###2021年5月24日12:13:00
+
+	1. regex keywords
+		#1. export
+			from	: log-session_JVE_70.[CO2].[trans-sentences].dat
+			as		: regex_keywords_current-entries_20210524_121128.rkw (f1)
+		#2. edit
+				--> add a new keyword
+				to	: f1
+				what	: "RxKey[004]=RK7,/.+\]\]/k" (regex_keywords_basic.rkw)
+				as		: RxKey[019]=RK7,/.+\]\]/k
+			#1. add line
+		3. import
+			from	: f1
+			to		: log-session_JVE_70.[CO2].[trans-sentences].dat
+		4. test
+			==> ok	::]12:18:48
+
+@@@
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+

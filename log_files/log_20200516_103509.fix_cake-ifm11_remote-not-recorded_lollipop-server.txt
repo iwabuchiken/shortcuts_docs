@@ -131,11 +131,11 @@
 			#DELETE FROM images WHERE id >= 52063;
 				]11:11:06
 			
-			###XXX
-			#DELETE FROM images WHERE id >= 52214;
-			
 			###2022年3月13日9:54:27
 			#DELETE FROM images WHERE id >= 52291;
+			
+			###2022年3月25日15:27:15
+			#DELETE FROM images WHERE id >= 52411;
 			
 			@@@
 			
