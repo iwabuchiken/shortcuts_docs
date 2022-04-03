@@ -2588,17 +2588,61 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 				翌年	10月ごろ
 				堅果
 	]13:28:53
-			
+
+###2022年4月3日16:18:39
+
+	>> 140-7.5		[
 	
+		n: いたし奥女中の
+	
+	]16:34:24
+	
+	>> 156_2.1_manyoo_1
+	
+		.32
+		https://ja.wikipedia.org/wiki/山上憶良
+		
+			生誕	斉明天皇6年（660年）?
+			死没	天平5年（733年）?
+			大宝元年（701年） / 第八次遣唐使 / 少録
+			
+			https://ja.wikipedia.org/wiki/唐
+			
+				618年 - 907年
+			
+			https://ja.wikipedia.org/wiki/武周
+				
+				周（しゅう、690年 - 705年）
+			
+			https://ja.wikipedia.org/wiki/太宗_(唐)
+			
+				生年	開皇17年12月16日
+				（598年1月28日）
+				没年	貞観23年5月26日
+				（649年7月10日）
+			
+		https://ja.wikipedia.org/wiki/橿原市
+		
+			かしはらし
+			第二の都市
+		
+		https://ja.wikipedia.org/wiki/大和の古道
+		
+			中ツ道（なかつみち）
+			橿原市の天香具山北麓から
+				奈良市北之庄町
+		
+		https://intojapanwaraku.com/culture/133249/		:d-1
+			
+			奈良盆地
+		
+		https://www.kk-bestsellers.com/articles/-/3986/		:d-2
+			
+			奈良盆地
+			
+	]17:39:29
+
 @@@
-
-
-###
-
-
-
-
-
 
 
 ###
@@ -2783,11 +2827,14 @@ set stringof_session_id="145_yamamoto_rongo"
 
 set stringof_session_id="156_1.1_kagura_uta"
 
+set stringof_session_id="156_2.1_manyoo_1"
+
 rem ------------------------XXX
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="156_2.1_manyoo_1"
+set stringof_session_id="140-7.5 / 156_2.1_manyoo_1"
+
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
