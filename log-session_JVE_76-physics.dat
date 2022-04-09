@@ -11,26 +11,19 @@ s-183
 ###\t+(\**\d )	.$1
 (\t+)(\**\d )	$1.$2
 
-r-8-1~4.1.1 /  角速度ベクトルと回転行列の時間微分 / sky-engin <https://www.sky-engin.jp/blog/time-derivative-of-rotation-matrix/>
+r-8-1~4.1.5 / 2次元回転座標系 <https://physnotes.jp/mechanics/2d_rot_cor/>
 
-
-r-8-1~4.1.2 / 回転するベクトルの解析 / uec.ac.jp http://www.rm.mce.uec.ac.jp/lecture/mech/KaitenVec.pdf
-
-#1
-1 即ち一般に
-2 この回転軸を
-3 回転軸上に定
-#2 ある軸回りの
-#3 回転する剛体
-1 すると，まず
-	s: ベクトル+回転+微分 https://duckduckgo.com/?q=ベクトル+回転+微分&ia=web
-		docs
-			r-8-1~4.1.4 / 回転座標系におけるベクトルの時間微分 / physnotes https://physnotes.jp/mechanics/gene_cir/
-				<= this
-	SEG 20220406_130013
-			r-8-1~4.1.4 / 
-				texts
-					
+#6 2次元回転座標系の運動方程式と慣性力 2]
+.1 これまでの議論 1]
+.2 物理的実体を持つ 1]
+#7 意味を確認
+.1 それぞれ 1]
+#8 2次元回転座標系での慣性力(遠心力, コリオリ力, オイラー力)
+#9 2次元回転座標系におけるコリオリ力
+.1 コリオリ力の向きに
+#10 2次元回転座標系におけるオイラー力
+.1 その大きさは 3]
+ 
  
  
  
