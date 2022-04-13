@@ -412,12 +412,124 @@
 	n: ANY
 	
 	]0:21:00
+	
+	[0:38:51
 		
+		C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art\s-20220406_180142
+		
+		s-20220406_180142.xcf
+		
+		>> layer : image.jpg
+			>> dup --> L-3
+				--> to top layer location
+			>> 花びらに入っている、筋
+				*1. スポイト	]0:41:39
+					298 197
+				1-1. 色、設定
+					f8e58c
+				2. replace --> 淡黄たんこう #f8e58c
+					https://www.colordic.org/w
+					
+					key : C - ,
+				==> result
+					1. ４枚のうち。上、左右　=>　comp.
+				3. 下の花びら。　=>　スポイト
+					410 577
+				3-1. color, register
+					白茶しらちゃ #ddbb99
+				
+				3-2. replace
+		*>> image --> save		]0:47:24
+			
+			1. out_20220410_004541.jpg
+		
+		>> L-3,L-2 --> to one image file
+			
+			1. DUP --> each layer	]0:48:51
+				L-3.dup-1
+				L-2.dup-1
+			*2. new layer --> resize --> half	]0:52:05
+			
+			*3. L-3.dup-1 --> move --> to bottom
+			
+			*4. layer : L-3.dup-1 --> 統合：L-2.dup-1
+			
+			*5. canvas --> resize to --> layer(L-2.dup-1)
+				画像＞キャンバスをレイヤーに
+					M - i > - a
+		
+		*>> image --> save
+			out_20220410_005647.jpg
+			
+			2. 
+				保存した画像ファイル：out_20220410_005647.jpg
+					　=>　新しい xcf ファイルで、”レイヤーとして開く”
+					画像部分、選択
+					画像＞キャンバスを選択範囲に…
+					export
+		
+	
+
+###2022年4月13日15:02:30
+
+	>> gimp
+		
+		C - M - o : image.jpg (C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art\s-20220406_180142)
+		
+		
+		1. resize : image_resize_50-percent_300x321.xcf
+			1. rename : s-20220413_160403.xcf
+			
+		*2. color-area : ]15:11:57
+			1. location : 125 81
+			*2. know the val --> 324ec0
+		
+		2.1 imported image layer
+			*1. DUP --> L-2
+		
+		3. paint
+			*1. color --> register
+				柿渋色 9f563a
+				
+			*2. paint : C - ,
+			
+			*>> export image : out_20220413_160827.jpg
+		4. 저변(底辺)에 있는 꽃잎 --> 다른 색으로. 자세한 길을 칠한다.
+			*0.1. 레이어를 복제한다.
+				1. L-3
+				2. 조작(操作) : RC > u > F2 > C - v
+				
+			*1. 색영역을 선택.
+				1. 정정(訂正). 화관(花冠)의 중심부를, 선택, 칠함.
+				*2. 148 129
+				*3. 색의 값을 안다(HTML표기)
+					--> d3d7be
+			
+			2. 칠함
+				*1. 색 : 淡黄たんこう #f8e58c
+				
+				*2. 세로운 색 : 등록
+				
+				*3. 실행
+			
+			>> export image : out_20220413_162347_L_3.jpg
+		
+	>>2 admin
+		1. 柿渋色 --> 조금 더 연한(淡い) 색은 있을까?
+		
+			1. search
+			
+			==>
+				萱草色
+				卵色
+				飴色
+	
+	n: >>2
+	
+	]16:31:08
+
+
 @@@
-###
-
-
-
 
 
 ###
@@ -492,6 +604,13 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\6_visual-arts\8_japanese-art
 ###2021年12月22日1:51:36
 ========================== file : mm
 C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\46 Art\6_visual-arts\8_japanese-art\8_japanese-art.mm
+
+
+###2022年4月13日15:06:41
+========================== file : batch
+C:\WORKS_2\shortcuts_docs\start_JVE_46-6-8_japanese-art.bat
+
+sakura C:\WORKS_2\shortcuts_docs\start_JVE_46-6-8_japanese-art.bat
 
 ###2021年11月5日0:36:08
 ========================== closing : git
