@@ -79,7 +79,10 @@ rem C:\WORKS_2\batches\s.bat gi
 echo calling C:\WORKS_2\batches\start_gimp.bat...
 
 rem C:\WORKS_2\batches\start_gimp.bat
-start C:\WORKS_2\batches\start_gimp.bat
+
+call start C:\WORKS_2\batches\start_gimp.bat
+
+rem start C:\WORKS_2\batches\start_gimp.bat	#=> console stops : 2022”N4ŒŽ14“ú14:06:16
 
 
 REM ==============================
@@ -92,5 +95,6 @@ C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log_JVE_46-6-8_
 
 
 pause
+
 
 
