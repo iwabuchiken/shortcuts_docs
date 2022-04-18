@@ -2727,9 +2727,16 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 	
 		おうよう しゅう
 		
-###
+###2022年4月18日16:43:21
 
-
+	>> 156_1.1_kagura_uta
+	
+	
+	https://duckduckgo.com/?q=榊+木綿&ia=web
+		
+		https://www.weblio.jp/wkpja/content/木綿 (ゆう)_木綿 (ゆう)の概要
+		
+		
 
 @@@
 
@@ -2931,7 +2938,7 @@ set stringof_session_id="145_yamamoto_rongo"
 set stringof_session_id="any : 儒教"
 set stringof_session_id="145_yamamoto_rongo"
 
-set stringof_session_id="156_1.1_kagura_uta"
+set stringof_session_id="140-7.5 / 156_2.1_manyoo_1"
 
 set stringof_session_id="156_2.1_manyoo_1"
 
@@ -2939,8 +2946,8 @@ rem ------------------------XXX
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="140-7.5 / 156_2.1_manyoo_1"
 
+set stringof_session_id="156_1.1_kagura_uta"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
