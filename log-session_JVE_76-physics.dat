@@ -18,18 +18,19 @@ s-183
 
 r-8-1~9.1.2 /第 2 章 ベクトルの微分 / nagoya-u.ac.jp <http://www.slab.phys.nagoya-u.ac.jp/uwaha/notekiso1_09-2.pdf>
 
-#3 2.2 ベクトルの微分
-	s: ベクトル+なす角 https://duckduckgo.com/?q=ベクトル+なす角&ia=web
-#4 積の微分
-#5 空間曲線
-.1 ここで 1]
-.2 速度ベクトルとの関 1]
-.3 単位主法線ベクトルは
-.4 加速度ベクトルとの関
-#6 物理法則と微分
+
+#11 物理的に重要な例 1]
+.1 重力場 5]
+#12 回転 (rotation)
  
  
+s: ベクトル+微分 https://duckduckgo.com/?q=ベクトル+微分&ia=web
+s: ベクトル+微分+講義 https://duckduckgo.com/?q=ベクトル+微分+講義&ia=web		
  
- 
+s: ベクトル+解析+講義 https://duckduckgo.com/?q=ベクトル+解析+講義&ia=web 
+	docs
+		ベクトル解析 / keio.ac.jp https://web.econ.keio.ac.jp/staff/hattori/vector.pdf
+			
+		
  
  
