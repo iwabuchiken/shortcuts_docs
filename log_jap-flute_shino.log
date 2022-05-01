@@ -786,7 +786,9 @@ set stringof_project_id="JVE_46_jp-flute: shino,shaku : %stringof_session_id:"=
 -------------------------------
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="practice : shino" 
+rem set stringof_session_id="practice : shino" 
+
+set stringof_session_id="shino" 
 
 set stringof_project_id="JVE_46_jp-flute : %stringof_session_id:"=%" 
 

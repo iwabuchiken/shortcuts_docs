@@ -140,6 +140,8 @@
 			###2022年4月22日14:47:00
 			#DELETE FROM images WHERE id >= 52775;
 			
+			###2022年4月23日11:46:27
+			#DELETE FROM images WHERE id >= 52797;
 			
 			@@@
 			
