@@ -667,7 +667,40 @@
 
 	n: s-4, cont.
 
+
+
+
+###2022年5月1日18:16:53
+
+	id-21
+	id-22
+		==> 紙を二枚、並べて、それぞれのセクション、続けて、吹いてみる。
+	
+	id-22,id-24
+		*==> 21に、合併しよう
+	
+###
+
+
+
+
 @@@
+
+
+###
+
+
+
+
+
+
+
+###
+
+
+
+
+
 
 
 ###
@@ -789,6 +822,8 @@ C:\WORKS_2\start_a.bat
 rem set stringof_session_id="practice : shino" 
 
 set stringof_session_id="shino" 
+
+set stringof_session_id="shino; shaku" 
 
 set stringof_project_id="JVE_46_jp-flute : %stringof_session_id:"=%" 
 
