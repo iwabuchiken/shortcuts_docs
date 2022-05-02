@@ -23,13 +23,11 @@ s-183
 
 -----------------------------
 
-r-7-A1~2.2.1 / ラグランジュの運動方程式 / kobe-u.ac.jp <https://www.research.kobe-u.ac.jp/csi-viz/members/kageyama/lectures/H26_FY2014_latter/Analytical_Mechanics/note_141016b.pdf>
+r-7-A1~2.4.3 / 収束する数列は有界であることの証明 <https://mathlandscape.com/conv-seq-bdd/>
 
-#1-2 3.1.2 ラグランジアン
-	related
-		#1-2~d-1 / ばね定数 / wi https://ja.wikipedia.org/wiki/ばね定数
-.1 ある曲線に沿って
-#1-3 3.1.3 復習：合成関数の微分
+#1
+ 
+ 
  
  
  
