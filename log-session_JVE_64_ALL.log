@@ -2767,9 +2767,18 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 	
 	]17:34:53
 
-###
+###2022年5月3日21:40:29
 
-
+	>> 114_hirata
+	
+	.28
+	
+		https://kanji.jitenon.jp/kanjij/4637.html
+			
+			瓊
+			音読み	ケイ
+			美しい玉
+			
 
 @@@
 
@@ -2999,12 +3008,13 @@ set stringof_session_id="140-7.5 / 156_2.1_manyoo_1"
 
 set stringof_session_id="156_2.1_manyoo_1"
 
+set stringof_session_id="156_1.1_kagura_uta"
+
 rem ------------------------XXX
 
 C:\WORKS_2\start_a.bat
 
-
-set stringof_session_id="156_1.1_kagura_uta"
+set stringof_session_id="114_hirata"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
