@@ -1,0 +1,640 @@
+###2022年5月5日7:09:10
+
+	*>> shortcut dir
+		*1. deprecate
+			C:\WORKS_2\shortcuts_docs.20220505_071509
+		*2. orig dir --> delete
+		
+		*3. github --> clone
+pushd C:\WORKS_2
+g clone https://github.com/iwabuchiken/shortcuts_docs.git
+	
+	>> C:\WORKS_2
+		*1. deprecate --> rename
+			C:\WORKS_2.20220505_072517
+			[PROB] "other prog using this dir"	[7:30:29
+				tor ?	==> POSSIBLE (can change now)	]7:31:36
+		*~1.1 new dir 
+			C:\WORKS_2
+		
+		3. github --> clone
+pushd C:\
+g clone https://github.com/iwabuchiken/WORKS_2.git
+		
+			[PROB] "git" command path --> changed.
+				*1. rename back the dir name : WORKS_2
+				*2. get command path
+					==> C:\WORKS_2\Utils\commands\g.bat
+				*3. rename again the dir : WORKS_2.20220505_072517
+				*4. new git command path : C:\WORKS_2.20220505_072517\Utils\commands\g.bat
+					*new sakura path : C:\WORKS_2.20220505_072517\Programs\sakura\sakura.exe
+					git prog path : "C:\Program Files\Git\cmd\git"
+				*4. exec git clone	[7:40:49
+pushd c:\
+C:\WORKS_2.20220505_072517\Utils\commands\g.bat clone https://github.com/iwabuchiken/WORKS_2.git
+
+					1. validate : C:\WORKS_2 ==> tak	]7:43:19
+					
+		4. files in the dir --> C/P
+				from	: C:\WORKS_2.20220505_072517
+				to		: C:\WORKS_2
+			1. C:\WORKS_2.20220505_072517\Programs
+				*1. C:\WORKS_2.20220505_072517\Programs\FreeMind	]7:52:00
+				*1. C:\WORKS_2.20220505_072517\Programs\freeware\VideoLAN
+					validate ==> OK		]7:51:09
+				*1. C:\WORKS_2.20220505_072517\Programs\Lhaplus
+copy C:\WORKS_2.20220505_072517\Programs\Lhaplus C:\WORKS_2\Programs\Lhaplus
+					[Q] make dir --> windows command ?	[7:55:15
+						==> not solved : "DNS サーバーにエラーが発生しました。"	]7:59:16
+					
+				*1. sakura		]7:58:51
+				
+				*1. C:\WORKS_2.20220505_072517\Programs\Ruby23	]8:01:02
+					valid : C:\WORKS_2\Programs\Ruby23\bin\ruby.exe
+				*1. C:\WORKS_2.20220505_072517\Programs\OpenOffice 4
+					C:\WORKS_2.20220505_072517\Programs\OpenOffice 4.1.3 (ja) Installation Files
+				
+				*1. C:\WORKS_2.20220505_072517\Programs\tor_browser_8.5.3
+					valid : browser starts? ==> tak		]8:03:52
+		*5. admin : copy this file to --> HD storage		[8:04:47
+			*1. change file extension --> ".log"
+			*2. copy	]8:06:01
+		
+	*>> p-3 : copy dir : C:\WORKS_2.20220505_072517\shortcuts_docs	[8:11:45
+		*1. current ==> delete : C:\WORKS_2\shortcuts_docs
+		*2. c/p
+		*3. valid : search ==> ".dat" files
+			==> log-session_JVE_76-physics.dat --> exists	]8:17:08
+		
+	*>> p-4 : sakura file : ".dat" file --> register to : "設定"		[8:16:35
+		*1. C - 4 > select : "テキスト" > M - s
+		2. "ファイル拡張子" ==> add : "dat"
+		*3. click : "OK"
+		*4. valid
+			==> color changed? --> TAK		]8:19:02
+	
+	
+	*>> p-5 : freemind ==> clone		[8:19:53		]8:34:35
+		*1. dir exists?
+			==> C:\WORKS_2\WS\FM_2_20171104_225946
+				--> no
+				--> exists : C:\WORKS_2.20220505_072517\WS\FM_2_20171104_225946
+		*2. maybe : git clone?	[8:22:30
+			1. github --> open
+			2. sign in
+			
+			3. clone
+				1. make dir : WS
+					C:\WORKS_2\WS
+				2. commandline
+pushd C:\WORKS_2\WS
+g clone https://github.com/iwabuchiken/FM_2_20171104_225946.git
+			
+			[PROB] "DNS サーバーはゾーンに対して権限がありません。"
+			1. C:\WORKS_2.20220505_072517\Utils\commands\g.bat
+				--> "C:\Program Files\Git\cmd\git" %1 %2 %3 %4 %5
+			2. C:\WORKS_2\Utils\commands\g.bat
+				--> git %1 %2 %3 %4 %5
+			3. [workaround]
+
+pushd C:\WORKS_2\WS
+"C:\Program Files\Git\cmd\git" clone https://github.com/iwabuchiken/FM_2_20171104_225946.git
+
+				==> cloned
+			*4. valid : open mm file
+				==> C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm
+					--> OK		]8:33:52
+	
+	*~>> 8 : C:\WORKS_2\command_prompt.exe ==> C/P	[8:57:04
+pushd C:\WORKS_2
+copy C:\WORKS_2.20220505_072517\command_prompt.exe C:\WORKS_2
+		
+		1. couldn't copy : "DNS サーバーはゾーンに対して権限がありません。"
+			--> already exists
+		2. valid : shortcut --> double click --> started	]9:01:14
+
+	>> 7 : mobile photos (kuro) ==> to HD	[8:41:52
+		*1. new dir : C:\WORKS_2\WS\tmp
+		2. connect mobile
+			[PROB] "huawei" --> shown as a storage	[8:48:39
+			1. pc --> re-start		[8:49:35
+			2. re-started		[9:02:24
+			3. connect phone --> still, storage
+				1. dialog "自動再生"
+				2. click "フォルダーを開いて..."
+				3. click : コンピュータ > "HUAWEI P30..." > "内部ストレージ"
+					--> loading continues		[9:05:54
+			4. TRY
+			-2
+					1. USB port --> MyPassport を入れていた口 --> 使ってみる
+				1. take out mobile
+				2. insert mobile
+					==> N/C			]9:08:55
+			5. TRY-3
+					1. Hisuite --> アクセスを許可する（mobile 上で）
+						1. 発信、通話
+						2. 連絡先
+					2. ==> DROP : "連絡先" --> 許可できない
+						]9:10:15
+			6. TRY-4
+					1. re-start pc	[9:10:47
+				1. ==> N/C		]9:15:48
+			
+			7. TRY-5	[9:16:24
+					1. re-start pc
+					*2. first, insert MyPassport	]9:27:47
+					3. then, connect mobile (this time, MyaPa stays connected)
+						--> storageとして、認識されてしまった	]9:29:12
+					4. mob : disconn, --> re-connect
+						--> mob 自身に、"ファイル転送"などを尋ねる、dialogが、開かない
+					5. disconn --> MyPa, then, conn mob		[9:30:47
+						*1. disconn My
+						2. disconn : mob
+							--> できた。これまでは、"他のプログラムが使って..."が、出ていた
+							--> "隠れているインジケータを表示" ~> click
+								--> mob は、出てこない
+						3. dicsconn : mob --> exec		[9:33:27
+					6. re-conn : mob --> at : MyPa を入れていたのとは違う、ポート
+						--> mob --> "使用目的"の dialog 、出た	]9:34:46
+						--> choose "ファイルの転送"
+						--> "ハードウェアを安全に取り外し..."のアイコン、現れている
+			8. TRY-6	[9:36:43
+					1. しょうがない。hisuite に、アクセスを許可しよう
+				1. 許可
+					1. 連絡先
+					1. カレンダー
+					1. SMS
+				*2. code --> 50818448
+				3. mob : "HiSuiteによるデバイスのデータへのアクセスを許可しますか？"
+					*1. "許可"
+					1. "ロック画面のパスワード"
+					==> pc : "注意" dialog --> "許可されました" --> click "OK"
+		3. prep photos	[9:47:22
+		
+			1. mob
+				*1. クロたちの写真 --> "カメラ"に、コピー
+				2. mob --> re-conn
+					[PROB] "プログラムが'Huawei HDB Interface'デバイスをまだ使用しているため..."
+					1. TRY-1
+						*1. open --> コントロールパネル > ハードウェアとサウンド > デバイスマネージャー
+						2. FOUND
+							1. user-PC > Android Phone > Huawei HDB Interface
+					2. re-conn --> 強制で
+						1. re-conn cable
+						2. mob : "使用目的" --> "ファイルの転送"	]9:57:37
+						3. code : 08362997
+				3. hisuite --> c/p to --> notepc	]9:58:35
+					1. mob : "データへのアクセスを許可？"
+						*1. "許可"
+						1. 画面ロックのコード
+						1. "許可されました"
+					2. "ファイルマネジャー"の、ウインドウ
+						1. 写真の一つ --> 右クリック
+						 [PROB] 数値、"0%"のまま	[10:05:44
+						 TRY --> 強制終了
+						
+				
+		2. copy files to : C:\WORKS_2\WS\tmp
+		3. copy files to : C:\WORKS_2\WS\tmp
+		
+	
+	>> p-2. xampp --> installed?	[7:44:19
+	
+		1. C:\WORKS_2\batches\c.bat ==> see the path string
+		
+	*>> p-9 : command line "s 10" ==> setup	[10:10:28	]10:31:52
+	
+		1. open s.bat
+		2. C:\WORKS_2\shortcuts_docs\start_log_JVE_76-physics.bat
+			1. open
+			2. dpath_Folder="C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\76_physics"
+				==> exists?
+				--> no
+		3. git clone	[10:12:51
+			1. conn --> HD
+			2. open password file
+			3. sign in
+				378295
+			*4. clone	]10:21:53
+pushd C:\WORKS_2\WS
+"C:\Program Files\Git\cmd\git" clone https://github.com/iwabuchiken/WS_Others.JVEMV6.git
+		4. exists?
+			*1. C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+				==> clone		]10:23:56
+pushd C:\WORKS_2\WS
+"C:\Program Files\Git\cmd\git" clone https://github.com/iwabuchiken/WS_Cake_IFM11.git
+			*2. make dir : iphone_to_upload
+			
+			3. freemind file --> path exists?
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\76_physics\76_physics.mm
+				1. FOUND
+					1. freemind exec file --> path is different
+					2. ==> modify path
+						from	: C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe
+						to		: C:\WORKS_2\Programs\FreeMind\FreeMind.exe
+				2. valid
+					files --> opened? ==> TAK		]10:29:18
+		4. test
+			1. start batch file		[10:31:01
+				==> opened each files? --> TAK		]10:31:46
+
+	>> p-10 : TEST : mob connect --> "目的" --> "写真の転送"	[10:32:40
+	
+		*1. mob : disconn
+		2. mob
+			1. open monitor (enter password)
+			2. conn
+				--> dialog --> opened
+			3. "写真の転送" --> click
+		3. pc
+			1. "自動再生" / HUAWEI P30 lite
+				1. "デバイスを開いて..." ==> click	[10:35:29
+			==> explorer --> 開いた！！		]10:38:23
+		
+		4. photos --> to MyPass		[10:40:20
+			1. to : F:\images\kuro,mike
+				==> comp		]10:42:00
+	
+	
+		n:
+			1. hisuite --> "データの転送"を選ぶ。そのとき、音楽ファイル、mob へ送れるか？
+		
+		]10:45:18
+	
+	*>> p-11 : hisuite : 音楽ファイル、転送できるか？	[11:32:15	]11:41:11
+	
+		1. mob
+			1. open monitor
+			2. conn
+			3. "ファイルの転送" --> click	]11:33:32
+			4. "データへのアクセスを..." --> 許可
+		
+		2. suite
+			1. click --> "写真"のアイコン
+			*2. navi : "アプリマネージャー"
+			3. list --> アイコン。左ボタンで、デスクトップのdir へ、ドラッグ
+				==> コピーできた！(suite の、dialog が出る "エクスポートされました")
+
+	*>> p-12-1 : "Download" dir --> make		[11:41:29	]11:43:02
+		
+		*1. make dir
+		*2. explorer の、左カラム。いまある Download(2) のフォルダー ==> delete
+		*3. new shortcut
+
+	*>> admin : copy this file to --> HD storage		[2022年5月5日11:44:54
+		1. copy
+			from	: C:\Users\user\Desktop\log_setup_note-pc_environ_dekstop-not-start.log
+			to		: F:\
+copy C:\Users\user\Desktop\log_setup_note-pc_environ_dekstop-not-start.log F:\
+	
+	[PROB] "メッセージ番号 0x400023d3 のメッセージ文が Application のメッセージ ファイルに見
+つかりません。
+
+メッセージ番号 0x2336 のメッセージ文が Application のメッセージ ファイルに見つか
+りません。"
+		2. [workaround] --> マニュアルで、ドラッグ。 ==> comp	]11:50:54
+	
+	*>> p-14 C:\WORKS_2\t.bat ==> ruby path, modify	[11:52:12
+	
+		1. open batch file
+		2. edit
+			1. set variable : RUBY_EXE_PATH
+			2. edit : exec line
+		3. test --> OK		]11:59:06
+	
+	*>> p-12-2 : s fm --> modify file	[12:07:49
+		
+		1. s.bat : C:\WORKS_2\batches\s.bat
+			1. edit : ##marker:20220505_121113
+		2. test ==> "s fm"
+			--> OK		]12:13:30
+	
+	*>> p-12-3 : shortcut_docs --> backup to HD	[12:17:47	]12:17:49
+	
+	[14:35:41
+	
+	>> 16 : "s di" ==> setup		[14:35:45
+	
+		1. s.bat
+			1. "command_line_di" ==> ?	[14:35:59
+				==> C:\WORKS_2\shortcuts_docs\start_diary.bat
+			2. exists? ==> TAK		]14:36:41
+		2. exists?
+			1. C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\diary.ods
+				==> TAK		]14:38:08
+		
+		n : COMP	]14:39:09
+	
+	n:
+		1. github ==> p-17
+		]14:39:31
+
+	[17:11:36
+	
+	>> p-18 : "s 11" ==> setup	[17:11:42
+	
+		1. see --> sakura file
+			"fpath_bat_opt_r_11" ==> C:\WORKS_2\shortcuts_docs\start_log_JVE_64_ALL.bat
+		
+		2. see --> batch
+			1. exists?
+				1. C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
+					==> TAK		]17:13:38
+				2. dir : C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\64_read
+					==> TAK		]17:14:19
+				3. C:\WORKS_2\WS\WS_Cake_IFM11\iphone_to_upload
+					==> TAK		]17:14:19
+			==> seems OK	]17:15:28
+		3. batch ==> exec	[17:15:50
+			1. ==> OK		]17:16:34
+		
+		n: COMP		]17:16:43
+
+###2022年5月6日9:12:44
+
+	>> p-11 : hisuite : 音楽ファイル、転送できるか？	[9:12:51
+	
+			1. notepc --> mob : 転送できるか
+		1. mob
+			1. conn
+		2. hisuite
+			*1. コード --> enter
+			*2. top window --> click "写真"
+			*3. "アクセスを許可してください"
+			*4. mob
+				1. "OK" --> click
+				2. ロック画面コード --> enter
+			5. "許可されました"
+			*6. top window --> click "写真" ==> znowu
+			7. "ファイルマネジャー"の、ウインドウ
+			8. window 下端。"インポート"のアイコン --> click
+				1. ポップアップ・窓 "フォルダ" --> cli.
+		n: ==> COMP : this task --> comp.
+		
+		]9:22:41
+			
+	>> p-12-4	: sakura setup		[9:24:25
+	
+		1. open sakura file
+		2. C - 5 > tab "正規表現キーワード"
+		3. entry "/\]\].+$/k" ==> edit
+			1. to : "/.+\]\]/k" > "更新" > "OK"
+			2. color --> change : 
+				1. to : "正規表現キーワード５"（黄土色っぽい色）
+		4. test ==> OK		]9:28:23
+		*5. save reg file
+			1. C:\WORKS_2\Utils\Others\sakura_data
+			*2. file name : setting_regex_keywords_20220506_093000.rkw
+				*==> rename : sakura_setting_regex_keywords_20220506_093000.rkw
+		*5-2. save : color file
+			1. C:\WORKS_2\Utils\Others\sakura_data
+			2. file name : sakura_setting__colors_20220506_093217.col
+			
+		n: COMP for now
+		
+		]9:33:36
+	
+	[10:27:19
+	
+	>> p-13 : C:\WORKS_2\WS\WS_Cake_IFM11\commands ==> each file --> works?
+	
+		1. 1_change_file_names.bat ==> review
+		2. file exists?
+			1. C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\Change_FileName.rb
+				==> C:\WORKS_2\WS\Eclipse_Luna --> NOT exists
+		
+		3. C:\WORKS_2\WS\Eclipse_Luna ==> clone
+			1. passwords : F:\passwords - Sheet1 (7).csv
+			2. git repo --> exists? : Eclipse_Luna
+				==> nie		]10:32:47
+				*Cake_IFM11 ? ==> tak	]10:33:15
+				Change_FileName.rb ? ==> tak		]10:33:53
+			
+			*3. dir "Eclipse_Luna" ==> create
+			*4. clone into this dir		]10:39:25
+pushd C:\WORKS_2\WS\Eclipse_Luna
+"C:\Program Files\Git\cmd\git" clone https://github.com/iwabuchiken/Cake_IFM11.git
+		3. ruby.exe ==> installed?	[10:39:37
+			==> tak : C:\WORKS_2\Programs\Ruby23\bin\ruby.exe
+		
+		4. Change_FileName.rb
+			1. "tmp" dir --> full path?
+				==> dpath = "C:/WORKS_2/WS/WS_Cake_IFM11/tmp"
+			*2. dir "C:/WORKS_2/WS/WS_Cake_IFM11/tmp" ==> create		[10:42:31
+			*3. MyPass image files --> c/p
+			4. exec file
+pushd C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11
+Change_FileName.rb
+				[PROB] "cannot load such file -- exifr"
+				1. TRY-1
+					1. search docs
+						https://rubygems.org/gems/exifr/versions/1.3.6
+					2. gem file
+						C:\WORKS_2\Programs\Ruby23\bin\gem
+					2. exec command
+gem install exifr -v 1.3.6
+						[PROB] F:\log_ruby_install_gem__exifr.log
+						TRY-1
+							other command line
+gem install exifr
+							==> N/C : ##:20220506_105948 F:\log_ruby_install_gem__exifr.log
+						TRY-X
+							1. search : rubygems.org download certificate
+							2. https://guides.rubygems.org/ssl-certificate-update/
+								#1
+								1 This error happens when 
+								#2 Follow the steps outlined 
+							3. https://bundler.io/v2.0/guides/rubygems_tls_ssl_troubleshooting_guide.html#troubleshooting-certificate-errors
+								#1
+								1 Start by running the automatic SSL check
+								2 https://bundler.io/v2.0/guides/rubygems_tls_ssl_troubleshooting_guide.html#automated-ssl-check
+									#1 Automated SSL check 3]
+								 	 
+			5. [workaround]
+					1. php --> can get the file date info?
+				1. search : php get exif image file
+					https://yandex.ru/search/?text=php+get+exif+image+file&lr=21433&clid=2270485&win=540
+					https://www.php.net/manual/en/function.exif-read-data.php
+				2. eclipse ==> installed?		[11:13:21
+					*1. --> C:\WORKS_2.20220505_072517\Programs\eclipse_luna
+					2. start exec file	[11:14:16
+					3. FOUND : "... for Java Developers"
+			==> HALT:20220506_111636
+		
+		*5. eclipse --> install		[11:17:11	]11:29:24
+				1. for php
+			*1. s: eclipse php install
+			*2. s: eclipse php 32bit install
+				docs
+				https://www.eclipse.org/downloads/packages/release/helios/r/eclipse-php-developers
+					Windows 32-bit
+			3. download
+				1. started		[11:21:43
+				2. ended : C:\WORKS_2\Downloads\eclipse		]11:26:39
+			*4. start exec		[11:27:03
+				1. workspace
+					1. new dir : C:\WORKS_2\WS\WS_Eclipse\ws_eclipse_helios
+		*6. eclipse
+			1. new project
+				1. change_file_name
+				2. FOUND : php ==> 5.3 or earlier		[11:32:04
+					1. C:\xampp\php ==> version?
+						"PHP 7.3.2 (cli) (built: Feb  5 2019 23:16:38) ( ZTS MSVC15 (Visual C++ 2017) x86)"
+			2. SEG:20220506_113328
+					1. php --> install
+				1. s: php 5.3 install windows
+				2. s: xampp php 5.3 install windows
+					https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/
+				3. download		[11:39:46
+					SEG
+					1. s: xampp1.8.2 php version
+						https://blogbit.net/web-development/ustanovka_xampp_v_ubuntu.html
+							xampp 1.8.2 ==> seems php is 5.4.27
+					2. s: xampp 1.7.7 php version
+						https://soft.sibnet.ru/soft/27672-xampp-1-7-7-for-windows/
+							"PHP 5.3.8"
+					3. s: xampp version php version
+					4. s: xampp 1.7.4 php version
+						https://webi.ru/webi_files/xampp.html
+							"PHP 5.3.5 (VC6 X86 32bit) + PEAR"
+						==> THIS	]11:49:36
+			4. CONC
+				1. xampp --> install : xampp 1.7.4		]11:50:36
+		
+		6. xampp inst.
+			1. download
+				https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.7.4/
+				"xampp-win32-1.7.4-VC6-installer.exe"
+			2. install		[11:54:42	NEXT:20220506_115958
+				C:\WORKS_2\Downloads\xampp-win32-1.7.4-VC6-installer.exe
+				1. exec file	[13:43:15
+				2. xampp panel --> started	]13:51:47
+				
+				
+		7. php		[11:53:00 / register
+			1. eclipse ==> setup
+				*1. locate --> php bin.
+					C:\xampp_1.7.4_win32\xampp\php\php.exe
+				
+				*2. test		]13:53:46
+pushd C:\xampp_1.7.4_win32\xampp\php
+php --version
+		PHP 5.3.5 (cli) (built: Jan  6 2011 17:54:09)
+		Copyright (c) 1997-2010 The PHP Group
+		Zend Engine v2.3.0, Copyright (c) 1998-2010 Zend Technologies
+				
+				3. start eclipse
+					*1. C:\WORKS_2\Downloads\eclipse
+						1. rename : C:\WORKS_2\Downloads\eclipse_helios
+					*2. move to : C:\WORKS_2\Programs\eclipse_versions
+					3. run exe
+						1. run
+						2. workspace C:\WORKS_2\WS\WS_Eclipse\ws_eclipse_helios
+					*4. new project
+						1. change_file_name
+						2. PHP version --> "Use default..."
+						==> project icon --> shown	]13:59:40
+				*~X. set php exe
+				
+				
+				
+		8. php : exif data ==> can obtain?	[14:10:21
+		
+			*1. coding / test
+				1. new folder : 01_
+				*2. new file : change_filename.php
+				*3. codes
+				SEG : run php file?
+					1. s: php command line run php file
+						https://stackoverflow.com/questions/10262532/running-php-script-from-the-command-line
+				*4. run code
+					*1. edit C:\WORKS_2\a.bat
+					2. 
+pushd C:\WORKS_2\WS\WS_Eclipse\ws_eclipse_helios\change_file_name\01_
+php -f change_filename.php
+					==> OK		]14:19:17
+			2. coding : exif		[14:20:03
+				1. https://www.php.net/manual/en/function.exif-read-data.php
+				*SEG : php printf
+					https://duckduckgo.com/?q=php+printf+function&ia=web
+						https://www.w3schools.com/PHP/func_string_printf.asp
+				2. new func : get_exif_data	[14:26:52
+					1. skeleton
+					*SEG : eclipse editor duplicate line	]14:31:09
+						==> C - M - up
+					2. test ==> OK		]14:31:24
+					
+					3. target lines
+						1. try with "IFD0"	[14:35:06
+						2 ==> OK		]14:36:38
+				3. get_exif_data
+						1. get : vals for : [DateTimeOriginal]
+						*SEG:20220506_143843
+							1. font
+								1. Preferences > General > Appearance > Colors and Fonts
+								2. Basic > Text Font --> btn "Edit"
+								3. サイズ --> 12
+							1. codes	]14:41:43
+							2. ==> OK		]14:42:32
+			*3. coding : change file name	[14:43:05
+				1. s: php change file name		[14:44:23
+				2. codes
+				3. ==> 	OK		]14:50:02
+
+		closing:
+			*1. backup
+				*1. C:\WORKS_2\WS\WS_Eclipse\ws_eclipse_helios\change_file_name
+					==> to HD
+		
+		n: p-13-1 : change file name
+			1. get data, change file name ==> coding
+		
+		]14:52:02
+
+
+
+
+
+@@@
+----------------------------
+[plans]
+1. python --> installed?	/2022年5月5日7:20:46
+2. xampp --> installed?	/2022年5月5日7:27:29
+3. django server --> can use?	/2022年5月5日8:35:21
+4. 
+12 : misc tasks
+	
+13 : C:\WORKS_2\WS\WS_Cake_IFM11\commands ==> each file --> works?	/ 2022年5月5日11:43:47
+	13-1 : change file name		/ 2022年5月6日14:51:23
+	
+17 : github ==> new repos --> let's create	/ 2022年5月5日14:38:31
+19 : C:\WORKS_2\batches\c.bat ==> setup	/ 2022年5月5日19:17:57
+20 : filezilla ==> setup	/ 2022年5月5日23:09:24
+	https://filezilla-project.org/download.php?type=client21 : setup ==> C:\WORKS_2\batches\c.bat	/ 2022年5月6日17:53:18
+		"gg"
+22 : 
+
+===================== storage
+*3 : copy dir : C:\WORKS_2.20220505_072517\shortcuts_docs	/ 2022年5月5日8:11:18
+*4 : sakura file : ".dat" file --> register to : "設定"	/ 2022年5月5日8:15:37
+*5 : freemind ==> clone		/ 2022年5月5日8:19:36
+*6 : files exist? ==> C:\WORKS_2\WS\WS_Cake_IFM11\commands	/ 2022年5月5日8:40:53
+*7 : mobile photos (kuro) ==> to HD		/ 2022年5月5日8:41:19
+*8 : C:\WORKS_2\command_prompt.exe ==> C/P		/ 2022年5月5日8:56:14
+*9 : command line "s 10" ==> setup / 2022年5月5日10:10:04
+*10 : TEST : mob connect --> "目的" --> "写真の転送"	/ 2022年5月5日10:38:50
+*11 : hisuite : 音楽ファイル、転送できるか？		/ 2022年5月5日10:39:18
+*12
+	*12-1 : "Download" dir --> make	/ 2022年5月5日11:40:51
+	*12-2 : s fm --> modify file	/ 2022年5月5日12:07:32
+	*12-3 : shortcut_docs --> backup to HD	/ 2022年5月5日12:07:32
+	*12-4	: sakura setup ==> 
+				"\d+]" --> add color 	/ 2022年5月5日12:28:17
+				"]].+" --> remove 	/ 2022年5月5日12:28:17
+				".+]]" --> add color 	/ 2022年5月5日12:28:17
+
+*14 C:\WORKS_2\t.bat ==> ruby path, modify		/ 2022年5月5日11:51:55
+*15 : browser ==> yandex, install?		/ 2022年5月5日12:41:11
+*16 : "s di" ==> setup	/ 2022年5月5日14:34:57
+*18 : "s 11" ==> setup	/ 2022年5月5日17:11:21
+

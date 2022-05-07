@@ -23,17 +23,25 @@ s-183
 
 -----------------------------
 
-r-7-A1~2.2.5 / *#1.d-2 / テイラーの定理の例と証明 <https://manabitimes.jp/math/1001>
+r-7-A1~2.2.6 / 
 
+ 一般化二項定理とルートなどの近似 / manabitimes.j <https://manabitimes.jp/math/1018>
+ 
 #1
-#2 平均値の定理の一般化 2]
-#3 テイラーの定理とテイラー展開 2]
-#4 テイラーの定理の証明 2]
+#2 二項定理との関係 2]
+	graph-des
+		\operatorname{nCr}\left(a,x\right) https://www.desmos.com/calculator/t3cflums69
+#2 ルートなどの近似式 2]
+#3 テイラー展開による証明 2]
+.1 証明の概略 2]
+.2 この級数が収束して
  
  
  
- 
- 
- 
+s: 一般化二項定理+証明 https://duckduckgo.com/?q=一般化二項定理+証明&ia=web 
+	docs
+		Taylor の定理の剰余と一般化二項定理の証明 / aichi-edu.ac.jp http://www.auemath.aichi-edu.ac.jp/teacher/kodani/lecture/22zemi/inukai.pdf
+			<= this
+		
  
  
