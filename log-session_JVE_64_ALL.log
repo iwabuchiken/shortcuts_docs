@@ -2778,21 +2778,31 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 			瓊
 			音読み	ケイ
 			美しい玉
+
+###2022年5月9日15:02:01
+
+	>> 162_daikei
+
+		https://ctext.org/huangdi-neijing/si-qi-diao-shen-da-lun/ens
+		
+			https://ctext.org/dictionary.pl?if=en&id=82235&remap=gb
 			
+
 
 @@@
 
 
-
-###
-
-
-
-
-
-
-
-###
+###2022年5月10日9:15:44
+	
+	>> 162_daikei
+		https://ctext.org/huangdi-neijing/si-qi-diao-shen-da-lun/zhs
+			https://ctext.org/dictionary.pl?if=gb&id=82236&remap=gb
+			https://ctext.org/dictionary.pl?if=gb&id=82237&remap=gb
+			
+		https://ctext.org/huangdi-neijing/sheng-qi-tong-tian-lun/zhs
+		
+		n: https://ctext.org/dictionary.pl?if=gb&id=82240&remap=gb
+		
 
 
 
@@ -3010,11 +3020,13 @@ set stringof_session_id="156_2.1_manyoo_1"
 
 set stringof_session_id="156_1.1_kagura_uta"
 
-rem ------------------------XXX
+set stringof_session_id="114_hirata"
+
+rem ------------------------XXX close : git
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="114_hirata"
+set stringof_session_id="162_daikei"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 

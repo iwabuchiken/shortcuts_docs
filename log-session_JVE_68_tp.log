@@ -213,6 +213,9 @@ r-1-2.A-4	2021年8月2日18:02:02
 => ENOUGH : not necessary for now
 => ENOUGH : for now
 
+//2022年5月8日16:49:51
+=> ENOUGH : didn't understand; good enough
+
 => ENOUGH : hereafter, can't comprehend
 => NEXT
 
@@ -276,10 +279,10 @@ r-7-A1~1.1.1 /
 
 r-7-A1~2.1 / 
 *r-7-A1~2.1.1 / 
-*r-7-A1~2.2.1 / 
-*r-7-A1~2.2.2 / 
-*r-7-A1~2.2.3 / 
 *r-7-A1~2.2.4 / 
+*r-7-A1~2.2.7 / 
+*r-7-A1~2.2.8 / 
+*r-7-A1~2.2.9 / 
 
 *r-7-A1~2.4.1 / 
 *r-7-A1~2.4.2 / 
