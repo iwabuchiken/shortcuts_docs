@@ -2789,7 +2789,7 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 			
 
 
-@@@
+
 
 
 ###2022年5月10日9:15:44
@@ -2804,9 +2804,34 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 		n: https://ctext.org/dictionary.pl?if=gb&id=82240&remap=gb
 		
 
+###2022年5月10日17:18:56
+
+	>> 159_38_years_war
+
+
+###2022年5月11日9:02:16
+
+	>> 162_daikei
+
+	n: https://ctext.org/dictionary.pl?if=gb&id=82241&remap=gb
+
+	[15:43:26
+	
+	>> 164.1_b-1
+	
+		https://duckduckgo.com/?q=太平御覧&ia=web
+		
+		https://zh.wikipedia.org/zh-cn/廣韻
+			https://zh.wikipedia.org/zh-cn/韻書
+				https://zh.wikipedia.org/zh-cn/反切
+					https://zh.wikipedia.org/zh-cn/声母
+					
+
+###
 
 
 
+@@@
 
 
 
@@ -3021,12 +3046,15 @@ set stringof_session_id="156_2.1_manyoo_1"
 set stringof_session_id="156_1.1_kagura_uta"
 
 set stringof_session_id="114_hirata"
+set stringof_session_id="162_daikei"
 
 rem ------------------------XXX close : git
 
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="162_daikei"
+
+164.1_b-1
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 

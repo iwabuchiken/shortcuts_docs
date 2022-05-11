@@ -23,25 +23,11 @@ s-183
 
 -----------------------------
 
-r-7-A1~2.1.1 / ハミルトンの原理 / kobe-u.ac.jp <https://www.research.kobe-u.ac.jp/csi-viz/members/kageyama/lectures/H27_latter/Analytical_Mechanics/note_160114b.pdf>
-#3.1 まず微分法の
-	s: テイラー展開+近似 https://duckduckgo.com/?q=テイラー展開+近似&ia=web
-		docs
-			テイラー展開 https://home.hirosaki-u.ac.jp/relativity/理工系の数学b/テイラー展開/
-			関数の近似と Taylor 展開 https://www2.math.kyushu-u.ac.jp/~snii/Calculus/2.pdf
-.2 同じように汎関数の
-.3 当然 y′(x)
-#4 3.2 ハミルトンの原理
-#4-1 13.2.1 例（質点の投げ上げ）
-.1 上の図に時間 t の
-#5 13.3 ラグランジュの運動方程式
-.1 ハミルトンの原理から、 1]
-.2 定義から qk に依存
-.3 一般に、汎関数
-#6 13.4 ハミルトンの原理の「解釈」
- 
- 
- 
+r-7-A1~2.6.3 / オイラー・ラグランジュ方程式 (Euler - Lagrange equation) の例 
+
+  ： 単振り子 / kanazawa-it.ac.jp <https://w3e.kanazawa-it.ac.jp/math/physics/category/mechanics/analytical_mechanics/Euler_Lagrange_equation/henkan-tex.cgi?target=/math/physics/category/mechanics/analytical_mechanics/Euler_Lagrange_equation/simple_pendulum.html>
+
+#1
  
  
  
