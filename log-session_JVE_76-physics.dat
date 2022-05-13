@@ -23,27 +23,16 @@ s-183
 
 -----------------------------
 
-r-7-A1~2.6.3 / オイラー・ラグランジュ方程式 (Euler - Lagrange equation) の例 
-
-  ： 単振り子 / kanazawa-it.ac.jp <https://w3e.kanazawa-it.ac.jp/math/physics/category/mechanics/analytical_mechanics/Euler_Lagrange_equation/henkan-tex.cgi?target=/math/physics/category/mechanics/analytical_mechanics/Euler_Lagrange_equation/simple_pendulum.html>
-
-#1
-.1 点 O を原点として，
-.2 質点の速度は円の
-.3 質点の運動エネルギー
-#2 一方，重力による
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+r-7-A1~2.1.1 / ハミルトンの原理 / kobe-u.ac.jp <https://www.research.kobe-u.ac.jp/csi-viz/members/kageyama/lectures/H27_latter/Analytical_Mechanics/note_160114b.pdf>
+#7 13.5 変分原理からの
+1 こで注意すべきは、
+2 すると次の法則
+3 質点の投げ上げの
+#7-1 第 13.3 章と同様な方法
+1 qk に依存するのは 2]
+2 また、pk に依存するのは
+#8 13.6 シンプレクティック積分法
+1 まとめると
  
  
  
