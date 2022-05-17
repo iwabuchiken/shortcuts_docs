@@ -1,6 +1,7 @@
 ###2021年9月19日15:11:35
 
 C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
+C:\WORKS_2\shortcuts_docs\log-session_JVE_68_tp.log
 
 s-183
 
@@ -23,16 +24,24 @@ s-183
 
 -----------------------------
 
-r-7-A1~2.1.1 / ハミルトンの原理 / kobe-u.ac.jp <https://www.research.kobe-u.ac.jp/csi-viz/members/kageyama/lectures/H27_latter/Analytical_Mechanics/note_160114b.pdf>
-#7 13.5 変分原理からの
-1 こで注意すべきは、
-2 すると次の法則
-3 質点の投げ上げの
-#7-1 第 13.3 章と同様な方法
-1 qk に依存するのは 2]
-2 また、pk に依存するのは
-#8 13.6 シンプレクティック積分法
-1 まとめると
+SEG / 20220517_123412
+r-7-A1~1.1.4 / 群速度/位相速度 / nagoya-u.ac.jp <http://titan.nusr.nagoya-u.ac.jp/Tabuchi/BL5S1/lib/exe/fetch.php?media=tabuchi:a.pdf>
+
+#1
+1 例として
+2 この図でもわかる様
+	graph-des
+		#1.2~g-1 / f\left(x\right)=\left(\frac{1}{K}\right)\cdot\left(A+w\cdot x\right) https://www.desmos.com/calculator/pqhkbkmnlu
+3 繰り返しになるが、格子振動
+#2 もし、振動している
+1 波として光を考
+2 逆に、真空中の
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
