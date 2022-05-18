@@ -2924,7 +2924,8 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 
 	>> 162_daikei
 	
-		https://ctext.org/dictionary.pl?if=gb&id=82242&remap=gb
+		https://ctext.org/dictionary.pl?if=gb&id=82242&remap=gb		
+		##:20220518_092329
 		
 		https://baike.baidu.com/item/大偻病/8306907
 		http://www.zhong1.org.cn/wp/34369.html
@@ -2935,17 +2936,49 @@ C:\WORKS_2\Downloads\passwords_lib.txt
 			骶髂关节[di3qia4*
 		
 		n: 陷脉为瘻
+		
+
+###2022年5月18日8:59:33
+
+	>> 140-7.5		[
 	
+	https://honkoku.org/app/#/transcription/22D942E12BD65132E5D28D8EE77513EE/3/
+	
+		n: 年貢諸
+	
+	[9:23:08
+	>> 162_daikei
+	
+		-->##:20220518_092329
+	
+		f: 陷脉为瘻
+		
+		陷脉[xian4mai4
+		http://www.a-hospital.com/w/陷脉
+			经脉	:w
+			肌肉腠[cou4理之间	:w
+			瘘疮[lou4chuang1	:w
+			凹陷[ao1xian4	:w
+			俞穴[yu2xue2	:w
+			肉腠[-cou4	:w
+			俞气		:w
+			惊骇[jing1hai4	:w
+			营气		:w
+			肉理
+				http://www.a-hospital.com/w/肉理
+					肌腠[-cou4
+			痈肿[		:w
+				https://baike.baidu.com/item/痈肿/4024497
+					
+			魄汗[po4-
+		
+		n:
+			1. "w" --> search
+			2. read
+		
+		]9:43:07
+
 @@@
-
-
-
-###
-
-
-
-
-
 
 
 ###
@@ -3136,14 +3169,13 @@ set stringof_session_id="156_1.1_kagura_uta"
 
 set stringof_session_id="114_hirata"
 set stringof_session_id="162_daikei"
+set stringof_session_id="162_daikei"
 
 rem ------------------------XXX close : git
 
 C:\WORKS_2\start_a.bat
 
-set stringof_session_id="162_daikei"
-
-164.1_b-1
+set stringof_session_id="140-7.5;162_daikei"
 
 C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && C:\WORKS_2\Utils\commands\push_fm.bat && exit
 
