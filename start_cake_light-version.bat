@@ -1,5 +1,5 @@
 rem ========================
-rem 	created : 2022”N2ŒŽ21“ú8:53:07
+rem 	created : 2022å¹´2æœˆ21æ—¥8:53:07
 rem 	what to do : 
 rem 		xampp
 rem 		log file
