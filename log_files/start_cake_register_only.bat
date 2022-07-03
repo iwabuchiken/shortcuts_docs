@@ -20,7 +20,11 @@ rem s c && f i && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\W
 rem : 2022年6月2日9:36:25
 rem s c && f i && f t && start G:\tmp.20220507_191202 && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
 
-C:\WORKS_2\a.bat && f i && f t && start G:\tmp.20220507_191202 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
+rem : update //2022年6月21日19:13:07
+rem : iphone dir --> omit
+C:\WORKS_2\a.bat && f t && start G:\tmp.20220507_191202 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
+
+rem C:\WORKS_2\a.bat && f i && f t && start G:\tmp.20220507_191202 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
 
 rem s c && f i && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" && pause
 

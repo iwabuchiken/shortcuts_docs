@@ -1,0 +1,107 @@
+###2021年9月19日15:11:35
+
+C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
+C:\WORKS_2\shortcuts_docs\log-session_JVE_68_tp.log
+
+s-183
+
+-----------------------------
+
+//2022年4月21日11:00:09
+// no-tab
+^(\**\d+ )	.$1
+###^(\**\d+ )	.$1
+
+// tab
+(\t+)(\**\d )	$1.$2
+
+// tab/no-tab
+(^|\t*)(\**\d )	.$1
+
+###^(\**\d )	.$1
+###\t+(\**\d )	.$1
+
+
+-----------------------------
+
+r-7-A6~3.1 / リーマンのゼータ関数について / juen.ac.jp <https://www.juen.ac.jp/math/nakagawa/RiemannConj.pdf>
+
+#2 s > 1 に対して，N
+	g-des
+		#2~g-1 https://www.desmos.com/calculator/bjucuylhl5
+.1 したがって，有限積
+#2-1 ζ(s) は級数 (1) によって
+	g-des
+		https://www.desmos.com/calculator/ozdjpkiaky
+.1 実際，部分和を
+#2-1.2 したがって 1]
+ 
+ 
+ 
+ 
+ 
+
+--------------------------- ###2022年6月12日20:12:01
+r-7-A1~1.1.1 / 量子力学 2006 年度講義録 / u-ryukyu.ac.jp <http://www.phys.u-ryukyu.ac.jp/%7Emaeno/qm2006/qm.pdf>
+
+#3-2.2 ゆえに、光子は単位時間
+ 
+ 
+ 
+========================== ###2022年6月16日11:31:35
+r-7-A7~2.1 / 統計物理学　講義ノート / kogakuin.ac.jp <http://www.ns.kogakuin.ac.jp/~ft13389/lecture/statmech/main_statmech.pdf>
+
+
+#2-17.3.1 以上をまとめると、次のような
+ 
+ 
+ 
+
+========================== ###2022年6月23日11:42:48
+r-7-A9~1.1 / 光学　講義ノート　黒田和男 
+
+  / u-tokyo.ac.jp http://qopt.iis.u-tokyo.ac.jp/optics/ <http://qopt.iis.u-tokyo.ac.jp/optics/>
+	pdf C:\WORKS_2\Downloads\lecture_notes\1waveU_A4.pdf
+#2 4 複素表現
+ 
+ 
+ 
+ 
+========================== ###2022年6月26日16:30:29
+ 
+ 
+ 
+ 
+ 
+========================== ###2022年6月29日9:21:26
+r-7-A11~1.1.1 / 「物理学基礎論 B (電磁気学)」講義ノート / kyoto-u.ac.jp <http://www-cr.scphys.kyoto-u.ac.jp/member/tsuru/data/lecture/KisoronB_v2018_0.pdf>
+
+
+#2-4 2.3 電気力線と
+ 
+ 
+ 
+ 
+ 
+ 
+========================== ###2022年6月30日10:02:54
+r-7-A12~1.1.1 / 熱力学入門 講義ノート 
+
+  / kyushu-u.ac.jp <http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/LectureNotes/Note-ThermoDynamics.pdf>
+
+#5-3 4.2 エントロピーは温度の増 2]
+.1 最初の過程 AB は
+.2 熱 Q1 も Q2 も共に
+#5-4 4.3 不可逆断熱過
+.1 証明： 仮
+.2 この状態 B から、
+.3 等温過程で系が吸収 2]
+.4 すると、循環過程
+#5-4.5 最初の状態 A から B への断
+ 
+ 
+ 
+ 
+ 
+ 
+ 

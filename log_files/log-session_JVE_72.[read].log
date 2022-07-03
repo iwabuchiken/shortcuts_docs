@@ -1549,21 +1549,142 @@
 	
 ###2022年6月13日13:10:04
 
-@@@	
+	
 	https://opinion.huanqiu.com/article/48Oo4f4mVFV
 
+###2022年6月22日8:51:08
+	(ko
+	http://weekly.khan.co.kr/khnm.html?mode=view&code=115&art_id=202204181332331
+	
+	http://weekly.khan.co.kr/khnm.html?mode=view&code=115&art_id=202206101406061
+		
+	n:	이는 단지 유행어의 문제가
+
+	n : 문제는 언어의 사용법	]2022年6月26日21:41:18
+	
+	n: 앞서 분석했듯이	]2022年6月27日14:00:24
+	
+	n: comp.	]2022年6月27日21:49:08
+	
+
+	[9:14:51
+	(ru
+	https://russian.rt.com/opinion/1017064-mirzayan-litva-kaliningrad-blokada-otvet
+		
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622_091517_562311.txt
+	
+move C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622_091517_562311.txt C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\storage_russian
+	
+	n: Формально, конечно
+
+	[13:59:09
+	
+		
+	https://farsi.khamenei.ir/speech-content?id=50494
+		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622_135905_616674.txt
+		
+		n: عشایر عزیز و 
+	
+	
+	[21:24:16
+	https://sputniknews.cn/20220618/1042005911.html
+	普京总统：俄罗斯并不反对乌克兰加入欧盟
+	
+	
+	https://pl.sputniknews.com/20220608/utopic-rosjan-w-narkotykach-jak-ukraina-rozpetala-wojne-hybrydowa-17947400.html
+	„Utopić Rosjan w narkotykach”: 
+	
+	n: – Co to ma z tym
+	
+
+
+###2022年6月23日21:42:32
+	
+	(po
+	https://pl.sputniknews.com/20220616/kto-kogo-anektuje-17985004.html
+	
+		n: — Czy Polska wróci do Lwowa
+	
+		n: — Czyli, jeśli tak	]2022年6月26日21:27:40
+		
+		Ja stawiam tezę, że 	:n	]2022年6月27日21:43:22
+		
+		n: COMP		]21:31:36
+
+	[21:44:43
+	(cn
+	*https://opinion.huanqiu.com/article/48YeM9e4PNp
+	社评：G7峰会应该认真读一读《北京宣言》
+	
+		n: 不无巧合的是，在金砖峰	]21:50:00
+		
+		//2022年6月27日14:01:36
+		n: 的确，世界又到了		]2022年6月27日14:08:58
+		
+		n: comp		]2022年6月27日21:33:08
+	
+	(cn		[2022年6月27日21:34:06
+	https://tech.huanqiu.com/article/48adBaFeXBB
+	世界首个原子级量子集成电路推出
+	
+		n: COMP		]2022年6月28日21:44:50
+	
+	
+	(ko
+	http://weekly.khan.co.kr/khnm.html?mode=view&code=115&art_id=202203041454411
+	[박이대승의 소수관점](10)그 어떤 투표도 조롱의 대상 될 수 없다
+	
+		http://search.khan.co.kr/search.html?stb=weekly&q=%B9%DA%C0%CC%B4%EB%BD%C2%C0%C7+%BC%D2%BC%F6%B0%FC%C1%A1&x=14&y=9
+		
+		n: 선거의 원칙		]2022年6月28日14:38:11
+	
+		[2022年6月29日21:44:03
+		
+		n: 둘째, 모든 투표는 그	]21:52:55
+
+
+###2022年6月28日14:23:53
+
+	(po
+	https://pl.sputniknews.com/20220512/barbarzyncy-w-warszawie-moralny-kac-za-wlasny-kraj-17862070.html
+	Barbarzyńcy w Warszawie. „Moralny kac za własny kraj”
+	
+		[2022年6月29日22:03:59
+		
+		n: Co się właściwie		]22:04:04
+	
+	
+	
+	[2022年6月28日21:49:16
+	
+	https://www.baidu.com/s?wd=site%3Ahuanqiu.com%20量子&pn=10&oq=site%3Ahuanqiu.com%20量子&ie=utf-8&rsv_pq=a5f99cd8000414c1&rsv_t=5df7i%2BPkqQuxF0fVrCOBPUAv035Vx66AMZKq3frpWEmHa1PXZR19HlPWx8E
+	
+	https://3w.huanqiu.com/a/54dc9a/40NvWlBXtK2?p=1&agt=10
+	量子科技 中国“快进”
+	
+
+
+@@@
 
 
 ###
 
-	
+
 
 
 
 
 ###
 
-	
+
+
+
+
+
+
+###
+
+
 
 
 
@@ -1844,7 +1965,11 @@ sakura "C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
 
 
 
+###2022年6月22日14:07:21
+=================== move : sentences files
+set fpath_text=C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622_135905_616674.txt
 
+move %fpath_text% C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\storage_all
 
 ###2021年7月3日16:45:23
 =================== open : console
