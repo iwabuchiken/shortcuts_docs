@@ -10,7 +10,7 @@ REM =================================
 @echo off
 
 echo 76-physics.bat
-echo C:\WORKS_2\shortcuts_docs\start_log_JVE_76-physics.bat ==^> starting...
+echo C:\WORKS_2\shortcuts_docs\log_files\start_log_JVE_76-physics.bat ==^> starting...
 
 rem goto end
 
@@ -24,7 +24,7 @@ rem set command_path_sakura=C:\WORKS_2\Programs\sakura\sakura.exe
 
 REM =================================
 set fname_batch="start_log_JVE_76-physics.bat"
-set dpath_batch=C:\WORKS_2\shortcuts_docs
+set dpath_batch=C:\WORKS_2\shortcuts_docs\log_files
 
 set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 
@@ -160,7 +160,7 @@ REM 	close apps
 REM 	2021年2月11日14:25:50
 REM =================================
 rem ###
-start C:\WORKS_2\shortcuts_docs\end_log_JVE_64.[90_oritaku].bat
+start C:\WORKS_2\shortcuts_docs\log_files\end_log_JVE_64.[90_oritaku].bat
 
 set listof_apps=mspaint.exe sakura.exe rundll32.exe javaw.exe
 for %i in (%listof_apps%) do taskkill /f /im %i
@@ -176,6 +176,73 @@ REM =================================
 :end
 
 rem pause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

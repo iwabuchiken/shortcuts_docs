@@ -78,12 +78,27 @@ REM =================================
 REM 	update batch file
 REM 	2021”N2ŒŽ17“ú12:53:44
 REM =================================
-echo.>> C:\WORKS_2\shortcuts_docs\start_diary.bat
+echo.>> C:\WORKS_2\shortcuts_docs\log_files\start_diary.bat
+rem echo.>> C:\WORKS_2\shortcuts_docs\start_diary.bat
 
-echo.>> C:\WORKS_2\shortcuts_docs\start_diary_web-pages.bat
+echo.>> C:\WORKS_2\shortcuts_docs\log_files\start_diary_web-pages.bat
 
 
 exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

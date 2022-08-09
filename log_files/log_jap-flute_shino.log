@@ -10,14 +10,17 @@
 			t.m.
 			]8:26:59
 		
-		*G:\videos\15_flute\2021-10-20_18-23-57_000.mp4
+		*G:\videos\15_flute\2021\2021-10-20_18-23-57_000.mp4
 			t.m.
 			Re+			]8:29:24
+			##20220804_105323
 			
-		*G:\videos\15_flute\2021-10-20_18-59-32_000.mp4
+		*G:\videos\15_flute\2021\2021-10-20_18-59-32_000.mp4
 			大甲。t.m.
 			Re+
 			]8:34:56
+			
+			##20220804_105710
 			
 		G:\videos\15_flute\2021-10-25_18-58-52_000.mp4
 			t.m.
@@ -713,11 +716,161 @@
 		~2022-01-12_18-12-29_000.mp4	]2022年7月2日11:25:03
 
 
+
+
+
+###2022年7月26日10:24:14
+
+	follow:
+
+		2022-07-22_18-59-22_000.mp4
+		2022-07-22_19-01-15_000.mp4
+		2022-07-23_16-29-03_000.mp4
+		2022-07-23_18-30-12_000.mp4
+		2022-07-25_18-25-46_000.mp4
+		2022-07-25_18-32-29_000.mp4
+		2022-07-25_18-39-47_000.mp4
+
+
+
+
+###2022年8月4日10:50:31
+
+	>> re-view
+	
+	
+	
+	n:
+		re-play
+		-->##20220804_105323
+		-->##20220804_105710
+
+	[2022年8月4日18:43:39
+	
+		2022-07-31 s-2 p-2 ①
+			R=?#
+	
+	n:
+		this ==> znowu
+	
+	]18:50:55
+	
+
+
+
+###2022年8月6日18:07:30
+
+
+###2022年8月8日18:45:58
+	
+	review
+	2202-08-07:p1
+		]18:48:07
+	
+	rev
+	08-06:p1	[18:48:38
+		
+		new : ③
+		]18:57:01
+	
+	rev
+	s-2:07-31:p-2	[19:00:19
+	
+		n+
+		R=+
+
+	[22:16:05
+	
+		C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022_07_31_s-2_p-2.mscz		##20220809_102525
+		
+			write
+				msr : 1-4
+		
+		n:
+			page-1 : ② --> write down
+			
+			
+			
+		]22:24:13
+		
+			[2022年8月9日10:25:54
+			add : tempo : t4=120
+			add : measures : section : A1-2
+			add : section : A2-1;A2-2
+				２重奏のためのセクション
+			mixer
+				1. flute-1
+					vol : 上から、２本目
+				2. flute-2
+					vol : 上から、４本目
+			add : symbol : 強弱
+				A1		:to
+				mf		:what
+			
+			n:
+				ANY
+				]10:39:05	
+			
 @@@
+	n:
+		rev:prac:2022-08-06_18-31-19_000.mp4	]2022年8月9日9:47:43
+		
+###2022年8月9日10:25:08
+
+	(ms
+	##20220809_102525
+		
+		
+
+
 
 
 ###
 
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###		---last:2
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+======================== list
+p-1
+p-2
+p-3
+p-4
+p-5
+p-6
+p-7
+p-8
+p-8.1
 
 
 
@@ -844,16 +997,22 @@ rem set stringof_session_id="practice : shino"
 
 set stringof_session_id="shino" 
 
-set stringof_session_id="shino; shaku" 
+set stringof_session_id="shino: compose : 2022_07_31_s-2_p-2.mscz : time=20220809_104005" 
 
 set stringof_project_id="JVE_46_jp-flute : %stringof_session_id:"=%" 
 
-C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+C:\WORKS_2\shortcuts_docs\log_files\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+//C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
 
 
 運指
 https://wagakki-hiroba.com/blowing-how-shinobue/
+
+//2022年8月6日19:07:48
+https://iphone-master-user.com/7086.html#i
+	大甲音の運指表
 
 ## memo : fingering : alt : 2022年4月9日18:03:02 ]]
 http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=shino+finger+alt&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
@@ -875,7 +1034,8 @@ https://www.onlinepianist.com/virtual-piano
 ====================== closing
 
 ## close : apps : (before)2022年4月8日15:41:51 ]]
-C:\WORKS_2\shortcuts_docs\end_log_shino.bat
+C:\WORKS_2\shortcuts_docs\log_files\end_log_shino.bat
+//C:\WORKS_2\shortcuts_docs\end_log_shino.bat
 
 
 "C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat"
