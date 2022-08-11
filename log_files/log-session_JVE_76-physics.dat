@@ -109,14 +109,6 @@ r-7-B2~1.1.1 / 数値計算のための解析力学
 
   / kobe-u.ac.jp / kageyama <https://www.research.kobe-u.ac.jp/csi-viz/members/kageyama/lectures/H25_FY2013_latter/Analytical_Mechanics/note_140129a.pdf>
 
-#1
-#1-1 1.1 まずは簡単な力学
-	https://duckduckgo.com/?q=微分方程式+２階+解法&ia=web
-		https://k-san.link/canonical-2nd-diffeq/
-#1-1.1~ 1.1.2 例 2
-#1-1.1.1 これを解けと言われても、今
-	related
-		https://ja.wikipedia.org/wiki/ヴァイエルシュトラスの楕円函数
 #1-1.2~ 1.1.3 例 3
 
  
@@ -132,29 +124,30 @@ r-7-B2~1.1.2 / 解 析 力 学： 微小振動論
 
    / kwansei.ac.jp <https://sci-tech.ksc.kwansei.ac.jp/~okamura/anonymous/lecture/AnalDyn/note/perturbation.pdf>
 
-#1
-#1-1 2 摂動論の枠組み
-.1 次に, どのようにして
-.2 この推論を実行するには, 推
-.3 この解が真の解をよく近似してい
-.4 Taylor 展開すると
-	https://duckduckgo.com/?q=テイラー展開+近似&ia=web
-		docs
-			1/(1-x) のテイラー展開と近似式 / manabitimes.jp https://manabitimes.jp/math/1399
-			テーラー展開とその利用方法 / takun-physics https://takun-physics.net/4355/
-	#1-1.4~c-1
-		https://www.symbolab.com/solver/step-by-step/\frac{d}{dx}\left(\frac{x}{\left(1+x^{2}\right)^{\left(\frac{1}{2}\right)}}\right)?or=input
-	https://duckduckgo.com/?q=テイラー展開+講義ノート&ia=web
-		docs
-			講義ノート「微分積分学」 / kyoto-u.ac.jp https://www.kurims.kyoto-u.ac.jp/~ishimoto/files/note_calculus.pdf
-				"テイラー展開と呼ぶ．"
-				"ランダウの記号"
-				<= want-to-read
-			http://www-hep.phys.s.u-tokyo.ac.jp/~hama/lectures/lecture_files/PhysMath1_2020.pdf
-				<= want-to-read
-				"1.2.3 (実変数関数の) テイラー展開" 2]
-				"複素関数とその微分、正則関数" 2]
 #2 3 微小振動
+.1 変位が常に微小に留まっ
+#2-1 3.1 1 自由度系の例
+.1 時刻 t における質点の位
+.2 釣合いの位置（静止解）が存在する
+.3 逆に, 静止解は
+#2-1.4~ さて, いま関心があるの
+.1 直感的には, 「静止解から
+.2 静止解からの変位を
+#2-1.5~ 運動方程式 (3.1) を, まず 
+.1 この方程式は ² の恒等式なので
+	related
+		#2-1.5.1~d-1 / 定数係数2階線形同次微分方程式の一般解 / physnotes.jp https://physnotes.jp/more/phys-eq-coll/diffeq/#2
+		微分方程式の解法(同次形・線形微分方程式) / manabitimes https://manabitimes.jp/math/2109
+			"単振動の式は斉次線形微分方程式"
+.2 すると, 続いて Eq.(3.8) の右辺を
+	s: 強制振動問題 https://duckduckgo.com/?q=強制振動問題&ia=web
+		docs
+			第 6 章 強制振動 / kyushu-u.ac.jp http://asem.kyushu-u.ac.jp/qq/qq02/kikanbuturi/chap6.pdf
+				4p
+			強制振動の微分方程式 / yomoriki.com https://yomoriki.com/mechanics/13241/
+			振動問題の考え方と解析法 / aitech.ac.jp https://aitech.ac.jp/~narita/tfemvibration.pdf
+				14p
+#2-2 3.1.1 線形摂動
  
  
  
@@ -168,11 +161,52 @@ r-7-B2~1.1.2 / 解 析 力 学： 微小振動論
 ========================== ###2022年8月8日16:47:22
 r-7-A12~1.1.2 / 熱力学講義ノート / u-tokyo.ac.jp <http://cat.phys.s.u-tokyo.ac.jp/lecture/TD_22/Thermodynamics_0520.pdf>
 
-#1-2 1.2 ミクロ系とマクロ
-.1 熱力学に現れるいろいろな関
-.2 近年、系に含まれる粒子数が 1 に比
-.3 このような微小系も
 #1-3 1.3 力学や電磁気学と
+	g-des
+		#1-3~g-1 https://www.desmos.com/calculator/008r9u1qlg
+.1 とはいえ、所詮確率的なので
+#2 熱力学第 0 法則
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+========================== ###2022年8月10日10:51:45
+r-7-B3~1.1.1 / 固体物理学 I 　講義ノート 
+
+  || 第 2 章 伝導電子の古典論 / hiroshima-u.ac.jp <https://home.hiroshima-u.ac.jp/ino/lecture/SSP1note2_ino2017.pdf>
+
+doc C:\WORKS_2\Downloads\lecture_notes\SSP1note2_ino2017.pdf
+
+#1
+.1 しかし、なぜ線型性が成
+#1-1 抵抗率と伝導率
+ 
+ 
+ 
+ 
+ 
+ 
+========================== ###2022年8月11日12:15:44
+r-7-A1~1.1.5 / 量子力学第三 / titech.ac.jp <http://www.stat.phys.titech.ac.jp/~ktaka/files/qm3.pdf>
+
+read-1-specific
+    "1.2.2 角運動量とスピン"
+    to
+        ことを覚えておくと便利である。
+
+doc C:\WORKS_2\Downloads\lecture_notes\qm3.pdf
+
+#1
+	words
+		一般化角運動量演算子
+		一般化角運動量
+==> ENOUGH : for now
+	20220811_150807
+ 
  
  
  
@@ -187,3 +221,43 @@ r-7-A12~1.1.2 / 熱力学講義ノート / u-tokyo.ac.jp <http://cat.phys.s.u-to
  
  
 
+========================== ###2022年8月11日11:38:37
+r-7-A1~1.1.1 / 量子力学 2006 年度講義録
+
+  / u-ryukyu.ac.jp <http://www.phys.u-ryukyu.ac.jp/%7Emaeno/qm2006/qm.pdf>
+from
+    ここで統計力学の公式を使って
+to
+    式になっていることがわかる。
+
+#1 ここで統計力学の公式を使って
+.1 上の式から n に関連する部
+.2 これを使うと、単位体積あた
+.3 あと計算すべきは規格化
+ 
+ 
+ 
+========================== ###2022年8月11日11:38:37
+r-7-A1~1.1.7 / 量子力学 I 講義ノート
+
+  / nagoya-u <https://ocw.ilas.nagoya-u.ac.jp/files/487/qm1-17v3.pdf>
+
+#1
+.1 入射する銀原子の磁気双
+#1-1 1.2 連続した SG 実験
+#1-2 1.3 SG 実験と光の偏極（偏光
+.1 “↕” 偏極した光
+.2 SGzz 類似実験 1]
+.3 SGzx 類似実験
+.4 SGzxz 類似実験
+#1-3 1.4 電磁気学での偏
+.1 光（電磁波）の作る電場の方向と
+#1-3.2 前節の偏光板実験
+ 
+ 
+ 
+ 
+ 
+
+	
+	

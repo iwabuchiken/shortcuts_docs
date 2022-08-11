@@ -787,7 +787,7 @@
 				msr : 1-4
 		
 		n:
-			page-1 : ② --> write down
+			page-1 : ② --> write down		##20220811_171551
 			
 			
 			
@@ -806,21 +806,103 @@
 			add : symbol : 強弱
 				A1		:to
 				mf		:what
+			export
+				"C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022_07_31_s-2_p-2.(20220809_104230).mp3"
+			*git
 			
 			n:
 				ANY
 				]10:39:05	
 			
-@@@
+			[2022年8月11日17:07:28	##20220811_170732
+			
+				page-1 : ② --> write down (-->##20220811_171551)
+				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54430
+					
+					*A3-1
+					A3a-1,A3a-2	: ２重奏のためのセクション
+					
+					
+				
+
 	n:
-		rev:prac:2022-08-06_18-31-19_000.mp4	]2022年8月9日9:47:43
+		rev:prac: G:\videos\15_flute\2022-08-06_18-31-19_000.mp4	]2022年8月9日9:47:43		##20220809_180248
 		
 ###2022年8月9日10:25:08
 
 	(ms
 	##20220809_102525
 		
+	[2022年8月9日18:03:08
+	
+		-->##20220809_180248
+
+	n:
+		1. -->##20220809_180248
+		2. ANY
+		3. G:\videos\15_flute\2022\2022_07-09\2022-07-25_18-39-47_000.mp4		##20220810_181843
+			review		]2022年8月10日1:06:38
+
+
+###2022年8月10日18:04:58
+
+	rev
+		*-->##20220810_181843
+	new melody
+		R=1*
+	*rev
+		-->##20220809_102525	[18:49:33
+	
+	n:
+		1. ms : write-out
+			this time, page-1,-2
+	]19:02:53
 		
+
+
+
+
+###2022年8月11日17:38:01
+
+	-->##20220811_170732
+	
+	[2022年8月11日17:38:24	write-out
+	
+		G:\tmp.20220507_191202\2022-08-09_18-30-30_000.mp4
+		
+		muse : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-09_18-30-30_000.mp4.mscz
+				##20220811_174612
+			mp4
+			0:10
+				ms : msr : 1-3
+				~0:19
+			
+			n: continue
+	
+	]17:46:03
+		
+		
+
+
+@@@
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
 
 
 
@@ -948,6 +1030,12 @@ C:\WORKS_2\shortcuts_docs\log_jap-flute_bamboo.log
 
 C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\8_kb\start_keyboard.bat
 
+
+###2022年8月10日18:28:20
+====================== file : batch
+C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.bat
+
+
 ###2022年2月7日18:07:05
 ====================== steps : sound file in.
 1. rec
@@ -990,16 +1078,16 @@ set stringof_session_id="practice"
 set stringof_session_id="practice : shino,shaku" 
 set stringof_project_id="JVE_46_jp-flute: shino,shaku : %stringof_session_id:"=%" 
 
+set stringof_session_id="shino: compose : 2022_07_31_s-2_p-2.mscz : time=20220809_104005" 
+set stringof_session_id="shino"
+rem set stringof_session_id="practice : shino"
+
 -------------------------------
 C:\WORKS_2\start_a.bat
 
-rem set stringof_session_id="practice : shino" 
+set stringof_session_id="shino: compose"
 
-set stringof_session_id="shino" 
-
-set stringof_session_id="shino: compose : 2022_07_31_s-2_p-2.mscz : time=20220809_104005" 
-
-set stringof_project_id="JVE_46_jp-flute : %stringof_session_id:"=%" 
+set stringof_project_id="JVE_46_jp-flute : %stringof_session_id:"=%"
 
 C:\WORKS_2\shortcuts_docs\log_files\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
