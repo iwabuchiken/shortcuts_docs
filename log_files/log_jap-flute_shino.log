@@ -822,8 +822,25 @@
 					*A3-1
 					A3a-1,A3a-2	: ２重奏のためのセクション
 					
-					
 				
+			[2022年8月17日17:55:12
+			
+				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54539
+				
+				write-down
+				
+				new : A4-1
+					memo : page-1
+					copy : A1,A1-2
+					]18:00:53
+				
+				new : A5-1
+					memo : page-1,<2>
+					]18:06:17
+				
+				n:
+					page-2,page-3 --> w.d.(write-down)
+				]2022年8月17日18:07:21	/##20220817_180741
 
 	n:
 		rev:prac: G:\videos\15_flute\2022-08-06_18-31-19_000.mp4	]2022年8月9日9:47:43		##20220809_180248
@@ -878,40 +895,68 @@
 				~0:19
 			
 			n: continue
+			
+			[2022年8月12日17:54:54
+			0:20:326	audacity
+			2022-08-09_18-30-30_000.mp4.mp3
+				*==> to mob
+					C:\WORKS_2\Downloads\4k\storage_4k\composition_20210902_115601
+					
+				]18:03:46
 	
 	]17:46:03
 		
+	[2022年8月11日18:01:36
+	
+	LOG
+
+
+###2022年8月12日17:54:47
+
+	-->##20220811_174612
+
+	
+	n:
+		1. write-out : 2022-08-04の、どれか	]2022年8月13日1:04:39
+
+
+###2022年8月14日18:06:55
+
+	
+	n:
+		1. メモしたメロディー。書き込み。
+			2022_07_31_s-2_p-2.mscz
+		
+		2. write	]2022年8月15日1:21:11
+			2022-07-22,length=1:00
+			 2022-07-22_19-01-15_000.mp4
+			C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\2022-08-14_19-01-33_000.mp4.mp3		]2022年8月15日11:38:00
 		
 
 
+
+
+###2022年8月15日18:49:25
+
+	rev
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54539
+		
+		*page-1
+		*page-2
+		
+		n:
+			ANY
+			page-3
+	
+	]19:07:31
+
+
+###2022年8月17日17:53:29
+
+	-->##20220809_102525
+		
+		up to : -->/##20220817_180741
 @@@
-
-###
-
-
-
-
-
-
-###
-
-
-
-
-
-
-###
-
-
-
-
-
-
-###
-
-
-
-
 
 
 ###
@@ -1035,6 +1080,18 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\8_kb\start_keyboard.bat
 ====================== file : batch
 C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.bat
 
+//2022年8月16日18:09:06
+C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.open-log-files.bat
+
+
+###2022年8月15日11:32:43
+====================== folders
+//13_compositions
+C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions
+
+//audio_files
+C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
+
 
 ###2022年2月7日18:07:05
 ====================== steps : sound file in.
@@ -1047,7 +1104,7 @@ C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.bat
 	crop
 	
 ###2022年2月9日17:56:59
-==================== steps : start session aaa
+==================== steps : start session
 	
 	1. log
 		1. locate log starting point
