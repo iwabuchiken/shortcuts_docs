@@ -841,6 +841,22 @@
 				n:
 					page-2,page-3 --> w.d.(write-down)
 				]2022年8月17日18:07:21	/##20220817_180741
+			[2022年8月18日18:09:39
+			
+				w.d.
+				page-2
+				new : A5-1
+					memo : page-2
+				new : A6.v1-1 / A5-1
+					A6.v1-1 / A6-1
+				
+				n:
+					page-3 --> w.d.
+				]2022年8月18日18:17:52	/##20220818_181757
+				
+			[2022年8月19日18:00:24
+				--> stop.	]18:03:19
+					--> back to daylog section
 
 	n:
 		rev:prac: G:\videos\15_flute\2022-08-06_18-31-19_000.mp4	]2022年8月9日9:47:43		##20220809_180248
@@ -956,7 +972,100 @@
 	-->##20220809_102525
 		
 		up to : -->/##20220817_180741
+
+###2022年8月18日18:08:46
+
+	-->##20220809_102525
+	
+		up to : -->/##20220818_181757
+
+###2022年8月19日17:59:31
+
+	1.
+	-->##20220809_102525
+	
+	2.
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54430
+			
+			page-3
+			
+			new score
+				C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022_08_14_s-1_p-3.mscz	##20220820_145117
+			
+			[2022年8月19日18:09:16
+			
+				new msr : A1
+					len : msr : 6
+				
+				n:
+					1. accomp --> add : any melody
+					2. ANY
+				
+				]18:09:55	/##20220819_181003
+				
+			[2022年8月20日15:02:26
+			
+				new msr : A2
+					source : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54620
+						==> page-3
+					
+					msr from : 7
+				
+				new msr : A2-0
+					source : A1, melody, 2 msrs
+				
+				new msr : ~A2-3
+					msr no. : ~14
+				
+				n:
+					1. w.o. : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54620
+						==> Page-1,2
+				
+				]15:19:42	/##20220820_152433
+	
+
+
+
+###2022年8月20日14:51:33
+
+	-->##20220820_145117
+		
+		from : -->/##20220819_181003
+		
+		up to : -->/##20220820_152433
+	
+	[17:53:39
+	-->##20220820_145117
+		
+		from: -->/##20220820_152433
+	
+	[new score
+	
+		C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022_08_14_s-1_p-3.mscz		memo##20220820_180905
+			page-2
+			##20220820_175604
+			
+			[new file
+				C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-19_19-02-23_000.jpg.mscz
+				
+			new msr : A1-1,-2
+				len : msr : 8
+				
+				n:
+					1. play impro, new melodies
+					2. -->memo##20220820_180905 : page-1, page-2
+					. ANY
+				
+				]2022年8月20日18:09:45	/##20220820_180947
+
 @@@
+
+
+###
+
+
+
+
 
 
 ###
@@ -1077,8 +1186,11 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\8_kb\start_keyboard.bat
 
 
 ###2022年8月10日18:28:20
-====================== file : batch
+====================== file : batch,bat:
 C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.bat
+
+//sakura
+sakura C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.bat
 
 //2022年8月16日18:09:06
 C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.open-log-files.bat
@@ -1150,6 +1262,11 @@ C:\WORKS_2\shortcuts_docs\log_files\end_log_JVE_ALL.[ai].git.bat %stringof_proje
 
 //C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
+
+------------------------------- git : WS_Others.Art
+//2022年8月20日14:49:18
+set stringof_commit_message="JVE_46_jp-flute : shino: compose"
+C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message%
 
 
 運指
