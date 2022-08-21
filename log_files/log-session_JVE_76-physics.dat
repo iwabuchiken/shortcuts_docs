@@ -161,20 +161,17 @@ r-7-A1~1.1.9 / 量子論入門 講義ノート
 
   / kyushu-u.ac.jp <http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_QM/Note-QM-intro.pdf>
 
-#1-6.1~ 1.6.1 神はサイコロ
-1 このような電子の
-2 このような結論は、世
-#1-7.0~  1.7 ハイゼンベルグの
-#1-7.1~ 1.7.1 不確定性関係とド
-1 いま、確率振幅を表す波の振幅
-2 一方、ドブロイの関係
-#1-7.2~ 1.7.2 2 重スリット実
-1 一方、電子がどちらのスリット
-	#P-1 波長を２つのスリットの間
-2 干渉パタンが見えると言うことは、
-3 まとめると、電子が
-	<= not-understood
 #2.0 第2章 量子力学の
+#2-1.1~ 2.1.1 古典的波動方
+#2-1.1.1 音波や電磁波の場合、
+	https://duckduckgo.com/?q=偏微分方程式+解き方&ia=web
+		docs
+			http://hooktail.sub.jp/mathInPhys/partial/
+				<= ok
+		
+ 
+ 
+ 
  
  
  

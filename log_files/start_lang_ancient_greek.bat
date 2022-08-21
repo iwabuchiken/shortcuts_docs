@@ -18,6 +18,23 @@ REM 	2022”N2ŒŽ17“ú10:03:45
 REM =================================
 
 
+pushd C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application
+
+set url_1=https://biblehub.com/text/matthew/28-18.htm
+set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
+
+set list_of_urls=%url_1% %url_2%
+
+set fname_browser_executable="browser.exe"
+
+echo %fname_browser_executable:"=%
+
+rem %fname_browser_executable:"=% https://biblescripture.net/Hebrew.html
+
+%fname_browser_executable:"=% %list_of_urls%
+
+
+
 rem start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\storage_9_prog_lang\start_web-pages_hebrew.bat
 
 rem sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\37_miscs\9_prog_lang\storage_9_prog_lang\start_web-pages_hebrew.bat
