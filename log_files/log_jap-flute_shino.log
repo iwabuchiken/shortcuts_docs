@@ -1147,22 +1147,38 @@
 				ANY
 			]2022年8月23日18:15:48	/##20220823_181600
 
+
+
+
+###2022年8月24日15:48:11
+	
+	[review
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54620
+	
+		
+	
+	[new file
+		
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54734	page-1~
+		muse : 2022-08-23_19-07-42_000.jpg.page-1,-2,-3
+			
+			*A1-1
+			*A1-2
+			A2-1	[16:07:19
+			*B1-1 : p-3 : sabi-1	]16:13:38
+			
+			n:
+				1. COMP
+				2. other melody : page-4~
+			
+		]2022年8月24日16:17:06
+
+###
+
+
+
+
 @@@
-
-
-###
-
-
-
-
-
-
-###
-
-
-
-
-
 
 ###
 
@@ -1311,6 +1327,13 @@ sakura C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.bat
 
 //2022年8月16日18:09:06
 C:\WORKS_2\shortcuts_docs\log_files\start_music-composition_v2.open-log-files.bat
+
+//2022年8月24日15:42:28
+pushd C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application
+
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=shinobue&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+
+browser.exe %url_1%
 
 
 ###2022年8月15日11:32:43
