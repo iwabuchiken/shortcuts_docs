@@ -1,0 +1,33 @@
+###2021年9月19日15:11:35
+
+//C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
+C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_76-physics.log
+
+C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log
+
+-----------------------------
+//2022年4月21日11:00:09
+// no-tab
+^(\**\d+ )	.$1
+###^(\**\d+ )	.$1
+
+// tab
+(\t+)(\**\d )	$1.$2
+
+// tab/no-tab
+(^|\t*)(\**\d )	.$1
+
+###^(\**\d )	.$1
+###\t+(\**\d )	.$1
+
+
+-----------------------------
+
+ 
+========================== ###2022年8月24日13:59:48
+
+
+
+
+
+

@@ -1083,7 +1083,7 @@
 		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54702
 			page-1,2
 			
-			file : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-19_19-02-23_000.jpg.page-1,2.mscz
+			file : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-19_19-02-23_000.jpg.page-1,2.mscz	##20220822_181004
 			*msr : n : A1-1 / ２連-頭
 			*msr : n : A1-1 / ２連-尾
 			*msr : n : B1-1 / ２連-頭
@@ -1107,6 +1107,15 @@
 			2. これまでに書いたメモ、wo してもいい
 			3. ANY
 		]2022年8月21日18:13:08
+		
+		[2022年8月22日18:10:37
+		
+			*new msr : B3
+				source : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54712	page-2
+				
+			n: ANY
+			
+			]2022年8月22日18:13:32
 	
 	n:
 		1. 作ったmuse ファイルたち。dodatki を、即興作成、しよう。
@@ -1116,7 +1125,65 @@
 	
 		-->##20220821_180031/
 	
+
+
+###2022年8月22日18:10:21
+
+	-->##20220822_181004
+
+###2022年8月23日18:04:57
+
+	[new file
+	
+		C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-21_19-02-41_000.jpg.page-1.mscz		##20220823_181534
+		
+			source : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54712
+			
+			write
+				*A1-1
+				*A1-2
+			
+			n:
+				ANY
+			]2022年8月23日18:15:48	/##20220823_181600
+
 @@@
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
 
 ###
 
