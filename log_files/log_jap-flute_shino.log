@@ -1173,9 +1173,26 @@
 			
 		]2022年8月24日16:17:06
 
-###
+###2022年8月25日15:09:17
 
-
+	[new file
+	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54745
+	
+		muse : DUP : 2022-08-23_19-07-42_000.jpg.page-1,-2,-3 - コピー.mscz
+			rename : 2022-08-24_19-00-48_000.jpg.page-1,-2.mscz
+			open
+			edit
+				title
+				sub-title
+				delete : msrs
+				delete : notes
+			write
+				*A1-1 : page-1 : mel-1
+				B1-1 : page-2 : mel-1 : 地	[15:26:58
+				C1-1 : page-2 : mel-1 : 鳴き	]15:38:03
+		n:
+			COMP
+	]15:38:24
 
 
 @@@
@@ -1375,7 +1392,15 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
 XXX
 ====================== closing : git
 
+//2022年8月25日15:40:24
+start C:\WORKS_2\shortcuts_docs\end_batch\end_log_jap-flute_shino.log.bat
+
+
 C:\WORKS_2\start_a.bat
+
+
+
+
 
 rem set stringof_session_id="reviewing" 
 set stringof_session_id="play" 
@@ -1392,6 +1417,7 @@ set stringof_session_id="shino"
 rem set stringof_session_id="practice : shino"
 
 -------------------------------
+//##mark:20220825_154200
 C:\WORKS_2\start_a.bat
 
 set stringof_session_id="shino: compose"

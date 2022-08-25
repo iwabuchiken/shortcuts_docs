@@ -24,138 +24,6 @@ C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log
 -----------------------------
 
  
-========================== ###2022年7月16日15:43:48
-r-7-B1~1.1.4 / 電子回路の基礎のキソ 
-
-  / 米田聡 （書籍）
-
-n: 55
- 
-
-
-========================== ###2022年7月28日10:17:11
-r-7-A10~1.2 / 連続体の力学 / 第2回  / u-tokyo.ac.jp <http://www.g-munu.t.u-tokyo.ac.jp/mio/note/dmm/renzokutai-2.pdf>
-
-read-2
-
-#1
-#1-1 1 流体の定義
-.1 もし，せん断応力が存
-#1-2 1.1 流体の密度と圧力
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
-========================== ###2022年7月17日16:28:26
-r-7-A7~2.1 / 統計物理学　講義ノート / kogakuin.ac.jp <http://www.ns.kogakuin.ac.jp/~ft13389/lecture/statmech/main_statmech.pdf>
-http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68%23+r-7-A7~2.1&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
-
-review-1
-
-#4 その他の分布
- 
- 
- 
- 
- 
- 
- 
-
-
-
-========================== ###2022年7月28日8:09:30
-r-7-A11~1.1.1 / 「物理学基礎論 B (電磁気学)」 
-
- 講義ノート / kyoto-u.ac.jp <http://www-cr.scphys.kyoto-u.ac.jp/member/tsuru/data/lecture/KisoronB_v2018_0.pdf>
-
-#2-16.4~ 2.7.4 「山の高さと勾配」との類推 2]
-.1 既に述べた通り、山の高さ
-#2-16.4.2 例題: 点電荷の場合に、静
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-========================== ###2022年7月28日8:09:30
-r-7-A9~1.1 / 光学　講義ノート　黒田和男 / 第１章 光の基本的な性質 
-
-  / u-tokyo.ac.jp http://qopt.iis.u-tokyo.ac.jp/optics/ <http://qopt.iis.u-tokyo.ac.jp/optics/>
-url <http://qopt.iis.u-tokyo.ac.jp/optics/1waveU_A4.pdf>
-
-#5-3.4 光のパワー（単位断面積を単位時間に通過
- 
- 
- 
- 
- 
- 
- 
- 
- 
-========================== ###2022年8月7日11:06:07
-r-7-B2~1.1.1 / 数値計算のための解析力学 
-
-  / kobe-u.ac.jp / kageyama <https://www.research.kobe-u.ac.jp/csi-viz/members/kageyama/lectures/H25_FY2013_latter/Analytical_Mechanics/note_140129a.pdf>
-
-#1-1.2~ 1.1.3 例 3
-
- 
- 
- 
-========================== ###2022年8月8日11:24:18
-s: 固体物理学+講義ノート https://duckduckgo.com/?q=固体物理学+講義ノート&ia=web
-	docs
-		固体化学　第１回　講義ノート / nitech.ac.jp http://www.crl.nitech.ac.jp/~ida/education/kotaikagaku/1.pdf
-		
-========================== ###2022年8月8日11:42:05
-r-7-B2~1.1.2 / 解 析 力 学： 微小振動論 
-
-   / kwansei.ac.jp <https://sci-tech.ksc.kwansei.ac.jp/~okamura/anonymous/lecture/AnalDyn/note/perturbation.pdf>
-
-#2-2 3.1.1 線形摂動
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-========================== ###2022年8月8日16:47:22
-r-7-A12~1.1.2 / 熱力学講義ノート / u-tokyo.ac.jp <http://cat.phys.s.u-tokyo.ac.jp/lecture/TD_22/Thermodynamics_0520.pdf>
-
-
-#2 熱力学第 0 法則
- 
- 
- 
- 
- 
- 
- 
- 
-========================== ###2022年8月10日10:51:45
-
- 
- 
- 
- 
- 
- 
 ========================== ###2022年8月16日15:02:08
 r-7-A1~1.1.9 / 量子論入門 講義ノート 
 
@@ -167,35 +35,23 @@ r-7-A1~1.1.9 / 量子論入門 講義ノート
 .2 ところが、この式
 .3 第１式は直ちに解けて
 #2-2.0~ 2.2 ハミルトニアンと
+#2-2.1~ 2.2.1 ハミルトニアンは線
+#2-2.2~ 2.2.2 ハミルトニアンはエ
+#2-2.3~ 2.2.3 エルミート演算子
+#2-2.4~ 2.2.4 異なる固有値
+	s: ハミルトニアン+エルミート https://duckduckgo.com/?q=ハミルトニアン+エルミート&ia=web
+		量子力学:Diracのブラケット記法、エルミート演算子の性質 / titech.ac.jp http://www.nr.titech.ac.jp/~chiba/pdf/dirackihou.pdf
+	s: ハミルトニアン+エルミート+講義ノート https://duckduckgo.com/?q=ハミルトニアン+エルミート+講義ノート&ia=web
+		量子力学I 講義ノート / nii.ac.jp https://nagoya.repo.nii.ac.jp/record/23614/files/qm1-17v1-public.pdf
+			doc C:\WORKS_2\Downloads\lecture_notes\qm1-17v1-public.pdf
+ 
+ 
  
  
  
  
  
 
-========================== ###2022年8月11日11:38:37
-r-7-A1~1.1.7 / 量子力学 I 講義ノート
-
-  / nagoya-u <https://ocw.ilas.nagoya-u.ac.jp/files/487/qm1-17v3.pdf>
-
-#2-5 2.5 確率の保存と
- 
- 
- 
- 
- 
- 
- 
- 
-========================== ###2022年8月18日9:40:58
-r-7-C1~1.2.1 / 幾何学序論講義ノート 
-
-  / u-ryukyu.ac.jp <http://www.math.u-ryukyu.ac.jp/~tsukuda/lecturenotes/note.pdf>
-
-#1-3 1.2 集合
- 
- 
- 
  
  
  
