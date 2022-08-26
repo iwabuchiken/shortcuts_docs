@@ -1175,7 +1175,7 @@
 
 ###2022年8月25日15:09:17
 
-	[new file
+	*[new file
 	http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54745
 	
 		muse : DUP : 2022-08-23_19-07-42_000.jpg.page-1,-2,-3 - コピー.mscz
@@ -1197,9 +1197,43 @@
 
 @@@
 
-###
+###2022年8月26日14:53:24
 
+	[new file
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54757	page-1
+	
+		muse : DUP : 2022-08-24_19-00-48_000.jpg.page-1,-2.mscz
+			rename : 2022-08-25_19-04-31_000.jpg.page-1.mscz
+			*open
+			edit
+				1. title
+				*2. sub-title
+				*3. delete : msrs
+				*4. delete : notes
+			write
+				*
+			
+			*export		]15:02:17
+				C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-25_19-04-31_000.jpg.page-1.[20220826_150111].pdf
+	
+	[new file
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54757	page-2
+	
+		muse : DUP : 2022-08-25_19-04-31_000.jpg.page-1.mscz
+			*rename : 2022-08-25_19-04-31_000.jpg.page-2.mscz
+			open
+			*edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				4. delete : notes
+			*write
+				
+			
+			export
+				C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\2022-08-25_19-04-31_000.jpg.page-2.[20220826_151252].pdf
 
+		n:
 
 
 
