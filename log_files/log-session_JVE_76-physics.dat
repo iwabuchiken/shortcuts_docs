@@ -29,15 +29,22 @@ r-7-A1~1.1.9 / 量子論入門 講義ノート
 
   / kyushu-u.ac.jp <http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_QM/Note-QM-intro.pdf>
 
-#2-2.4~ 2.2.4 異なる固有値
-.1 すると、エルミート
-#2-2.5~ 2.2.5 ハミルトニアンの固有関
-.1 ハミルトニアンの固有関数の集
-.2 規格直交条件 (2.32) を用いる
-#2-3.0~ 2.3 物理量とその
-#2-3.1~ 2.3.1 波動関数と
 #2-3.2~ 2.3.2 例：運動量
+	unrelated
+		r-7-A1~1.1.8 / 量子力学II講義ノート / u-tokyo.ac.jp <http://cat.phys.s.u-tokyo.ac.jp/lecture/QM2_19/quantum_mechnics_II_0702ver.pdf>
+		s: 2乗可積分 https://duckduckgo.com/?q=2乗可積分&ia=web
+			https://ja.wikipedia.org/wiki/自乗可積分函数
+	https://duckduckgo.com/?q=運動量演算子+固有関数展開&ia=web
+		docs
+			量⼦物理学特論 / kogakuin.ac.jp http://www.ns.kogakuin.ac.jp/~ft13245/lecture/2018/Quantum/Quantum09.pdf
+				section : "微⼩量で展開する"
+			11.4 座標表示と運動量表示 / titech.ac.jp http://www.th.phys.titech.ac.jp/~imamura/lectures/2011-2s-qm1/qm12.pdf
+			量子力学における物理量の確率と期待値 https://www.whyitsso.net/physics/quantum_mechanics/quantum6.html
+				"なぜ∫ψ∗^Aψdxが物理量^Aの期待値を表すのか？"
+			
+#2-3.3~ 2.3.3 例：位置
  
+
  
  
  
