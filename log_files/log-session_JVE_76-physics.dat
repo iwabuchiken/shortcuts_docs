@@ -29,29 +29,16 @@ r-7-A1~1.1.9 / 量子論入門 講義ノート
 
   / kyushu-u.ac.jp <http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_QM/Note-QM-intro.pdf>
 
-#2-1.4~ 2.1.5 波動関
-#2-1.5~ 2.1.6 【付録】変
-.1 ２つの独立変数 x と t の
-.2 ところが、この式
-.3 第１式は直ちに解けて
-#2-2.0~ 2.2 ハミルトニアンと
-#2-2.1~ 2.2.1 ハミルトニアンは線
-#2-2.2~ 2.2.2 ハミルトニアンはエ
-#2-2.3~ 2.2.3 エルミート演算子
 #2-2.4~ 2.2.4 異なる固有値
-	s: ハミルトニアン+エルミート https://duckduckgo.com/?q=ハミルトニアン+エルミート&ia=web
-		量子力学:Diracのブラケット記法、エルミート演算子の性質 / titech.ac.jp http://www.nr.titech.ac.jp/~chiba/pdf/dirackihou.pdf
-	s: ハミルトニアン+エルミート+講義ノート https://duckduckgo.com/?q=ハミルトニアン+エルミート+講義ノート&ia=web
-		量子力学I 講義ノート / nii.ac.jp https://nagoya.repo.nii.ac.jp/record/23614/files/qm1-17v1-public.pdf
-			doc C:\WORKS_2\Downloads\lecture_notes\qm1-17v1-public.pdf
+.1 すると、エルミート
+#2-2.5~ 2.2.5 ハミルトニアンの固有関
+.1 ハミルトニアンの固有関数の集
+.2 規格直交条件 (2.32) を用いる
+#2-3.0~ 2.3 物理量とその
+#2-3.1~ 2.3.1 波動関数と
+#2-3.2~ 2.3.2 例：運動量
  
  
- 
- 
- 
- 
- 
-
  
  
  
