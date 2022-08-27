@@ -1255,14 +1255,40 @@
 		
 		]19:05:19
 		
+
+
+###2022年8月27日11:23:14
+
+	[new file
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54734
+			page-4
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54733
+			page-5
+	
+		muse : 
+			1. DUP : 2022-08-25_19-04-31_000.jpg.page-2.mscz
+			2. rename : 2022-08-23_19-07-42_000.jpg.page-4,-5.mscz
+			*3. open
+			4. edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				*4. delete : notes
+			5. write
+				*A1-1 : page-4 : mel-1	]11:32:38
+				B1-1 : page-1 : sabi-1
+			
+			6. export
+				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-23_19-07-42_000.jpg.page-4,-5.[20220827_113616].pdf
+				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\2022-08-23_19-07-42_000.jpg.page-4,-5.[20220827_113616].mp3
+		
+		n:
+			new file, any
+		
+		]11:40:39
+
+
 @@@
-
-###
-
-
-
-
-
 
 ###
 
@@ -1414,6 +1440,29 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions
 //audio_files
 C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
 
+###2022年2月7日18:07:05
+====================== template : new file
+	[new file
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/XXX	page-X
+	
+		muse : 
+			1. DUP : XXX.mscz
+			2. rename : XXX.mscz
+			3. open
+			4. edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				4. delete : notes
+			5. write
+				
+			
+			6. export
+				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-25_19-04-31_000.jpg.page-2.[20220826_151252].pdf
+				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\XXX
+
+
+
 
 ###2022年2月7日18:07:05
 ====================== steps : sound file in.
@@ -1444,6 +1493,17 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
 ###2021年7月7日10:50:31
 XXX
 ====================== closing : git
+
+------------------------------- git : WS_Others.Art
+//2022年8月20日14:49:18
+
+C:\WORKS_2\start_a.bat
+
+set stringof_commit_message="JVE_46_jp-flute : shino: compose"
+C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message%
+
+
+
 
 //2022年8月25日15:40:24
 start C:\WORKS_2\shortcuts_docs\end_batch\end_log_jap-flute_shino.log.bat
@@ -1481,11 +1541,6 @@ C:\WORKS_2\shortcuts_docs\log_files\end_log_JVE_ALL.[ai].git.bat %stringof_proje
 
 //C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
 
-
-------------------------------- git : WS_Others.Art
-//2022年8月20日14:49:18
-set stringof_commit_message="JVE_46_jp-flute : shino: compose"
-C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message%
 
 
 運指
