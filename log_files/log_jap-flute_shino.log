@@ -1287,15 +1287,15 @@
 		
 		]11:40:39
 		
-		[18:55:12
-		[play
-		*2022-08-23_19-07-42_000.jpg.page-4,-5.mscz
-			n:play+
-		*2022-08-23_19-07-42_000.jpg.page-1,-2,-3.mscz			n: play+
-				--> lets modify, arrange
-		2022-08-25_19-04-31_000.jpg.page-2.mscz
-			n: play+
-				--> if it comes, impro.
+	[18:55:12
+	[play
+	*2022-08-23_19-07-42_000.jpg.page-4,-5.mscz
+		n:play+
+	*2022-08-23_19-07-42_000.jpg.page-1,-2,-3.mscz			n: play+
+			--> lets modify, arrange
+	2022-08-25_19-04-31_000.jpg.page-2.mscz
+		n: play+
+			--> if it comes, impro.
 
 
 ###2022年8月28日11:40:29
@@ -1344,6 +1344,11 @@
 		
 		]12:08:34
 
+	[play
+		2022-08-23_19-07-42_000.jpg.page-4,-5.mscz	(re)
+			--> drop
+		
+		]19:00:27
 
 @@@
 
@@ -1599,6 +1604,9 @@ XXX
 C:\WORKS_2\start_a.bat
 
 set stringof_commit_message="JVE_46_jp-flute : shino: compose"
+
+set stringof_commit_message="JVE_46_jp-flute : shino: play"
+
 pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message% && C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p
 
 //C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message%
