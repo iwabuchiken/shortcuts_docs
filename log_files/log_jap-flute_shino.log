@@ -1296,10 +1296,91 @@
 		2022-08-25_19-04-31_000.jpg.page-2.mscz
 			n: play+
 				--> if it comes, impro.
+
+
+###2022年8月28日11:40:29
+
+	[new file
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54722
+		page-1
+	
+		muse : 
+			1. DUP : 2022-08-23_19-07-42_000.jpg.page-1,-2,-3.mscz
+			2. rename : 2022-08-22_19-00-16_000.jpg.mscz
+			3. open
+			4. edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				4. delete : notes
+			*5. write
+				
+			
+			6. export
+				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-25_19-04-31_000.jpg.page-X.[XXX].pdf
+				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\XXX.[XXX].mp3
+			7. next
+				1. zagrajmy. dodatek nowe melodie gdy przyjdzie.
 		
+		]11:50:47
+	
+	[mscz:dodatek
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54712
+		page-2
+	
+		muse : 
+			1. 2022-08-19_19-02-23_000.jpg.mscz
+				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54620
+			3. open
+			*5. write
+				*B1-1 : msr : 17-24
+				
+			
+			6. export
+				1. pdf : 2022-08-19_19-02-23_000.jpg.[20220828_120534].pdf
+				2. mp3 : 2022-08-19_19-02-23_000.jpg.[20220828_120534].mp3
+			7. next
+				1. ukon`czone : na razie
 		
+		]12:08:34
+
 
 @@@
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
 
 ###
 
@@ -1454,7 +1535,11 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
 ###2022年2月7日18:07:05
 ====================== template : new file
 	[new file
-	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/XXX	page-X
+	
+	[mscz:nowa
+	[mscz:dodatek
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/XXX
+		page-X
 	
 		muse : 
 			1. DUP : XXX.mscz
@@ -1469,8 +1554,11 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
 				
 			
 			6. export
-				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-25_19-04-31_000.jpg.page-2.[20220826_151252].pdf
-				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\XXX
+				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-25_19-04-31_000.jpg.page-X.[XXX].pdf
+				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\XXX.[XXX].mp3
+			7. next
+				1. XXX
+				
 
 
 
