@@ -29,46 +29,12 @@ r-7-A1~1.1.9 / 量子論入門 講義ノート
 
   / kyushu-u.ac.jp <http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_QM/Note-QM-intro.pdf>
 
-#2-3.3~ 2.3.3 例：位置
-	#P-1 古典力学では物理量は
-	 このことから、系の
-1 ディラックのデルタ関数の性
-#2-3.4~ 2.3.4 物理量の非可換
-	s: 物理量+交換関係 https://duckduckgo.com/?q=物理量+交換関係&ia=web
-	s: 物理量+可換性 https://duckduckgo.com/?q=物理量+可換性&ia=web
-		時間とエネルギーの不確定性関係 / kyoto-u.ac.jp https://www2.yukawa.kyoto-u.ac.jp/~soken.editorial/sokendenshi/vol17/tanimura.pdf
-			doc tanimura.pdf
-		量子臨界点近傍の超伝導 / kyoto-u.ac.jp http://cond.scphys.kyoto-u.ac.jp/~tada/wakate_note.pdf
-			doc wakate_note.pdf
-		量子ダイナミクスにおける非可換性と状態推定および制御 / u-tokyo.ac.jp http://gazo.dl.itc.u-tokyo.ac.jp/gakui/data/h23/127568/127568-abst.pdf
-			doc 127568-abst.pdf
-		https://www.math.sci.hokudai.ac.jp/~thasebe/NCP-preprint.pdf
-			doc NCP-preprint.pdf
-		量子力学の基本法則（１） / kyutech.ac.jp https://www.mns.kyutech.ac.jp/~okamoto/education/quantumadvanced/Theorem050607.pdf
-			doc Theorem050607.pdf
-			section
-				演算子の非可換性 2]
-		角運動量の交換関係からみる固有状態 / whyitsso.net https://whyitsso.net/physics/quantum_mechanics/angular_mmnt.html
-		生成演算子と消滅演算子を使って調和振動子を解く / whyitsso.net https://whyitsso.net/physics/quantum_mechanics/crt_anhl.html
-		非可換物理量の同時測定について / kyoto-u.ac.jp https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1099-8.pdf
-			doc 1099-8.pdf
-		§6 ポアソン（Poisson）括弧式と保存量 / nii.ac.jp https://nagoya.repo.nii.ac.jp/record/14200/files/6.pdf
-			doc 6.pdf
-		位置演算子・運動量演算子の行列表示とエルミート性 / whyitsso.net https://www.whyitsso.net/physics/quantum_mechanics/quantum2.html
-		論理・集合・実数・物理・測定 : 量子集合論と量子力学の観測問題 (非可換解析とミクロ・マクロ双対性) / kyoto-u.ac.jp https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/140895/1/1658-22.pdf
-	https://duckduckgo.com/?q=位置演算子&ia=web
-		位置演算子 / wi https://ja.wikipedia.org/wiki/位置演算子
-		位置演算子の固有状態と波動関数 / tmu.ac.jp https://www.comp.tmu.ac.jp/hyodo/class/2021/QM2/QM2_Note1c.pdf
-#2-3 2.4 線形代数との関係
- 
- 
- 
- 
- 
- 
- 
- 
- 
+#2-4.1~ 2.4.1 ディラックの
+.1 線形演算子の作
+.2  をブラケット表示で表し
+.3 。左辺のケットベクトルおよ
+.4 に対してこれが成り立つ
+#2-5.0~ 2.5 ２つの部分からな
  
  
  

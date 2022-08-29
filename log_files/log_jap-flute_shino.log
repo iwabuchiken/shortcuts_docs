@@ -1341,6 +1341,9 @@
 				2. mp3 : 2022-08-19_19-02-23_000.jpg.[20220828_120534].mp3
 			7. next
 				1. ukon`czone : na razie
+			
+			8. other
+				1. B1-1 --> do nowej niezalez@nej melodii?		]2022年8月29日16:48:09
 		
 		]12:08:34
 
@@ -1350,13 +1353,69 @@
 		
 		]19:00:27
 
+
+
+###2022年8月29日16:41:07
+
+	[mscz:nowa
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54712
+		page-3
+		
+		muse : 
+			1. DUP : 2022-08-21_19-02-41_000.jpg.page-1.mscz
+			*2. rename : 2022-08-21_19-02-41_000.jpg.page-3.mscz
+			3. open
+			*4. edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				4. delete : notes
+			*5. write	[16:54:59	]17:07:20
+				*A1-1
+				*A1-2
+			
+			6. export
+				1. pdf : 2022-08-21_19-02-41_000.jpg.page-3.[20220829_170818].pdf
+				2. mp3 : 2022-08-21_19-02-41_000.jpg.page-3.[20220829_170818].mp3
+			7. next
+				1. any
+			
+			]17:09:42
+
+	*[mscz:dodatek		[17:13:20
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54702
+		page-3
+		
+		main : 2022-08-19_19-02-23_000.jpg.mscz
+			file name : change to --> 2022-08-19_19-02-23_000.jpg.page-2.mscz
+				http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54620
+					page-2
+		
+		muse : 
+			%1. DUP : XXX.mscz
+			%2. rename : XXX.mscz
+			3. open
+			%4. edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				4. delete : notes
+			*5. write	]17:26:30
+				*A3-1 : new
+				*A4-1 : new
+				
+			*6. export
+				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-19_19-02-23_000.jpg.page-2.[20220829_172657].pdf
+				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\2022-08-19_19-02-23_000.jpg.page-2.[20220829_172657].mp3
+			*7. remote data --> update
+				",musescore=+"
+			8. next
+				1. comp
+	
+	]17:28:41
+
+
 @@@
-
-###
-
-
-
-
 
 
 ###
@@ -1561,7 +1620,9 @@ C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files
 			6. export
 				1. pdf : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\pdf_files\2022-08-25_19-04-31_000.jpg.page-X.[XXX].pdf
 				2. mp3 : C:\WORKS_2\WS\WS_Others.Art\JVEMV6\46_art\13_compositions\audio_files\XXX.[XXX].mp3
-			7. next
+			7. remote data --> update
+				",musescore=+"
+			8. next
 				1. XXX
 				
 
@@ -1603,9 +1664,11 @@ XXX
 
 C:\WORKS_2\start_a.bat
 
-set stringof_commit_message="JVE_46_jp-flute : shino: compose"
+
 
 set stringof_commit_message="JVE_46_jp-flute : shino: play"
+
+set stringof_commit_message="JVE_46_jp-flute : shino: compose"
 
 pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message% && C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p
 
