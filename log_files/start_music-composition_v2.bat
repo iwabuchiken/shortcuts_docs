@@ -51,7 +51,8 @@ rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?f
 
 set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=shinobue&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 
-browser.exe %url_1%
+start browser.exe %url_1%
+rem browser.exe %url_1%
 
 
 

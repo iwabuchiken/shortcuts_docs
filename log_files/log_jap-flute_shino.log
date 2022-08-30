@@ -1291,7 +1291,8 @@
 	[play
 	*2022-08-23_19-07-42_000.jpg.page-4,-5.mscz
 		n:play+
-	*2022-08-23_19-07-42_000.jpg.page-1,-2,-3.mscz			n: play+
+	*2022-08-23_19-07-42_000.jpg.page-1,-2,-3.mscz
+		n: play+
 			--> lets modify, arrange
 	2022-08-25_19-04-31_000.jpg.page-2.mscz
 		n: play+
@@ -1413,17 +1414,43 @@
 				1. comp
 	
 	]17:28:41
+	
+	[play		[17:56:33
+		2022-08-23_19-07-42_000.jpg.page-4,-5.mscz	(re)
+		2022-08-23_19-07-42_000.jpg.page-1,-2,-3.mscz
+		2022-08-25_19-04-31_000.jpg.page-2.mscz
+		
+		==> continue	]19:03:47
+
+###2022年8月30日11:05:19
+
+	[mscz:nowa
+	url : http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/54790
+		page-1
+	
+		muse : 
+			1. DUP : 2022-08-25_19-04-31_000.jpg.page-2.mscz
+			2. rename : 2022-08-29_18-59-56_000.jpg.mscz
+			*3. open
+			4. edit
+				1. title
+				2. sub-title
+				3. delete : msrs
+				*4. delete : notes
+			*5. write	[11:33:07
+				*A1-1 : mel-1	]11:36:32
+			
+			6. export : 20220830_113643
+				1. pdf : 2022-08-29_18-59-56_000.jpg.[20220830_113643].pdf
+				2. mp3 : 2022-08-29_18-59-56_000.jpg.[20220830_113643].mp3
+			*7. remote data --> update
+				",musescore=+"
+			8. next
+				1. comp
+		]11:39:04
 
 
 @@@
-
-
-###
-
-
-
-
-
 
 ###
 
@@ -1660,6 +1687,9 @@ XXX
 ====================== closing : git
 
 ------------------------------- git : WS_Others.Art
+//2022年8月30日11:41:27
+C:\WORKS_2\shortcuts_docs\end_batch\end_log_jap-flute_shino.log.v2.bat
+
 //2022年8月20日14:49:18
 
 C:\WORKS_2\start_a.bat
