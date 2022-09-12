@@ -1953,7 +1953,7 @@ move C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622
 		http://orthodoxinfo.com/general/lossky_intro.aspx
 			https://yandex.com/search/?text=Vladimir+Lossky&from=os&clid=1836587&lr=10493
 			https://ko.wikipedia.org/wiki/블라디미르_로스키
-@@@
+
 
 
 ###2022年8月29日8:05:21
@@ -1966,6 +1966,83 @@ move C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622
 	https://duckduckgo.com/?q=晩稲+時期&ia=web
 	https://ummkt.com/blog/3574
 	
+
+
+###2022年9月4日13:26:48
+
+	(artile
+	https://sputniknews.cn/20220903/1043653866.html
+		
+		https://yandex.ru/search/?text=Yeni+Safak&clid=2270487&banerid=6301000000%3A62762962d6569e001dfb47fb&win=540&lr=114917
+		https://en.wikipedia.org/wiki/Shah_Waliullah_Dehlawi
+		https://ru.wikipedia.org/wiki/Шах_Валиуллах_Дехлеви
+		https://ru.wikipedia.org/wiki/Мухаддис
+		https://ru.wikipedia.org/wiki/Хадисоведение
+		https://ar.wikipedia.org/wiki/شاه_ولي_الله_الدهلوي
+		https://ru.wikipedia.org/wiki/Хадис
+		
+	
+	
+	[14:14:49
+	https://ja.wikipedia.org/wiki/旋法
+	https://ru.wikipedia.org/wiki/Дестгях
+	https://fa.wikipedia.org/wiki/ابوعطا
+	https://ru.wikipedia.org/wiki/Баяты_(огузы)
+	
+	[21:17:28
+	(socialismo
+	https://www.ecured.cu/Socialismo
+		##20220904_212424
+		
+		n: La vida de la sociedad socialista se asienta		]21:24:18
+		
+	https://www.ecured.cu/Formación_económico-social
+	
+	
+	
+	@@@
+
+###2022年9月12日11:18:58
+
+	(res
+	id=AASN
+	https://ko.wikipedia.org/wiki/베다
+		:d-1
+		#1
+		#2 다섯 부문 2]
+			related
+				https://ja.wikipedia.org/wiki/ブラーフマナ
+					memos
+						ブラフマンの派生形容詞
+				https://zh.wikipedia.org/zh-cn/梵书
+					memos
+						来自于词根bṛh
+				https://www.rigvedawiki.net/
+					
+					n: 운영 문서를 제외한
+					
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
 
 
 ###
@@ -2218,6 +2295,8 @@ rem --------------------------
 set stringof_session_id="article : (ko)"
 
 set stringof_session_id="bk : (uchimura)"
+
+set stringof_session_id="(res : id=AASN"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
