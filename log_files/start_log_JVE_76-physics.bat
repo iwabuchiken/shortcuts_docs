@@ -76,13 +76,27 @@ REM =================================
 rem : 2021年3月14日15:49:09
 echo starting... freemind
 
-set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\76_physics\76_physics.mm"
-set fpath_freemind_math="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm"
+rem set fpath_freemind="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\76_physics\76_physics.mm"
+rem set fpath_freemind_math="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm"
+
+rem rem // 2022年9月15日15:19:54
+rem set fpath_fm_3="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\80_microbiology\80_microbiology.mm"
+
+rem set fpath_fm_4="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\81_catalyst_science\81_catalyst_science.mm"
+
+set fpath_fm_5="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\jve_admin\JVE_activity_log.mm"
+
+set listOf_maps=%fpath_fm_3% %fpath_fm_4% %fpath_fm_5%
 
 echo "starting freemind... " %fpath_freemind%
 
+
+
+
 rem : new : 2021年12月23日16:16:51
-C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%"
+rem C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%"
+rem : 2022年9月15日15:23:12 // new
+C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%" %listOf_maps%
 
 rem start 
 rem : c/o : 2021年12月23日16:16:51
@@ -176,6 +190,11 @@ REM =================================
 :end
 
 rem pause
+
+
+
+
+
 
 
 

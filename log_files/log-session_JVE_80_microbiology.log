@@ -1,0 +1,401 @@
+//=============================
+file C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_80_microbiology.log
+
+
+//=============================
+@@@
+
+
+###
+
+
+
+
+###
+
+
+
+
+###2021年6月3日19:25:01
+
+#process texts : korean
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_chinese].bat"
+
+###2021年6月7日8:57:37
+
+#trans : korean, english
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+================== labels : directives for map
+
+###2021年8月2日15:05:51
+================== labels : doc id for --> related docs
+
+r-1-2.A-1	2021年8月2日15:06:18
+r-1-2.A-2	2021年8月2日15:10:31
+r-1-2.A-3	2021年8月2日15:29:26
+r-1-2.A-4	2021年8月2日15:34:29
+r-1-2.A-4	2021年8月2日18:02:02
+
+//==================== notes and comments
+
+###2021年6月8日9:56:28
+
+<= know-this
+<= lets-read
+<= lets-read-again
+<= lets-read-links
+
+//
+<= want-to-read
+
+//2022年8月17日15:10:04
+<= want-to-read : 面白そう : 興味が起こる、任意のトピックだけ、読んでみたい。
+
+//2022年8月17日10:23:16
+<= want-to-read : 説明、
+
+//2022年8月16日12:10:09
+<= want-to-read : 計算過程、詳しい。
+
+//2022年8月10日16:22:04
+<= want-to-read : 面白い
+
+
+//2022年7月4日16:55:17
+<= want-to-read : 面白そう
+
+//2022年6月14日12:02:06
+<= want-to-read : ゆくゆくは
+
+//2022年6月14日11:16:21
+<= want-to-read : 等分配
+
+//2022年6月13日11:24:59
+<= want-to-read : 公式の導出、概念の説明、詳しい。カノニカル分布
+
+//2022年6月13日11:22:24
+<= want-to-read : 公式の導出、詳しい。
+
+//2022年5月12日15:39:31
+<= want-to-read : 関連トピック：シンプレクティック
+
+//2022年5月17日11:31:32
+<= want-to-read : 網羅している。微分方程式の、個々のテーマを
+
+<= this
+
+//2022年6月23日15:13:17
+<= this : for the start
+
+//2022年6月12日14:57:01
+<= this : read
+
+//
+<= good
+
+//2022年7月13日17:06:46
+<= good : 絵が多い。
+
+//2022年6月14日12:01:18
+<= good : "統計力学の基本的な考え方"
+
+//2022年6月13日17:26:15
+<= good : 説明、厚い。
+
+//2022年5月17日11:18:49
+<= good : content -> interesting
+
+//2022年6月8日15:34:19
+<= good : content -> ピンポイントで、知りたいことについて、解説している。
+
+//2022年5月17日11:18:49
+<= good : read this
+
+//2022年6月3日12:16:04 // candidate
+<= good : read this?
+
+<= also-good
+
+//2022年6月12日14:46:19
+<= also-good : 計算過程。そこそこ
+
+//2022年4月17日10:09:20
+<= good : 計算過程、細かい
+//2022年4月17日10:32:41
+<= good : 一段一段、話しを進める
+
+//2022年4月29日11:41:11
+<= good : 計算過程。式と式の間に、解説あり。
+
+//2022年5月10日13:07:49
+<= good : 計算過程。図、あり
+
+//2022年6月3日12:21:10
+<= good : 演習。解答あり。
+
+<= 証明あり
+<= 解説：分かりやすい。割と。
+
+###2022年2月27日17:16:25
+<== other interesting pages
+<== cannot copy
+
+###2021年9月27日17:20:19
+<= terrible
+
+//
+<= ok
+
+//2022年8月10日15:35:55
+<= ok : 計算過程、あり
+
+//2022年8月6日15:33:14
+<= ok : 基礎から、話を始めている。
+
+//2022年7月8日16:53:41
+<= ok : 用語の説明。
+
+//2022年4月20日15:53:19
+<= ok : 説明、細かい。
+<= ok : 図解あり
+
+//2022年5月10日12:25:01
+<= ok : 結論の式、のみ
+
+//2022年5月22日10:09:46
+<= ok : Eψ。E^と、表記する
+
+//2022年5月12日15:35:21
+<= no : 説明が、粗い。
+
+//2022年6月3日12:30:46
+<= no : 計算過程。記述を省いている箇所、推測できない。
+
+
+<= not-now;maybe-later
+
+<= not-understood
+
+###2022年4月14日11:25:54
+<= content : 
+
+###2022年7月13日17:09:50
+<= content : 説明、多岐。
+
+###2022年7月4日16:58:58
+<= content : 図式。GIF画像
+
+###2022年6月23日15:27:35
+<= content : シラバス：項目名のリスト
+
+###2022年6月13日11:27:29
+<= content : 量子統計
+
+###2022年5月24日12:13:53
+<= content : 数式。分かりやすい
+
+###2022年5月17日11:08:14
+<= content : examples. explained
+
+###2022年5月16日11:26:27
+<= content : 問題・解答
+
+
+//2022年5月10日13:06:32
+<= content : 他に、読みたいトピック、あり。
+
+###2022年5月2日15:28:37
+<= content : 説明、詳しい
+
+
+=> ENOUGH
+======== //2022年3月31日17:32:19
+=> ENOUGH : not necessary for now
+=> ENOUGH : for now
+
+//2022年5月8日16:49:51
+=> ENOUGH : didn't understand; good enough
+
+=> ENOUGH : hereafter, can't comprehend
+=> NEXT
+
+//2022年7月3日17:02:51
+=> NEXT, this --> ...
+
+//2022年6月29日17:08:08
+=> NEXT to this --> ...
+
+###2022年3月25日11:51:18
+==> DROP : enough
+
+// 2022年4月17日9:59:09
+==> DROP : enough : diracphysics --> 要点を書いているか。途中経過も知りたい。
+
+// 2022年4月17日9:55:38
+==> DROP : enough : この題目に関しては、大学の講義形式の資料を見よう
+
+==> DROP : can't figure out
+
+// 2022年4月14日11:50:59
+==> DROP : not for now
+
+//2022年6月12日14:58:33
+==> DROP : read other docs
+
+
+###2022年3月28日17:00:19
+==> PASS : not now
+
+//2022年5月28日16:27:50
+==> PASS : explanation --> don't comprehend
+
+//2022年6月12日11:10:31
+==> HALT
+
+==> HALT : see other docs. this doc --> enough for now
+======== //2022年8月11日15:09:38
+==> lets move to : 
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+taskkill /f /im tor.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+###2021年6月8日14:34:10
+
+memo images : url
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年9月21日14:22:33
+
+======================== url : search origs
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68#+q+open&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+
+###2021年6月12日17:36:28
+
+freemind
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm
+
+###2022年3月19日16:10:39
+=================== freemind : doc list
+
+###2021年6月20日13:48:41
+
+190001550002
+makemeaning
+
+###2021年7月14日13:55:22
+=================== url : memos
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+###2021年9月2日14:09:48
+=================== url : tools
+--- 3D graph
+<https://www.math3d.org/>
+
+--- 2D graph
+graphing <https://www.desmos.com/calculator>
+
+--- derivative
+Derivative Calculator <https://www.symbolab.com/solver/derivative-calculator/>
+
+--- matrix calc : 2022年2月6日12:06:47
+https://www.symbolab.com/solver/matrix-calculator
+
+rem : batch : firefox
+C:\WORKS_2\shortcuts_docs\start_log_JVE_68-tp_tools-url.bat
+
+--- solver	: 2021年10月4日13:48:43
+https://www.mathway.com/trigonometry
+
+
+###2021年6月30日11:11:01
+
+git --> works
+
+C:\WORKS_2\Utils\commands\push_WORKS.bat
+
+
+###2021年6月23日17:03:51
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+
+###2021年9月25日14:00:43
+=================== console : c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
+C:\WORKS_2\start_a.bat
+
+
+###2021年10月30日15:05:30
+================= open file : programming.log
+
+C:\WORKS_2\shortcuts_docs\log-session_JVE_68_tp_programming.log
+
+
+###2022年4月13日12:43:20
+================= file : dat
+C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat
+
+
+###2021年7月1日13:21:50
+=================== time label
+
+C:\WORKS_2\t.bat
+
+
+###2021年7月1日13:21:50
+=================== c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
+
+###2021年7月28日14:11:43
+==================== close : git
+
+set stringof_message="JVE_68.[tp_v-2.0]"
+
+C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+
+==================== close : apps
+
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_68.[tp_v-2.0].bat
+
+taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
+
