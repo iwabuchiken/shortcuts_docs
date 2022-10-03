@@ -1,0 +1,99 @@
+###2021年9月19日15:11:35
+
+//C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_82_math_research.dat
+
+-----------------------------
+//2022年4月21日11:00:09
+// no-tab
+^(\**\d+ )	.$1
+###^(\**\d+ )	.$1
+
+// tab
+(\t+)(\**\d )	$1.$2
+
+// tab/no-tab
+(^|\t*)(\**\d )	.$1
+
+###^(\**\d )	.$1
+###\t+(\**\d )	.$1
+
+
+-----------------------------
+
+ 
+========================== ###2022年9月19日14:12:22
+s: https://yandex.ru/search/?text=l-function+lecture+notes&clid=2270485&banerid=6301000000%3A62762962d6569e001dfb47fb&win=540&lr=21433
+	docs
+		Things of interest to Number Theorists http://www.numbertheory.org/ntw/number_theory.html
+		r-1-1~1.1 /  ARITHMETIC OF L-FUNCTIONS / columbia.edu https://www.math.columbia.edu/~phlee/CourseNotes/L-functions.pdf
+			texts
+				#1
+					g-des
+						#1~g-1 https://www.desmos.com/calculator/lbpyogprl6
+						#1~g-2 https://www.desmos.com/calculator/xsydogeirh
+				 		#1~g-3 https://www.desmos.com/calculator/jqvnrm8ise
+				.1 Given two points P
+				#1.2 Declaring that P +
+				==> ENOUGH : hereafter, can't comprehend; want-to-resume-later
+				 
+				 
+				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+========================== ###2022年9月23日
+
+https://ja.wikipedia.org/wiki/Category:数論
+	r-1-1~1.1 / P진수 https://ko.wikipedia.org/wiki/P진수
+		texts
+			#1
+			1 보다 구체적으로
+				words
+					유리수체의 완비화
+					s: https://duckduckgo.com/?q=완비화+수학&ia=web
+						docs
+							#1~d-1 / https://ko.wikipedia.org/wiki/완비화_(환론)
+								texts
+								text-file C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\82_math_research\s-2\read_text_s-2_1.txt
+									#1
+									#2 (곱셈 항등원을
+										words
+											#1~d-2 / 아이디얼 https://ko.wikipedia.org/wiki/아이디얼
+												texts
+													#1
+														words
+															#1~d-3 / 몫환 https://ko.wikipedia.org/wiki/환_(수학)#몫환
+													 	
+													 		#1~d-4 / 서로소_아이디얼 https://ko.wikipedia.org/wiki/서로소_아이디얼
+													 			texts
+													 				#1
+													 					words
+													 						0차 다항식
+													 							https://ko.wikipedia.org/wiki/다항식
+													 								memos
+													 									그 상수가 0인 경우
+													 #2 정의 2]
+							https://www.namu.moe/w/급수(수학)
+								memos
+									유리수 공간의 완비화는 실수의 공간
+				SEG
+					-->#1~d-1
+					20220923_155844/
+					
+			 
+			 
+			 
+			 
+============================ list
+*r-1-1~1.1
+*r-1-1~1.2
+*r-1-1~1.3 / 
+
+

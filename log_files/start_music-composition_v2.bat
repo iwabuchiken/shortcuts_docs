@@ -23,7 +23,8 @@ rem ===============================
 rem 	vlc
 rem 	2022”N8ŒŽ9“ú13:33:17
 rem ===============================
-start C:\Users\iwabuchiken\VLC\vlc.exe
+rem //2022”N9ŒŽ19“ú18:05:48 / c.o.
+rem start C:\Users\iwabuchiken\VLC\vlc.exe
 
 rem ===============================
 rem 	log file

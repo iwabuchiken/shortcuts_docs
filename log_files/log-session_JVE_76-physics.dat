@@ -29,37 +29,27 @@ r-7-A1~1.1.7 / 量子力学 I 講義ノート
 
   / nagoya-u <https://ocw.ilas.nagoya-u.ac.jp/files/487/qm1-17v3.pdf>
  
-#4-0.4 式 (4.2) は２階微分方
-.5 いま考えている状況設定で
-.6 このとき、x < 0 での確率流の
-#4-1.0~ 次に、x = 0 での解の接続について
-.1 この結果から、透過率と反射率が
-	graph-des
-		#4-1.0.1~g-1 https://www.desmos.com/calculator/4z2wowdpvm
-#4-2.0~ 4.2 散乱問題: 井戸型ポテン
+#5-2 5.2 正規直交系とエルミート演
+.1 演算子 Aˆ が与えられたとき、
+#5-3 5.3 完全系と観測可能量
  
  
  
  
  
  
- 
- 
- 
-========================== ###2022年9月15日17:25:36
-s: https://duckduckgo.com/?q=相対性理論+講義ノート&ia=web
+
+
+========================== ###2022年9月27日14:48:57
+s: https://yandex.ru/search/?text=plastic+degradation&lr=21433&clid=2270485&win=540
 	docs
-		相対性理論　講義ノート / akira.ne.jp http://t-ikeda.akira.ne.jp/enter/science/phys/relativity/relativity18.pdf
-		相対性理論の講義ノート / ibaraki.ac.jp http://yoshi.sci.ibaraki.ac.jp/特殊相対性理論講義ノート.pdf
-			<= lets-read
-		特殊相対性理論入門 講義ノート / kyushu-u.ac.jp http://www.stat.phys.kyushu-u.ac.jp/~nakanisi/jugyou/KikanButsuri-2/Note_relativity/Note-SR-intro.pdf
-		第 2 回 特殊相対性理論の発見 / kyoto-u.ac.jp https://www2.yukawa.kyoto-u.ac.jp/~norihiro.tanahashi/pdf/SR/note_SR-2.pdf
-			<= want-to-read
-			"2.1.2 マクスウェル方程式のガリレイ変換性"
-			https://www2.yukawa.kyoto-u.ac.jp/~norihiro.tanahashi/lecture.html
-		大学院一般相対論講義マスターファイル / kek.jp https://research.kek.jp/people/hkodama/lectures/GeneralRelativity/GR_LN_Master.pdf
-				<= want-to-read : ゆくゆくは
-				
-
-
+		https://en.wikipedia.org/wiki/Polymer_degradation#:~:text=Polymer%20degradation%20is%20the%20reduction,decompose%20a%20polymer%20in%20hours
+		https://zh.wikipedia.org/zh-cn/聚合物降解
+		
+ 
+ 
+ 
+ 
+ 
+ 
 

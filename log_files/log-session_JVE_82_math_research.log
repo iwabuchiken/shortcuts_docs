@@ -1,121 +1,8 @@
-###2021年4月11日11:42:43
+//=============================
+file C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_82_math_research.log
 
 
-###2021年7月9日14:12:08
-
-	
-	https://www.headboost.jp/definition-of-determinant/	行列式とは？意味と定義・求め方・性質を徹底解説	<== good
-	https://www1.doshisha.ac.jp/~bukka/lecture/quantum/pc4/pc4_a05.html	:d-1	<== 公式
-	
-###2021年7月16日16:01:49
-
-
->>> programming
-	r-4-1~4 / ウェッジ積の座標変換 <http://hooktail.sub.jp/differentialforms/ExteriorTrans/>	
-	#1
-	1. new file
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-41~\s_41.py
-		1. codes
-		2. test ==> OK	]16:10:13
-	2. coding
-		test ==> OK		]16:28:56
-(a_i^1)*(a_j^1)(e->_1∧e->_1)+(a_i^1)*(a_j^2)(e->_1∧e->_2)+(a_i^1)*(a_j^3)(e->_1∧e->_3)+(a_i^2)*(a_j^1)(e->_2∧e->_1)+(a_i^2)*(a_j^2)(e->_2∧e->_2)+(a_i^2)*(a_j^3)(e->_2∧e->_3)+(a_i^3)*(a_j^1)(e->_3∧e->_1)+(a_i^3)*(a_j^2)(e->_3∧e->_2)+(a_i^3)*(a_j^3)(e->_3∧e->_3)
-	
-	]2021年7月16日
-
-
-###2021年7月24日14:14:55
-
->> s-48
-	
-	search :
-		python solver
-		
-	
-
-
-###
-s-50
-
->>> programming
-	組み紐群
-	
-	1. new file
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\68_theoretical-physics\s-50~\s_50.py
-		1. mkdir
-		2. DUP
-		3. TEST --> OK		]13:10:20
-	2. coding
-			==> tsp()
-		1. code : tsp()
-		2. test --> OK		]13:24:06
-	*3. code : validation
-		#code:20210728_132355
-		1. code : #code:20210728_132436
-		==> OK		]13:25:48
-		2. tsp() --> exec once
-			#code:20210728_132743
-			==> OK		]13:29:06
-		3. tsp --> actually tsp
-			#code:20210728_132935
-			==> OK		]13:35:04
-	*4. coding : multi tsp
-		1. new func --> test_2_Multiple_Tsp
-		==> OK		]13:53:34
-	
-	==> COMP.		]13:54:19
-		
-
-###2021年7月28日23:46:54
-
-
-	search
-	集合論 入門
-	https://3g2upl4pq6kufc4m.onion/?q=集合論+入門+site:booklive.jp&ia=web
-	集合と実数 http://sss.sci.ibaraki.ac.jp/teaching/set/set.pdf
-		<= lets-read
-	位相入門 https://pc1.math.gakushuin.ac.jp/~kawasaki/HTML-isou-nyuumon-enshuu/12isou-nyuumon-text.pdf
-		<= 解答、あり
-	https://language-and-engineering.hatenablog.jp/entry/20140628/SetAndTopologyPDFLectureNotes
-	意外と位相に関係あるメモ http://www.netlaputa.ne.jp/~hijk/memo/topology.html#AHausdorffSpace
-	
->>>
-	search
-	https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q=群論+入門&t=h_&ia=web
-	http://sss.sci.ibaraki.ac.jp/teaching/group/gr2008.pdf
-	物理における群論入門 http://physmathseminar.web.fc2.com/PDF/group_phys.pdf
-		<= lets-read
-	群論入門 https://math.cs.kitami-it.ac.jp/~kabaya/misc/2017/kabaya_2.pdf
-		<= lets-read : has prooves
-	
-
-###2021年9月18日17:49:40
-
-
-	search : 半物質
-
-
-###2021年10月4日17:34:24
-
-	s: integral substitution rule
-	
-
-###2022年2月1日9:38:34
-
-	>> A71Q
-		
-		graph : SJQI : https://www.desmos.com/calculator/2kgijhqxkh
-
-###2022年2月14日22:44:19
-
-s-183
-
-
-###
-
-
-
-
+//=============================
 @@@
 
 
@@ -155,13 +42,6 @@ start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.b
 
 ###2021年8月2日15:05:51
 ================== labels : doc id for --> related docs
-
-r-1-2.A-1	2021年8月2日15:06:18
-r-1-2.A-2	2021年8月2日15:10:31
-r-1-2.A-3	2021年8月2日15:29:26
-r-1-2.A-4	2021年8月2日15:34:29
-r-1-2.A-4	2021年8月2日18:02:02
-
 //==================== notes and comments
 
 ###2021年6月8日9:56:28
@@ -343,9 +223,6 @@ r-1-2.A-4	2021年8月2日18:02:02
 => ENOUGH : didn't understand; good enough
 
 => ENOUGH : hereafter, can't comprehend
-//2022年9月19日14:54:51
-==> ENOUGH : hereafter, can't comprehend; want-to-resume-later
-
 => NEXT
 
 //2022年7月3日17:02:51
@@ -418,107 +295,9 @@ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68#+
 
 freemind
 
-C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\68_theoretical-physics_tp_v-2.0\68_theoretical-physics_tp_v-2.0.mm
 
 ###2022年3月19日16:10:39
 =================== freemind : doc list
-r-7-A1~1 / initial
-*r-7-A1~1.1.1 / 
-*r-7-A1~1.1.2 / 
-*r-7-A1~1.1.3 / 
-*r-7-A1~1.1.5 / 
-*r-7-A1~1.1.7 / 
-
-r-7-A1~2.1 / 
-*r-7-A1~2.1.1 / 
-
-*r-7-A1~2.2.8 / 
-*r-7-A1~2.2.9 / 
-
-*r-7-A1~2.4.1 / 
-*r-7-A1~2.4.2 / 
-
-*r-7-A1~2.6.5 / 
-*r-7-A1~2.6.6 / 
-
-*r-7-A1~5.1 /
-
-*r-7-A2~1.1 / 
-*r-7-A2~1.2 / 
-*r-7-A2~1.2.1 / 
-*r-7-A2~1.2.2 / 
-*r-7-A2~1.2.3 / 
-*r-7-A2~1.2.4 / 
-
-//A3 | r-7-A3 / differential equations 
-*r-7-A3~2.1.1 / 
-
-*r-7-A6~1.1 / 
-*r-7-A6~1.2 / 
-
-*r-7-A6~3.1 / 
-
-*r-7-A7~2.1 / 
-
-//2022年6月30日10:52:02 / A10 r-7-A10 /  流体力学；連続体力学
-
-*r-7-A10~1.1 / 
-*r-7-A10~1.2 / 
-*r-7-A10~1.2.1 / 
-
-*r-7-A10~4.1.1 / 
-*r-7-A10~4.1.2 / 
-*r-7-A10~4.1.3 / 
-
-//2022年6月30日10:51:25	/ A12 / r-7-A12 / 熱力学
-*r-7-A12~1.1.1 / 
-*r-7-A12~1.1.2 / 
-
-//2022年7月14日15:53:18 // B1 / r-7-B1 / 電気工学
-*r-7-B1~1.1.1 / 
-*r-7-B1~1.1.2 / 
-*r-7-B1~1.1.3 / 
-
-//2022年8月8日11:39:31
-*r-7-B2~1.1.1 / 
-*r-7-B2~1.1.2 / 
-
-
-*r-8-1~4.15 / 
-
-*r-8-1~4.16.5 / 
-*r-8-1~4.16.8 / 
-*r-8-1~4.16.9 / 
-*r-8-1~4.17 / 
-
-*r-8-1~4.1.10 / 
-*r-8-1~4.1.11 / 
-
-*r-8-1~4.2.1 / 
-*r-8-1~4.2.2 / 
-
-r-8-1~4.18 / 
-r-8-1~4.19 / 
-r-8-1~4.10 / 
-
-*r-8-1~4.6.1 / 
-//2022年4月19日9:45:06
-*r-8-1~4.6.2 / 
-
-*r-8-1~9.1.1 /
-*r-8-1~9.1.2 /
-*r-8-1~9.1.3 /
-*r-8-1~9.1.4 /
-
-//2022年7月18日15:24:07
-*r-8-1~9.2.1 / 
-
-//eman
-*r-9-2~3.2.1 / 
-*r-9-2~3.2.2 / 
-
-*r-9-3~1.1.1 / 
-
 
 ###2021年6月20日13:48:41
 

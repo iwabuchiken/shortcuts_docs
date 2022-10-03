@@ -146,6 +146,12 @@
 			###XXX
 			#DELETE FROM images WHERE id >= 53275;
 			
+			###2022年9月16日9:59:11
+			#DELETE FROM images WHERE id >= 54983;
+			
+			###2022年10月1日10:13:16
+			#DELETE FROM images WHERE id >= 55149;
+			
 			@@@
 			
 			###XXX
@@ -185,6 +191,9 @@ C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
 				==> OK	]2020年7月26日14:24:29
 
 
+###2022年9月18日14:32:42
+
+SELECT * FROM images WHERE memos LIKE '%220917f%';
 
 
 ============================= change log

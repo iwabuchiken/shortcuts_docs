@@ -1,0 +1,10 @@
+###2022年9月27日15:26:33
+
+	open file
+		start-trans-process_chinese.bat
+		C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences_chinese.php
+	
+	TEST
+C:\xampp_5.6\php\php.exe C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences_chinese.php
+		
+		==> fixed(it seems)	]15:31:29

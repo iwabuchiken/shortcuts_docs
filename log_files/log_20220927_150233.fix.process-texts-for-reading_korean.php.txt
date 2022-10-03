@@ -1,0 +1,11 @@
+###2022年9月27日14:59:31
+
+C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_70-CO2_trans-sentences.dat
+
+	edit
+		#code:20220927_150017
+		edit
+		save
+		
+		TEST
+			==> fixed		]15:02:01

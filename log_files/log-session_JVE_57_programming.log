@@ -1,0 +1,89 @@
+//=============================
+file C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_57_programming.log
+
+	2022年10月1日11:04:24
+
+//=============================
+@@@
+
+###2022年10月1日11:06:08
+
+	s-4    g-5
+	C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name
+	
+		jve_57.s_4.g_5.py
+		
+	
+	n:
+		use ruby
+	
+	]11:57:23
+
+
+###
+
+
+
+
+
+###
+
+
+
+
+
+### ---last-2
+
+
+
+
+
+###
+
+
+
+
+
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+taskkill /f /im tor.exe
+
+###2021年6月30日11:11:01
+
+git --> works
+
+C:\WORKS_2\Utils\commands\push_WORKS.bat
+
+
+###2021年6月23日17:03:51
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+
+###2021年9月25日14:00:43
+=================== console : c n 4
+
+C:\WORKS_2\batches\start_c-n-4.bat
+
+C:\WORKS_2\start_a.bat
+
+
+###2021年7月28日14:11:43
+==================== close : git
+
+set stringof_message="JVE_68.[tp_v-2.0]"
+
+C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+
+==================== close : apps
+
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_68.[tp_v-2.0].bat
+
+taskkill /f /im javaw.exe && taskkill /f /im sakura.exe
+

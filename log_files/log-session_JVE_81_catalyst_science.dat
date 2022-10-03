@@ -1,9 +1,8 @@
 ###2021年9月19日15:11:35
 
-//C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.log
-C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_76-physics.log
 
-C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log
+C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_81_catalyst_science.log
+
 
 -----------------------------
 //2022年4月21日11:00:09
@@ -27,58 +26,45 @@ C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log
 ========================== ###2022年9月14日14:50:44
 r-1-1~1.1 / 化学吸着と触媒作用 / kyoto-u.ac.jp <https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/89175/1/KJ00004808461.pdf>
 
-#1 1. は じ め に
-#2 2.触媒反応における化学吸
-	words
-		化学吸着
-			docs
-				Chemisorpcja / wi https://pl.wikipedia.org/wiki/Chemisorpcja
-.1 この二段階の反応
-	words
-		chain carrier
-			https://es.wikipedia.org/wiki/Propagación_en_cadena
-.2 具体的な例 として,銅の上
-.3 ところが,同じ金属 でも
-.4 る｡ ある物質が触媒にな るた
-#2-1 ところで, ある物質が 目的
-	words
-		選択性
-.1 例示すると, ギ酸HCOOHの
-.2 また,COとH2と
-.3 この選択性の問題 も
-#2-2 ,いろいろなシリカ担持金属触
-	words
-		シリカ / wi https://ja.wikipedia.org/wiki/シリカ
-			s: https://duckduckgo.com/?q=シリカ担持金属&ia=web
-				シリカでの被覆によるカーボンナノチューブ担持金属ナノ粒子触媒の高機能化 / jst.go.jp https://www.jstage.jst.go.jp/article/jpi/54/2/54_2_80/_article/-char/ja/
-					words
-						触媒担体
-							s: https://duckduckgo.com/?q=触媒担体&ia=web
-								docs
-									金属触媒体用シ リカキセロゲル担体の物理構造 と担体作用 / jst.go.jp https://www.jstage.jst.go.jp/article/nikkashi1972/1972/9/1972_9_1603/_pdf
-									金属酸化物担持シリカおよびその製造方法 / patents.google https://patents.google.com/patent/JPH06127932A/ja
-									シ リカ担持 ニッケル触媒の構造 と触媒活性にお よぼずニッ ケル出発原料の影響 / jst.go.jp https://www.jstage.jst.go.jp/article/nikkashi1972/1990/1/1990_1_12/_pdf/-char/ja
-									アルミナ・ステアタイトなど高品質な触媒担体を安定供給 / iwatani.co.jp https://www.iwatani.co.jp/jpn/business/material/resources-advanced/products/catalyst-carrier/
-									
-					memos
-						シリカで被覆することで[...]脱落を抑制
-		IR吸収スペクトル
-			s: https://duckduckgo.com/?q=一酸化炭素+吸収スペクトル&ia=web
+#4.1 オージェ電子 分光法が定与元素分析に応用
+.2 ㌘ 図 8は, Pt3 S｡合金の表面 の組成
+	
+	
+		*アルゴンイオン衝撃
+			
 				docs
-					FT-IR分 光 法 による材料解析 / jst.go.jp https://www.jstage.jst.go.jp/article/shikizai1937/69/11/69_784/_pdf/-char/ja
-						#1 は じめ に
-						n: 赤外 吸収 スペ ク トルが特 に有機物質
-					一酸化炭素自動測定機の測定原理 / pref.fukui.jp http://www.erc.pref.fukui.jp/erc/measure/m-co.html
-.1 COは, Cuや Ptの 上では
-.2 さて,触媒上-の反応物質の化
-#3 3. 触媒反応 と化学吸着
-.1 ゲルマンの分解反
+					アルゴンイオン衝撃した銅の表面および拡散接合部でのアルゴンの挙動 / jst.go.jp https://www.jstage.jst.go.jp/article/jinstmet1952/60/3/60_3_331/_pdf/-char/ja
+						doc C:\WORKS_2\Downloads\lecture_notes\60_331.pdf
+					
+		焼鈍 https://kotobank.jp/word/焼鈍-79636
+.3 ｡ 合金の表面の組成 をオージェ電
 	words
-		ゲルマン
-			s: https://duckduckgo.com/?q=ゲルマン+熱分解&ia=web
-				ゲルマン_(化合物) / wi https://ja.wikipedia.org/wiki/ゲルマン_(化合物)
-#3.2 新鮮 な Ge表面での水素の吸着実
- 
+		*シクロヘキサン
+		脱水素反応
+		ベンゼン
+		エタン
+		*水素化分解反応
+		Hydrogenolysis https://en.wikipedia.org/wiki/Hydrogenolysis
+		Hydrogenation https://en.wikipedia.org/wiki/Hydrogenation
+.4 オー ジェ電子 スペ ク トルに現われる化学効
+	words
+		不均化反応
+.5  13はX線光電子 スペク トルの例で,鉄
+	words
+		鉄フタロシアニン
+			https://duckduckgo.com/?q=鉄フタロシアニン&ia=web
+				docs
+					https://www.chemicalbook.com/ChemicalProductProperty_JP_CB1207817.htm
+					#4.5~d-1 / フタロシアニン / wi https://ja.wikipedia.org/wiki/フタロシアニン
+						related
+							#4.5~d-2 / フタル酸 / wi https://ja.wikipedia.org/wiki/フタル酸
+							#4.5~d-3 / ポルフィリン / wi https://ja.wikipedia.org/wiki/ポルフィリン
+								related
+									#4.5~d-4 / ピロール / wi https://ja.wikipedia.org/wiki/ピロール
+					http://www.ach.nitech.ac.jp/~organic/shibata/research-phthalocyanine.html
+		ギ酸
+			#4.5~d-5 / https://ja.wikipedia.org/wiki/ギ酸
+#5 表面の構造 と触媒反応
  
  
  
@@ -87,4 +73,8 @@ r-1-1~1.1 / 化学吸着と触媒作用 / kyoto-u.ac.jp <https://repository.kuli
 
 
 
+
+---------------------
+###2022年9月19日16:21:43
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=81%23&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
 

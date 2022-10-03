@@ -1,0 +1,1 @@
+C:\WORKS_2\Programs\sakura\sakura.exe C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_80_microbiology.log && C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_80_microbiology.dat && C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log

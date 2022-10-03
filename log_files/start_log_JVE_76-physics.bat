@@ -86,7 +86,8 @@ rem set fpath_fm_4="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\81_cataly
 
 set fpath_fm_5="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\jve_admin\JVE_activity_log.mm"
 
-set listOf_maps=%fpath_fm_3% %fpath_fm_4% %fpath_fm_5%
+rem set listOf_maps=%fpath_fm_3% %fpath_fm_4% %fpath_fm_5%
+set listOf_maps=%fpath_fm_5%
 
 echo "starting freemind... " %fpath_freemind%
 
@@ -95,8 +96,10 @@ echo "starting freemind... " %fpath_freemind%
 
 rem : new : 2021年12月23日16:16:51
 rem C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%"
+
 rem : 2022年9月15日15:23:12 // new
-C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%" %listOf_maps%
+C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe %listOf_maps%
+rem C:\WORKS_2\Programs\FreeMind_1.0.0\FreeMind.exe "%fpath_freemind%" "%fpath_freemind_math%" %listOf_maps%
 
 rem start 
 rem : c/o : 2021年12月23日16:16:51
@@ -137,10 +140,14 @@ echo %fpath_dat%
 rem c/o : 2021年10月8日8:03:10
 rem echo %fpath_dat_trans%
 
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
+rem //2022年9月22日14:44:24
+start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log%
+
+rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
+rem // c.o. // 2022年9月20日14:22:14
+rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 rem %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_dat%
 
@@ -190,6 +197,26 @@ REM =================================
 :end
 
 rem pause
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

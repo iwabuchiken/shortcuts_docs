@@ -1,0 +1,93 @@
+###2021年9月19日15:11:35
+
+//C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_general.dat
+
+//C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+-----------------------------
+//2022年4月21日11:00:09
+// no-tab
+^(\**\d+ )	.$1
+###^(\**\d+ )	.$1
+
+// tab
+(\t+)(\**\d )	$1.$2
+
+// tab/no-tab
+(^|\t*)(\**\d )	.$1
+
+###^(\**\d )	.$1
+###\t+(\**\d )	.$1
+
+
+-----------------------------
+
+ 
+========================== ###2022年9月7日11:30:55
+r-1-1~1.4 / Degradación polimérica <https://es.wikipedia.org/wiki/Degradación_polimérica>
+
+#1
+#2
+	==> SKIP 
+#3 Degradación_biológica https://es.wikipedia.org/wiki/Degradación_polimérica#Degradación_biológica
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+========================== ###2022年10月2日16:46:15
+r-1-1~1.6 / 《Nature》重磅：塑料酶降解再获突破 <https://new.qq.com/omn/20220428/20220428A01RVQ00.html>
+#1
+	related
+		#1~d-1 / 폴리에틸렌_테레프탈레이트 / wi https://ko.wikipedia.org/wiki/폴리에틸렌_테레프탈레이트
+		#1~d-2 / https://zh.wikipedia.org/zh-cn/聚对苯二甲酸乙二酯
+		#1~d-3 / https://zh.wikipedia.org/zh-cn/聚酯
+		#1~d-4 / https://zh.wikipedia.org/zh-cn/酯
+#2 然而，这些酶中的大多数仅在高
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+========================== ###2022年9月29日16:25:15
+ 
+========================== ###2022年9月27日14:53:59
+*r-1-1~1.1 / 
+*r-1-1~1.2 / 
+
+*r-1-2~1.1.1 / 
+*r-1-2~1.1.2 / 
+*r-1-2~1.2 / 
+
+
+
+
+
+========================== ###2022年10月2日15:46:01
+STEPS : read articles
+
+<web page>(M1)
+	1. select
+	2. C - c
+	3. Tab --> to dat file
+<dat>(M2)
+	1. C - a
+	2. C - v	[paste
+	3. C - s
+	$. Tab --> to console
+<console>(M3)
+	1. s s1 > Ret
+<gen-ed file>(M4)
+	1. C - M - F8
+	2. C - M - w
+	3. C - Home
+	4. C - Mouse roll(up)	[enlarge chars
+	5. S > click --> select an area
+	
+
+
