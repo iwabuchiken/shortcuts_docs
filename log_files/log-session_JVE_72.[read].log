@@ -2038,11 +2038,18 @@ move C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622
 
 @@@
 
-###
+###2022年10月11日16:37:28
 
+	(res:history:id=XOL4
+	:d-1 C:\WORKS_2\WS\WS_Others\web_pages\満洲事変 - Wikipedia.html
+		texts
+			#1
+			#2 朝鮮軍の派兵問題 https://ja.wikipedia.org/wiki/満洲事変#朝鮮軍の派兵問題
+		
+		n:
+			#2
 
-
-
+	]17:07:57
 
 
 ###
@@ -2326,6 +2333,9 @@ set stringof_session_id="article : (ko)"
 set stringof_session_id="bk : (uchimura)"
 
 set stringof_session_id="(res : id=AASN"
+
+
+set stringof_session_id="res:history:id=XOL4"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 

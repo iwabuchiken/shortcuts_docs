@@ -406,7 +406,9 @@ Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori
 
 memo images : url
 
-http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=68%23&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+//http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
 
 ###2021年9月21日14:22:33
 
@@ -581,7 +583,8 @@ C:\WORKS_2\shortcuts_docs\log-session_JVE_68_tp_programming.log
 
 ###2022年4月13日12:43:20
 ================= file : dat
-C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat
+C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_76-physics.dat
+//C:\WORKS_2\shortcuts_docs\log-session_JVE_76-physics.dat
 
 
 ###2021年7月1日13:21:50

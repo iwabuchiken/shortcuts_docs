@@ -1,0 +1,69 @@
+###2022年10月3日13:01:14
+
+	> git commit
+g a .
+git commit -m "fix : commit history seems broken."
+		==> DROP	]13:06:06
+	
+	> re-download remote files
+	
+	*1. change dir name
+		to : FM_2_20171104_225946_depri_20221003_130651
+		
+	*2. get data	[13:08:28
+			1. remote site : commit history --> review
+				https://github.com/iwabuchiken/FM_2_20171104_225946
+				
+					==> 17 days ago
+	
+	3. clone
+		*1. https://github.com/git-guides/git-clone
+git clone https://github.com/iwabuchiken/FM_2_20171104_225946.git
+			//Resolving deltas: 100% (7264/7264), done.
+			//Checking connectivity... done.
+			//Checking out files: 100% (2256/2256), done.
+		*2. c/p a file or two to the cloned folder
+			*1. TEST : g s
+					//pushd FM_2_20171104_225946
+				  //>g s
+					//On branch master
+					//Your branch is up-to-date with 'origin/master'.
+					//nothing to commit, working directory clean
+		3. TEST : commit, push.
+			1. c/p
+				C:\WORKS_2\WS\FM_2_20171104_225946_depri_20221003_130651\Projects\JVEMV6\jve_admin
+			2. g s
+				//jve_admin/
+			*3. g a .
+			*4. gitk	==> OK		]13:26:21
+			*5. g c -m "fixing : commit history seems broken. re-cloned."
+			*6. p	]13:28:27
+			//To https://github.com/iwabuchiken/FM_2_20171104_225946.git
+			//	2e7c96e..20e9441  master -> master
+	4. more new files
+		1. jve number : 80-82
+		2. c/p
+		3. g s
+			//80_microbiology/
+			//81_catalyst_science/
+			//82_math_research/
+		4. g a .
+		*5. g c -m "fixing : commit history seems broken. re-cloned : further folders : jve 80-82"
+		6. p
+			//To https://github.com/iwabuchiken/FM_2_20171104_225946.git
+			 //  20e9441..1d90b30  master -> master
+	5. more new files : 79, rest
+		1. c/p
+		*2. g a .
+		*3. g c -m "fixing : commit history seems broken. re-cloned : further folders : jve 79-rest"
+		4. p	[13:35:25
+			//To https://github.com/iwabuchiken/FM_2_20171104_225946.git
+			  // 1d90b30..3b22fb3  master -> master
+		5. g s
+			//  >g s
+			//On branch master
+			//Your branch is up-to-date with 'origin/master'.
+			//nothing to commit, working directory clean	
+	n: COMP
+	]13:37:33
+

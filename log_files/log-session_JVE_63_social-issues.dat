@@ -1,0 +1,87 @@
+###2021年9月19日15:11:35
+
+//C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_general.dat
+
+//C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+-----------------------------
+//2022年4月21日11:00:09
+// no-tab
+^(\**\d+ )	.$1
+###^(\**\d+ )	.$1
+
+// tab
+(\t+)(\**\d )	$1.$2
+
+// tab/no-tab
+(^|\t*)(\**\d )	.$1
+
+###^(\**\d )	.$1
+###\t+(\**\d )	.$1
+
+
+-----------------------------
+
+ 
+========================== ###2022年10月4日13:11:20
+https://www.whoisleonardpeltier.info/home/about-us/ 
+ 
+ 
+ 
+r-1-4~1.1 / THE CASE OF LEONARD PELTIER https://www.whoisleonardpeltier.info/download/TalkingPointsBandW.pdf
+	texts
+		#1
+			related
+				https://yandex.ru/search/?text=leonard+peltier+clemency&clid=2270485&banerid=6301000000%3A62762962d6569e001dfb47fb&win=540&lr=21433
+			memos
+				the Pine Ridge Indian Reservation / South Dakota
+					https://ru.wikipedia.org/wiki/Пайн-Ридж_(индейская_резервация)#/maplink/1
+					https://www.openstreetmap.org/?mlat=44.368056&mlon=-100.336389&zoom=11#map=8/43.749/-100.530
+				June 26, 1975
+				The Jay Treaty
+					https://ko.wikipedia.org/wiki/제이_조약
+		#2 At the request of the U.S.
+		 
+		 
+		 
+		 
+ 
+ 
+ 
+ 
+
+========================== ###2022年10月2日16:46:15
+ 
+========================== ###2022年10月3日14:37:06
+
+ 
+========================== ###2022年9月27日14:53:59
+
+
+
+
+========================== ###2022年10月2日15:46:01
+STEPS : read articles
+
+<web page>(M1)
+	1. select
+	2. C - c
+	3. Tab --> to dat file
+<dat>(M2)
+	1. C - a
+	2. C - v	[paste
+	3. C - s
+	$. Tab --> to console
+<console>(M3)
+	1. s s1 > Ret
+<gen-ed file>(M4)
+	1. C - M - F8
+	2. C - M - w
+	3. C - Home
+	4. C - Mouse roll(up)	[enlarge chars
+	5. S > click --> select an area
+	
+
+====================== list ###2022年10月5日11:21:45
+*r-1-4~1.1 /
+
