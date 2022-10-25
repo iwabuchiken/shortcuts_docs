@@ -1,0 +1,66 @@
+
+###2021年9月19日15:11:35
+
+C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat
+
+-----------------------------
+//2022年4月21日11:00:09
+// no-tab
+^(\**\d+ )	.$1
+###^(\**\d+ )	.$1
+
+// tab
+(\t+)(\**\d )	$1.$2
+
+// tab/no-tab
+(^|\t*)(\**\d )	.$1
+
+###^(\**\d )	.$1
+###\t+(\**\d )	.$1
+
+
+-----------------------------
+
+ 
+========================== #2022年10月13日16:46:09
+r-1-1~1.1 / 『有機化学の基礎』 <G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal>
+
+http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=83%23&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+
+// root dir
+G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal
+
+#f-13 / 2022-10-12_16-41-23_000.jpg <G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal\2022-10-12_16-41-23_000.jpg>
+	R.1 反応全体
+	
+					
+@@@
+			
+			
+
+
+
+========================== #2022年10月20日16:22:37
+r-1-1~1.2 / 『無機化学の基礎』 <G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-29-36_000.jpg>
+
+//root
+G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\
+
+#f-11 / 2022-10-20_15-32-19_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-32-19_000.jpg
+	R.1 4) 遷移元素の
+	R.~2 1) 電子雲
+	
+#f-12 / 2022-10-20_15-32-32_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-32-32_000.jpg
+	L.1 今日では
+		words
+			方位量子数
+#f-13 / 2022-10-20_15-32-44_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-32-44_000.jpg
+	L.
+	L.1 これに関しては
+	L.~2 このように
+	L.~1 P副殻と同様に
+	
+	
+ 
+ 
+
