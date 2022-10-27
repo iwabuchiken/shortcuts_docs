@@ -25,14 +25,18 @@ C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log
 
  
 ========================== ###2022年10月25日10:43:29
-s-6
+s-7
     g-5
         n:
             1
             2
-    20221025_104412/
-	n: //20221025_122436:next
-		C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\57.4_change_file_name\s-6\jve_57_g-5_s-6.php
+    20221027_105052/
+    
+    n: //20221025_122436:next
+
+	n: 
+		//20221027_113245:next
+		func "change_File_Names" ==> review
 
 
 
