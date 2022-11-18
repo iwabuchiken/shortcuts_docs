@@ -3,6 +3,8 @@
 
 C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat
 
+
+
 -----------------------------
 //2022年4月21日11:00:09
 // no-tab
@@ -22,45 +24,81 @@ C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat
 -----------------------------
 
  
-========================== #2022年10月13日16:46:09
+========================== #2022年11月13日16:44:19
 r-1-1~1.1 / 『有機化学の基礎』 <G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal>
 
-http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=83%23&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+//root
+G:\photo-books_HD\196_chem_organic_araki_etal\196_2_compounds_basic\
 
-// root dir
-G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal
+//2022年11月18日12:12:11
+s-34
 
-#f-13 / 2022-10-12_16-41-23_000.jpg <G:\photo-books_HD\196_chem_organic_araki_etal\196.1_chem_organic_araki_etal\2022-10-12_16-41-23_000.jpg>
-	R.1 反応全体
-	
-					
+
+#f-2.7 / 2022-10-19_15-19-48_000.jpg G:\photo-books_HD\196_chem_organic_araki_etal\196_2_compounds_basic\2022-10-19_15-19-48_000.jpg
+
+	L.~1 ところで、
+		
+			平衡定数
+				s: https://duckduckgo.com/?q=平衡定数とは&t=h_&ia=web
+				
+
+
 @@@
-			
-			
 
 
 
 ========================== #2022年10月20日16:22:37
 r-1-1~1.2 / 『無機化学の基礎』 <G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-29-36_000.jpg>
 
-//root
-G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\
+2022年11月12日11:00:36
+s-29
 
-#f-11 / 2022-10-20_15-32-19_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-32-19_000.jpg
-	R.1 4) 遷移元素の
-	R.~2 1) 電子雲
+//root
+G:\photo-books_HD\202_chem_inorganic_saito_etal\202.4_inorganic_bind-prop\
+
+#f-4.16 / 2022-10-20_15-43-35_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.4_inorganic_bind-prop\\2022-10-20_15-43-35_000.jpg
 	
-#f-12 / 2022-10-20_15-32-32_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-32-32_000.jpg
-	L.1 今日では
-		words
-			方位量子数
-#f-13 / 2022-10-20_15-32-44_000.jpg G:\photo-books_HD\202_chem_inorganic_saito_etal\202.1_inorganic_elements\2022-10-20_15-32-44_000.jpg
-	L.
-	L.1 これに関しては
-	L.~2 このように
-	L.~1 P副殻と同様に
 	
 	
  
  
+//========================== zasoby.pl
+========================== #2022年11月2日15:02:02
+// folder : data
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics
+
+
+// folder : downloaded docs // 2022年11月4日12:02:17
+C:\WORKS_2\Downloads\docs_jve
+
+========================= ###web sites
+//2022年11月4日12:15:22
+https://ptable.com/?lang=ja#属性/元素の分類
+
+========================= ### folder, files
+//2022年11月9日17:15:25
+
+// docs (ods files)
+C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics\
+"C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics\s-22~.ods"
+
+========================= ### steps
+//closing // 2022年11月10日12:30:52
+1. open --> freemind (m1)
+	1. c/p new lines --> to : m1
+	2. next node --> to "n:" node
+	3. time --> gen, paste
+2. git
+3. close
+	1. image fiels
+	2. web pages
+	3. folders
+6. apps		--> end
+	1. ods file
+	2. sakura files
+		1. new lines --> delete
+	3. close
+		1. sakura files
+		2. freemind
+		
 

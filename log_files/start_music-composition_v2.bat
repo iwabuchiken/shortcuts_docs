@@ -36,9 +36,10 @@ rem ===============================
 rem 	musescore
 rem 	2022”N8ŒŽ9“ú13:33:17
 rem ===============================
-pushd C:\WORKS_2\Programs\musescore\ms_3.6\bin
+rem //2022”N11ŒŽ17“ú18:05:06 / comment out
+rem pushd C:\WORKS_2\Programs\musescore\ms_3.6\bin
 
-start MuseScore3.exe
+rem start MuseScore3.exe
 
 
 rem ===============================
