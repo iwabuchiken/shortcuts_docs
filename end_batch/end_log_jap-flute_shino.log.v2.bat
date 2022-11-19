@@ -7,7 +7,7 @@ set stringof_commit_message="JVE_46_jp-flute : shino: play"
 
 set stringof_commit_message="JVE_46_jp-flute : shino: compose"
 
-C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message% && C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p
+C:\WORKS_2\a.bat && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message% && C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p && pause
 
 rem pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_commit_message% && C:\WORKS_2\a && r a && g a . && g c -m %stringof_commit_message% && e && p
 

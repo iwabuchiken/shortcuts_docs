@@ -1007,16 +1007,33 @@
 		]16:20:55
 
 
+###2022年11月19日11:42:24
+
+	(des:スイセン
+	
+		:d-1 https://www.irisplaza.co.jp/media/A13970441549
+		
+	(article
+		https://sputniknews.cn/20221119/1045647770.html
+		C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_72.read.data.20221119_134141.log
+		
+		log-session_JVE_72.[read].[~20221026_155320].log
+		
+		1. regex
+			(\(|\))	\r\n
+			，	\r\n
+			例	
+			(\d+)	\t$1
+		2. sheet
+			C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_72.read.data.20221119_134141.ods
+			
+			1. font size --> 13
+			2. c/p data
+		
+		]14:21:14
+			
+
 @@@
-
-
-###
-
-
-
-
-
-
 
 ###
 
