@@ -3,7 +3,8 @@ rem 	2022年8月30日11:41:55
 rem 	C:\WORKS_2\shortcuts_docs\end_batch\end_log_jap-flute_shino.log.v2.bat
 rem ==============================
 
-set stringof_commit_message="JVE_46_jp-flute : shino"
+set stringof_commit_message="JVE_46_jp-flute : shino"
+rem set stringof_commit_message="JVE_46_jp-flute : shino"
 rem set stringof_commit_message="JVE_46_jp-flute : shino: play"
 
 rem set stringof_commit_message="JVE_46_jp-flute : shino: compose"

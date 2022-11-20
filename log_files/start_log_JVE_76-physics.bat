@@ -86,8 +86,15 @@ rem set fpath_fm_4="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\81_cataly
 
 set fpath_fm_5="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\jve_admin\JVE_activity_log.mm"
 
+rem //2022年11月20日11:41:36
+set fpath_fm_83_plastics="C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\83_plastics\83_plastics.mm"
+
 rem set listOf_maps=%fpath_fm_3% %fpath_fm_4% %fpath_fm_5%
-set listOf_maps=%fpath_fm_5%
+
+rem //2022年11月20日11:42:14
+rem set listOf_maps=%fpath_fm_5%
+
+set listOf_maps=%fpath_fm_5% %fpath_fm_83_plastics%
 
 echo "starting freemind... " %fpath_freemind%
 
@@ -209,6 +216,7 @@ rem //2022年10月18日16:29:39
 exit
 
 rem pause
+
 
 
 
