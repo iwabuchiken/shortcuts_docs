@@ -19,30 +19,18 @@
 
 
 -----------------------------
+//root		/ 2022年11月24日17:24:17
+G:\photo-books_HD\212_complex_analy\212_1_complex_num\
 
  
-========================== ###2022年9月19日14:12:22
-s: https://yandex.ru/search/?text=l-function+lecture+notes&clid=2270485&banerid=6301000000%3A62762962d6569e001dfb47fb&win=540&lr=21433
-	docs
-		Things of interest to Number Theorists http://www.numbertheory.org/ntw/number_theory.html
-		r-1-1~1.1 /  ARITHMETIC OF L-FUNCTIONS / columbia.edu https://www.math.columbia.edu/~phlee/CourseNotes/L-functions.pdf
-			texts
-				#1
-					g-des
-						#1~g-1 https://www.desmos.com/calculator/lbpyogprl6
-						#1~g-2 https://www.desmos.com/calculator/xsydogeirh
-				 		#1~g-3 https://www.desmos.com/calculator/jqvnrm8ise
-				.1 Given two points P
-				#1.2 Declaring that P +
-				==> ENOUGH : hereafter, can't comprehend; want-to-resume-later
-				 
-				 
-				 
- 
- 
- 
- 
- 
+========================== ###2022年11月24日17:23:24
+r-1-2~1.1 / 『複素解析学』 G:\photo-books_HD\212_complex_analy\212_1_complex_num\2022-11-23_11-26-56_000.jpg
+	
+	
+#f-13.5 / 2022-11-23_11-26-56_000.jpg G:\photo-books_HD\212_complex_analy\212_1_complex_num\2022-11-23_11-26-56_000.jpg\2022-11-23_11-26-56_000.jpg
+	R.
+	R.~1 実数全体
+	
  
  
  
@@ -50,44 +38,6 @@ s: https://yandex.ru/search/?text=l-function+lecture+notes&clid=2270485&banerid=
 
 ========================== ###2022年9月23日
 
-https://ja.wikipedia.org/wiki/Category:数論
-	r-1-1~1.1 / P진수 https://ko.wikipedia.org/wiki/P진수
-		texts
-			#1
-			1 보다 구체적으로
-				words
-					유리수체의 완비화
-					s: https://duckduckgo.com/?q=완비화+수학&ia=web
-						docs
-							#1~d-1 / https://ko.wikipedia.org/wiki/완비화_(환론)
-								texts
-								text-file C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\82_math_research\s-2\read_text_s-2_1.txt
-									#1
-									#2 (곱셈 항등원을
-										words
-											#1~d-2 / 아이디얼 https://ko.wikipedia.org/wiki/아이디얼
-												texts
-													#1
-														words
-															#1~d-3 / 몫환 https://ko.wikipedia.org/wiki/환_(수학)#몫환
-													 	
-													 		#1~d-4 / 서로소_아이디얼 https://ko.wikipedia.org/wiki/서로소_아이디얼
-													 			texts
-													 				#1
-													 					words
-													 						0차 다항식
-													 							https://ko.wikipedia.org/wiki/다항식
-													 								memos
-													 									그 상수가 0인 경우
-													 #2 정의 2]
-							https://www.namu.moe/w/급수(수학)
-								memos
-									유리수 공간의 완비화는 실수의 공간
-				SEG
-					-->#1~d-1
-					20220923_155844/
-					
-			 
 			 
 			 
 			 
@@ -97,3 +47,37 @@ https://ja.wikipedia.org/wiki/Category:数論
 *r-1-1~1.3 / 
 
 
+========================= ### steps
+//from : C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat
+
+//new file label // 2022年11月24日16:07:22
+1. c/p --> obecna etykieta pliku
+2. file id --> modify
+3. gen --> 
+	1. okno dialogowe z pliku obrazu.
+	2. Skopiowac' nazwe_ pliku.
+	3. Zamkna_c' okno
+4. replace --> cia_g nazwy pliku
+
+
+
+
+//closing // 2022年11月10日12:30:52
+1. open --> freemind (m1)
+	1. c/p new lines --> to : m1
+	2. next node --> to "n:" node
+	3. time --> gen, paste
+	4. next node --> move
+	5. git
+3. close
+	1. image fiels
+	2. web pages
+	3. folders
+	4. calculator
+6. apps		--> end
+	1. ods file
+	2. sakura files
+		1. new lines --> delete
+	3. close
+		1. sakura files
+		2. freemind

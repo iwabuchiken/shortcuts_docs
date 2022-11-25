@@ -5,6 +5,9 @@ rem // C:\WORKS_2\shortcuts_docs\end_batch\end_log_JVE_83_plastics_git.bat
 
 set stringof_message="JVE_83_plastics"
 
-C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+C:\WORKS_2\a && r s1 && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
+
+rem / c.o. 2022年11月25日14:44:54
+rem C:\WORKS_2\a && r f && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p && r oj && g a . && g c -m "(%stringof_message:"=%) periodical updates" && e && p
 
 
