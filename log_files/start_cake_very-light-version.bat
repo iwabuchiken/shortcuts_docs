@@ -17,7 +17,12 @@ rem s c && f i && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\W
 rem : 2022年6月2日9:36:25
 rem s c && f i && f t && start G:\tmp.20220507_191202 && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
 
-C:\WORKS_2\a.bat && s c && f i && f t && start G:\tmp.20220507_191202 && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
+rem : 2022年11月27日9:14:10	/ c.o.
+rem C:\WORKS_2\a.bat && s c && f i && f t && start G:\tmp.20220507_191202 && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" 
+
+rem : 2022年11月27日9:14:06 / remove : "update date.txt"
+C:\WORKS_2\a.bat && s c && f i && f t && start G:\tmp.20220507_191202 && s c1
+
 
 rem s c && f i && s c1 && C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\WS\WS_Cake_IFM11\commands\11-0) update date.txt" && pause
 
