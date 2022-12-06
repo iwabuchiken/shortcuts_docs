@@ -25,45 +25,48 @@ C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_68_tp.log
 
  
 ========================== ###2022年10月30日11:02:28
-s: ランダム+物理学 https://duckduckgo.com/?q=ランダム+物理学&t=h_&ia=web
-	docs
-		確率論と数理物理学* / kyushu-u.ac.jp https://www2.math.kyushu-u.ac.jp/~hara/lectures/12/tsubasa12-slides.pdf
-		
- 
- 
 
-
-========================== ###2022年10月5日17:29:56
-r-7-A1~1.4.1 / 『量子力学　Ⅱ』朝永
-
-G:\photo-books_HD\194_asanaga_ryooshi\194_2_asanaga_ryooshi\
-
-#f-9 / 2022-10-05_16-37-12_000.jpg <G:\photo-books_HD\194_asanaga_ryooshi\194_2_asanaga_ryooshi\2022-10-05_16-37-12_000.jpg>
-
-#f-9:R:2-0 こういう風な
-	-7 而して
-	.~1-0 一般に
-	
-
-
-
- 
- 
- 
- 
- 
-========================== ###2022年10月18日11:40:23
-r-7-B5~1.1 / 『相対論入門　上』 シュッツ 
- 63_relativity_shutz
-
+========================== ###2022年12月5日17:21:43
 //root
-G:\photo-books_HD\63_relativity_shutz\chap_1-2\
+G:\photo-books_HD\221_stat_mecha\221_1_stat_intro
 
-f-2 / 2020-02-09_15-05-28_000.jpg <G:\photo-books_HD\63_relativity_shutz\chap_1-2\2020-02-09_15-05-28_000.jpg>
-	R.1 このように
 
-#f-3 / 2020-02-09_15-05-48_000.jpg G:\photo-books_HD\63_relativity_shutz\chap_1-2\2020-02-09_15-05-48_000.jpg
-	L.
-	L.1 一人の
+
+#f-1.4 / 2022-12-04_16-37-54_000.jpg G:\photo-books_HD\221_stat_mecha\221_1_stat_intro\2022-12-04_16-37-54_000.jpg
 	
 
+
+========================== ###2022年12月6日10:19:33
+//root
+G:\photo-books_HD\223_astro_calc\223_1_1_astro_measure
+
+#f-1-1.1 / 2022-12-06_09-28-14_000.jpg G:\photo-books_HD\223_astro_calc\223_1_1_astro_measure\2022-12-06_09-28-14_000.jpg
+	
+	
+	
+	
+
+
+
+========================= ### steps
+//from : C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat
+
+//closing // 2022年11月10日12:30:52
+1. open --> freemind (m1)
+	1. c/p new lines --> to : m1
+	2. next node --> to "n:" node
+	3. time --> gen, paste
+	4. next node --> move
+3. close
+	1. image fiels
+	2. web pages
+	3. folders
+	4. calculator
+6. apps		--> end
+	1. ods file
+	2. sakura files
+		1. new lines --> delete
+		2. git
+	3. close
+		1. sakura files
+		2. freemind
