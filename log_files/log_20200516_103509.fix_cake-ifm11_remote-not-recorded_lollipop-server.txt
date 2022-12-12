@@ -161,6 +161,9 @@
 			###2022年11月19日11:13:34
 			#DELETE FROM images WHERE id >= 55793;
 			
+			###2022年12月12日15:53:52
+			#DELETE FROM images WHERE id >= 56046;
+			
 			@@@
 			
 			###XXX

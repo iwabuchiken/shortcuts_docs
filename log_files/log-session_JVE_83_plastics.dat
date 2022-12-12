@@ -72,16 +72,54 @@ G:\photo-books_HD\222_clean_energy\222_8_hydrogen
 
 	@@@
 
-#f-8.3 / 2022-12-08_16-43-22_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-43-22_000.jpg
+#f-8.X / 2022-12-08_16-44-11_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-44-11_000.jpg
 
-	R.
-	L.~1 つぎに、
+	R.1 二五度、
+		w:
+			標準自由エンタルピー
+				https://chemical-engineering-review.com/standard-enthalpy-of-formation/
+				https://www.syero-chem.com/entry/2019/09/05/ギブズの自由エネルギー・標準ギブズエネルギー
+				
+
+
+
+#f-8.X / 2022-12-08_16-44-22_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-44-22_000.jpg
+
+
+#f-8.X / 2022-12-08_16-44-40_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-44-40_000.jpg
+
+
+#f-8.X / 2022-12-08_16-44-52_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-44-52_000.jpg
+
+
+#f-8.X / 2022-12-08_16-45-11_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-45-11_000.jpg
+
+
+#f-8.X / 2022-12-08_16-45-25_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-45-25_000.jpg
+
+
+#f-8.X / 2022-12-08_16-45-38_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-45-38_000.jpg
+
+
+#f-8.X / 2022-12-08_16-45-50_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-45-50_000.jpg
+
+
+#f-8.X / 2022-12-08_16-46-00_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-46-00_000.jpg
+
+
+#f-8.X / 2022-12-08_16-46-11_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-46-11_000.jpg
+
+
+#f-8.X / 2022-12-08_16-46-55_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-46-55_000.jpg
+
+
+#f-8.X / 2022-12-08_16-47-09_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-47-09_000.jpg
+
+
+
 	
-
-
-
-#f-8.4 / 2022-12-08_16-43-34_000.jpg G:\photo-books_HD\222_clean_energy\222_8_hydrogen\2022-12-08_16-43-34_000.jpg
-
+	
+	
 
 //========================== zasoby.pl
 ========================== #2022年11月2日15:02:02
@@ -104,6 +142,15 @@ C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics\
 "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics\s-22~.ods"
 
 ========================= ### steps
+// file labels	/ 2022年12月12日16:29:27
+1. gen --> directory list
+2. delete lines --> non-file-name-lines.
+2. replace
+	^\d+\t	
+	(.+\.jpg)	#f-8.X / $1 G:\\photo-books_HD\\222_clean_energy\\222_8_hydrogen\\$1
+	jpg$	jpg\r\n\r\n
+
+
 
 //start / 2022年12月8日12:08:17
 1. console
