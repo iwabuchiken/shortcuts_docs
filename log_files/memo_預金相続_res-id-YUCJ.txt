@@ -1,0 +1,68 @@
+###2022年12月13日23:14:18
+
+res-id=YUCJ
+
+session:1
+
+	委託契約 登記
+	https://duckduckgo.com/?q=委託契約+登記&t=h_&ia=web
+		
+		:d-1 / 「業務委託契約」について完全解説 https://vs-group.jp/tax/startup/media/establishment/starting/11052.html
+			
+			法律的行為としての事務を委任する契約が、「委任契約」
+			善良な管理者としての注意を払う義務
+			トラブルに対しては責任を負わない
+			委任は無償が原則
+			契約書で報酬についての特約を記述
+		
+		登記業務委託仕様書 https://www.skr.mlit.go.jp/youti/touki/itakushiyousho300401.pdf
+		
+		業務委託契約書 https://www.moj.go.jp/content/000073803.pdf
+		
+		業 務 委 託 契 約 書 http://www.ucatv.ne.jp/~office-h/itaku-tatemono.pdf
+		
+	
+	https://duckduckgo.com/?q=民法+登記+対象&t=h_&ia=web		
+		https://ja.wikipedia.org/wiki/登記#登記の種類
+	
+	https://duckduckgo.com/?q=共同所有+公示&t=h_&ia=web
+		
+	
+	n:
+		1. d-1 --> czytac`
+		2. see --> memo(paper)
+	
+	]23:33:58
+	
+	[0:25:29
+	
+	s: 民法 委任契約 https://duckduckgo.com/?q=民法+委任契約&t=h_&ia=web
+	
+		委任契約書は、民法改正でどう変わる https://aglaw.jp/ininkeiyaku-kaisei/#index_id0
+		
+		https://ja.wikisource.org/wiki/民法_(日本)#第十節_委任
+			費用を支出したときは、[...]償還を請求することができる。
+		
+		https://ja.wikipedia.org/wiki/委任
+		
+		民法第643条 – 委任 https://tek-law.jp/civil-code/claims/contracts/mandates/article-643/
+		
+		委任契約とは？改正ポイントを解説！ https://keiyaku-watch.jp/media/keiyakuruikei/minpo202004_inin/
+		
+		委任契約(わかりやすい条文解説) https://minpolabo.com/2018/09/25/joubun643/
+		
+		
+		
+		<mysli>
+			1. 口座を新たに作る。銀行へ行く。車にせよ、電車にせよ。運賃、ガソリン代。そして、お兄さんの労賃。
+				交通費：ガソリン、５００円
+				労賃：お兄さんは、日当たりにすれば、５万円ぐらいの稼ぎではないか？口座開設、所要、半日として、２万５千円。便利屋さんに頼んでも、４千円ぐらいは払うだろう。
+				　=>　委任に際しては、報酬として、２万円はくだらないだろう。
+			2. 口座を作ったあとも、いざとなれば、お兄さんが、１番手として、請求へ対応せざるをえない。「警戒している」、という負担。
+		<conc>
+			1. 上記の mysli を見返してみて。３万円じゃないか？報酬の相場は。
+		
+		]0:52:24
+		
+	
+	

@@ -125,17 +125,31 @@ rem // 2022年10月15日17:10:26
 rem 3-2)------------------ start : yandex browser ]]
 echo "starting brouser : yandex ....."
 rem C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application\browser.exe
-start C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application\browser.exe
+rem start C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application\browser.exe
 
 echo "yandex browser called"
 
 rem : c/o : 2021年7月14日13:54:42
+pushd C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application\
 rem pushd C:\WORKS_2\Programs\opera
 
+rem //cake
 rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+68+v-2.0+theoretical&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+83+chemistry&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
+rem //duckduck
+set url_2="https://duckduckgo.com/?q=&t=h_&ia=web"
+rem //wiki
+set url_3="https://ja.wikipedia.org/wiki/三角関数の公式の一覧"
+rem //trans
+set url_4="https://translate.google.co.jp/?hl=ja&tab=iT&sl=ko&tl=ja&op=translate"
+
+set urls=%url_1% %url_2% %url_3% %url_4%
 
 rem echo opening browser... : %url_1%
 
+browser.exe %urls%
+
+rem launcher.exe %urls%
 rem launcher.exe %url_1%
 
 REM =================================
@@ -216,6 +230,7 @@ rem //2022年10月18日16:29:39
 exit
 
 rem pause
+
 
 
 
