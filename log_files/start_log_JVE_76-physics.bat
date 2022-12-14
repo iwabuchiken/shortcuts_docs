@@ -147,7 +147,10 @@ set urls=%url_1% %url_2% %url_3% %url_4%
 
 rem echo opening browser... : %url_1%
 
-browser.exe %urls%
+start C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application\browser.exe %urls%
+rem start C:\Users\iwabuchiken\AppData\Local\Yandex\YandexBrowser\Application\browser.exe //=> working : 2022年12月14日15:56:27
+rem C:\WORKS_2\shortcuts_docs\t.20220429_161510.buffer-file-for-list-of-books.txt.bat && browser.exe %urls%
+rem browser.exe %urls%
 
 rem launcher.exe %urls%
 rem launcher.exe %url_1%
@@ -171,7 +174,8 @@ rem c/o : 2021年10月8日8:03:10
 rem echo %fpath_dat_trans%
 
 rem //2022年9月22日14:44:24
-start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log%
+C:\WORKS_2\shortcuts_docs\t.20220429_161510.buffer-file-for-list-of-books.txt.bat && start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log%
+rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log%
 
 rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
 rem call C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
@@ -230,6 +234,7 @@ rem //2022年10月18日16:29:39
 exit
 
 rem pause
+
 
 
 
