@@ -1,0 +1,54 @@
+
+(あと)	後
+(いし)	石
+(えい)	永
+(か)	化
+(かち)	勝
+(げい)	芸
+(しお)	塩
+(しま)	島
+(じゅん)	順
+(すみ)	炭
+(せい)	正
+(そなえ)	備
+(たから)	宝
+(ち)	地
+(てつ)	鉄
+(とも)	共
+(の)	野
+(のう)	能
+(のり)	則
+(はなれ)	離
+(はん)	藩
+(ばん)	番
+(ひびき)	響
+(ふ)	負
+(ふかし)	蒸
+(ふく)	福
+(ふもと)	麓
+(ふるい)	震
+(みず)	水
+(やす)	安
+(ゆう)	有
+(よる)	夜
+(ろく)	禄
+
+
+
+//--------------- steps
+1. open http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=習字&sort=file_name&direction=asc&RBs_AND_OR_Memo=AND
+2. copy "麓；地；響；宝；永；禄；夜；震；福;藩;島;正;則;備;後;安;芸;野;勝;"
+3. open https://accessreading.org/furigana/
+	1. paste
+	2. copy "変換した文章(1)"
+4. sakura file
+	1. paste
+	2. replace
+		1. (；|;)	\r\n
+		2. (.)(\(.+\))	$2\t$1
+	3. sort
+		1. select list
+		2. M - a
+
+
+

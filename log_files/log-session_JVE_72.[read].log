@@ -1476,9 +1476,34 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 
 
 
-###
+###2022年12月16日10:42:51
 
-
+	(res:カニ：分類
+		res-id=DTS0
+		ref:2022-12-15_17-00-14_000.jpg
+		
+		https://ja.wikipedia.org/wiki/カニ
+			"節足動物門 Arthropoda"
+			https://ja.wikipedia.org/wiki/関節肢
+			https://ja.wikipedia.org/wiki/脊椎動物
+				https://ja.wikipedia.org/wiki/後口動物
+				https://ja.wikipedia.org/wiki/左右相称動物
+					https://kotobank.jp/word/相称-89441
+				
+			https://ja.wikipedia.org/wiki/両生類
+	
+	(res:已然形
+		res-id=PWCY
+		
+		https://ja.wikipedia.org/wiki/已然形
+		https://www.weblio.jp/content/已然形
+		https://ja.wikibooks.org/wiki/古語活用表
+	
+	[14:06:24
+	
+	(bk:hukuzawa
+		
+		
 
 
 
