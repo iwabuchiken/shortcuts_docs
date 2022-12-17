@@ -31,6 +31,7 @@ set fpath_batch="%dpath_batch%\%fname_batch:"=%"
 set fname_log="log-session_JVE_68_tp.log"
 rem set fname_log="log-session_JVE_76-physics.log"
 
+rem set fpath_log="%dpath_batch%\%fname_log:"=% C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat"
 set fpath_log="%dpath_batch%\%fname_log:"=%"
 
 set fname_dat="log-session_JVE_76-physics.dat"
@@ -174,7 +175,7 @@ rem c/o : 2021年10月8日8:03:10
 rem echo %fpath_dat_trans%
 
 rem //2022年9月22日14:44:24
-C:\WORKS_2\shortcuts_docs\t.20220429_161510.buffer-file-for-list-of-books.txt.bat && start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log%
+C:\WORKS_2\shortcuts_docs\t.20220429_161510.buffer-file-for-list-of-books.txt.bat && start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% && start C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_83_plastics.dat
 rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log%
 
 rem start C:\WORKS_2\Programs\sakura\sakura.exe %fpath_log% %fpath_dat%
@@ -234,6 +235,7 @@ rem //2022年10月18日16:29:39
 exit
 
 rem pause
+
 
 
 
