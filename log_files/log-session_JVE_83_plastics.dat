@@ -40,19 +40,28 @@ r-1-1~1.3 / 『読み物　物理化学』
 
 @@@
 
-		n:104
-	:106
-		related
-			https://ja.wikipedia.org/wiki/水素結合
-		106^s-1 / sheet C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics\s-64~.ods
-		n: 106; see memo
-	:107
-		表　１１．３
-		107^s-1 / sheet C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\83_plastics\s-64~.ods	tab:s-65
 	:109
 		w:
 			分極
-			
+		n: 91
+	:94
+		SEG 
+			Q-WYBD
+				s: https://duckduckgo.com/?q=電流+磁界+強さ&t=h_&ia=web
+					:d-1 / 直線電流による磁界 https://hegtel.com/ac-current-jikai.html#直線電流による磁界
+				https://duckduckgo.com/?q=電流+強さ&t=h_&ia=web
+					:d-2 / 電流の大きさ https://wakariyasui.sakura.ne.jp/p/elec/dennryuu/dennryuu.html
+						#1
+						#2 電流の大きさというのは、電荷の流量
+						#3 もうちょっと詳細な電流の大きさ
+						 
+						 
+						
+					
+					
+	
+
+	
 	
 	
 	
