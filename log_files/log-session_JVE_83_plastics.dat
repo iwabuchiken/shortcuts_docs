@@ -48,13 +48,27 @@ r-1-1~1.3 / 『読み物　物理化学』
 		SEG 
 			Q-WYBD
 				s: https://duckduckgo.com/?q=電流+磁界+強さ&t=h_&ia=web
-					:d-1 / 直線電流による磁界 https://hegtel.com/ac-current-jikai.html#直線電流による磁界
+					:d-1 / https://hegtel.com/ac-current-jikai.html
+						#1 直線電流による磁界 https://hegtel.com/ac-current-jikai.html#直線電流による磁界
+						#2 https://hegtel.com/ac-current-jikai.html#円形コイルが中心に作る磁界
+						 
+					
 				https://duckduckgo.com/?q=電流+強さ&t=h_&ia=web
 					:d-2 / 電流の大きさ https://wakariyasui.sakura.ne.jp/p/elec/dennryuu/dennryuu.html
 						#1
 						#2 電流の大きさというのは、電荷の流量
 						#3 もうちょっと詳細な電流の大きさ
-						 
+				s: 電子%E3%80%80速度 https://duckduckgo.com/?q=電子%E3%80%80速度&t=h_&ia=web
+					電流の速さ https://wakariyasui.sakura.ne.jp/p/elec/dennryuu/dennryuu_ho.html#hayasa
+				s: 電子+スピン%E3%80%80速度 https://duckduckgo.com/?q=電子+スピン%E3%80%80速度&t=h_&ia=web
+					量子力学のスピン https://xseek-qm.net/spin.html
+						related
+							3次元球面の回転によるスピン1/2の二価性と角運動量の導出 https://xseek-qm.net/Spin.htm
+					スピンとは何か https://eman-physics.net/quantum/spin.html
+					
+							
+					
+				
 						 
 						
 					
