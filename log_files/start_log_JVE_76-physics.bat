@@ -139,8 +139,11 @@ rem set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?f
 set url_1="http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=jve+83+chemistry&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND"
 rem //duckduck
 set url_2="https://duckduckgo.com/?q=&t=h_&ia=web"
+
 rem //wiki
-set url_3="https://ja.wikipedia.org/wiki/三角関数の公式の一覧"
+rem set url_3="https://ja.wikipedia.org/wiki/三角関数の公式の一覧"
+set url_3="https://ja.wikipedia.org/wiki/"
+
 rem //trans
 set url_4="https://translate.google.co.jp/?hl=ja&tab=iT&sl=ko&tl=ja&op=translate"
 
@@ -235,6 +238,7 @@ rem //2022年10月18日16:29:39
 exit
 
 rem pause
+
 
 
 
