@@ -1906,6 +1906,8 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 				https://kotobank.jp/word/払子-133525
 					https://kotobank.jp/word/威儀-431141
 						平絎 袈裟
+							https://kotobank.jp/word/平絎-613799
+								（読み）ひらぐけ
 		
 		1
 		
@@ -1961,21 +1963,97 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		前頭前野
 		
 		
-
+	[2023年1月2日18:51:58
 		
-
-
-@@@
-
+		(bk:hukuza
+		
+		192
+			
+			当務
+				https://kotobank.jp/word/当務-339839
+					現在、執っている事務。
+			
+			執行 意味
+			https://dictionary.goo.ne.jp/word/不料簡/
+			http://yourei.jp/不外聞
+			
+		]19:10:08
+			
 
 
 ###
 
+	[2023年1月3日9:50:18
+	
+	(res:日本：死因：上位事物
+	id.NFKE
+	
+		日本 死因ランキング 2022
+		https://duckduckgo.com/?q=日本+死因ランキング+2022&t=h_&ia=web
+			
+			死因順位(第5位まで)別にみた年齢階級・性別死亡数・死亡率(人口10万対)・構成割合 https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/suii09/deth8.html#
+			人口動態統計年報　主要統計表(最新データ、年次推移) https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/suii09/index.html
+			
+		
+		sheet C:\WORKS_2\shortcuts_docs\log_files\res_theme~cause-of-death_id~NFKE_20230103_100924.ods
+		
+		<otkryto>
+			1. 총수
+				1. 20~39. 사망 원인의 제1위는 : 자살.
+				2. 40~89. 악성종양
+		
+		n:
+			1. 암의 부위별 사망수.
+				https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/suii09/deth15.html
+			2. 한국에서의 사망원인 랭킹.
+		
+		]10:56:34
+	
+	[2023年1月3日10:57:46
+	
+	(bk:228_minzoku_sisoo
+	
+		*
+		
+		https://duckduckgo.com/?q=平絎帯&t=h_&ia=web
+			https://kyo-ya.net/hanten/平ぐけ帯（ひらぐけおび）とは/
+				化粧半纏
+				役半纏
+		
+		90
+		
+			考覩
+			https://kotobank.jp/word/覩%28漢字%29-2789370
+			唯命是从
+			
+			公事
+				https://dictionary.goo.ne.jp/word/公事_%28くじ%29/
+				https://kotobank.jp/word/公事方-483269
+			https://kokugo.jitenon.jp/word/p45403
+				無聊
+			
+			https://furigana.info/w/咸陽一炬:かんよういっきょ
+		
+		]12:31:37
+			
+	[2023年1月3日13:59:11
+	
+	(article
+		id.M5NK
+		
+		https://www.presstv.ir/Detail/2023/01/02/695621/Iran-oil-exports-revenues-2023-estimate-parliament
+			
+			https://www.meti.go.jp/statistics/tyo/sekiyuso/result/pdf/h2j581011j.pdf
+			https://www.meti.go.jp/statistics/tyo/sekiyuso/result.html
+			品別国別表 :条件入力 https://www.customs.go.jp/toukei/srch/index.htm?M=01&P=0
+			03. 原油・粗油及び石油製品CIF価格（月次確報） http://www.paj.gr.jp/statis/trade/
+			:d-1 /  https://www.customs.go.jp/toukei/shinbun/trade-st/2022/2022_316.pdf
+				from https://www.customs.go.jp/toukei/latest/index.htm
+				
+			
+	
 
-
-
-
-
+@@@
 
 ###
 
