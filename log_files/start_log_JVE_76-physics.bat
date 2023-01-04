@@ -147,7 +147,8 @@ set url_3="https://ja.wikipedia.org/wiki/"
 rem //trans
 set url_4="https://translate.google.co.jp/?hl=ja&tab=iT&sl=ko&tl=ja&op=translate"
 
-set urls=%url_1% %url_2% %url_3% %url_4%
+set urls=%url_1% %url_3% %url_4% %url_2%
+rem set urls=%url_1% %url_2% %url_3% %url_4%
 
 rem echo opening browser... : %url_1%
 
@@ -238,6 +239,7 @@ rem //2022年10月18日16:29:39
 exit
 
 rem pause
+
 
 
 
