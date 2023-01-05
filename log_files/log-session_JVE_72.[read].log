@@ -2129,6 +2129,8 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		95
 			丁
 			竜神山 和歌山県
+				龍神山（りゅうぜんさん） https://www.tanabe-kanko.jp/view/sizen/ryuzensan/
+				
 			
 		]11:13:33
 		
@@ -2157,13 +2159,98 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 			https://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41192.html
 			:d-1 / https://hp.otenki.com/486/
 			
+	
+	[2023年1月5日1:02:19
+	
+		(bk:huku
+		
+			198
+				https://kotobank.jp/word/時運-516287
+				https://ja.wikipedia.org/wiki/時事新報
+	
 
-@@@
 
 
 ###
 
+	[2023年1月5日9:37:23
+	
+	(bk:yamaguchi
+		session-id.4XRU
+		
+		68
+			一川誠
+		72
+			ドーパミン
+				https://ja.wikipedia.org/wiki/ドーパミン
+					https://ja.wikipedia.org/wiki/カテコール
+				中脳辺縁系 http://shimaphoto03.com/psy/schi/
+				中脳辺縁系 https://physioapproach.com/dopamine-pain-relief.html
+				脳の構造と統合失調症（ドパミンとセロトニン） https://kusuri-jouhou.com/domestic-medicine/schizophrenia4.html
+				ドパミンの神経核 https://kanri.nkdesk.com/hifuka/sinkei28.php
+				脳内のドパミン経路 https://www.mental-navi.net/togoshicchosho/treatment/drug_therapy/characteristic.html
+				
+	[2023年1月5日10:58:42
+	
+		(bk:228_minzoku_sisoo
+		
+		96
+		
+			里
+			耶馬渓
+				https://ja.wikipedia.org/wiki/耶馬渓
+					（やばけい）
+			奇絶峡
+				https://www.tanabe-kanko.jp/view/sizen/kizekkyo/
+					（きぜつきょう）
+			大足跡石
+				https://www.mikumano.net/meguri/kizetukyo.html
+				https://www.weblio.jp/content/足跡石
+					アシアトイシ（
+			「涙壺」をめぐる比較考 https://older.minpaku.ac.jp/museum/event/salon/079
+			w: 推問 / 貴息 / 申越す / 伝話 / 俚話 / 坊間
+				https://kotobank.jp/word/坊間-627260
+				https://kotobank.jp/word/申越す-644929
+					言ってよこす
+				https://dictionary.goo.ne.jp/word/kanji/俚/
+				
+			邑久郡
+				https://ja.wikipedia.org/wiki/邑久郡
+					（おくぐん）
+		98
+			村井長庵
+				https://kotobank.jp/word/村井長庵-642358
+			白井権八
+			https://ja.wikipedia.org/wiki/根来村
+			
+		]12:07:58
+	
+	[2023年1月5日14:10:16
+		
+		(res:日本
+			id.4RF5
+			
+			https://duckduckgo.com/?q=日本+養鶏+統計&t=h_&ia=web
+				鶏卵に関するさまざまな統計資料 http://www.jpa.or.jp/tokei/index.html
+				:d-1 / 成鶏羽数(各年２月１日)の推移 http://www.jpa.or.jp/tokei/fp/seikei/seikei220721.pdf
+				https://www.maff.go.jp/j/tokei/kouhyou/tikusan/#r
+				https://www.maff.go.jp/j/chikusan/kikaku/tikusan_sogo/tori.html
+				畜産統計調査 https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00500222&tstat=000001015614&cycle=7&year=20220&month=0&tclass1=000001020206&tclass2=000001171886
+					"ブロイラー
+					飼養戸数・羽数（全国農業地域・都道府県別）
+			
+			元号・西暦変換表 https://www.muenchen.de.emb-japan.go.jp/files/100124038.pdf
+			
+			memo:
+				replace
+				^\d..+…\r\n	\t
+							\t
+				^\t	
+			
+			sheet: C:\WORKS_2\shortcuts_docs\log_files\res_theme~nihon-broiler_id~4RF5_20230105_143919.ods
+				
 
+@@@
 
 
 
