@@ -2459,8 +2459,8 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 					窯
 				登窯 https://touroji.com/elementary_knowledge/noborigama.html
 				
-				
-			w: 福井県丹生郡[にぶ / 吉野村 / 流釉[ながしぐすり / さっくり（着物） / 鯖江（地名） / 三國港 / 船箪笥 / 金沢　加賀 / 兼六公園 / 総持寺 / 九谷焼 / 藍絵 染付[そめつけ / 赤絵 / 江沼郡（石川県） / 
+			##loc:20230110_095246
+			w: 福井県丹生郡[にぶ / *吉野村 / *流釉[ながしぐすり / *さっくり（着物） / *鯖江（地名） / *三國港 / *船箪笥 / 金沢　加賀 / ##n:20230110_113923 兼六公園 / 総持寺 / 九谷焼 / 藍絵 染付[そめつけ / 赤絵 / 江沼郡（石川県） / 
 		
 		]11:32:41 （ひとまず）
 
@@ -2474,13 +2474,67 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 			
 		]13:09:07
 
+	[2023年1月10日1:29:08
+	
+	(res:natural-history:ニンニク
+		id.69BC
+		https://ja.wikipedia.org/wiki/ニンニク
+		
+		n: "古代日本では上記の通り
+		
+		]2:10:39
 @@@
 
 ###
 
-
-
-
+	[2023年1月10日9:38:05
+	
+	(bk:228_minzoku_sisoo
+	
+		-->##loc:20230110_095246
+			*吉野村 福井県
+				https://www.openstreetmap.org/?mlat=36.07214&mlon=136.29614&zoom=12#map=14/36.0616/136.3031
+			流釉
+				https://youtu.be/3Ys7Ye3phD0
+					【制作の現場から】 ⑥釉薬の流し掛け 陶芸家・關まどか 展 釉の景色Ⅲ 【From the workshop 】Glaze
+				https://kanji.reader.bz/流釉
+			さっくり（着物）
+				https://itoshiro.org/collections/sakkuri
+					"麻のクズワタ
+					"からむし
+					https://duckduckgo.com/?q=麻ワタ&t=h_&ia=web
+						https://furusato-omihachiman.jp/items/detail.html?id=bbe67506978f8e4a99f69301f7b9547b
+							w: 近江本麻 / 敷きパッド / 吸放湿性 / 中綿 / 近江本麻綿 / 麻の長繊維 / クリンプ加工 / 表生地 / 近江本麻 /  /  /  /  /  /  / 
+							m: 
+								他の繊維に比べ保温性が低く
+								放射性に優れて
+						https://ja.wikipedia.org/wiki/真綿
+							https://ja.wikipedia.org/wiki/絹
+								"繰糸の状態にしたままの絹糸
+								"精練して[...]光沢や柔軟さを[...]練糸（ねりいと）
+								https://ja.wikipedia.org/wiki/草木染め
+									w.繊維染着
+						http://cl-mine.cocolog-wbs.com/blog/2007/11/1_e5e3.html
+							"長繊維の国産の麻ワタを
+							<== 写真、あり
+			> https://ja.wikipedia.org/wiki/鯖江市
+			
+			> 三國港
+				三國湊の歴史と概要 https://kanko-sakai.com/feature/detail.php?id=4
+					w: 足羽川 / 一乗谷朝倉氏遺跡 / 北の庄城 /  /  /  /  /  /  /  /  /  / 
+						https://ja.wikipedia.org/wiki/足羽川
+						https://ja.wikipedia.org/wiki/一乗谷朝倉氏遺跡
+						https://ja.wikipedia.org/wiki/足羽山
+			> 船箪笥
+				https://duckduckgo.com/?q=船箪笥&t=h_&ia=web
+					船箪笥とは？ http://funadansu.com/?page_id=10
+						w: 欅材 / 拭き漆 /  /  /  /  /  /  /  /  / 
+						m: 海に浮かぶ /  /  /  /  / 
+				https://funadansu.iwate-tohoku.jp/
+		
+		n:
+			-->##n:20230110_113923
+	]11:40:11
 
 
 
