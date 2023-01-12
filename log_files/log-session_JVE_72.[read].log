@@ -2605,19 +2605,99 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 				えぬまぐん
 		247
 		##n:20230111_120430
-			w: 色料 / 絵付け / 格 / 大樋焼[おおひやき / 楽焼[らくやき / 雑器 / 赤楽 / 富山県婦負[ねい郡長岡村 / 倣う / 鶴来[つるき町 / 蒲製 / はばき / またたび細工 / 負籠（「いこ」） / 
+			w: *色料 / *絵付け / *格 / *大樋焼[おおひやき / *楽焼[らくやき / 雑器 / *赤楽 / *富山県婦負[ねい郡長岡村 / 倣う / ##n:20230112_121250 鶴来[つるき町 / 蒲製 / はばき / またたび細工 / 負籠（「いこ」） / 
 		
 		n:
 			-->##n:20230111_120430
 				
 	]12:03:58
 
-
-
-@@@
+	[2023年1月11日17:37:31
+	
+	(bk:rongo
+	
+		孔子
+		漢字 壇
+		漢字 てへん 壇
+			https://kanji.jitenon.jp/kanjih/3727.html
+				擅
+					音読み	セン
+					ゼン
+					訓読み	ほしいまま
+					ゆず（る）
+	]17:52:58
+	
+	[2023年1月12日1:15:24
+	
+	(bk:huku
+	
+		202
+		
+			歯する
+	
 
 ###
 
+	[2023年1月12日10:07:52
+	
+	(bk:228_minzoku_sisoo
+		session-id.0BDM
+		
+		-->##n:20230111_120430
+		
+		色料
+			https://www.jfpi.or.jp/webyogo/index.php?term=1032
+				"顔料は[...]粒子 / 染料は分子状
+		
+		絵付け
+			https://kotobank.jp/word/絵付け-445260
+				"かき、焼き付ける
+		格
+			https://kotobank.jp/word/格-43513
+				"かもし出すすぐれた個性
+			https://www.okjiten.jp/kanji790.html
+		大樋焼
+			:d-1 https://ja.wikipedia.org/wiki/大樋焼
+				"轆轤は使わず
+				https://kotobank.jp/word/篦-596105
+					related
+						https://kotobank.jp/word/矢竹・箭竹-400479#E7.B2.BE.E9.81.B8.E7.89.88.20.E6.97.A5.E6.9C.AC.E5.9B.BD.E8.AA.9E.E5.A4.A7.E8.BE.9E.E5.85.B8
+							読み）やだけ
+							"矢尻(やじり)と羽との間
+						https://ja.wikipedia.org/wiki/金腐川
+							かなくさりがわ）
+							"“金が腐る”程、洪水
+							
+							https://ja.wikipedia.org/wiki/ラグーン
+								"潟湖（せきこ）
+								
+		楽焼
+			https://ja.wikipedia.org/wiki/楽焼
+				"轆轤を使用せず
+				"「手捏ね」（てづくね）
+				"軟質施釉陶器
+			related
+				:d-2 / 和楽（京都楽焼　赤楽松島抹茶茶碗） https://www.ippinkogei.com/SHOP/B00004578.html
+				
+		雑器
+			https://kotobank.jp/word/雑器-510962
+				（読み）ざっき
+				ぞう‐き ザフ
+				ざつき
+				s: 神棚 雑器
+		
+		富山県婦負郡[ねい
+			https://ja.wikipedia.org/wiki/婦負郡
+		
+		鶴来町[つるき
+
+		n: -->##n:20230112_121250
+	
+	]12:13:18
+
+			
+
+@@@
 
 
 
