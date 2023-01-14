@@ -2605,7 +2605,7 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 				えぬまぐん
 		247
 		##n:20230111_120430
-			w: *色料 / *絵付け / *格 / *大樋焼[おおひやき / *楽焼[らくやき / 雑器 / *赤楽 / *富山県婦負[ねい郡長岡村 / 倣う / ##n:20230112_121250 鶴来[つるき町 / 蒲製 / はばき / またたび細工 / 負籠（「いこ」） / 
+			w: *色料 / *絵付け / *格 / *大樋焼[おおひやき / *楽焼[らくやき / 雑器 / *赤楽 / *富山県婦負[ねい郡長岡村 / 倣う / ##n:20230112_121250 *鶴来[つるき町 / *蒲製 / *はばき / *またたび細工 / *負籠（「いこ」） / 
 		
 		n:
 			-->##n:20230111_120430
@@ -2658,6 +2658,7 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 			https://www.okjiten.jp/kanji790.html
 		大樋焼
 			:d-1 https://ja.wikipedia.org/wiki/大樋焼
+				（おおひやき）
 				"轆轤は使わず
 				https://kotobank.jp/word/篦-596105
 					related
@@ -2695,29 +2696,145 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 	
 	]12:13:18
 
+	[2023年1月12日17:37:11
+	
+	(bk:yamaguchi
+	
+		91
+		
+		https://duckduckgo.com/?q=背側経路&t=h_&ia=web
+		
+			w.視運動性眼振
+				https://qqqmeisi.com/2016/06/05/gansin/
+		
+		]17:56:14
+	
+	[2023年1月13日1:02:15
+	
+	(bk:126_mooshi
+	
+		孟子
+
+###
+
+	[2023年1月13日9:35:29
+	
+	(bk:228_minzoku_sisoo
+		session-id(s-id).XHMZ
+	
+		-->##n:20230112_121250
+		
+		鶴来町[つるき
+			https://ja.wikipedia.org/wiki/鶴来町
+				つるぎまち）
+		
+		蒲製
+			https://kotobank.jp/word/蒲-465548
+			https://ja.wikipedia.org/wiki/ガマ
+				"上部は[...]雄花穂
+				https://plaza.rakuten.co.jp/fund7310/diary/201708020002/
+					"上半分の雄花は飛散
+				https://sugawara.tokyo/dictionary/typha
+					"先端の細い部分が雌花
+		はばき
+			https://ja.wikipedia.org/wiki/ハバキ
+				"日本刀の部材の一つ
+			https://kotobank.jp/word/蒲脛巾-2024062
+				がまはばき
+				https://duckduckgo.com/?q=蒲脛巾&t=h_&iar=images&iax=images&ia=images
+					:d-1 https://forum.hkgolden.com/thread/4544995/page/1
+		
+		またたび細工
+			https://duckduckgo.com/?q=またたび細工&t=h_&ia=web
+				https://www.town.kaneyama.fukushima.jp/kaneyamanotakara/Tra/tra05.html
+					s: 金山町 福島県
+						https://ja.wikipedia.org/wiki/金山町_(福島県)
+		
+		負籠（「いこ」）
+		https://duckduckgo.com/?q=負い籠&t=h_&iax=images&ia=images&iai=https%3A%2F%2Fitem-shopping.c.yimg.jp%2Fi%2Fn%2Fsp2d_160031
+			https://camp-fire.jp/projects/8164/activities/14340
+				>image 57961c3d-c6e0-42e0-84ea-0d780ab98d5f.avif
+					C:\WORKS_2\Downloads\docs_jve
+		
+		n:
+			본문으로 돌아온다.
+		
+		]11:57:17
 			
 
+	[2023年1月13日15:07:15
+	
+	(article
+		id.9N3I
+		
+		https://sputniknews.cn/20230113/1047098253.html
+		https://sputniknews.cn/20230113/1047097745.html
+		
+			s: 中国 米国 貿易額
+				2021年の米中貿易、輸出入額ともに過去最高 https://www.jetro.go.jp/biz/areareports/2022/8f530d7e9147b49a.html
+			
+			s: ロシア 人口
+			s: 米国 人口
+			s: 中国 GDP
+	
+	
+	[2023年1月13日16:57:50
+	
+	(res.
+		id.5HE5
+		
+		s: 四元数 公式
+			
+		
+		]17:24:57
+
+	[2023年1月13日20:28:41
+	
+	(bk:206_1_3_reikon
+	
+		65
+		
+		w: 北津軽郡金木町 / 西津軽郡 /  /  /  /  /  / 
+
+		金木町
+			https://ja.wikipedia.org/wiki/金木町
+				かなぎまち）
+
+		]20:45:43
+		
+		
+
+
+
+###
+
+	[2023年1月14日10:00:29
+	
+	(bk:yamaguchi
+		s-id.WOVR[alphabet-o]
+		93
+		95
+			錐体細胞
+			:d-1 / https://ko.wikipedia.org/wiki/원추세포
+				related
+					:d-2 / https://zh.wikipedia.org/wiki/轴突
+					s: 
+						https://www.zhihu.com/question/381169011
+							<= 突出的类型
+					https://baike.baidu.com/item/突触体/22238952
+						"突触小体[...]形成突触体
+					:d-3 / https://ja.wikipedia.org/wiki/中心窩
+						https://ja.wikipedia.org/wiki/黄斑
+					:d-4 / https://ja.wikipedia.org/wiki/目#
+					視覚情報処理 https://www.cis.twcu.ac.jp/~asakawa/MathBio2010/lesson12/index.html
+						<= content : 画像
+						"錐体細胞は杆体細胞よりも大きく
+		]11:51:34
+
+
+
+
 @@@
-
-
-
-
-
-
-###
-
-
-
-
-
-
-
-###
-
-
-
-
-
 
 
 ###
