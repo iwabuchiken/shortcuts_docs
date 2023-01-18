@@ -2930,7 +2930,7 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		
 		248
 		
-		w: *山中 加賀 / 輪島塗り / *芙蓉紋[ふようもん / ##n:20230116_120313 木地[きじ 指物[さしもの 檜物[ひもの / 轆轤:sketch / 挽く[ひ / 椀 / 曲物[まげもの / ほかい / 行器 / 工人 / ゆべし / 柚 / 上布[じょうふ / 鹿島郡能登部村[のとべ / 能登上布 / 小千谷[おじや / 能美郡白峯[のみ；しらみね / 白山紬[つむぎ /  /  /  /  /  /  /  /  /  /  /  / 
+		w: *山中 加賀 / 輪島塗り / *芙蓉紋[ふようもん / ##n:20230116_120313 木地[きじ 指物[さしもの ##n:20230117_172646 *檜物[ひもの / *轆轤:sketch / *挽く[ひ / *椀 / 曲物[まげもの / *ほかい / %行器 / *工人 / *ゆべし / %柚 / 上布[じょうふ / *鹿島郡能登部村[のとべ / 能登上布 / 小千谷[おじや / 能美郡白峯[のみ；しらみね / ##n:20230118_122702 白山紬[つむぎ /  /  /  /  /  /  /  /  /  /  /  / 
 			
 			:d-1 / 芙蓉紋　５寸皿 https://nikko.thebase.in/items/13030669
 		
@@ -2938,27 +2938,319 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		
 		]12:03:31
 
+	[2023年1月16日21:49:22
+	(article	+res
+		id.679B
+		
+		https://www.granma.cu/cuba/2023-01-15/cuales-son-las-proyecciones-de-la-produccion-de-arroz-en-cuba-15-01-2023-22-01-27
+			"requiere más de 600 000 toneladas 
+			
+			
+		令和3年産水陸稲の収穫量 https://www.maff.go.jp/j/tokei/kekka_gaiyou/sakumotu/sakkyou_kome/suiriku/r3/syukaku/index.html
+			
+			"主食用の収穫量は700万7,000t
+		
+		<obs>
+		1. 쿠바의 쌀 필요량 --> 일본의 생산량의 약 8.56 퍼센트.(레이와 3년도의 데이터)
 
 
 
 
+###2023年1月17日10:08:20
+
+	[2023年1月17日10:08:18
+	(res
+		id.679B
+		s-id.PWTY
+		一人当たりの消費量
+		
+		]10:28:51
+	
+	[2023年1月17日10:28:54
+	
+	(res
+		id.Y1OP	["omicron", o]
+		
+		s: 旬 野菜
+			https://duckduckgo.com/?q=旬+野菜&t=h_&ia=web
+			https://k52.org/syokuzai/vegetable/
+		
+		s: https://duckduckgo.com/?q=くわい&t=h_&iax=images&ia=images&iai=http%3A%2F%2Fwww.kanazawa-kagayasai.com%2Frakuraku%2Fupload%2F000077_001_image2.JPG
+			
+			:d-1 / https://www.pref.hiroshima.lg.jp/lab/info/kuwai/
+				https://www.pref.hiroshima.lg.jp/lab/info/img/kuwai-01.jpg
+				
+			http://www.kanazawa-kagayasai.com/news/20191224_0001.html
+				:d-2 / http://www.kanazawa-kagayasai.com/rakuraku/upload/000077_001_image2.JPG
+				
+			color / https://www.colordic.org/w
+			
+		]11:16:35
+	
+	[2023年1月17日11:16:44
+	
+	(res
+		id.TB6L
+		
+		s: 口内菌
+			口腔内細菌と体の病気 https://www.houmonshika.org/oralcaremanual/m14/
+				"口のなかの細菌が唾液等に混ざり、 / 誤って肺に入り込み
+				"「不顕性誤嚥」
+				"寝ている間に誤嚥
+				"人の口のなかは[...]37度前後
+				"３００種類の細菌が生息
+				"歯垢１mgに１億個以上
+				"口腔内細菌が血管を通って体全体を
+				"粘膜、舌等のブラッシングや清拭、洗口
+			:d-1 / 口腔内常在菌とは？ https://forhealthcare.jp/article/401/
+				##doc:20230117_113021
+		
+		<otkrytiye>
+		1. 誤嚥　=>　寝ている間に、やってしまう。こともある。（頻度：「多いようです」
+			1. 「多い」。数量は？何と比較して？
+				「年に１２０事例、２０２２年は報告がありました。」　=>　なるほど、多い。だが、誤嚥の報告事例全体が、２０００件だったら？　=>　６パーセント
+			1. 「ようです」　=>　情報元は？「知り合いの介護士の人、１０人ぐらい。その中で、４人ぐらいから、聞いたことがあります。」　=>　「ようです」と、憶測的断定を出すには、足りそうな資料。しかし、もしも、その４人も含めて、１０人が、誤嚥自体の事例に当たったことが多々あり、就寝中の誤嚥は、そうしばしばあるものではない、であるとき。しばしばではないものを、人に、より優先して伝える傾向、人には見いだせるか？「ニュース性効果」、とでも呼ぶような、人の、言説行動に対する影響。
+		）
+		
+		drugiye:
+			1. memo~
+		n:
+			1. -->:d-1(-->##doc:20230117_113021)
+	
+	]11:30:40
+			
+		
+	[2023年1月17日13:02:19
+	
+	(res:
+		id.GLR2
+		genre=areas:zhongguo
+		
+		https://zh.wikipedia.org/zh-cn/資產階級自由化
+			:d-1 / https://zh.wikipedia.org/zh-cn/四项基本原则
+		
+		n: dostatochno
+		
+	]13:21:22
+		
+	[2023年1月17日15:00:56
+	
+	(article
+		https://news.yahoo.co.jp/articles/29a68cae86fec321e17b69e9c0f4652ec5805669
+			対外直接投資（ＦＤＩ）	> 무엇?
+			最大６４８億ドル（約８兆３０００億円）	> 베트남의 GDP에 대한 비율.
+			タインホア省のニソン製油所	> 어디?
+			日量２０万バレル	> 무언가와 비교해 보자.
+			
+		https://news.yahoo.co.jp/articles/146fcb3de2f20f6bd1565ee992a805a741d911ba
+			頼清徳副総統（63）	> 누구?
+			
+	[2023年1月17日15:09:14
+	(res:media
+		id.E4KB
+		
+		orig / https://news.yahoo.co.jp/articles/e145e5e0c6dca43407df27334297429b729744bc
+		saved / C:\WORKS_2\WS\WS_Others\web_pages\news\中国、ビザ発給の一部容認　公務や商務、悪影響を抑制（共同通信） - Yahoo!ニュース.htm
+
+		focus / 
+			"水際対策を強めた日韓への対抗措置として
+		
+		assessment :
+			1. 措置の実施を発表する際に、中国の、外務省か、は、その理由を表明している。(f1) : fact
+			2. この記事が伝えているのは、発給停止の理由は、水際対策への対抗措置、として。(a1) : alledgedly
+			2. 他方、f1 における、中国外務省報道官の、記者会見（だったか）における発表は、韓日が採った対策が、対中国以外と比べて、差別的である、公平ではない、ということだった。
+			3. 短くして言うと、水際措置を実施したこと自体が、理由、ではない。
+
+		klassifikatsiya :
+			1. ある集合 A の、要素の１つ x1 を、理由にする。(x1 ∈ A)
+			1. (x1 ==> B)(S1) であるところ、(A ==> B)(S2) である、と枠付ける。("==>" は、「したがって」)
+			2. 命名：「短絡による、認識の誘導」
+			3. S1 と S2 は、同じ意味の文、ではない。
+			1. 
+			1. 
+	
+	[2023年1月17日15:37:05
+	
+	(res
+		id.DGVP
+		
+		article : https://sputniknews.cn/20230117/1047189362.html
+			saved=+:bookmark
+		
+		resources :
+			https://fx-rate.net/CNY/JPY/#graph
+			s: 日本 可処分所得
+				:d-1 / https://www.esri.cao.go.jp/jp/sna/sonota/kakei/kakei_top.html
+					"計数表（Excel形式：101KB）
+	
+	(res
+		id.UV5V
+		
+		https://sputniknews.cn/20230117/1047188524.html
+		article : 
+		
+		resources :
+			:d-1 / http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/56653
+			
+			:d-2 / article : https://sputniknews.cn/20230117/1047188524.html
+			
+	]16:15:11
+
+	[2023年1月17日16:54:29
+	
+	(bk:228_minzoku_sisoo
+		
+		s-id.
+
+		-->##n:20230116_120313
+		
+		w:
+			https://kotobank.jp/word/指物-69018
+				"金釘(かなくぎ)を使わず
+				"木材を組み合わせて
+				さしもの【指物】
+			https://kotobank.jp/word/木地-473454
+				"塗料を塗る前の
+				（読み）キジ
+				https://urushi9emon.com/items/5cadf875e233da47757e02aa
+		
+		n: -->##n:20230117_172646
+		
+	]17:27:14
+		
+	(bk:yamaguchi
+		s-id.
+		
+		.99
+		
+		大脳皮質視覚野
+			https://duckduckgo.com/?q=大脳皮質視覚野&t=h_&iax=images&ia=images
+			https://cyclopedia.jsmbe.org/大脳皮質視覚領
+			
+		]17:55:44
+		
+
+
+###2023年1月18日10:19:02
+
+	[2023年1月18日10:19:05
+	
+	(bk:228_minzoku_sisoo
+		
+		s-id:C4YJ
+		
+		.248
+		-->##n:20230117_172646
+		>1 s: 檜物 塗り物
+			>2 https://kotobank.jp/word/檜物-612603
+				"わげもの
+				https://kotobank.jp/word/曲物-870758#E4.B8.96.E7.95.8C.E5.A4.A7.E7.99.BE.E7.A7.91.E4.BA.8B.E5.85.B8.20.E7.AC.AC.EF.BC.92.E7.89.88
+					まげもの
+					"片木板（へぎいた）
+					"綰物（わげもの）
+					w: 器壁 / 刻線 / 樺皮（かば）(一般にはヤマザクラの皮)紐 /  /  /  /  / 
+					https://kotobank.jp/word/まげワッパ-1419031
+					https://kotobank.jp/word/瓢箪-613428#E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E5.A4.A7.E8.BE.9E.E6.B3.89
+						https://duckduckgo.com/?q=箪+意味&t=h_&ia=web
+			>2 https://blog.todakohsuke.jp/職人あれこれ/
+				w: 番匠 / 深草土器[かわらけ / 針麿[はりすり /  /  /  / 
+				
+				https://kotobank.jp/word/番匠-118126
+					"中世の建築工匠
+					"古代の木工(こだくみ)、近世の大工(だいく)
+					"上番匠丁(じょうばんしょうちょう)と称した
+		>1 https://duckduckgo.com/?q=轆轤&t=h_&iax=images&ia=images
+			>2 https://ja.wikipedia.org/wiki/轆轤
+			>2 https://zh.wikipedia.org/zh-cn/陶輪
+				>3 https://duckduckgo.com/?q=干胚&t=h_&ia=web
+					爱上非遗⑫：浊水沉土，素胚雕饰 https://m.thepaper.cn/baijiahao_14906483
+					
+						w: 蛳山遗址[si1-yi2zhi3 /  /  /  /  /  /  /  /  /  /  /  / 
+
+			>2 :d-1 / https://www.alef.ir/news/3990428050.html
+		>1 挽く
+			>2 https://www.weblio.jp/content/挽く
+				"強く押し当てたものでこする
+			
+			>2 椀
+				https://kotobank.jp/word/椀-154452
+					"陶磁器製のものは碗
+					
+		>1 ほかい
+			>2 https://kotobank.jp/word/ほかい-1205662
+			>2 https://ja.wikipedia.org/wiki/行器
+				ほかい）
+			>2 https://pc-shuri-daiko.com/zao6536/2.JPG
+				:d-2
+			>2 https://kotobank.jp/word/行器-132600
+		>1 ゆべし
+			https://kotobank.jp/word/柚餅子-652217
+				https://kotobank.jp/word/柚釜-651433
+			「ゆべし」の作り方・レシピ https://chisou-media.jp/posts/5384?page=2#head-63ba90bdbba0e662bd48e167f07173ab
+			
+		>1 能登上布 https://duckduckgo.com/?q=能登上布&t=h_&ia=web
+			>2 http://notojofu.com/about/
+				"上等な麻織物
+			>2 https://kotobank.jp/word/能登上布-597110
+				"能登縮(ちぢみ)[...]とも
+				"石川県鹿島(かしま)郡中能登(なかのと)町
+				>3 石川県鹿島郡中能登町
+			>2 鹿島郡能登部村
+				https://ja.wikipedia.org/wiki/能登部町
+					"1889年（明治22年）4月1日[...]能登部村成立。
+					"1934年（昭和9年）10月1日[...]能登部町
+		>1 能美郡白峯
+			https://ja.wikipedia.org/wiki/白峰村
+				しらみねむら）
+				"2005年2月1日[...]白山市になった。
+			>2 
+			>2 
+			>2 
+			>2 
+		n:
+			-->##n:20230118_122702
+			czyli, 回到正文。
+	
+	]12:27:21
+		
+
+	[2023年1月18日15:27:13
+	(res:media
+		id.E4KB
+		s-id.02ZU		[number zero
+		
+		article : https://news.yahoo.co.jp/articles/c0a1fdd84ba7c52a746f37017b466c42c17c9ca6
+		
+		saved : C:\WORKS_2\WS\WS_Others\web_pages\news\ロシア軍、定員１５０万人に増員へ　ウクライナ苦戦で建て直し図る（産経新聞） - Yahoo!ニュース.htm
+		
+		focus /
+			"「１０万人規模」（ミリー米統合参謀本部議長）とされる死傷者を出しながら
+		
+		alternative /
+			1. 「「１０万人規模」と、米議長は主張しているが、」
+		
+		assessment /
+			1. 「出しながら」という表現は、死傷者が出たことが、すでに事実であることを、前提とする。
+			2. 事実である、と言う根拠は、この箇所の前後を見ると、米議長の発言のみ。
+			3. この、米議長の引用について。果たして、同議長は、そもそも、この発言を行ったのか？いつ、どこで、誰に対して？その後も、この見解を、維持しているか？
+			3. 「１０万人規模」という発言の、前後には、果たして、どんな文が繋がっているのか？「いま時点では、「１０万人規模」」「「１０万人規模」の、可能性も、ある。」「「１０万人規模」でなければ、今回のような動員は行うはずがない。」
+	
+	(res
+		id.MGW2
+		
+		
+		s: 日本 ロシア 輸出入額
+			:d-1 / https://www.jetro.go.jp/world/russia_cis/ru/basic_01.html
+			
+		s: convert fx rmb jpy
+		s: fx rate rmb ruble
+		
+	
+	]16:11:28
+		
+			
+		
 @@@
-
-###
-
-
-
-
-
-
-
-###
-
-
-
-
-
-
 
 ###
 
