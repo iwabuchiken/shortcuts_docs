@@ -1688,7 +1688,7 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		
 		https://www.presstv.ir/Detail/2022/12/26/695199/Turkey-natural-gas-discovery-Black-Sea-increase-Erdogan
 		
-			日本のLNG輸入量 https://www.gas.or.jp/tokucho/torihiki/
+			日本のLNG輸入量 https://www.gas.or.jp/tokucho/torihiki/	##doc:20230119_150527
 			:d-1 / LNG (LIQUEFIED NATURAL GAS)　液化天然ガス https://www.tokyo-gas.co.jp/IR/library/pdf/investor/ig1000.pdf
 			NATURAL GAS UNIT CONVERSION CALCULATOR https://www.energy-sea.gov.il/English-Site/Pages/Data%20and%20Maps/calc.aspx
 			
@@ -3250,15 +3250,71 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		
 			
 		
+
+
+###2023年1月19日10:43:42
+
+	(bk:yamaguchi
+		s-id.
+
+		.100
+		
+		w: 補完知覚
+		shuuji.義務機器爪痕凝集
+		
+		.105
+		
+		w : 頭頂間溝
+			s: 頭頂間溝
+				頭頂葉が行動の抑制を生み出す https://www.juntendo.ac.jp/news/20190411-01.html
+				頭頂の脳回の読み方　MRI・CT　頭頂間溝の探し方 https://tsukasaseikatsu.hatenablog.com/entry/2017/02/07/112207
+		
+		.106
+		
+		w : 紡錘状回顔領域 / 海馬傍回場所領域 / 
+	
+	]12:07:32
+
+
+	[2023年1月19日14:49:47
+	
+	(res:
+		id.2ZY6
+		ref : id.B5NY / http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/56115
+			id.V4XZ http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/view/56370
+		
+		article / https://sputniknews.cn/20230119/1047240700.html
+		
+		
+		sheet / C:\WORKS_2\shortcuts_docs\articles_reading.7RVP.ods
+		
+		docs /
+			1. :d-1 -->##doc:20230119_150527
+			
+			2. unrelated : 圆木
+				https://zhidao.baidu.com/question/326956445836949525.html
+					"“圆木”的意思是什么
+				https://cjjc.weblio.jp/content/圆木
+				
+
+	[2023年1月19日15:54:25
+	
+	(sketch
+		id.BQGO
+		豚
+		https://sputniknews.cn/20230117/1047196785.html
+		https://cdn.sputniknews.cn/img/07e6/06/07/1041804405_0:0:1280:720_1920x0_80_0_0_565515cce5903b3ec4a7ce91aa087dcc.jpg.webp
+		
+		]15:58:35
+
+
+
+
+
+
+ /  /  /  /  /  /  /  /  /  /  /  / 
+
 @@@
-
-###
-
-
-
-
-
-
 
 ###
 
@@ -3577,9 +3633,9 @@ set stringof_session_id="article : (ko)"
 set stringof_session_id="bk : (uchimura)"
 
 set stringof_session_id="(res : id=AASN"
-
-
 set stringof_session_id="res:history:id=XOL4"
+
+set stringof_session_id="(res)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
