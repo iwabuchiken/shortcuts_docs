@@ -3348,20 +3348,41 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		https://www.openstreetmap.org/relation/1029256#map=5/56.084/40.869
 		
 		]16:08:15
+	
+	[2023年1月21日0:06:25
+	
+	(bk:206_1_3_reikon
+	
+		.65
+		
+		西津軽郡車力村
+		
+		]0:21:29
+		
+
+
+
+###2023年1月21日10:32:55
+
+	[2023年1月21日10:32:59
+	
+	(bk:yamaguchi:229_hattatsu_sugao
+		s-id.
+		
+		.113
+		
+		紡錘状回顔領域
+			https://ja.wikipedia.org/wiki/紡錘状回
+		
+		]12:09:26
+
+
 
 
 
  /  /  /  /  /  /  /  /  /  /  /  / 
 
 @@@
-
-
-
-###
-
-
-
-
 
 
 
@@ -3669,6 +3690,8 @@ set stringof_session_id="(res : id=AASN"
 set stringof_session_id="res:history:id=XOL4"
 
 set stringof_session_id="(res)"
+
+set stringof_session_id="bk : 64#229"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
