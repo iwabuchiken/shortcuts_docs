@@ -3603,6 +3603,60 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 
 		]15:48:27
 
+###
+
+	[2023年1月24日15:35:27
+	
+	[2023年1月24日16:51:55
+	
+	(bk:yamaguchi:229_hattatsu_sugao
+		s-id.
+		
+		.129
+		
+		w: プロソディ
+			https://ja.wikipedia.org/wiki/韻律_(言語学)
+		
+		]17:33:23
+		
+		
+
+
+
+
+###2023年1月25日11:01:11
+
+	[2023年1月25日11:01:13
+	
+	(bk:yamaguchi:229_hattatsu_sugao
+		s-id.
+		
+		.140
+		
+		w: 上側頭溝 / 紡錘状回 / 紡錘状回顔領域 /  /  /  /  /  /  /  /  /  / 
+			
+		https://ja.wikipedia.org/wiki/紡錘状回
+		
+		https://yandex.ru/images/search?text=limbic%20system&from=tabbar&pos=16&img_url=http%3A%2F%2Fhwdsbcommons.s3.amazonaws.com%2Fwp-content%2Fuploads%2Fsites%2F8223%2F2017%2F02%2Flimbicsystem1328988982714-1024x768.png&rpt=simage&lr=21433   limbic system
+		
+		]12:18:27
+
+	[2023年1月25日15:01:33
+	
+	(res
+		id.H1PG
+		
+		https://news.yahoo.co.jp/pickup/6451688
+		
+		d-1] https://www.kaiho.mlit.go.jp/08kanku/sakai/01business1/03gyou_ship/03gyou_ship.htm
+		
+		https://ja.wikipedia.org/wiki/巡視船
+		
+		https://duckduckgo.com/?q=海上保安庁+巡視船+速度&ia=web
+		
+		]15:51:27
+		
+
 
  /  /  /  /  /  /  /  /  /  /  /  / 
 
@@ -3610,23 +3664,6 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 ==> .+$	==> 
  : .+$	 : 
 (\d+\.) .+$	$1
-
-
-###
-
-
-
-
-
-
-
-###
-
-
-
-
-
-
 
 ###
 
