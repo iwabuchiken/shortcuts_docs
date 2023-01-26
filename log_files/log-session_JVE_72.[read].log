@@ -3383,7 +3383,7 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		.65
 		
 		s: 金木町川倉
-			https://map.goo.ne.jp/map/latlon/E140.27.9.930N40.55.42.230/zoom/5/
+			https://map.goo.ne.jp/map/latlon/E140.27.9.930N40.55.42.230/zoom/5/	##doc:20230125_172512
 		
 		車力町
 			https://map.yahoo.co.jp/address?ac=02209&az=OTE&lat=40.95874&lon=140.34093&zoom=12&maptype=basic
@@ -3656,7 +3656,15 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		
 		]15:51:27
 		
-
+	
+	[2023年1月25日17:24:41
+	
+	(bk:206_1_3_reikon
+		
+		金木町川倉
+		-->##doc:20230125_172512
+	
+	
 
  /  /  /  /  /  /  /  /  /  /  /  / 
 
