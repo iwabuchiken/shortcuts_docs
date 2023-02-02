@@ -3773,17 +3773,28 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		]16:10:12
 	
 
-
-
-
-
-
-
-
 ###
 
 
-
+		[2023年2月2日15:04:07
+		
+	(res:media
+		id.E4KB
+		s-id.---
+		
+		article : https://news.yahoo.co.jp/articles/5a4f4f670655a67294af5ba01a28418c2dc3cce4
+		
+			saved : C:\WORKS_2\WS\WS_Others\web_pages\news\ロシアがアパートにミサイル3人死亡　欧米の武器支援に反発か（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース.htm
+			
+			category : 
+				==> 情報源、記載ゼロ。
+				==> 本文中、"ドネツク州の地元当局によると"の修飾句が及ぶのは、この文。後続の文に、「〇〇だという」という、間接話法の記載があれば、「〇〇」の部分は、「地元当局」の発表内容の一部、であることを意味する。（だろう）
+			
+			comment : 
+		
+			
+			
+		
 
 
 
