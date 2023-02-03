@@ -170,6 +170,10 @@
 			###2022年12月25日10:39:52
 			#DELETE FROM images WHERE id >= 56307;
 			
+			###2023年2月3日14:05:48
+			#DELETE FROM images WHERE id >= 56891;
+			#DELETE FROM images WHERE id >= 56907;
+			
 			@@@
 			
 			###XXX

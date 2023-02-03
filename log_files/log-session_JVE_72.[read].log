@@ -3791,9 +3791,28 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 				==> 本文中、"ドネツク州の地元当局によると"の修飾句が及ぶのは、この文。後続の文に、「〇〇だという」という、間接話法の記載があれば、「〇〇」の部分は、「地元当局」の発表内容の一部、であることを意味する。（だろう）
 			
 			comment : 
+	
+	[2023年2月2日17:24:43
+	
+	(bk:236_inui
+	
+		.170
 		
+		w: ドーパミン / 側坐核 /  /  /  / 
+			d-1] / ドーパミン経路 https://www.oist.jp/ja/news-center/photos/10488
+			側坐核
+				d-2] / 家族の距離と他人の距離 http://fptsukioka555.blog86.fc2.com/blog-entry-296.html
+				https://ja.wikipedia.org/wiki/側坐核
+					"うつ病の治療目的で側坐核に
+						Brain Electrodes Help Treat Depression https://web.archive.org/web/20070428033359/http://www.technologyreview.com/Biotech/18590/
+							<== want-to-read
+		
+		]18:01:27
+					
+				
 			
 			
+@@@
 		
 
 
@@ -3885,7 +3904,6 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 
  /  /  /  /  /  /  /  /  /  /  /  / 
 
-@@@
 ==> .+$	==> 
  : .+$	 : 
 (\d+\.) .+$	$1
