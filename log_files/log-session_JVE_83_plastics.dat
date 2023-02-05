@@ -1,5 +1,5 @@
-s-100
-20230203_143311/
+s-101
+20230205_161950/
 
 
 ###2021年9月19日15:11:35
@@ -117,14 +117,18 @@ r-1-1~1.4 / 『化学雑話』232_chem_anecdotes
 
 @@@
 
-:97
-	L.~1
-		辰砂
-			s: 
-				d-1] https://www.vecstone.jp/item/7589/
-				d-2] https://kotobank.jp/word/辰砂-81872
-					d-3] https://kotobank.jp/word/鉱石鉱物-496108
-				d-4] https://ja.wikipedia.org/wiki/辰砂
+:101
+	L.0
+		s: 漢字 月 燕
+			https://kanji.jitenon.jp/kanjii/4315.html
+		w:
+			臙脂虫 / 硫化水銀
+:102
+	related
+		Hg2S https://en.wikipedia.org/wiki/Mercury(I)_sulfide		
+	L.
+	L.2
+	
 				
 					
 				
