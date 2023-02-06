@@ -3908,7 +3908,39 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 
 ###
 
+		
+	(res:media
+		id.E4KB
+		s-id.---
 
+		article : https://news.yahoo.co.jp/articles/94832611a65e4e723984a3dfc8d204f872d76f9e
+		
+			saved : C:\WORKS_2\WS\WS_Others\web_pages\news\中国気球、軍の戦略支援部隊が関与か…「内モンゴルの基地から打ち上げ」情報も（読売新聞オンライン） - Yahoo!ニュース.htm
+			
+			category : 
+				==> 情報源：「内情に詳しい関係者によると」
+			
+			comment : 
+				1. 上記の情報源。　=>　記事内容の確度、どのくらいか？
+				2. 報道ではなく、意見広告。
+			
+			==> .+$	==> 
+			 : .+$	 : 
+
+		article : 
+		
+			saved : 
+			
+			category : 
+				==> 
+				==> 
+			
+			comment : 
+			
+			==> .+$	==> 
+			 : .+$	 : 
+		
+		
 
 
 
