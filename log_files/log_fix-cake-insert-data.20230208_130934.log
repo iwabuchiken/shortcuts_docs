@@ -1,0 +1,28 @@
+###2023年2月8日
+
+fix : cake : insert data
+
+	> move files
+		f : C:\WORKS_2\WS\WS_Cake_IFM11\iphone
+		t : C:\WORKS_2\WS\WS_Cake_IFM11\tmp
+		
+	> exec
+		C:\WORKS_2\WS\WS_Cake_IFM11\commands\2-0_edit_memos.9-0.bat
+		
+		==> "'insert: total => 16, done => 16'"
+	
+	> insert to db
+		C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\lib\others\edit_memos.3.insert-to-db.bat
+		
+		==> "[use_sqlite_2.rb:242] total = 16 / inserted = 16"
+	
+	> brower
+		> "12	upload db file"
+		
+		> "13	data ==> to remote"
+		
+			==> ok.
+	
+	]13:08:03
+		
+		
