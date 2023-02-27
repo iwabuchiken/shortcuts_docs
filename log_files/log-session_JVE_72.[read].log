@@ -4749,9 +4749,19 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 		日光 田母沢
 		
 		]12:21:25
-		
-		
-		
+	
+	[2023年2月27日13:54:20
+	
+	(articles
+		https://electronicintifada.net/content/us-hands-lit-torch-israeli-arsonists/37246
+			id.0MRW
+			
+			#1
+			#2 US State Department spokesperson
+			 
+			 
+			 
+			 
 		
 	
 
@@ -5081,6 +5091,7 @@ set stringof_session_id="articles"
 rem --------------------------
 
 set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (ei)"
 
 set stringof_session_id="bk : (uchimura)"
 
@@ -5090,6 +5101,8 @@ set stringof_session_id="res:history:id=XOL4"
 set stringof_session_id="(res)"
 
 set stringof_session_id="bk : 64#229"
+
+set stringof_session_id="article : (ei)"
 
 set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
 
