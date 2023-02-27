@@ -42,7 +42,10 @@ start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log_files
 rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_72.[read].log"
 
 rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70.[CO2].[trans-sentences].dat"
-start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_70-CO2_trans-sentences.dat"
+
+rem : c/o : 2023年2月19日16:10:31
+rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_70-CO2_trans-sentences.dat"
+
 rem start C:\WORKS_2\Programs\sakura\sakura.exe "C:\WORKS_2\shortcuts_docs\log-session_JVE_70-CO2_trans-sentences.dat"
 
 goto end
@@ -103,7 +106,7 @@ REM =================================
 REM 	log files ==> open
 REM 	2021年5月29日10:49:27
 REM =================================
-
+rem C:\WORKS_2\shortcuts_docs\log_files\log-session_JVE_70-CO2_trans-sentences.dat
 set dpath_Files=C:\WORKS_2\shortcuts_docs
 
 set fpath_Notepad_Dat="%dpath_Files%\log-session_JVE_70.[CO2].[trans-sentences].dat"

@@ -4070,8 +4070,696 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 
 
 
+
+
+###
+
+	[2023年2月12日11:05:14
+	
+	(res.lang.farsi
+		id.YBJ3
+		s-id.YBJ3
+		memo~
+		
+	
+	(res:Gharbzadegi
+		id.OD46
+		memo~
+		
+		> d-2] *https://en.wikipedia.org/wiki/Gharbzadegi
+			#1
+			#2
+			.1 Since then, post-revolutionary
+			#3 Al-e_Ahmed's_idea https://en.wikipedia.org/wiki/Gharbzadegi#Al-e_Ahmed's_idea
+			.1 Al-e Ahmad argued
+			 	w:
+			 		Twelver Shia Islam
+			#4 Discourse_of_authenticity https://en.wikipedia.org/wiki/Gharbzadegi#Discourse_of_authenticity
+			 	w:
+			 		Ali Mirsepasi / Shariati /  /  / 
+			#5 Impact https://en.wikipedia.org/wiki/Gharbzadegi#Impact
+		
+		
+		> d-2] https://fa.wikipedia.org/wiki/غرب%E2%80%8Cزدگی_(کتاب)
+			#1 غرب‌زدگی اثری نوشته جلال آل احمد است که در سال
+				gharbzadegi / asariy .작품 / nevishte .쓴 / ist .~이다 / ke .저것 / saal .년도 /  /   /  /  
+		
+		n:
+			 d-2] / نگارش آن
+		
+			##n:20230214_152214
+			
+			[2023年2月14日15:23:22
+			
+			 نگارش آن به پایان رسید و در مهرماه سال ۱۳۴۱ انتشار یافت
+			 negaaresh .writing / aan .it / paayaan .end / rashiy_d .received / mehrmoo .październik / saal .rok / intishaar .release / yaaft .found /  / 
+			 
+			  نسخهٔ کامل‌تری از کتاب
+			  nusxe .wersja / kaameltariy .bardziej kompletna / az .z / ketaab .Książka /  /  / 
+			  
+			  n:  آمادهٔ چاپ بود،
+			  ##n:20230214_153651
+			
+			[2023年2月17日22:02:14
+			
+				 آمادهٔ چاپ بود، اما در زیر چاپ توقیف شد.
+				 aamoode .gotowa / chaap .wydrukowac` / buw_t .byl` / amoo .ale / dar ziyr .pod / tuwGiyf .wykluczenie / sho_d .stal` sie_
+				 
+				n: "خلاصه کتاب"
+				]22:10:00
+				##n:20230217_221003
+
+	[2023年2月12日15:29:14
+	
+	(bk:218_chosenjin_gyakusatsu
+	
+		.26
+		
+		]16:54:24
+
+###2023年2月13日10:44:16
+
+	[2023年2月13日10:44:19
+
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.54
+		
+		s: 漢字 りっしんべん 匈
+		s: 麹町区富士見町
+		
+		.58
+		"今回王城事変ノ顛末
+			https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1463775519
+		
+		]11:54:15
+		
+	[2023年2月13日13:40:51
+	
+	(res:
+		id.B2NA
+		memo+
+		
+		d-1] https://news.yahoo.co.jp/pickup/6453636
+	
+	（ske
+		id.WKF7
+		
+		https://jp60s.com/post/24104.html
+		
+		]14:44:47
+
+	[2023年2月13日14:47:00
+	
+	(read:article
+		id.WJ3K
+		
+		https://electronicintifada.net/content/drones-never-sleep/37141
+		
+	
+	[2023年2月13日15:19:01
+	
+	(bk.237 nakata
+	
+		.155
+		
+		イッザト・イブラーヒーム
+			https://zh.wikipedia.org/wiki/伊扎特·易卜拉欣·杜里
+			
+				عزت ابراهیم دوری (به عربی: عزة ابراهیم الدوری) (زاده ۱ ژوئیه ۱۹۴۲ – درگذشته ۲۵ اکتبر ۲۰۲۰[۱]) فرمانده نظامی و سیاست‌مدار عراقی بود.
+					zoode .태어나다 / darGzushta .사망 / farmonde .지휘관 / nezaami .군대
+	
+	[2023年2月13日16:29:03
+	
+	(jve.82#
+		topic-id.PS1M(p-id)
+		
+		g-1 / https://www.desmos.com/calculator/p3unuiqqb4
+		
+		]17:39:01
+
+
+
+
+###
+
+	[2023年2月14日14:41:37
+	
+	(res:media
+		id.E4KB
+		s-id.---
+	
+		
+		
+			"反トルコ抗議デモが繰り返された"
+				=> 事実誤認。虚偽
+				=> コーランを燃やす行事
+
+		article : https://news.yahoo.co.jp/articles/9640f54dec44962740f3c500eb5359b9e6e0a6ee
+		
+			saved : C:\WORKS_2\WS\WS_Others\web_pages\news\NATO加盟急ぐフィンランド　ロシア隣国、「単独」模索か　北欧の結束にひび・ウクライナ侵攻1年（時事通信） - Yahoo!ニュース.htm
+			
+			category : 
+				==> 
+				==> 
+			
+			comment : 
+				"反トルコ抗議デモが繰り返された"
+					=> 事実誤認。虚偽
+					=> コーランを燃やす行事
+			
+			
+			==> .+$	==> 
+			 : .+$	 : 
+		article : 
+		
+			saved : 
+			
+			category : 
+				==> 
+				==> 
+			
+			comment : 
+			
+			==> .+$	==> 
+			 : .+$	 : 
+
+	[2023年2月14日15:18:30
+	
+	(res:Gharbzadegi
+		id.OD46
+		s-id.1UA1
+		memo
+		
+		-->##n:20230214_152214
+		
+		n: -->##n:20230214_153651
+		
+		]15:37:12
+	
+	[2023年2月14日15:55:12
+	
+	(res.N3Y7
+		genre : physics
+		from : c-id.57095
+		memo+
+		
+		calc-1] / https://www.symbolab.com/solver/step-by-step/%5Cfrac%7Bd%7D%7Bdx%7D%5Cleft(b%5Ccdot%5Cleft(1-%5Cfrac%7B%5Cleft(x%5E%7B2%7D%5Cright)%7D%7Ba%5E%7B2%7D%7D%5Cright)%5E%7B%5Cleft(%5Cfrac%7B1%7D%7B2%7D%5Cright)%7D%5Cright)?or=input
+		
+		s: 楕円 接線
+			d-1] / https://manabitimes.jp/math/1342
+			https://w3e.kanazawa-it.ac.jp/math/category/bibun/sessen/henkan-tex.cgi?target=/math/category/bibun/sessen/daen-no-sessen.html
+			
+		graph-1] / https://www.desmos.com/calculator/szx9q7cvmj
+		
+		g-2] / https://www.desmos.com/calculator/2dksxyuucc
+		
+	
+	[2023年2月14日17:20:35
+	
+	(res.N3Y7
+		genre : physics
+		from : c-id.0QN4
+		memo+
+		
+		g-1] https://www.desmos.com/calculator/t0tsz3bcns
+	
+		]17:21:59
+
+	[2023年2月15日17:18:26
+	
+	(bk:206_1_3_reikon
+		
+		.68
+		
+			後生車
+				https://kotobank.jp/word/後生車-2038571
+					（読み）ごしょぐるま
+			ろくだい地蔵
+				https://kotobank.jp/word/六地蔵-152636
+					（読み）ろくじぞう
+			d-1] / https://ameblo.jp/nada-worklife-cafe/entry-12253659153.html
+			
+			身代わり地蔵
+			d-2] / https://4travel.jp/travelogue/11213073
+			
+			
+			
+			
+		
+		
+		
+
+
+###
+
+	[2023年2月15日15:39:37
+	
+	(res.N3Y7
+		genre : physics
+		from : c-id.0QN4
+		s-id.10SB
+		memo+
+		
+		g-1] / https://www.desmos.com/calculator/rab3yrmwkl
+		
+		d-1] / "反比例のグラフ" https://manabitimes.jp/math/1703
+		
+		g-2] / https://www.desmos.com/calculator/mlitje1tj8
+
+
+
+
+###2023年2月16日11:24:58
+
+	[2023年2月16日11:25:16
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.70
+		
+		伊藤博文
+		ダーハム・スチーブンス
+	
+	[2023年2月16日16:04:03
+	
+	(res.N3Y7
+		genre : physics
+		from : c-id.0QN4
+		s-id.R62V
+		cont-from:s-id.10SB
+		
+		memo+
+	
+		g-1] https://www.desmos.com/calculator/4lqrupoqag
+		
+		]16:48:10
+
+	[2023年2月16日17:08:30
+	
+	(bk:236_inui
+	
+	.184
+	
+		ミエリン
+		灰白質
+		白質
+		
+		d-1] https://duckduckgo.com/?q=%E7%81%B0%E7%99%BD%E8%B3%AA&t=h_&iax=images&ia=images&iar=images&iai=http%3A%2F%2Fplaza.umin.ac.jp%2Fsawamura%2Fwp%2Fwp-content%2Fuploads%2F2015%2F04%2Fgraymattermr1.jpg
+		
+		https://ja.wikipedia.org/wiki/灰白質
+		myelin sheaths https://www.researchgate.net/figure/Electron-micrographs-of-damaged-myelin-sheaths-from-the-spinal-cord-of-rats-infused_fig5_283727975
+		
+		]18:01:53
+
+
+
+
+###2023年2月17日10:26:59
+
+	[2023年2月17日10:27:02
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.77
+		高宗
+		s: 朝鮮 元号
+		
+		]2023年2月17日
+	
+		
+	[2023年2月17日17:01:27
+	
+	(bk.241_shimamoto_revolution
+	
+		ⅲ
+		فرودگاه بین المللی مهرآباد‎
+		fruwdGah / beyn / -l-melali / mehrabaad
+		
+	
+	[2023年2月17日21:59:23
+	
+	(res:Gharbzadegi
+		id.OD46
+		s-id.Z5EY
+		memo
+		
+			-->##n:20230214_153651
+		
+		-->##n:20230217_221003
+		
+		]22:10:29
+		
+		
+		
+		
+
+
+
+###
+	
+	[2023年2月18日16:18:48
+
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.80
+		
+			d-1] https://mainichi.jp/articles/20171219/k00/00m/040/071000c
+			
+		.83
+		
+			d-2] http://jpop80.g3.xrea.com/asia_senzen_korea.html
+			
+
+
+
+
+
+
+
+###
+
+	[2023年2月19日11:24:40
+	
+	(bk.242_quran
+		
+		nisa-29
+		
+		quranonline.net
+		コーラン
+		
+		nisa-39
+		وَمَاذَا عَلَيۡهِمۡ لَوۡ ءَامَنُواْ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ
+		
+			wamaadza / AAleyhim / lau / aamanuu .believe / * / * / al-aaxiri .last
+		
+		وَأَنفَقُواْ مِمَّا رَزَقَهُمُ ٱللَّهُۚ
+			
+			waanfaquu .and they spend / mimmaa .from-what / razaqa~humu .give-them / allaahu
+		
+		 وَكَانَ ٱللَّهُ بِهِمۡ عَلِيمًا
+		 
+		 	wakaana .she-was / bihim .about-them / AAliymaa .knowing
+		 
+		 ]12:09:10
+	
+	[2023年2月19日16:07:08
+	
+	(bk.241_shimamoto_revolution
+	
+		.5
+		
+		]17:08:45
+		
+	[2023年2月20日1:04:53
+	
+	(bk.237 nakata
+	
+		.
+	
+
+###
+
+	[2023年2月20日10:55:52
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.92
+		
+		朝鮮総督府 爆弾　投げる
+			https://note.com/yoshizuka/n/n8c77c6923b95
+		
+		]11:46:20
+	
+	[2023年2月20日14:32:16
+	
+	(bk.242_quran
+		
+		https://quranonline.net/an-nisa/
+		
+		nisa-40
+		
+		إِنَّ ٱللَّهَ لَا يَظۡلِمُ مِثۡقَالَ
+			mithqaal .Mithqal / 
+		
+		n: 41
+		
+		]14:51:42
+		
+	[2023年2月20日14:52:46
+	
+
+	(bk.237 nakata
+	
+		]15:21:05
+
+	[2023年2月20日16:30:37
+	
+	(82#
+	
+		s-id.U9VO
+		q-id.7SM5
+		
+		https://kotobank.jp/word/増加関数-89160
+		
+		d-1] https://tetsu-tama.com/【徹底図解】テイラー展開の公式・意味・具体例/#二次関数の場合
+		
+		s: 微分 指数関数
+		
+		g-1] https://www.desmos.com/calculator/sqz6ifudny
+		
+		]18:08:04
+
+
+
+
+###
+	
+	[2023年2月21日11:28:20
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.
+		
+		]12:03:12
+
+	
+	[2023年2月22日1:17:44
+	
+	(bk.242_quran
+		
+		https://quranonline.net/an-nisa/
+		
+		nisa-41
+		
+		]1:21:29
+
+
+
+
+
+###
+
+	[2023年2月22日11:02:31
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.118
+		牛込
+		
+		]11:47:06
+	
+	[2023年2月22日16:15:14
+	
+	
+	[2023年2月22日16:50:01
+	
+	(82#
+		q-id.THXO
+			q-id.OFVR
+			
+		s-id.LRXV
+		
+		g-1] https://www.desmos.com/calculator/sm1dythb2e
+		
+		
+###
+
+	[2023年2月23日11:45:41
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+	
+		.122
+		月島
+		吾妻橋
+		勝鬨橋
+		
+		
+		]12:14:28
+
+	[2023年2月23日14:50:48
+	
+	(bk:244_nakata_logic
+	
+		.12
+		理解
+		
+		s : 異化作用
+		
+		]17:37:55
+	
+	
+
+
+
+
+###
+
+	[2023年2月24日11:08:08
+	
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+		
+		s-id.LLYD
+		
+		.126
+		
+		d-1] http://greenflash.private.coocan.jp/tanka-page/asadiye/tokyo/tokyo-history_3.html
+			
+			sk-id.OSUH
+			
+		d-2] https://yumimaki.ocnk.net/product/1075
+		
+		]12:17:40
+		
+		
+	[2023年2月24日15:55:22
+	
+	(bk:244_nakata_logic
+	
+		.66
+			アルジェリア FIS
+		
+		]16:01:43
+	
+	[2023年2月24日16:07:10
+	
+	(bk.241_shimamoto_revolution
+	
+		.
+		]16:42:24
+	
+	[2023年2月24日16:42:53
+	
+	(bk:236_inui
+	
+		.186
+		
+		w.上縦束
+		
+			https://fukugyougorira-pt.com/【脳機能】身体図式に大切な上縦束について！新/
+			
+		n: .189_L.1
+			G:\photo-books_HD\236_inui\236_part_2.1__inui\2023-02-17_15-22-28_000.jpg
+		
+		]17:39:40
+		kudoo
+	
+	[2023年2月24日17:45:34
+	
+	(82#
+		
+		s-id.CPOX
+		
+		]18:07:22
+
+
+
+
+
+###
+
+	[2023年2月25日11:00:35
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+		
+		s-id.WDS7
+		
+		.
+		
+		]12:00:52
+
+	[2023年2月25日16:27:22
+	
+	(bk:244_nakata_logic
+	
+		.128
+		
+		]17:38:08
+		
+	
+
+
+
+###
+	
+	[2023年2月26日15:44:55
+	
+	(bk:244_nakata_logic
+	
+		.
+		
+		]16:49:51
+	
+	[2023年2月26日17:43:36
+	
+	(bk.241_shimamoto_revolution
+		
+		.27
+		
+		ファリーマーン イラン
+		モハッラム 暦
+		
+		]18:02:18
+		
+	[2023年2月27日1:37:12
+	
+	(res.ハーブ
+		id.305M_2
+		s-id.MOR7
+		
+		]1:48:40
+	
+
+
 @@@
 
+
+###
+
+	[2023年2月27日11:25:26
+	
+	(bk:218_chosenjin_gyakusatsu__kudoo
+		
+		s-id.
+		
+		
+		関東大震災 余震
+		日比谷公園
+		日光 田母沢
+		
+		]12:21:25
+		
+		
+		
+		
+	
+
+
+
+
+
+
 ###
 
 
@@ -4080,42 +4768,8 @@ set url_2=https://bibletranslation.ws/trans/mattwgrk.pdf
 
 
 
-
 ###
 
-
-
-
-
-
-
-###
-
-
-
-
-
-
-
-
-###
-
-
-
-
-
-
-
-###
-
-
-
-
-
-
-
-
-###
 
 
 
