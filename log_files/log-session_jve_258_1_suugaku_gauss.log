@@ -1,0 +1,467 @@
+###[2023年3月22日16:54:56
+	
+	(bk:258_1_suugaku_gauss
+	
+		G:\photo-books_HD\258_suugaku_seisuu_kawada\258_1_suugaku_gauss\2023-03-22_16-30-49_000.jpg
+		
+		n:
+			L.~2-~1
+		
+		
+		
+		
+	
+
+
+@@@
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
+###		--last-3
+
+
+
+ /  /  /  /  /  /  /  /  /  /  /  / 
+
+==> .+$	==> 
+ : .+$	 : 
+(\d+\.) .+$	$1
+
+
+
+
+###
+
+
+
+
+
+
+
+###
+
+
+
+################## q_, jilmun
+// 2023年1月11日15:06:03
+日本　自動車　登録台数 
+https://sputniknews.cn/20230111/1047033890.html
+
+//2023年1月11日15:08:44
+俄罗斯滨海边疆区 该地区的GDP （2）60亿美元对该GDP占有的比率。
+https://sputniknews.cn/20230111/1047025626.html
+
+//2023年1月11日15:18:37
+车臣共和国 --> （1）该国的总人口（2）2.1万人员对该总人口占据的比率。
+https://sputniknews.cn/20230111/1047030837.html
+
+//2023年1月11日15:21:53
+索列达尔 --> 在哪儿
+https://sputniknews.cn/20230111/1047029056.html
+
+
+
+
+##################
+XXX
+: git
+=========================================
+###
+taskkill /f /im javaw.exe
+taskkill /f /im opera.exe
+
+
+(a|b|c)([A-Z])	 $2
+Tomoyuki Inui, Kazuichi Kitagawa, Tatsuya Takeguchi, Takashi Hagiwara, Yoshinori Makino
+
+
+2021年3月25日17:05:11
+81.6.40.182
+
+#.7 Zum besseren Verständnis der Phasen- und Dichtezustände des CO2-H2-Systems und den zusätzlichen
+
+using scaling relations machine learning and DFT calculations
+
+===========================
+###2022年9月27日16:21:32
+
+>>steps:chinese texts
+1. web page (m1)
+	select sentences
+	C - c
+	Tab --> to "dat" file
+2. dat file (m2)
+	C - a > - v > - s
+3. console (m3) : gen --> file for reading
+	s s2
+	--> t1
+4. t1
+	pinyin words
+		select
+		web --> trans
+		m2 --> add pinyin
+		save file
+	back to reading
+
+
+###2021年4月19日16:39:53
+>>steps
+		german texts
+	1. sakura
+		1. C - a / -v [C/P --> to sakura file]
+		2. C - r / M - ↓ [choose "\r\n"] / M - a / Esc x 2 [close window]
+		3. C -a / - c / Tab [move to browser]
+	2. browser
+		1. C - a/ - v / - Home [paste to trans site, move to the top of the text]
+
+###2022年6月13日13:13:19
+
+steps : read
+1. web page (m1)
+	select sentences
+	C - c
+	Tab --> to "dat" file
+2. dat file (m2)
+	C - a > - v > - s
+3. console (m3)
+	↑ > Ret
+4. gen-ed file (m4)
+	C - M - w 
+	> C - Home 
+	> C - ↑ 
+	> S - any loc
+	
+	
+###2021年5月28日16:01:36
+
+steps : read
+	1. "....[trans-sentences].dat" (f1)
+		==> open
+	2. web page
+		1. select --> texts (m1)
+		2. C - c	[copy
+		3. Tab x N	[move to --> f1
+	3. f1
+		1. C - a > - v > - s	[paste, save
+		2. Tab x N	[move to --> console
+	4. console
+		1. paste
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+		
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+	5. gen-ed file (f2)
+		1. C - a > - c > M - Space - c	[copy, close
+		2. Tab x N	[back to --> f1
+	6. f1
+		1. C - a > - v > - s (f1')	[paste, save
+	7. web : trans page --> paste
+	8. f1' --> read
+
+###2021年5月29日13:06:18
+
+rem #trans : korean, a.o.
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+#trans : chinese
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_chinese.bat
+
+	##:20220127_131905
+	
+#trans : arabic
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process_arabic.bat
+
+//sakura C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start-trans-process.bat
+
+//sakura C:\WORKS_2\WS\Eclipse_Luna\Cake_IFM11\app\Lib\others\jve_70-CO2_68_trans-string\process-trans-sentences.php
+
+###process : spanish texts
+rem #process : spanish texts
+start C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_korean.bat
+
+---- 2021年11月29日21:36:17 : steps
+1. web page
+	1. select >> copy
+	2. move to --> dat file
+2. dat file
+	1. C - a > C - v > C - s [paste,save
+3. log file
+	1. start --> batch file
+4. new "out" file
+	0. C - M - w [fold lines
+	1. C - a > C - c
+	2. move to --> trans page
+5. trans page
+	1. C - a > C - v [paste
+	2. move to --> new "out" file
+6. new "out" file
+	1. read
+
+21年11月15日13:18:07
+([^\.])$	$1.
+([^
+---- 20\。])$	$1。
+
+rem //start "C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_[process-texts-for-reading_korean].bat"
+
+#process texts : chinese
+rem #process texts : chinese
+start  C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\start_process-texts-for-reading_chinese.bat
+
+###2021年6月20日17:09:35
+========================= regex
+	\] 	]. 
+
+	(\.”)	$1.
+
+###2021年6月22日14:06:21
+
+========================= regex : get --> session strings from a map
+
+	1. "    " --> "\t"
+	2. \t --> ""
+	3. (s-\d+? \/ g-\d+?) --> @@$1
+	4. ^[^@]+	--> ""
+	5. " / " --> \t
+
+###2021年7月17日11:08:21
+
+========================= regex : sentence end, but no period char
+
+	([a-zA-Z])$	$1.
+
+
+###2021年6月20日17:26:25
+
+<= know-this
+<= lets-read
+
+related
+
+memos
+	1. quoting
+
+irrelevant
+	1. totally non-related
+
+###2021年6月20日17:31:46
+========================= freemind
+C:\WORKS_2\batches\start_fm.bat
+
+C:\WORKS_2\WS\FM_2_20171104_225946\Projects\JVEMV6\72_read\72_read.mm
+
+C:\WORKS_2\batches\s.bat fm
+
+###2021年6月26日10:48:48
+library
+
+190001550002
+makemeaning
+
+
+###2021年6月18日10:35:18 / XXX
+========================= closing : git
+
+###2021年6月28日1:00:31
+
+C:\WORKS_2\start_a.bat
+
+rem set stringof_project_id="read : %stringof_session_id:"=%" 
+
+set stringof_session_id="article : (ru)"
+
+set stringof_session_id="article : (po)"
+set stringof_session_id="article : (sp)"
+
+
+
+-----------------------
+C:\WORKS_2\start_a.bat
+
+set stringof_session_id="article : (ko) & others"
+
+
+
+set stringof_session_id="article : (cn)"
+
+set stringof_session_id="article : (po),(ru)"
+
+set stringof_session_id="article : (MANY)"
+
+
+set stringof_session_id="article : (ko),(cn)"
+set stringof_session_id="articles"
+
+rem --------------------------
+
+set stringof_session_id="article : (ko)"
+set stringof_session_id="article : (ei)"
+
+set stringof_session_id="bk : (uchimura)"
+
+set stringof_session_id="(res : id=AASN"
+set stringof_session_id="res:history:id=XOL4"
+
+set stringof_session_id="(res)"
+
+set stringof_session_id="bk : 64#229"
+
+set stringof_session_id="article : (ei)"
+
+set stringof_session_id="bk:243_sosuu"
+
+set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" 
+
+C:\WORKS_2\a && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
+
+
+rem C:\WORKS_2\shortcuts_docs\end_log_JVE_ALL.[ai].git.bat %stringof_project_id:"=%
+
+
+
+###2021年7月8日21:36:49
+====================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+###2021年7月3日16:40:31
+====================== closing : git
+"C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat"
+
+end_log_JVE_70.[CO2]_apps <C:\WORKS_2\shortcuts_docs\end_log_JVE_70.[CO2]_apps.bat>
+
+
+
+
+###2021年7月7日15:43:55
+=================== list-of-books.txt
+//2022年11月8日15:13:06
+G:\photo-books_HD\list-of-books.txt
+
+G:\photo-books_HD\
+
+
+
+//C:\WORKS_2\WS\WS_Cake_IFM11\photo-books\list-of-books.txt
+
+//2022年12月19日11:48:41
+//C:\WORKS_2\shortcuts_docs\memo_shuuji_list-of-letters.txt
+
+###2021年7月9日13:57:38
+=================== let's read
+https://diefreiheitsliebe.de/politik/deutschland-und-israel-waffenexporte-fuer-die-besetzung-palaestinas/	2021年7月9日13:57:49
+	https://3g2upl4pq6kufc4m.onion/?q=Deutsche+Unterstützung+Israel+Palästina&ia=web
+
+###2021年7月16日12:57:40
+=================== file path : batch file
+
+"C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
+sakura "C:\WORKS_2\shortcuts_docs\start_log_JVE_72.[read].bat"
+
+
+
+###2022年6月22日14:07:21
+=================== move : sentences files
+set fpath_text=C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\out.20220622_135905_616674.txt
+
+move %fpath_text% C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\70_co2\texts-for-reading\storage_all
+
+###2021年7月3日16:45:23
+=================== open : console
+
+start C:\WORKS_2\a
+
+C:\WORKS_2\start_a.bat
+
+
+###2021年12月15日21:06:40
+====================== closing : apps
+
+C:\WORKS_2\shortcuts_docs\end_log_JVE_close-sakura_close-freemind.bat
+
+
+
+#proc
+
+###2023年1月22日17:04:08
+====================== links
+
+	(bk:206_1_3_reikon
+		http://benfranklin.chips.jp/cake_apps/Cake_IFM11/images/index_2?filter_memo=206_1_3_reikon&sort=file_name&direction=desc&RBs_AND_OR_Memo=AND
+		
+
+###2023年2月7日10:14:42
+====================== folders
+C:\WORKS_2\shortcuts_docs\log_files\
+
+
