@@ -6184,9 +6184,8 @@ set stringof_session_id="bk:243_sosuu"
 //not working : 2023年3月28日15:35:02
 //set stringof_session_id="docs : xijinping" && set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
 
-set stringof_session_id="docs : xijinping" && set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id%
-
- && e && p && r oj && g a . && g c -m %stringof_project_id% && e && p && r f && g a . && g c -m %stringof_project_id% && e && p
+//2023年3月28日15:39:25
+set stringof_session_id="docs : xijinping (addition)" && set stringof_project_id="JVE_72.[read] : %stringof_session_id:"=%" && pushd C:\WORKS_2\shortcuts_docs && g a . && g c -m %stringof_project_id% && p
 
 //set stringof_session_id="docs : xijinping"
 
