@@ -1,0 +1,136 @@
+#############################
+###
+###	date : 2023年4月11日17:22:20
+###	file : C:\WORKS_2\shortcuts_docs\log_files\log_prog_sound_python.log
+###	prog-id.16NG
+###	eclipse : "C:\WORKS_2\Programs\eclipse\eclipse_luna-php,python\eclipse.exe"
+###
+#############################
+
+###2023年4月11日17:16:09
+
+	python --> show list
+	
+	
+	n:
+		1. "virtualenv" --> install
+			https://packaging.python.org/en/latest/key_projects/#virtualenv
+		
+			==> seems already installed.
+		
+		2. re-fresh memory regarding virtualenv.
+		
+	]17:21:47
+	
+###2023年4月13日12:01:06
+
+
+	> test --> run python file
+		==> ok	]12:14:56
+	
+	> search docs --> wav file in python
+	
+		https://yandex.ru/search/?text=python+wav+file&clid=2270485&banerid=6301000000%3A62762962d6569e001dfb47fb&win=540&lr=21433
+			
+			https://docs.python.org/3/library/wave.html
+			
+		https://yandex.ru/search/?text=python+wave+module+install&lr=21433&clid=2270485&win=540
+			
+			https://pypi.org/project/PyWave/
+	
+	> wave module --> try using
+	
+		> "import wave"
+			*> coding		]12:21:41
+			> test
+				==> ok : "[16NG_s-1.py:115] import wave --> comp"
+					]12:22:28
+	> search docs
+		s: https://duckduckgo.com/?q=python+wave+%E4%BD%BF%E3%81%84%E6%96%B9&t=h_&ia=web
+		
+			d-1] https://qiita.com/Dsuke-K/items/2ad4945a81644db1e9ff
+			
+		> d-1:
+		
+			"フォーマット情報を取ってきます
+		
+		*>SEG		]12:31:26
+				:wav file --> prepare
+			> FTS 07-04 2030 Brazilian government announces its return to UNASUR.mp3
+			
+				==> sample_telesur_opening.mp3
+			
+			> move gen-ed file
+				C:\WORKS_2\WS\WS_Others.JVEMV6\JVEMV6\57_programming\16NG\data\sample_telesur_opening.wav
+				
+			>]]
+				
+			> open --> wav file
+			
+				==> ERROR : "    raise Error('unknown format: %r' % (wFormatTag,))
+wave.Error: unknown format: 3"
+		
+	n:
+		1. "unknown" --> wav file. mp3を、オンラインで、wavに変換する。それを、使ってみる。
+		2. if 1 doesn't work --> use : sample_telesur_opening.16bit_pcm.wav
+		3. 2. --> worked		]13:00:58
+		4. continue from : "フォーマット情報を取ってきます"
+	
+	]13:01:26
+
+
+
+@@@
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
