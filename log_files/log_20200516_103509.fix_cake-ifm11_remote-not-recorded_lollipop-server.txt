@@ -174,8 +174,13 @@
 			#DELETE FROM images WHERE id >= 56891;
 			#DELETE FROM images WHERE id >= 56907;
 			
+			
+			
 			###2023年2月27日15:13:51
 			#DELETE FROM images WHERE id >= 57356;
+
+			###2023年5月4日17:58:19
+			#DELETE FROM images WHERE id >= 58535;
 			
 			@@@
 			
